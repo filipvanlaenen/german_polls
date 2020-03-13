@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 20–23% <br> 152–182 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–47 |
-| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 152–182 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–47 |
+| N/A | [Poll Average](average.html) | 20–23% <br> 191 | 14–17% <br> 132 | 13–16% <br> 115 | 6–8% <br> 0 | 8–11% <br> 73 | 20–24% <br> 198 | 4–6% <br> 0 |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 179 | 14–17% <br> 125 | 13–16% <br> 104 | 6–8% <br> 42 | 8–11% <br> 66 | 20–24% <br> 193 | 4–6% <br> 0 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
