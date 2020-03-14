@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sat, 14 Mar 2020 15:47:33 +0100</pubDate>
+    <pubDate>Sat, 14 Mar 2020 16:56:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.png"
         length="206403"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 10:58:50 +0100</pubDate>
-      <dc:date>2020-03-14T10:58:50.403234+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 16:56:20 +0100</pubDate>
+      <dc:date>2020-03-14T16:56:20.598427+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 2–6 March 2020 – Voting Intentions</title>
@@ -66,9 +66,19 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-02-YouGov.png"
         length="210373"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 15:47:33 +0100</pubDate>
-      <dc:date>2020-03-14T15:47:33.507001+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 16:05:19 +0100</pubDate>
+      <dc:date>2020-03-14T16:05:19.344407+01:00</dc:date>
     </item>
-    <dc:date>2020-03-14T15:47:33.507001+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Allensbach, 1–12 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-12-Allensbach.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–16.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 7.6–10.7%&lt;/li&gt;&lt;li&gt;Die Linke: 8.0–11.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.1–24.7%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-12-Allensbach.png"
+        length="216670"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2020 16:18:03 +0100</pubDate>
+      <dc:date>2020-03-14T16:18:03.798197+01:00</dc:date>
+    </item>
+    <dc:date>2020-03-14T16:56:20.598427+01:00</dc:date>
   </channel>
 </rss>
