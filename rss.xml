@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sat, 14 Mar 2020 11:45:38 +0100</pubDate>
+    <pubDate>Sat, 14 Mar 2020 15:47:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.html</link>
@@ -26,9 +26,49 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-06-Forsa.png"
         length="197267"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 11:45:38 +0100</pubDate>
-      <dc:date>2020-03-14T11:45:38.534595+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 12:13:20 +0100</pubDate>
+      <dc:date>2020-03-14T12:13:20.533225+01:00</dc:date>
     </item>
-    <dc:date>2020-03-14T11:45:38.534595+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen, 3–5 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-05-ForschungsgruppeWahlen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 14.1–18.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.2–16.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 4.8–7.5%&lt;/li&gt;&lt;li&gt;Die Linke: 6.6–9.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.0–23.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 3.8–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-05-ForschungsgruppeWahlen.png"
+        length="218816"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2020 13:38:49 +0100</pubDate>
+      <dc:date>2020-03-14T13:38:49.283395+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap, 2–4 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-04-Infratestdimap.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 14.2–17.9%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 10.4–13.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Die Linke: 7.6–10.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.9–25.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.9–24.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-04-Infratestdimap.png"
+        length="210283"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2020 14:43:25 +0100</pubDate>
+      <dc:date>2020-03-14T14:43:25.475023+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 27 February–4 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-04-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 15.1–19.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.3–15.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Die Linke: 7.6–10.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 19.9–24.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 17.6–21.7%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 3.5–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-04-Emnid.png"
+        length="213515"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2020 15:21:03 +0100</pubDate>
+      <dc:date>2020-03-14T15:21:03.606147+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 28 February–2 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-02-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.4–16.8%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.4–15.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.0–7.3%&lt;/li&gt;&lt;li&gt;Die Linke: 8.6–11.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 19.1–23.1%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.0–24.0%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-02-YouGov.png"
+        length="210373"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2020 15:47:33 +0100</pubDate>
+      <dc:date>2020-03-14T15:47:33.507001+01:00</dc:date>
+    </item>
+    <dc:date>2020-03-14T15:47:33.507001+01:00</dc:date>
   </channel>
 </rss>
