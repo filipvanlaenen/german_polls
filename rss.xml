@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sat, 14 Mar 2020 16:56:20 +0100</pubDate>
+    <pubDate>Sat, 14 Mar 2020 19:42:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.png"
         length="206403"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 16:56:20 +0100</pubDate>
-      <dc:date>2020-03-14T16:56:20.598427+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 17:14:10 +0100</pubDate>
+      <dc:date>2020-03-14T17:14:10.816204+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 2–6 March 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-06-Forsa.png"
         length="197267"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 12:13:20 +0100</pubDate>
-      <dc:date>2020-03-14T12:13:20.533225+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 18:02:45 +0100</pubDate>
+      <dc:date>2020-03-14T18:02:45.651085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 3–5 March 2020 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-05-ForschungsgruppeWahlen.png"
         length="218816"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 13:38:49 +0100</pubDate>
-      <dc:date>2020-03-14T13:38:49.283395+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 18:44:27 +0100</pubDate>
+      <dc:date>2020-03-14T18:44:27.233113+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap, 2–4 March 2020 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-04-Infratestdimap.png"
         length="210283"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 14:43:25 +0100</pubDate>
-      <dc:date>2020-03-14T14:43:25.475023+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 19:26:21 +0100</pubDate>
+      <dc:date>2020-03-14T19:26:21.785828+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid, 27 February–4 March 2020 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-04-Emnid.png"
         length="213515"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 15:21:03 +0100</pubDate>
-      <dc:date>2020-03-14T15:21:03.606147+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 19:42:35 +0100</pubDate>
+      <dc:date>2020-03-14T19:42:35.081803+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 28 February–2 March 2020 – Voting Intentions</title>
@@ -79,6 +79,6 @@
       <pubDate>Sat, 14 Mar 2020 16:18:03 +0100</pubDate>
       <dc:date>2020-03-14T16:18:03.798197+01:00</dc:date>
     </item>
-    <dc:date>2020-03-14T16:56:20.598427+01:00</dc:date>
+    <dc:date>2020-03-14T19:42:35.081803+01:00</dc:date>
   </channel>
 </rss>
