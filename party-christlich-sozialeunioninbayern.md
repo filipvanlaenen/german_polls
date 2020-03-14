@@ -602,12 +602,12 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 32–43 | 30–45 | 29–47 | 27–50 |
+| N/A | [Poll Average](average.html) | 38 | 32–43 | 30–45 | 29–47 | 25–50 |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 38 | 34–43 | 33–45 | 31–46 | 29–48 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 38 | 34–42 | 33–43 | 32–45 | 30–47 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 39 | 32–45 | 31–47 | 29–48 | 26–50 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 38 | 34–45 | 33–46 | 31–47 | 29–51 |
-| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 35 | 29–40 | 28–41 | 27–43 | 25–46 |
+| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 37 | 31–41 | 28–42 | 25–43 | 25–47 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 39 | 34–45 | 33–46 | 32–47 | 30–50 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa |  |  |  |  |  |
@@ -1180,29 +1180,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 99.9% |  |
-| 26 | 0.2% | 99.8% |  |
-| 27 | 0.3% | 99.5% |  |
-| 28 | 0.7% | 99.3% |  |
-| 29 | 2% | 98.5% |  |
-| 30 | 2% | 96% |  |
-| 31 | 2% | 95% |  |
-| 32 | 4% | 93% |  |
+| 25 | 1.0% | 99.9% |  |
+| 26 | 0.2% | 98.9% |  |
+| 27 | 0.1% | 98.7% |  |
+| 28 | 0.7% | 98.5% |  |
+| 29 | 2% | 98% |  |
+| 30 | 1.3% | 96% |  |
+| 31 | 2% | 94% |  |
+| 32 | 3% | 92% |  |
 | 33 | 4% | 89% |  |
-| 34 | 9% | 85% |  |
-| 35 | 12% | 76% |  |
-| 36 | 8% | 64% |  |
-| 37 | 7% | 56% | Median |
-| 38 | 9% | 49% |  |
-| 39 | 7% | 40% |  |
-| 40 | 9% | 33% |  |
-| 41 | 6% | 24% |  |
+| 34 | 9% | 84% |  |
+| 35 | 11% | 76% |  |
+| 36 | 7% | 65% |  |
+| 37 | 6% | 58% |  |
+| 38 | 10% | 52% | Median |
+| 39 | 7% | 41% |  |
+| 40 | 9% | 34% |  |
+| 41 | 8% | 26% |  |
 | 42 | 5% | 18% |  |
 | 43 | 3% | 13% |  |
 | 44 | 3% | 10% |  |
-| 45 | 3% | 7% |  |
-| 46 | 2% | 4% | Last Result |
-| 47 | 1.3% | 3% |  |
+| 45 | 2% | 7% |  |
+| 46 | 1.4% | 4% | Last Result |
+| 47 | 1.4% | 3% |  |
 | 48 | 0.6% | 2% |  |
 | 49 | 0.4% | 1.0% |  |
 | 50 | 0.2% | 0.6% |  |
