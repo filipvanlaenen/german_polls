@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sat, 14 Mar 2020 19:42:35 +0100</pubDate>
+    <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-04-Emnid.png"
         length="213515"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 19:42:35 +0100</pubDate>
-      <dc:date>2020-03-14T19:42:35.081803+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 20:06:18 +0100</pubDate>
+      <dc:date>2020-03-14T20:06:18.116496+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 28 February–2 March 2020 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-02-YouGov.png"
         length="210373"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 16:05:19 +0100</pubDate>
-      <dc:date>2020-03-14T16:05:19.344407+01:00</dc:date>
+      <pubDate>Sat, 14 Mar 2020 20:45:26 +0100</pubDate>
+      <dc:date>2020-03-14T20:45:26.298195+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Allensbach, 1–12 February 2020 – Voting Intentions</title>
@@ -76,9 +76,9 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-12-Allensbach.png"
         length="216670"
         type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 16:18:03 +0100</pubDate>
-      <dc:date>2020-03-14T16:18:03.798197+01:00</dc:date>
+      <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
+      <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-03-14T19:42:35.081803+01:00</dc:date>
+    <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
   </channel>
 </rss>
