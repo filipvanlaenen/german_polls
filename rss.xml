@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Mon, 16 Mar 2020 10:52:06 +0100</pubDate>
+    <pubDate>Fri, 20 Mar 2020 08:02:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 13–16 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-16-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.0–16.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 11.6–14.5%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.5–7.7%&lt;/li&gt;&lt;li&gt;Die Linke: 8.3–10.9%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 21.2–24.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 21.4–25.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-16-INSAandYouGov.png"
+        length="206068"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2020 08:02:38 +0100</pubDate>
+      <dc:date>2020-03-20T08:02:38.351154+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-09-INSAandYouGov.html</link>
@@ -119,6 +129,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-03-16T10:52:06.3769+01:00</dc:date>
+    <dc:date>2020-03-20T08:02:38.351154+01:00</dc:date>
   </channel>
 </rss>
