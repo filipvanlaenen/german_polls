@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 160–186 | 13–16% <br> 96–120 | 12–15% <br> 87–109 | 6–8% <br> 42–57 | 8–11% <br> 62–81 | 21–25% <br> 160–186 | 4–6% <br> 34–48 |
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 149–176 | 14–17% <br> 106–129 | 13–16% <br> 95–117 | 6–8% <br> 43–58 | 8–11% <br> 63–82 | 20–24% <br> 153–179 | 4–6% <br> 31–45 |
