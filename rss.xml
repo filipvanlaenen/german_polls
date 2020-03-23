@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Fri, 20 Mar 2020 08:02:38 +0100</pubDate>
+    <pubDate>Mon, 23 Mar 2020 08:07:17 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 13–16 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-16-INSAandYouGov.html</link>
@@ -18,6 +18,26 @@
         type="image/png"/>
       <pubDate>Fri, 20 Mar 2020 08:02:38 +0100</pubDate>
       <dc:date>2020-03-20T08:02:38.351154+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 9–13 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-13-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Die Linke: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.4–23.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 21.9–25.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.6–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-13-Forsa.png"
+        length="197601"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2020 21:12:44 +0100</pubDate>
+      <dc:date>2020-03-20T21:12:44.278126+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 4–11 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-11-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 15.1–19.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.3–15.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Die Linke: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 19.0–23.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.1–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 3.9–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-11-Emnid.png"
+        length="214766"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2020 23:39:55 +0100</pubDate>
+      <dc:date>2020-03-20T23:39:55.387866+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
@@ -120,6 +140,36 @@
       <dc:date>2020-03-16T10:52:06.3769+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Forsa, 17–21 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-21-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 6.1–8.1%&lt;/li&gt;&lt;li&gt;Die Linke: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 22.4–25.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.3–23.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.3–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-21-Forsa.png"
+        length="196643"
+        type="image/png"/>
+      <pubDate>Mon, 23 Mar 2020 08:07:17 +0100</pubDate>
+      <dc:date>2020-03-23T08:07:17.107779+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 13–19 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-19-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.3–17.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.3–15.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Die Linke: 8.6–11.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 18.0–22.1%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.9–24.2%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-19-Emnid.png"
+        length="213442"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2020 22:08:13 +0100</pubDate>
+      <dc:date>2020-03-22T22:08:13.103461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 14–17 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-17-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.0–16.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 13.5–16.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 6.4–8.7%&lt;/li&gt;&lt;li&gt;Die Linke: 8.3–10.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 18.8–22.3%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.8–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-17-INSAandYouGov.png"
+        length="205979"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2020 22:52:38 +0100</pubDate>
+      <dc:date>2020-03-22T22:52:38.048347+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Allensbach, 1–12 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-02-12-Allensbach.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–16.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 7.6–10.7%&lt;/li&gt;&lt;li&gt;Die Linke: 8.0–11.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.1–24.7%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -129,6 +179,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-03-20T08:02:38.351154+01:00</dc:date>
+    <dc:date>2020-03-23T08:07:17.107779+01:00</dc:date>
   </channel>
 </rss>
