@@ -6,8 +6,8 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 | [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 160–186 | 13–16% <br> 96–120 | 12–15% <br> 87–109 | 6–8% <br> 42–57 | 8–11% <br> 62–81 | 21–25% <br> 160–186 | 4–6% <br> 34–48 |
-| [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 22–25% <br> 171–197 | 13–15% <br> 99–120 | 9–11% <br> 69–87 | 5–7% <br> 39–54 | 9–11% <br> 69–87 | 20–24% <br> 160–184 | 5–6% <br> 36–50 |
+| [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 19–23% <br> 145–176 | 15–19% <br> 114–145 | 12–16% <br> 94–120 | 6–8% <br> 45–65 | 7–10% <br> 50–73 | 19–23% <br> 144–176 | 4–6% <br> 30–47 |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 149–176 | 14–17% <br> 106–129 | 13–16% <br> 95–117 | 6–8% <br> 43–58 | 8–11% <br> 63–82 | 20–24% <br> 153–179 | 4–6% <br> 31–45 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 20–23% <br> 150–176 | 14–16% <br> 105–127 | 10–12% <br> 76–94 | 5–7% <br> 39–54 | 9–11% <br> 68–88 | 22–26% <br> 172–198 | 4–6% <br> 32–45 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19–23% <br> 145–181 | 14–18% <br> 108–137 | 12–16% <br> 93–123 | 5–7% <br> 0–56 | 7–10% <br> 50–73 | 21–25% <br> 158–196 | 4–6% <br> 29–48 |
@@ -18,9 +18,9 @@ The table below lists all polls registered and analyzed so far.
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 20–24% <br> 159–190 | 15–17% <br> 113–139 | 9–11% <br> 69–90 | 4–6% <br> 0–45 | 9–11% <br> 69–90 | 22–26% <br> 175–207 | 4–6% <br> 33–47 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 18–22% <br> 140–172 | 14–18% <br> 109–138 | 12–16% <br> 94–120 | 5–7% <br> 0–56 | 9–12% <br> 65–88 | 20–24% <br> 153–184 | 4–6% <br> 28–45 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 151–176 | 13–16% <br> 100–122 | 12–15% <br> 87–109 | 6–8% <br> 45–62 | 9–12% <br> 69–89 | 20–24% <br> 154–181 | 4–6% <br> 30–46 |
-| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 20–24% <br> N/A | 13–15% <br> N/A | 9–11% <br> N/A | 6–8% <br> N/A | 9–11% <br> N/A | 22–26% <br> N/A | 4–6% <br> N/A |
-| [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 20–24% <br> 157–181 | 13–15% <br> 98–118 | 9–11% <br> 69–86 | 6–8% <br> 47–63 | 9–11% <br> 68–86 | 22–26% <br> 172–198 | 4–6% <br> 33–47 |
+| [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 20–24% <br> 151–184 | 13–17% <br> 101–129 | 12–16% <br> 93–120 | 6–8% <br> 44–65 | 9–12% <br> 66–89 | 18–22% <br> 136–168 | 4–6% <br> 31–48 |
+| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 150–177 | 13–16% <br> 98–122 | 14–17% <br> 102–126 | 6–9% <br> 49–65 | 8–11% <br> 63–83 | 19–22% <br> 141–170 | 4–6% <br> 31–45 |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
