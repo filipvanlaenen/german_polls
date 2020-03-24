@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Mon, 23 Mar 2020 08:07:17 +0100</pubDate>
+    <pubDate>Tue, 24 Mar 2020 07:48:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 13–16 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-16-INSAandYouGov.html</link>
@@ -170,6 +170,26 @@
       <dc:date>2020-03-22T22:52:38.048347+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Forsa, 10–14 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-14-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 9.8–12.3%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Die Linke: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 22.3–25.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.4–23.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.3–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-14-Forsa.png"
+        length="196472"
+        type="image/png"/>
+      <pubDate>Tue, 24 Mar 2020 07:43:18 +0100</pubDate>
+      <dc:date>2020-03-24T07:43:18.047979+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap, 11–13 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-02-13-Infratestdimap.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Die Linke: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 19.6–24.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 18.7–23.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-02-13-Infratestdimap.png"
+        length="225281"
+        type="image/png"/>
+      <pubDate>Tue, 24 Mar 2020 07:48:40 +0100</pubDate>
+      <dc:date>2020-03-24T07:48:40.848676+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Allensbach, 1–12 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-02-12-Allensbach.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–16.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 7.6–10.7%&lt;/li&gt;&lt;li&gt;Die Linke: 8.0–11.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 20.1–24.7%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -179,6 +199,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-03-23T08:07:17.107779+01:00</dc:date>
+    <dc:date>2020-03-24T07:48:40.848676+01:00</dc:date>
   </channel>
 </rss>
