@@ -27,8 +27,8 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 21.9% | 20.9–23.0% | 20.6–23.3% | 20.3–23.6% | 19.9–24.1% |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 21.9% | 20.6–23.4% | 20.2–23.8% | 19.9–24.2% | 19.2–24.9% |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.8% | 20.1–23.1% | 19.8–23.4% | 19.3–24.0% |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
-| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 21.2% | N/A | N/A | N/A | N/A |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 21.9% | 20.9–23.0% | 20.6–23.4% | 20.4–23.6% | 19.9–24.1% |
+| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 21.2% | 19.6–22.9% | 19.1–23.4% | 18.7–23.8% | 18.0–24.6% |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 22.7% | N/A | N/A | N/A | N/A |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 22.3% | 20.9–23.9% | 20.5–24.4% | 20.1–24.7% | 19.4–25.5% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 22.3% | N/A | N/A | N/A | N/A |
@@ -626,8 +626,8 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 169 | 159–177 | 158–180 | 157–181 | 151–185 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 167 | 156–179 | 153–181 | 151–184 | 146–189 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 164 | 154–172 | 151–177 | 150–177 | 146–180 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa |  |  |  |  |  |
-| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 169 | 161–175 | 158–182 | 154–185 | 153–187 |
+| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 159 | 147–174 | 142–176 | 141–176 | 135–180 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid |  |  |  |  |  |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 164 | 154–174 | 150–178 | 147–181 | 143–185 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |

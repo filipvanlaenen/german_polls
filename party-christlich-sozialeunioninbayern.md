@@ -27,8 +27,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 5.1% | 4.5–5.7% | 4.4–5.9% | 4.3–6.0% | 4.0–6.3% |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 5.1% | 4.4–5.9% | 4.2–6.2% | 4.1–6.4% | 3.7–6.8% |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 5.1% | N/A | N/A | N/A | N/A |
-| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 4.9% | N/A | N/A | N/A | N/A |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 5.1% | 4.5–5.7% | 4.4–5.9% | 4.3–6.0% | 4.0–6.3% |
+| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 4.9% | 4.1–5.9% | 3.9–6.1% | 3.7–6.4% | 3.4–6.9% |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 5.2% | N/A | N/A | N/A | N/A |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.1–6.5% | 3.7–7.0% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 5.2% | N/A | N/A | N/A | N/A |
@@ -622,8 +622,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 39 | 35–44 | 34–45 | 33–47 | 30–49 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 39 | 34–45 | 32–47 | 31–48 | 28–52 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 38 | 33–42 | 32–44 | 31–45 | 29–48 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa |  |  |  |  |  |
-| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 39 | 35–44 | 34–45 | 33–46 | 32–49 |
+| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 34 | 30–47 | 30–47 | 29–48 | 28–50 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid |  |  |  |  |  |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 39 | 33–44 | 32–46 | 29–48 | 28–51 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
