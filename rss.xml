@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Tue, 24 Mar 2020 07:48:40 +0100</pubDate>
+    <pubDate>Sat, 04 Apr 2020 19:05:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 13–16 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-16-INSAandYouGov.html</link>
@@ -22,12 +22,12 @@
     <item>
       <title>Opinion Poll by Forsa, 9–13 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-03-13-Forsa.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Die Linke: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.4–23.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 21.9–25.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.6–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 12.5–15.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Die Linke: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 20.2–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 21.7–25.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.5–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-13-Forsa.png"
-        length="197601"
+        length="203352"
         type="image/png"/>
-      <pubDate>Fri, 20 Mar 2020 21:12:44 +0100</pubDate>
-      <dc:date>2020-03-20T21:12:44.278126+01:00</dc:date>
+      <pubDate>Sat, 04 Apr 2020 19:01:31 +0200</pubDate>
+      <dc:date>2020-04-04T19:01:31.997185+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid, 4–11 March 2020 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-11-Emnid.png"
         length="214766"
         type="image/png"/>
-      <pubDate>Fri, 20 Mar 2020 23:39:55 +0100</pubDate>
-      <dc:date>2020-03-20T23:39:55.387866+01:00</dc:date>
+      <pubDate>Sat, 04 Apr 2020 19:05:17 +0200</pubDate>
+      <dc:date>2020-04-04T19:05:17.167224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
@@ -48,16 +48,6 @@
         type="image/png"/>
       <pubDate>Sun, 15 Mar 2020 19:06:39 +0100</pubDate>
       <dc:date>2020-03-15T19:06:39.81495+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 2–6 March 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-03-06-Forsa.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 13.6–16.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 9.8–12.3%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Die Linke: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 22.4–25.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 19.6–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 4.1–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-06-Forsa.png"
-        length="197267"
-        type="image/png"/>
-      <pubDate>Sat, 14 Mar 2020 18:02:45 +0100</pubDate>
-      <dc:date>2020-03-14T18:02:45.651085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 3–5 March 2020 – Voting Intentions</title>
@@ -199,6 +189,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-03-24T07:48:40.848676+01:00</dc:date>
+    <dc:date>2020-04-04T19:05:17.167224+02:00</dc:date>
   </channel>
 </rss>
