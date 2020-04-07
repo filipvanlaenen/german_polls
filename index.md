@@ -5,14 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 20–24% <br> 152–181 | 13–17% <br> 102–127 | 12–16% <br> 96–119 | 5–7% <br> 0–54 | 9–12% <br> 67–87 | 19–23% <br> 144–177 | 4–6% <br> 32–47 |
-| [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–25 March 2020](2020-03-25-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 20–24% <br> 152–181 | 13–17% <br> 102–127 | 12–16% <br> 96–119 | 5–7% <br> 0–54 | 9–12% <br> 67–87 | 19–23% <br> 144–177 | 4–6% <br> 32–47 |
+| N/A | [Poll Average](average.html) | 22–30% <br> 163–230 | 14–18% <br> 103–135 | 9–13% <br> 66–96 | 4–8% <br> 0–60 | 6–10% <br> 46–71 | 20–25% <br> 152–187 | 5–8% <br> 38–58 |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 25–30% <br> 194–236 | 14–18% <br> 108–139 | 9–12% <br> 65–90 | 4–6% <br> 0–46 | 6–8% <br> 44–64 | 20–24% <br> 152–189 | 5–8% <br> 41–60 |
+| [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25–29% <br> 185–221 | 13–17% <br> 100–128 | 9–12% <br> 64–88 | 5–7% <br> 0–55 | 7–10% <br> 51–71 | 20–24% <br> 150–184 | 5–8% <br> 38–57 |
+| [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | 21–26% <br> 156–194 | 15–19% <br> 107–134 | 10–13% <br> 75–100 | 6–9% <br> 42–64 | 7–10% <br> 49–72 | 21–25% <br> 156–188 | 4–7% <br> 37–48 |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 
 Only polls for which at least the sample size has been published are included in the table above.
