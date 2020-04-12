@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sat, 11 Apr 2020 15:26:49 +0200</pubDate>
+    <pubDate>Sat, 11 Apr 2020 20:35:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 3–6 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.png"
         length="193538"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 14:45:29 +0200</pubDate>
-      <dc:date>2020-04-11T14:45:29.687612+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 18:56:09 +0200</pubDate>
+      <dc:date>2020-04-11T18:56:09.126855+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 30 March–3 April 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-03-Forsa.png"
         length="197514"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 15:05:16 +0200</pubDate>
-      <dc:date>2020-04-11T15:05:16.136986+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 19:16:21 +0200</pubDate>
+      <dc:date>2020-04-11T19:16:21.728852+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap, 30 March–1 April 2020 – Voting Intentions</title>
@@ -46,8 +46,18 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-01-Emnid.png"
         length="210629"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 15:22:10 +0200</pubDate>
-      <dc:date>2020-04-11T15:22:10.633607+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 19:36:56 +0200</pubDate>
+      <dc:date>2020-04-11T19:36:56.475854+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 27–30 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-03-30-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 14.3–17.8%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 10.5–13.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Die Linke: 7.7–10.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 16.2–20.0%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 25.5–29.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 5.3–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-30-YouGov.png"
+        length="206141"
+        type="image/png"/>
+      <pubDate>Sat, 11 Apr 2020 20:14:20 +0200</pubDate>
+      <dc:date>2020-04-11T20:14:20.44276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 27–30 March 2020 – Voting Intentions</title>
@@ -96,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-03-18-Allensbach.png"
         length="219841"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 15:26:49 +0200</pubDate>
-      <dc:date>2020-04-11T15:26:49.69335+02:00</dc:date>
+      <pubDate>Sat, 11 Apr 2020 20:35:39 +0200</pubDate>
+      <dc:date>2020-04-11T20:35:39.300302+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 13–16 March 2020 – Voting Intentions</title>
@@ -279,6 +289,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-04-11T15:26:49.69335+02:00</dc:date>
+    <dc:date>2020-04-11T20:35:39.300302+02:00</dc:date>
   </channel>
 </rss>
