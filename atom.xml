@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/german_polls</id>
+  <title>All Registered Polls for the Bundestag</title>
+  <updated>2020-04-12T21:10:47.744229+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 14.5–17.7%, 109–135 seats</li><li>Alternative für Deutschland: 8.8–11.4%, 66–86 seats</li><li>Freie Demokratische Partei: 4.6–6.6%, 0–49 seats</li><li>Die Linke: 6.0–8.2%, 45–62 seats</li><li>Bündnis 90/Die Grünen: 16.4–19.7%, 122–151 seats</li><li>Christlich Demokratische Union Deutschlands: 28.9–32.9%, 217–255 seats</li><li>Christlich-Soziale Union in Bayern: 6.1–8.3%, 46–64 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov, 3–6 April 2020</title>
+    <updated>2020-04-12T21:10:47.744229+02:00</updated>
+    <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+  </entry>
+  <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+</feed>
