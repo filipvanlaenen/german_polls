@@ -8,26 +8,36 @@
     <title>All Registered Polls for the Bundestag</title>
     <link>https://filipvanlaenen.github.io/german_polls</link>
     <description>All Registered Polls for the Bundestag</description>
-    <pubDate>Sun, 12 Apr 2020 21:10:47 +0200</pubDate>
+    <pubDate>Sat, 18 Apr 2020 13:44:07 +0200</pubDate>
     <item>
-      <title>Opinion Poll by INSA and YouGov, 3–6 April 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 109–135 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 66–86 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 0–49 seats&lt;/li&gt;&lt;li&gt;Die Linke: 45–62 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 122–151 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 217–255 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 46–64 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov-seats.png"
-        length="188445"
+      <title>Opinion Poll by Forsa, 6–9 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-04-09-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 15.4–18.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Die Linke: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 14.4–17.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 28.1–32.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 5.9–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-09-Forsa.png"
+        length="193633"
         type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 21:10:47 +0200</pubDate>
-      <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2020 13:44:07 +0200</pubDate>
+      <dc:date>2020-04-18T13:44:07.477996+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by INSA and YouGov, 3–6 April 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov-coalitions-seats.png"
-        length="354712"
+      <title>Opinion Poll by Forschungsgruppe Wahlen, 6–8 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-04-08-ForschungsgruppeWahlen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 15.0–19.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.4–11.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Die Linke: 5.7–8.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 17.8–22.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 25.9–31.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 5.3–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-08-ForschungsgruppeWahlen.png"
+        length="213212"
         type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 21:10:47 +0200</pubDate>
-      <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2020 11:28:36 +0200</pubDate>
+      <dc:date>2020-04-18T11:28:36.999364+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 2–8 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-04-08-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands: 15.4–18.8%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei: 5.0–7.2%&lt;/li&gt;&lt;li&gt;Die Linke: 7.8–10.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen: 14.4–17.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands: 28.1–32.2%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern: 5.9–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-08-Emnid.png"
+        length="195922"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2020 11:49:45 +0200</pubDate>
+      <dc:date>2020-04-18T11:49:45.388451+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 3–6 April 2020 – Voting Intentions</title>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-04-06-INSAandYouGov.png"
         length="193538"
         type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 21:10:47 +0200</pubDate>
-      <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2020 12:10:50 +0200</pubDate>
+      <dc:date>2020-04-18T12:10:50.418696+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 30 March–3 April 2020 – Voting Intentions</title>
@@ -309,6 +319,6 @@
       <pubDate>Sun, 15 Mar 2020 09:16:01 +0100</pubDate>
       <dc:date>2020-03-15T09:16:01.59864+01:00</dc:date>
     </item>
-    <dc:date>2020-04-12T21:10:47.744229+02:00</dc:date>
+    <dc:date>2020-04-18T13:44:07.477996+02:00</dc:date>
   </channel>
 </rss>
