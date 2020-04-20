@@ -10,9 +10,11 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.4–7.5% | 5.0–7.8% | 4.7–8.0% | 4.3–8.5% |
-| [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 7.1% | N/A | N/A | N/A | N/A |
-| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.6% | 5.3–7.7% | 5.0–8.0% | 4.7–8.3% | 4.3–8.9% |
+| [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 7.3% | N/A | N/A | N/A | N/A |
+| [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.8% | 5.3–9.4% |
+| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 6.9% | N/A | N/A | N/A | N/A |
+| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.4–7.8% | 6.2–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 6.9% | 6.3–7.7% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.6% | 5.7–7.6% | 5.5–7.9% | 5.3–8.1% | 4.9–8.6% |
 | [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.9–8.1% | 5.5–8.5% |
@@ -610,12 +612,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 12% | 98.6% |  |
-| 5.5–6.5% | 36% | 86% | Last Result |
-| 6.5–7.5% | 41% | 50% | Median |
-| 7.5–8.5% | 9% | 9% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 4.5–5.5% | 13% | 98.6% |  |
+| 5.5–6.5% | 34% | 86% | Last Result |
+| 6.5–7.5% | 39% | 52% | Median |
+| 7.5–8.5% | 12% | 13% |  |
+| 8.5–9.5% | 1.1% | 1.2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -626,13 +629,15 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50 | 40–58 | 37–60 | 35–62 | 33–66 |
-| [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
-| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 54 | 49–62 | 47–63 | 46–64 | 44–67 |
-| [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 51 | 44–59 | 42–61 | 41–63 | 37–66 |
-| [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 51 | 46–58 | 45–60 | 43–61 | 41–63 |
-| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 53 | 49–61 | 48–62 | 46–64 | 43–66 |
+| N/A | [Poll Average](average.html) | 50 | 40–58 | 37–61 | 35–63 | 33–68 |
+| [14–17 April 2020](2020-04-17-Forsa.html) | Forsa |  |  |  |  |  |
+| [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 54 | 47–62 | 45–65 | 43–68 | 40–72 |
+| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid |  |  |  |  |  |
+| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 53 | 47–58 | 46–60 | 45–61 | 43–64 |
+| [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 55 | 49–61 | 47–62 | 46–64 | 44–67 |
+| [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 51 | 44–58 | 42–61 | 40–63 | 37–67 |
+| [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 51 | 46–58 | 45–59 | 44–61 | 41–64 |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 53 | 48–60 | 47–62 | 46–64 | 43–67 |
 | [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 53 | 47–59 | 46–60 | 44–62 | 42–65 |
 | [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 50 | 44–56 | 42–59 | 41–60 | 38–64 |
 | [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | 46 | 41–52 | 39–54 | 38–56 | 35–60 |
@@ -1241,33 +1246,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 3% | 88% |  |
 | 42 | 3% | 85% |  |
 | 43 | 3% | 82% |  |
-| 44 | 3% | 79% |  |
+| 44 | 4% | 79% |  |
 | 45 | 4% | 75% |  |
-| 46 | 5% | 72% | Last Result |
-| 47 | 5% | 67% |  |
-| 48 | 5% | 61% |  |
+| 46 | 5% | 71% | Last Result |
+| 47 | 5% | 66% |  |
+| 48 | 6% | 61% |  |
 | 49 | 5% | 56% |  |
-| 50 | 4% | 52% | Median |
-| 51 | 8% | 47% |  |
-| 52 | 7% | 39% |  |
-| 53 | 5% | 32% |  |
-| 54 | 6% | 27% |  |
-| 55 | 4% | 22% |  |
-| 56 | 3% | 18% |  |
-| 57 | 3% | 15% |  |
-| 58 | 4% | 12% |  |
-| 59 | 2% | 8% |  |
-| 60 | 1.3% | 6% |  |
-| 61 | 1.1% | 4% |  |
-| 62 | 1.2% | 3% |  |
-| 63 | 0.7% | 2% |  |
-| 64 | 0.6% | 1.4% |  |
-| 65 | 0.2% | 0.8% |  |
-| 66 | 0.3% | 0.6% |  |
-| 67 | 0.1% | 0.3% |  |
-| 68 | 0% | 0.2% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 50 | 5% | 50% | Median |
+| 51 | 6% | 45% |  |
+| 52 | 5% | 39% |  |
+| 53 | 5% | 34% |  |
+| 54 | 5% | 29% |  |
+| 55 | 5% | 24% |  |
+| 56 | 4% | 19% |  |
+| 57 | 4% | 15% |  |
+| 58 | 3% | 12% |  |
+| 59 | 2% | 9% |  |
+| 60 | 1.5% | 7% |  |
+| 61 | 1.4% | 5% |  |
+| 62 | 1.0% | 4% |  |
+| 63 | 0.7% | 3% |  |
+| 64 | 0.6% | 2% |  |
+| 65 | 0.4% | 2% |  |
+| 66 | 0.3% | 1.2% |  |
+| 67 | 0.2% | 0.9% |  |
+| 68 | 0.2% | 0.6% |  |
+| 69 | 0.1% | 0.4% |  |
+| 70 | 0.1% | 0.3% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 
