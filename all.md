@@ -5,9 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 30–34% <br> 229–267 | 14–18% <br> 112–140 | 9–11% <br> 69–88 | 4–6% <br> 0–46 | 7–9% <br> 54–74 | 13–17% <br> 104–130 | 6–9% <br> 49–67 |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 28–34% <br> 211–261 | 15–19% <br> 112–149 | 7–11% <br> 56–84 | 4–7% <br> 0–48 | 6–9% <br> 42–67 | 17–22% <br> 126–165 | 6–9% <br> 43–68 |
-| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 28–32% <br> 261 | 16–20% <br> 149 | 8–11% <br> 69 | 6–8% <br> 0 | 7–9% <br> 58 | 14–18% <br> 130 | 6–8% <br> 42 |
 | [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 29–33% <br> 214–243 | 14–18% <br> 108–132 | 9–12% <br> 69–89 | 6–8% <br> 44–61 | 6–9% <br> 48–65 | 14–18% <br> 109–132 | 6–8% <br> 45–61 |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 28–32% <br> 217–257 | 15–19% <br> 120–148 | 9–11% <br> 68–90 | 4–6% <br> 0–46 | 7–9% <br> 54–71 | 14–18% <br> 111–140 | 6–8% <br> 46–64 |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26–31% <br> 197–243 | 15–19% <br> 113–150 | 8–12% <br> 65–92 | 4–6% <br> 0–48 | 6–9% <br> 43–66 | 18–22% <br> 135–174 | 5–8% <br> 40–63 |
