@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 29–33% <br> N/A | 15–19% <br> N/A | 9–12% <br> N/A | 5–7% <br> N/A | 7–10% <br> N/A | 12–16% <br> N/A | 6–9% <br> N/A |
+| [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 29–33% <br> 218–257 | 15–19% <br> 114–145 | 9–12% <br> 63–89 | 5–7% <br> 0–55 | 7–10% <br> 52–74 | 12–16% <br> 93–122 | 6–9% <br> 45–66 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 28–32% <br> 212–252 | 14–18% <br> 109–140 | 10–13% <br> 73–97 | 4–6% <br> 0–46 | 8–10% <br> 58–82 | 14–18% <br> 109–140 | 6–8% <br> 44–64 |
 | [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 29–33% <br> 218–248 | 14–17% <br> 105–129 | 9–12% <br> 69–90 | 6–8% <br> 45–61 | 6–8% <br> 45–61 | 14–18% <br> 108–132 | 6–8% <br> 46–63 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 28–34% <br> 212–257 | 14–18% <br> 105–139 | 8–12% <br> 64–90 | 5–8% <br> 0–57 | 6–10% <br> 48–74 | 14–18% <br> 105–139 | 6–9% <br> 43–67 |
@@ -29,12 +29,12 @@ The table below lists all polls registered and analyzed so far.
 | [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 200–229 | 14–17% <br> 102–125 | 11–13% <br> 80–101 | 6–8% <br> 41–59 | 6–9% <br> 49–66 | 16–20% <br> 123–148 | 6–8% <br> 42–58 |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 27–31% <br> 210–243 | 14–18% <br> 111–136 | 8–10% <br> 60–80 | 5–7% <br> 0–55 | 7–9% <br> 53–72 | 15–19% <br> 118–145 | 6–8% <br> 44–61 |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25–29% <br> 185–221 | 13–17% <br> 100–128 | 9–12% <br> 64–88 | 5–7% <br> 0–55 | 7–10% <br> 51–71 | 20–24% <br> 150–184 | 5–8% <br> 38–57 |
-| [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | 27–32% <br> 206–250 | 14–18% <br> 107–141 | 7–11% <br> 58–83 | 5–8% <br> 0–58 | 7–10% <br> 51–75 | 15–19% <br> 115–148 | 5–8% <br> 42–64 |
 | [18–25 March 2020](2020-03-25-Emnid.html) | Emnid | 24–28% <br> 177–213 | 16–20% <br> 120–150 | 10–13% <br> 71–96 | 5–7% <br> 0–55 | 8–11% <br> 57–80 | 17–21% <br> 127–158 | 5–7% <br> 36–55 |
-| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–18 March 2020](2020-03-18-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 25–29% <br> 190–219 | 14–17% <br> 102–125 | 11–13% <br> 81–100 | 6–8% <br> 41–58 | 6–8% <br> 45–61 | 18–22% <br> 138–164 | 5–7% <br> 40–55 |
+| [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | 24–28% <br> 185–215 | 13–17% <br> 104–129 | 8–10% <br> 60–80 | 6–8% <br> 46–62 | 8–10% <br> 60–80 | 18–22% <br> 141–168 | 5–7% <br> 39–55 |
+| [17–18 March 2020](2020-03-18-Infratestdimap.html) | Infratest dimap | 22–27% <br> 169–207 | 12–16% <br> 92–124 | 8–12% <br> 63–92 | 6–9% <br> 42–66 | 7–11% <br> 57–83 | 21–26% <br> 155–195 | 4–7% <br> 33–54 |
+| [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | 21–25% <br> N/A | 14–18% <br> 131 | 11–15% <br> 102 | 6–8% <br> 0 | 8–10% <br> 66 | 19–23% <br> 180 | 4–6% <br> N/A |
 | [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | 21–26% <br> 159–194 | 15–19% <br> 108–138 | 10–13% <br> 73–99 | 6–9% <br> 43–63 | 7–10% <br> 50–72 | 21–25% <br> 155–188 | 4–7% <br> 33–50 |
 | [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 160–186 | 13–16% <br> 96–120 | 12–15% <br> 87–109 | 6–8% <br> 42–57 | 8–11% <br> 62–81 | 21–25% <br> 160–186 | 4–6% <br> 34–48 |
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 22–26% <br> 170–198 | 13–16% <br> 98–121 | 9–11% <br> 68–89 | 5–7% <br> 39–56 | 9–11% <br> 68–89 | 20–24% <br> 157–187 | 4–7% <br> 35–50 |
