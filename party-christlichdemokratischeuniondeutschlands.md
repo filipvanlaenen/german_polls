@@ -46,21 +46,21 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 23.6% | 22.4–24.8% | 22.0–25.2% | 21.7–25.5% | 21.2–26.1% |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 21.1% | 19.8–22.6% | 19.4–23.0% | 19.1–23.4% | 18.5–24.1% |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.7% | 20.1–23.1% | 19.8–23.4% | 19.3–23.9% |
-| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 21.1% | N/A | N/A | N/A | N/A |
+| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 21.1% | 19.9–22.4% | 19.6–22.8% | 19.3–23.1% | 18.7–23.7% |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21.2% | 19.7–22.7% | 19.3–23.1% | 19.0–23.5% | 18.3–24.2% |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 22.0% | 20.6–23.4% | 20.3–23.8% | 19.9–24.1% | 19.3–24.8% |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 19.5% | 18.2–20.9% | 17.9–21.3% | 17.6–21.7% | 16.9–22.4% |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 21.9% | 20.7–23.3% | 20.3–23.7% | 20.0–24.0% | 19.4–24.7% |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.7% | 20.1–23.1% | 19.8–23.4% | 19.3–24.0% |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.9% | 19.6–24.5% |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 20.3% | 19.0–21.7% | 18.6–22.1% | 18.3–22.4% | 17.7–23.1% |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.8% | 20.1–23.1% | 19.8–23.4% | 19.3–24.0% |
-| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
+| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 21.9% | 20.6–23.4% | 20.2–23.8% | 19.9–24.2% | 19.2–24.9% |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.8% | 20.1–23.1% | 19.8–23.4% | 19.3–24.0% |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 22.0% | N/A | N/A | N/A | N/A |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 22.0% | 20.8–23.2% | 20.5–23.5% | 20.2–23.9% | 19.7–24.4% |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 21.2% | 19.6–22.9% | 19.1–23.4% | 18.7–23.8% | 18.0–24.6% |
-| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 22.7% | N/A | N/A | N/A | N/A |
+| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 22.7% | 21.5–24.0% | 21.2–24.4% | 20.9–24.7% | 20.3–25.3% |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 22.3% | 20.9–23.9% | 20.5–24.4% | 20.1–24.7% | 19.4–25.5% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 22.3% | N/A | N/A | N/A | N/A |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 22.8% | N/A | N/A | N/A | N/A |
@@ -677,21 +677,21 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 182 | 174–194 | 171–197 | 170–198 | 165–203 |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 160 | 151–172 | 147–175 | 145–176 | 140–183 |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 162 | 154–171 | 152–173 | 149–176 | 146–180 |
-| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa |  |  |  |  |  |
+| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 162 | 154–170 | 153–175 | 148–176 | 146–183 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 156 | 149–174 | 147–179 | 145–181 | 142–186 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 166 | 159–178 | 155–181 | 153–185 | 147–192 |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 149 | 138–159 | 136–162 | 133–165 | 130–169 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 166 | 157–175 | 154–179 | 152–181 | 148–187 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 159 | 152–168 | 150–170 | 147–173 | 144–179 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 171 | 160–186 | 158–186 | 157–188 | 152–197 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 154 | 145–165 | 142–168 | 140–172 | 135–177 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 163 | 154–173 | 153–175 | 151–176 | 145–181 |
-| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa |  |  |  |  |  |
+| [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 169 | 165–172 | 164–174 | 163–174 | 161–177 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 167 | 156–179 | 153–181 | 151–184 | 146–189 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 164 | 154–172 | 151–177 | 150–177 | 146–180 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa |  |  |  |  |  |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 170 | 161–178 | 158–182 | 156–185 | 151–190 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 159 | 147–174 | 142–176 | 141–176 | 135–180 |
-| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid |  |  |  |  |  |
+| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 170 | 164–171 | 163–178 | 160–186 | 158–194 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 164 | 154–174 | 150–178 | 147–181 | 143–185 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa |  |  |  |  |  |
