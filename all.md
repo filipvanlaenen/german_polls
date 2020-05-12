@@ -5,7 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 29–34% <br> 223–263 | 14–18% <br> 105–139 | 8–11% <br> 57–81 | 4–6% <br> 0–47 | 7–9% <br> 50–74 | 16–20% <br> 120–156 | 6–9% <br> 45–68 |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 29–33% <br> 218–257 | 15–19% <br> 114–145 | 9–12% <br> 63–89 | 5–7% <br> 0–55 | 7–10% <br> 52–74 | 12–16% <br> 93–122 | 6–9% <br> 45–66 |
+| [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 28–32% <br> 212–252 | 14–18% <br> 109–140 | 10–13% <br> 73–97 | 4–6% <br> 0–46 | 8–10% <br> 58–82 | 14–18% <br> 109–140 | 6–8% <br> 44–64 |
 | [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 29–33% <br> 218–248 | 14–17% <br> 105–129 | 9–12% <br> 69–90 | 6–8% <br> 45–61 | 6–8% <br> 45–61 | 14–18% <br> 108–132 | 6–8% <br> 46–63 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 28–34% <br> 212–257 | 14–18% <br> 105–139 | 8–12% <br> 64–90 | 5–8% <br> 0–57 | 6–10% <br> 48–74 | 14–18% <br> 105–139 | 6–9% <br> 43–67 |
