@@ -5,15 +5,15 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 28–33% <br> 213–256 | 13–18% <br> 99–136 | 8–12% <br> 60–95 | 4–8% <br> 0–56 | 6–10% <br> 45–76 | 14–20% <br> 111–154 | 6–9% <br> 43–66 |
-| [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 28–33% <br> 212–257 | 13–18% <br> 102–136 | 8–12% <br> 64–95 | 4–7% <br> 0–54 | 6–10% <br> 46–77 | 14–20% <br> 109–152 | 6–9% <br> 43–66 |
+| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 212–243 | 14–17% <br> 103–125 | 8–11% <br> 62–82 | 5–7% <br> 0–53 | 7–9% <br> 52–70 | 16–20% <br> 123–151 | 6–8% <br> 45–61 |
+| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 217–260 | 13–17% <br> 102–133 | 8–12% <br> 64–94 | 4–6% <br> 0–47 | 7–10% <br> 51–75 | 16–20% <br> 124–158 | 6–9% <br> 45–67 |
+| [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 28–34% <br> 210–257 | 13–17% <br> 98–133 | 8–12% <br> 62–89 | 5–8% <br> 0–56 | 6–9% <br> 42–66 | 16–20% <br> 122–157 | 6–9% <br> 43–66 |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 29–32% <br> 217–247 | 13–16% <br> 96–119 | 10–12% <br> 75–95 | 6–8% <br> 42–59 | 6–9% <br> 50–66 | 15–18% <br> 113–139 | 6–8% <br> 45–63 |
-| [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 28–32% <br> 212–252 | 14–18% <br> 109–140 | 10–13% <br> 73–97 | 4–6% <br> 0–46 | 8–10% <br> 58–82 | 14–18% <br> 109–140 | 6–8% <br> 44–64 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 28–34% <br> 212–257 | 14–18% <br> 105–139 | 8–12% <br> 64–90 | 5–8% <br> 0–57 | 6–10% <br> 48–74 | 14–18% <br> 105–139 | 6–9% <br> 43–67 |
-| [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 28–34% <br> 212–252 | 14–18% <br> 103–135 | 7–11% <br> 56–80 | 5–8% <br> 0–54 | 6–9% <br> 42–65 | 17–21% <br> 126–160 | 6–9% <br> 43–64 |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 
 Only polls for which at least the sample size has been published are included in the table above.
