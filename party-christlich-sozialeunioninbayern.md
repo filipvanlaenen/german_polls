@@ -10,11 +10,12 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.3–8.3% | 6.1–8.6% | 5.9–8.9% | 5.4–9.5% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.4–8.3% | 6.1–8.6% | 5.9–8.9% | 5.5–9.4% |
+| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 7.2% | N/A | N/A | N/A | N/A |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 7.5% | 6.6–8.6% | 6.3–9.0% | 6.1–9.2% | 5.7–9.8% |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.3% | 6.5–8.3% | 6.3–8.6% | 6.1–8.8% | 5.7–9.3% |
-| [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 6.9% | N/A | N/A | N/A | N/A |
-| [20–26 May 2020](2020-05-26-Emnid.html) | Emnid | 7.5% | N/A | N/A | N/A | N/A |
+| [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 6.9% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.4–8.8% |
+| [20–26 May 2020](2020-05-26-Emnid.html) | Emnid | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.8% | 6.1–9.2% |
 | [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 6.9% | 6.3–7.7% | 6.1–7.9% | 5.9–8.1% | 5.6–8.5% |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 7.5% | 6.7–8.4% | 6.4–8.7% | 6.2–9.0% | 5.9–9.4% |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 7.1% | 6.4–7.9% | 6.2–8.2% | 6.0–8.4% | 5.7–8.8% |
@@ -27,7 +28,7 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.4–7.8% | 6.2–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 7.5% | 6.9–8.2% | 6.7–8.4% | 6.5–8.6% | 6.2–9.0% |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.7% | 5.7–9.2% |
-| [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 7.2% | N/A | N/A | N/A | N/A |
+| [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 7.2% | 6.3–8.1% | 6.1–8.4% | 5.9–8.6% | 5.6–9.1% |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.4–7.8% | 6.2–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 7.1% | 6.4–8.1% | 6.1–8.4% | 5.9–8.6% | 5.6–9.1% |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 6.9% | 6.1–7.9% | 5.9–8.1% | 5.7–8.4% | 5.4–8.8% |
@@ -83,12 +84,12 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.1–6.5% | 3.7–7.0% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.2% | 4.0–6.6% |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 5.2% | 4.7–5.9% | 4.5–6.0% | 4.4–6.2% | 4.2–6.5% |
-| [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | N/A | N/A | N/A | N/A |
-| [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 5.1% | N/A | N/A | N/A | N/A |
-| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 5.2% | N/A | N/A | N/A | N/A |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 5.2% | N/A | N/A | N/A | N/A |
-| [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 5.3% | N/A | N/A | N/A | N/A |
-| [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 5.1% | N/A | N/A | N/A | N/A |
+| [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
+| [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
+| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 5.2% | 4.6–6.0% | 4.5–6.2% | 4.3–6.3% | 4.0–6.7% |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 5.2% | 4.7–5.9% | 4.5–6.1% | 4.4–6.3% | 4.1–6.6% |
+| [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 5.3% | 4.6–6.0% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% |
+| [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.0–6.3% | 3.7–6.7% |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 5.3% | N/A | N/A | N/A | N/A |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 4.9% | N/A | N/A | N/A | N/A |
@@ -639,12 +640,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.8% | 100% |  |
-| 5.5–6.5% | 17% | 99.2% | Last Result |
-| 6.5–7.5% | 48% | 83% | Median |
-| 7.5–8.5% | 29% | 34% |  |
+| 4.5–5.5% | 0.7% | 100% |  |
+| 5.5–6.5% | 15% | 99.3% | Last Result |
+| 6.5–7.5% | 47% | 84% | Median |
+| 7.5–8.5% | 32% | 37% |  |
 | 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -656,11 +657,12 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 55 | 48–64 | 45–67 | 44–68 | 40–75 |
+| N/A | [Poll Average](average.html) | 56 | 48–64 | 46–66 | 44–68 | 41–74 |
+| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 59 | 51–66 | 49–70 | 47–73 | 44–76 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 51–65 | 48–68 | 47–69 | 43–72 |
-| [20–26 May 2020](2020-05-26-YouGov.html) | YouGov |  |  |  |  |  |
-| [20–26 May 2020](2020-05-26-Emnid.html) | Emnid |  |  |  |  |  |
+| [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 54 | 47–61 | 47–63 | 45–65 | 42–69 |
+| [20–26 May 2020](2020-05-26-Emnid.html) | Emnid | 57 | 51–63 | 49–64 | 48–65 | 45–69 |
 | [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 52 | 48–59 | 46–60 | 45–61 | 43–65 |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 59 | 52–66 | 49–69 | 48–70 | 45–76 |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 54 | 48–60 | 47–61 | 45–63 | 43–66 |
@@ -673,7 +675,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 53 | 49–59 | 47–62 | 45–63 | 43–65 |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 55 | 52–63 | 51–65 | 50–66 | 48–69 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 55 | 49–64 | 46–65 | 45–68 | 42–70 |
-| [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid |  |  |  |  |  |
+| [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 55 | 48–64 | 48–67 | 46–68 | 43–71 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 55 | 48–58 | 46–59 | 46–60 | 43–64 |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 55 | 48–62 | 46–64 | 45–66 | 43–70 |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 53 | 46–59 | 45–61 | 44–62 | 41–68 |
@@ -729,12 +731,12 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 39 | 33–44 | 32–46 | 29–48 | 28–51 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 39 | 35–44 | 33–45 | 33–47 | 30–49 |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa |  | 33–37 | 33–37 | 33–41 | 33–41 |
-| [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
-| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid |  |  |  |  |  |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [27–31 January 2020](2020-01-31-Forsa.html) | Forsa |  |  |  |  |  |
-| [23–29 January 2020](2020-01-29-Emnid.html) | Emnid |  |  |  |  |  |
+| [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 39 | 33–47 | 31–49 | 30–50 | 27–55 |
+| [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 39 | 33–44 | 32–45 | 30–47 | 28–49 |
+| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 39 | 34–45 | 33–46 | 32–47 | 30–50 |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 39 | 35–46 | 35–47 | 34–48 | 31–50 |
+| [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 41 | 36–47 | 34–48 | 33–49 | 31–51 |
+| [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 38 | 33–44 | 32–46 | 31–48 | 29–50 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa |  |  |  |  |  |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
@@ -1286,48 +1288,47 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
+| 38 | 0% | 100% |  |
 | 39 | 0.2% | 99.9% |  |
 | 40 | 0.2% | 99.7% |  |
-| 41 | 0.2% | 99.5% |  |
-| 42 | 0.4% | 99.3% |  |
-| 43 | 1.3% | 98.9% |  |
-| 44 | 1.2% | 98% |  |
-| 45 | 2% | 96% |  |
-| 46 | 2% | 95% | Last Result |
-| 47 | 3% | 93% |  |
-| 48 | 3% | 90% |  |
-| 49 | 5% | 87% |  |
-| 50 | 5% | 82% |  |
-| 51 | 4% | 77% |  |
-| 52 | 8% | 73% |  |
-| 53 | 5% | 65% |  |
-| 54 | 7% | 60% |  |
-| 55 | 5% | 53% | Median |
-| 56 | 7% | 48% |  |
-| 57 | 4% | 42% |  |
-| 58 | 3% | 38% |  |
-| 59 | 4% | 35% |  |
-| 60 | 4% | 30% |  |
-| 61 | 5% | 26% |  |
-| 62 | 7% | 22% |  |
-| 63 | 4% | 14% |  |
+| 41 | 0.2% | 99.6% |  |
+| 42 | 0.3% | 99.4% |  |
+| 43 | 1.0% | 99.0% |  |
+| 44 | 0.9% | 98% |  |
+| 45 | 1.4% | 97% |  |
+| 46 | 1.4% | 96% | Last Result |
+| 47 | 3% | 94% |  |
+| 48 | 3% | 91% |  |
+| 49 | 4% | 88% |  |
+| 50 | 4% | 84% |  |
+| 51 | 5% | 81% |  |
+| 52 | 6% | 75% |  |
+| 53 | 6% | 69% |  |
+| 54 | 7% | 63% |  |
+| 55 | 4% | 56% |  |
+| 56 | 6% | 52% | Median |
+| 57 | 6% | 46% |  |
+| 58 | 5% | 39% |  |
+| 59 | 5% | 35% |  |
+| 60 | 3% | 30% |  |
+| 61 | 6% | 27% |  |
+| 62 | 6% | 21% |  |
+| 63 | 4% | 15% |  |
 | 64 | 3% | 11% |  |
 | 65 | 2% | 8% |  |
-| 66 | 1.1% | 6% |  |
+| 66 | 1.0% | 6% |  |
 | 67 | 2% | 5% |  |
-| 68 | 1.2% | 4% |  |
+| 68 | 1.0% | 3% |  |
 | 69 | 0.6% | 2% |  |
-| 70 | 0.5% | 2% |  |
-| 71 | 0.2% | 1.4% |  |
-| 72 | 0.3% | 1.1% |  |
-| 73 | 0.2% | 0.9% |  |
-| 74 | 0.1% | 0.7% |  |
-| 75 | 0.2% | 0.5% |  |
+| 70 | 0.4% | 2% |  |
+| 71 | 0.3% | 1.2% |  |
+| 72 | 0.2% | 1.0% |  |
+| 73 | 0.2% | 0.7% |  |
+| 74 | 0.1% | 0.6% |  |
+| 75 | 0.1% | 0.4% |  |
 | 76 | 0.2% | 0.3% |  |
 | 77 | 0% | 0.1% |  |
-| 78 | 0.1% | 0.1% |  |
+| 78 | 0% | 0.1% |  |
 | 79 | 0% | 0% |  |
 
 
