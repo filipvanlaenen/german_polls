@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 29–33% <br> 220–254 | 13–16% <br> 95–120 | 9–11% <br> 66–86 | 5–7% <br> 0–50 | 7–9% <br> 52–71 | 16–20% <br> 122–150 | 6–8% <br> 47–64 |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 30–35% <br> 227–279 | 13–17% <br> 101–136 | 7–11% <br> 58–84 | 4–6% <br> 0–49 | 7–10% <br> 51–76 | 14–18% <br> 106–142 | 6–9% <br> 47–73 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 29–34% <br> 233–269 | 13–17% <br> 103–132 | 8–11% <br> 60–83 | 3–5% <br> 0–37 | 7–10% <br> 53–72 | 17–21% <br> 131–167 | 6–9% <br> 47–69 |
 | [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 28–32% <br> 213–256 | 13–17% <br> 101–134 | 10–13% <br> 73–100 | 4–6% <br> 0–47 | 8–11% <br> 59–83 | 14–18% <br> 109–142 | 6–8% <br> 45–65 |
@@ -84,8 +84,8 @@ The table below lists all polls registered and analyzed so far.
 | [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 157–186 | 12–15% <br> 87–109 | 13–16% <br> 94–117 | 8–10% <br> 59–79 | 7–9% <br> 51–68 | 20–24% <br> 152–179 | 4–6% <br> 34–48 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 21–25% <br> 161–190 | 11–14% <br> 82–104 | 10–12% <br> 74–95 | 8–10% <br> 60–80 | 8–10% <br> 59–79 | 21–25% <br> 163–191 | 4–6% <br> 33–49 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 20–24% <br> 150–182 | 13–17% <br> 100–127 | 12–16% <br> 93–119 | 7–9% <br> 50–71 | 8–11% <br> 57–79 | 19–23% <br> 143–175 | 4–6% <br> 31–48 |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 20–24% <br> 151–179 | 13–16% <br> 94–117 | 14–17% <br> 101–124 | 8–10% <br> 59–77 | 7–10% <br> 55–73 | 19–22% <br> 142–166 | 4–6% <br> 31–46 |
+| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 21–24% <br> 160–186 | 11–13% <br> 81–101 | 11–13% <br> 82–102 | 8–10% <br> 59–77 | 8–10% <br> 60–77 | 21–25% <br> 161–188 | 4–6% <br> 34–47 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
