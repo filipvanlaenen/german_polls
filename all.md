@@ -86,13 +86,13 @@ The table below lists all polls registered and analyzed so far.
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 20–24% <br> 150–182 | 13–17% <br> 100–127 | 12–16% <br> 93–119 | 7–9% <br> 50–71 | 8–11% <br> 57–79 | 19–23% <br> 143–175 | 4–6% <br> 31–48 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 20–24% <br> 151–179 | 13–16% <br> 94–117 | 14–17% <br> 101–124 | 8–10% <br> 59–77 | 7–10% <br> 55–73 | 19–22% <br> 142–166 | 4–6% <br> 31–46 |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 21–24% <br> 160–186 | 11–13% <br> 81–101 | 11–13% <br> 82–102 | 8–10% <br> 59–77 | 8–10% <br> 60–77 | 21–25% <br> 161–188 | 4–6% <br> 34–47 |
-| [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 19–24% <br> 140–178 | 12–16% <br> 90–122 | 12–16% <br> 91–122 | 6–10% <br> 48–73 | 6–10% <br> 48–73 | 21–27% <br> 162–201 | 4–6% <br> 28–47 |
+| [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 19–23% <br> 143–171 | 13–16% <br> 94–116 | 14–17% <br> 101–124 | 8–10% <br> 58–77 | 9–11% <br> 65–84 | 19–23% <br> 144–169 | 4–6% <br> 30–44 |
+| [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 21–26% <br> 156–192 | 12–16% <br> 92–119 | 11–15% <br> 84–110 | 7–10% <br> 49–72 | 7–10% <br> 49–72 | 21–26% <br> 159–193 | 4–7% <br> 31–50 |
+| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 21–24% <br> 156–181 | 12–15% <br> 87–109 | 14–17% <br> 101–123 | 7–10% <br> 56–74 | 8–11% <br> 63–81 | 19–23% <br> 144–170 | 4–6% <br> 32–46 |
+| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 21–25% <br> 159–191 | 12–15% <br> 88–111 | 12–15% <br> 87–112 | 7–9% <br> 52–71 | 8–10% <br> 59–78 | 20–24% <br> 154–182 | 4–6% <br> 33–48 |
+| [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–24% <br> 148–183 | 12–16% <br> 91–119 | 12–16% <br> 92–120 | 6–9% <br> 43–65 | 8–11% <br> 57–80 | 21–25% <br> 156–190 | 4–6% <br> 31–48 |
+| [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 19–23% <br> 147–170 | 13–17% <br> 101–124 | 13–16% <br> 97–115 | 8–10% <br> 61–77 | 8–10% <br> 59–77 | 19–23% <br> 145–167 | 4–6% <br> 34–42 |
 | [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
