@@ -99,12 +99,12 @@ Last result: **20.5%** (General Election of 24 September 2017)
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 15.0% | 14.0–16.0% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 12.5% | N/A | N/A | N/A | N/A |
-| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 12.0% | N/A | N/A | N/A | N/A |
-| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | N/A | N/A | N/A | N/A |
-| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 14.0% | N/A | N/A | N/A | N/A |
-| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 13.0% | N/A | N/A | N/A | N/A |
-| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 13.0% | N/A | N/A | N/A | N/A |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 12.5% | 11.6–13.5% | 11.3–13.8% | 11.1–14.0% | 10.7–14.5% |
+| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
+| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
+| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 13.0% | N/A | N/A | N/A | N/A |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | N/A | N/A | N/A | N/A |
@@ -749,12 +749,12 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 98 | 91–107 | 89–109 | 88–111 | 84–116 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 106 | 97–116 | 94–118 | 91–119 | 88–123 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 111 | 105–120 | 104–121 | 101–124 | 100–130 |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa |  |  |  |  |  |
-| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid |  |  |  |  |  |
-| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS |  |  |  |  |  |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 93 | 87–101 | 85–104 | 84–106 | 81–109 |
+| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 92 | 85–99 | 83–102 | 81–103 | 78–107 |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 97 | 90–107 | 88–108 | 86–111 | 82–116 |
+| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 104 | 98–114 | 96–115 | 94–117 | 90–121 |
+| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 98 | 91–104 | 89–105 | 86–107 | 84–111 |
+| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 99 | 92–108 | 85–116 | 83–117 | 81–119 |
 | [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa |  |  |  |  |  |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
