@@ -105,13 +105,13 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
-| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 10.0% | N/A | N/A | N/A | N/A |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 9.0% | N/A | N/A | N/A | N/A |
-| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | N/A | N/A | N/A | N/A |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 10.0% | 9.1–11.1% | 8.9–11.4% | 8.6–11.6% | 8.2–12.1% |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | 8.0–10.2% | 7.8–10.4% | 7.5–10.7% | 7.1–11.2% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
 | [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 8.5% | N/A | N/A | N/A | N/A |
@@ -753,12 +753,12 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 68 | 62–74 | 60–76 | 58–78 | 56–81 |
 | [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 63 | 58–70 | 57–71 | 54–72 | 52–76 |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 62 | 54–69 | 52–73 | 49–75 | 46–78 |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa |  |  |  |  |  |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov |  |  |  |  |  |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 60 | 55–66 | 53–68 | 53–69 | 49–72 |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 61 | 57–69 | 55–70 | 53–71 | 50–76 |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 65–71 | 64–72 | 58–74 | 55–82 |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 77 | 70–83 | 68–87 | 65–88 | 64–92 |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 71 | 65–78 | 64–80 | 63–81 | 60–85 |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 69 | 63–76 | 62–78 | 59–79 | 57–83 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |

@@ -105,13 +105,13 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.6% |
 | [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 5.4% | 4.8–6.1% | 4.6–6.3% | 4.5–6.5% | 4.3–6.8% |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 5.3% | N/A | N/A | N/A | N/A |
-| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 5.2% | N/A | N/A | N/A | N/A |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5.1% | N/A | N/A | N/A | N/A |
-| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 5.0% | N/A | N/A | N/A | N/A |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 5.2% | N/A | N/A | N/A | N/A |
-| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | N/A | N/A | N/A | N/A |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.3% | 4.1–6.7% |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 5.2% | 4.6–6.0% | 4.5–6.2% | 4.3–6.3% | 4.1–6.7% |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.1–6.1% | 3.9–6.5% |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 5.0% | 4.4–5.8% | 4.2–6.1% | 4.1–6.2% | 3.8–6.6% |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.1–6.7% |
+| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | 4.3–5.9% | 4.1–6.2% | 4.0–6.4% | 3.7–6.9% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 5.1% | N/A | N/A | N/A | N/A |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 5.3% | N/A | N/A | N/A | N/A |
 | [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 5.4% | N/A | N/A | N/A | N/A |
@@ -752,12 +752,12 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 39 | 33–44 | 32–46 | 31–46 | 30–49 |
 | [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 40 | 35–45 | 34–47 | 34–48 | 32–51 |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 40 | 35–46 | 34–48 | 33–52 | 29–56 |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa |  |  |  |  |  |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov |  |  |  |  |  |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 39 | 35–43 | 34–45 | 32–47 | 30–49 |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 40 | 34–45 | 34–47 | 33–49 | 31–51 |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 39 | 34–43 | 32–45 | 31–46 | 29–49 |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 39 | 34–44 | 32–46 | 31–47 | 29–50 |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 38 | 33–43 | 32–45 | 31–46 | 30–48 |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 39 | 36–45 | 34–46 | 34–48 | 31–51 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
