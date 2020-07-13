@@ -11,10 +11,10 @@ The table below lists all polls registered and analyzed so far.
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 27–33% <br> 205–256 | 14–18% <br> 108–140 | 8–12% <br> 63–93 | 4–6% <br> 0–47 | 6–9% <br> 44–66 | 18–23% <br> 134–171 | 6–9% <br> 42–66 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 28–32% <br> 206–242 | 14–18% <br> 106–134 | 9–12% <br> 64–87 | 5–7% <br> 0–55 | 7–9% <br> 51–72 | 16–20% <br> 121–150 | 6–8% <br> 43–62 |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 28–32% <br> 214–256 | 13–17% <br> 100–129 | 10–13% <br> 72–97 | 4–6% <br> 0–46 | 8–10% <br> 58–83 | 15–19% <br> 116–150 | 6–8% <br> 45–63 |
-| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> N/A | 13–17% <br> N/A | 9–11% <br> N/A | 6–8% <br> N/A | 7–9% <br> N/A | 16–20% <br> N/A | 6–8% <br> N/A |
+| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 205–238 | 14–17% <br> 102–125 | 9–11% <br> 66–85 | 5–7% <br> 38–53 | 7–10% <br> 56–73 | 17–20% <br> 127–151 | 6–8% <br> 43–60 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 30–34% <br> 226–264 | 13–16% <br> 102–117 | 8–10% <br> 61–81 | 4–6% <br> 0–45 | 7–9% <br> 54–73 | 16–20% <br> 126–158 | 6–9% <br> 48–68 |
+| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 29–33% <br> 216–244 | 14–16% <br> 103–123 | 9–11% <br> 66–84 | 6–8% <br> 45–60 | 7–9% <br> 53–68 | 16–19% <br> 116–138 | 6–8% <br> 46–61 |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 209–239 | 14–17% <br> 100–123 | 9–11% <br> 65–85 | 6–8% <br> 44–59 | 7–9% <br> 51–68 | 16–20% <br> 122–144 | 6–8% <br> 45–60 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 29–35% <br> 218–266 | 13–17% <br> 96–130 | 7–11% <br> 54–80 | 5–8% <br> 0–57 | 6–10% <br> 51–75 | 15–19% <br> 111–146 | 6–9% <br> 44–69 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 30–35% <br> 227–269 | 14–18% <br> 106–141 | 8–11% <br> 63–88 | 3–6% <br> 0–43 | 6–9% <br> 44–65 | 16–21% <br> 126–158 | 6–9% <br> 48–69 |
