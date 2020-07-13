@@ -17,10 +17,10 @@ Last result: **12.6%** (General Election of 24 September 2017)
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.8–12.6% |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 10.0% | 9.1–11.1% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 11.0% | 10.1–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.1% |
-| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 9.0% | N/A | N/A | N/A | N/A |
-| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 10.0% | N/A | N/A | N/A | N/A |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.8–11.4% | 8.4–11.9% |
+| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
+| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 10.0% | 9.2–10.8% | 9.0–11.1% | 8.8–11.3% | 8.5–11.7% |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 9.5% | 8.5–10.6% | 8.3–10.9% | 8.0–11.2% | 7.6–11.8% |
@@ -684,10 +684,10 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 76 | 66–85 | 64–90 | 63–93 | 59–97 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 75 | 68–82 | 66–85 | 64–87 | 61–92 |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 85 | 77–92 | 75–95 | 72–97 | 69–102 |
-| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa |  |  |  |  |  |
-| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid |  |  |  |  |  |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 76 | 69–82 | 67–83 | 66–85 | 63–89 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 70 | 63–77 | 62–79 | 61–81 | 57–87 |
+| [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 75 | 68–80 | 67–83 | 66–84 | 63–87 |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 75 | 69–80 | 67–83 | 65–85 | 63–88 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 72 | 59–77 | 56–78 | 54–80 | 52–88 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa |  |  |  |  |  |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 75 | 66–82 | 64–85 | 63–88 | 57–90 |
