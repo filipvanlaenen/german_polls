@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 211–240 | 13–16% <br> 97–121 | 10–12% <br> 73–93 | 6–8% <br> 45–62 | 7–10% <br> 55–73 | 15–18% <br> 111–135 | 6–8% <br> 44–61 |
+| [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 29–33% <br> 220–251 | 13–16% <br> 95–119 | 9–11% <br> 67–87 | 5–7% <br> 39–54 | 6–8% <br> 45–63 | 16–20% <br> 124–149 | 6–8% <br> 46–63 |
+| [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 29–33% <br> 213–249 | 13–17% <br> 99–128 | 9–13% <br> 71–95 | 5–7% <br> 0–55 | 7–10% <br> 50–72 | 15–19% <br> 112–144 | 6–9% <br> 44–64 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
