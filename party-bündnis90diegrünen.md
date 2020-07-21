@@ -157,15 +157,15 @@ Last result: **8.9%** (General Election of 24 September 2017)
 | [13–20 November 2019](2019-11-20-Emnid.html) | Emnid <br> Bild am Sonntag | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
 | [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 20.9% | 20.1–21.7% | 19.9–22.0% | 19.7–22.2% | 19.3–22.6% |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
-| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | 20.3–23.7% | 19.9–24.3% | 19.5–24.7% | 18.8–25.5% |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | N/A | N/A | N/A | N/A |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 21.5% | N/A | N/A | N/A | N/A |
-| [8–11 November 2019](2019-11-11-INSAandYouGov.html) | INSA and YouGov | 20.5% | N/A | N/A | N/A | N/A |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 21.0% | N/A | N/A | N/A | N/A |
-| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.0% | N/A | N/A | N/A | N/A |
-| [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | N/A | N/A | N/A | N/A |
-| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | N/A | N/A | N/A | N/A |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 22.0% | N/A | N/A | N/A | N/A |
+| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | 20.4–23.7% | 20.0–24.2% | 19.6–24.6% | 18.8–25.4% |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | 16.8–19.4% | 16.5–19.7% | 16.2–20.1% | 15.6–20.7% |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 21.5% | 20.1–23.0% | 19.7–23.4% | 19.3–23.8% | 18.7–24.6% |
+| [8–11 November 2019](2019-11-11-INSAandYouGov.html) | INSA and YouGov | 20.5% | 19.4–21.7% | 19.1–22.0% | 18.8–22.3% | 18.3–22.9% |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 21.0% | 19.8–22.2% | 19.5–22.6% | 19.2–22.9% | 18.7–23.5% |
+| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.0% | 20.5–23.5% | 20.1–24.0% | 19.8–24.4% | 19.1–25.1% |
+| [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | 20.7–23.5% | 20.3–23.9% | 20.0–24.2% | 19.4–24.9% |
+| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | 16.8–19.4% | 16.4–19.8% | 16.1–20.1% | 15.5–20.8% |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.1% | 19.4–24.8% |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 21.0% | N/A | N/A | N/A | N/A |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 20.0% | N/A | N/A | N/A | N/A |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | N/A | N/A | N/A | N/A |
@@ -839,14 +839,14 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [13–20 November 2019](2019-11-20-Emnid.html) | Emnid <br> Bild am Sonntag | 147 | 147–153 | 146–154 | 132–158 | 127–174 |
 | [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 166 | 166 | 163–166 | 151–166 | 151–169 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 148 | 142–148 | 137–150 | 130–154 | 128–156 |
-| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [8–11 November 2019](2019-11-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa |  |  |  |  |  |
-| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 171 | 168–172 | 158–185 | 158–185 | 158–188 |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 139 | 139–150 | 136–150 | 131–150 | 123–152 |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 184 |  |  |  |  |
+| [8–11 November 2019](2019-11-11-INSAandYouGov.html) | INSA and YouGov | 153 | 145–162 | 144–163 | 142–165 | 138–172 |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 166 | 157–173 | 155–174 | 155–177 | 153–182 |
+| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 185 | 148–189 | 148–199 | 143–199 | 133–199 |
+| [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 185 | 149–191 | 149–191 | 148–191 | 142–193 |
+| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 134 | 128–139 | 128–139 | 123–139 | 118–151 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
