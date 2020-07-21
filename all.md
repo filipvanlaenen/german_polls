@@ -11,7 +11,7 @@ The table below lists all polls registered and analyzed so far.
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 216–232 | 14–17% <br> 107–120 | 10–12% <br> 76–96 | 6–8% <br> 47–52 | 7–9% <br> 60–65 | 15–19% <br> 116–124 | 6–8% <br> 47–54 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 29–33% <br> 210–264 | 12–16% <br> 105–122 | 9–11% <br> 63–100 | 4–6% <br> 0–44 | 7–9% <br> 52–75 | 16–20% <br> 142–153 | 6–8% <br> 50–63 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 28–33% <br> 205–240 | 14–18% <br> 110–134 | 9–12% <br> 63–91 | 5–7% <br> 39–54 | 7–10% <br> 50–76 | 17–21% <br> 120–151 | 6–8% <br> 44–69 |
-| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 28–32% <br> 237–248 | 14–18% <br> 118–130 | 9–12% <br> 73–84 | 4–6% <br> 0–42 | 6–8% <br> 45–66 | 18–22% <br> 130–157 | 6–8% <br> 47–56 |
+| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 28–32% <br> 212–251 | 14–18% <br> 109–131 | 9–12% <br> 65–88 | 4–6% <br> 0–46 | 6–8% <br> 44–65 | 18–22% <br> 136–173 | 6–8% <br> 43–65 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 207–235 | 14–18% <br> 109–131 | 9–12% <br> 69–89 | 6–8% <br> 45–61 | 7–9% <br> 52–68 | 15–19% <br> 115–138 | 6–8% <br> 44–58 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 29–33% <br> 219–252 | 12–16% <br> 96–120 | 9–11% <br> 67–87 | 5–7% <br> 0–54 | 7–9% <br> 52–71 | 15–19% <br> 116–144 | 6–8% <br> 46–64 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 30–35% <br> 224–271 | 13–17% <br> 100–132 | 7–11% <br> 57–82 | 4–6% <br> 0–46 | 6–9% <br> 43–66 | 17–21% <br> 126–165 | 6–9% <br> 47–71 |
@@ -158,9 +158,9 @@ The table below lists all polls registered and analyzed so far.
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 19–23% <br> 147–178 | 12–15% <br> 91–111 | 12–15% <br> 90–105 | 8–10% <br> 60–78 | 9–11% <br> 68–86 | 19–23% <br> 155–177 | 4–6% <br> 33–46 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–24% <br> 151–186 | 12–16% <br> 91–122 | 12–16% <br> 91–116 | 6–9% <br> 44–58 | 8–12% <br> 65–89 | 20–24% <br> 143–199 | 4–6% <br> 31–41 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 19–23% <br> 136–181 | 12–16% <br> 95–121 | 12–16% <br> 94–122 | 7–10% <br> 48–74 | 8–11% <br> 60–76 | 20–24% <br> 148–191 | 4–6% <br> 28–49 |
-| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> N/A | 14–18% <br> N/A | 12–16% <br> N/A | 9–12% <br> N/A | 9–12% <br> N/A | 16–20% <br> N/A | 4–6% <br> N/A |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> 159–185 | 14–18% <br> 99–142 | 12–16% <br> 92–109 | 9–12% <br> 65–87 | 9–12% <br> 63–83 | 16–20% <br> 123–139 | 4–6% <br> 33–50 |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 20–24% <br> 145–191 | 11–15% <br> 84–111 | 12–16% <br> 93–119 | 6–8% <br> 43–58 | 9–12% <br> 73–90 | 20–24% <br> 145–175 | 4–6% <br> 34–51 |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 140–165 | 12–15% <br> 103–109 | 14–18% <br> 121–128 | 7–9% <br> 55–70 | 9–11% <br> 66–87 | 19–23% <br> 145–164 | 4–6% <br> 32–39 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
