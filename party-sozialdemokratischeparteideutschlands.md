@@ -165,8 +165,8 @@ Last result: **20.5%** (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.7% |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.9–15.2% | 12.6–15.6% | 12.3–15.9% | 11.8–16.4% |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.6–18.6% |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 13.5% | N/A | N/A | N/A | N/A |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 11.0–15.3% |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 13.5% | 12.5–14.5% | 12.3–14.8% | 12.1–15.0% | 11.6–15.5% |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | N/A | N/A | N/A | N/A |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 13.5% | N/A | N/A | N/A | N/A |
@@ -687,14 +687,14 @@ Last result: **153** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 114 | 103–128 | 100–130 | 98–133 | 94–139 |
+| N/A | [Poll Average](average.html) | 114 | 103–126 | 100–129 | 98–133 | 94–140 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 110 | 101–116 | 99–118 | 97–121 | 94–124 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 108 | 98–114 | 97–117 | 95–119 | 93–124 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 112 | 104–121 | 101–124 | 99–128 | 95–132 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 107 | 107–120 | 107–120 | 107–120 | 103–120 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 110 | 106–121 | 105–121 | 105–122 | 103–122 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 117 | 111–124 | 111–127 | 110–134 | 100–136 |
-| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 118 | 118–130 | 118–130 | 118–130 | 118–130 |
+| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 120 | 112–127 | 110–129 | 109–131 | 107–144 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 121 | 111–128 | 109–130 | 109–131 | 104–136 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 108 | 99–114 | 97–117 | 96–120 | 92–124 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 115 | 104–126 | 102–129 | 100–132 | 95–137 |
@@ -842,8 +842,8 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 111 | 101–111 | 91–113 | 91–122 | 91–123 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 107 | 98–110 | 95–112 | 95–121 | 91–124 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 105 | 105–142 | 105–142 | 99–142 | 99–142 |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov |  |  |  |  |  |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 94 | 84–111 | 84–111 | 84–111 | 82–112 |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 109 | 103–109 | 103–109 | 103–109 | 98–113 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1367,43 +1367,43 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 4% | 77% |  |
 | 109 | 4% | 73% |  |
 | 110 | 4% | 69% |  |
-| 111 | 7% | 65% |  |
-| 112 | 4% | 58% |  |
-| 113 | 2% | 55% |  |
-| 114 | 4% | 52% | Median |
-| 115 | 3% | 48% |  |
-| 116 | 3% | 45% |  |
-| 117 | 3% | 42% |  |
-| 118 | 11% | 39% |  |
-| 119 | 2% | 27% |  |
-| 120 | 2% | 25% |  |
-| 121 | 3% | 23% |  |
-| 122 | 2% | 20% |  |
-| 123 | 2% | 18% |  |
-| 124 | 1.4% | 16% |  |
-| 125 | 2% | 15% |  |
-| 126 | 2% | 13% |  |
-| 127 | 0.8% | 11% |  |
-| 128 | 1.3% | 10% |  |
-| 129 | 2% | 9% |  |
-| 130 | 3% | 6% |  |
-| 131 | 0.4% | 4% |  |
-| 132 | 0.4% | 3% |  |
-| 133 | 0.8% | 3% |  |
+| 111 | 7% | 64% |  |
+| 112 | 4% | 57% |  |
+| 113 | 3% | 53% |  |
+| 114 | 5% | 50% | Median |
+| 115 | 4% | 46% |  |
+| 116 | 4% | 42% |  |
+| 117 | 4% | 38% |  |
+| 118 | 3% | 34% |  |
+| 119 | 3% | 31% |  |
+| 120 | 4% | 28% |  |
+| 121 | 4% | 24% |  |
+| 122 | 3% | 20% |  |
+| 123 | 2% | 17% |  |
+| 124 | 2% | 15% |  |
+| 125 | 2% | 13% |  |
+| 126 | 2% | 11% |  |
+| 127 | 1.1% | 9% |  |
+| 128 | 2% | 8% |  |
+| 129 | 2% | 7% |  |
+| 130 | 0.9% | 5% |  |
+| 131 | 0.5% | 4% |  |
+| 132 | 0.4% | 4% |  |
+| 133 | 0.9% | 3% |  |
 | 134 | 0.5% | 2% |  |
 | 135 | 0.2% | 2% |  |
-| 136 | 0.5% | 1.5% |  |
-| 137 | 0.1% | 0.9% |  |
-| 138 | 0.1% | 0.8% |  |
-| 139 | 0.2% | 0.7% |  |
-| 140 | 0.1% | 0.4% |  |
-| 141 | 0.2% | 0.4% |  |
-| 142 | 0% | 0.2% |  |
-| 143 | 0.1% | 0.2% |  |
-| 144 | 0.1% | 0.1% |  |
-| 145 | 0% | 0% |  |
-| 146 | 0% | 0% |  |
-| 147 | 0% | 0% |  |
+| 136 | 0.5% | 2% |  |
+| 137 | 0.1% | 1.1% |  |
+| 138 | 0.1% | 0.9% |  |
+| 139 | 0.2% | 0.8% |  |
+| 140 | 0.1% | 0.6% |  |
+| 141 | 0.2% | 0.5% |  |
+| 142 | 0% | 0.3% |  |
+| 143 | 0.1% | 0.3% |  |
+| 144 | 0.1% | 0.2% |  |
+| 145 | 0% | 0.1% |  |
+| 146 | 0% | 0.1% |  |
+| 147 | 0% | 0.1% |  |
 | 148 | 0% | 0% |  |
 | 149 | 0% | 0% |  |
 | 150 | 0% | 0% |  |

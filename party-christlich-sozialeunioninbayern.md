@@ -165,8 +165,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | 4.3–5.9% | 4.1–6.2% | 4.0–6.4% | 3.7–6.9% |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 4.8% | 4.2–5.6% | 4.0–5.9% | 3.9–6.1% | 3.6–6.4% |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.9–6.1% | 3.6–6.6% |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.7–6.7% |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 4.8% | N/A | N/A | N/A | N/A |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 5.1% | 4.4–5.8% | 4.2–6.1% | 4.1–6.2% | 3.8–6.6% |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 4.8% | 4.2–5.5% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 5.3% | N/A | N/A | N/A | N/A |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 5.1% | N/A | N/A | N/A | N/A |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 4.8% | N/A | N/A | N/A | N/A |
@@ -684,14 +684,14 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 54 | 48–62 | 47–65 | 45–68 | 42–72 |
+| N/A | [Poll Average](average.html) | 54 | 48–62 | 46–65 | 45–68 | 42–72 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 51 | 47–58 | 45–59 | 44–61 | 42–63 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 54 | 49–60 | 47–62 | 46–63 | 43–67 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 53 | 47–60 | 45–62 | 44–64 | 42–68 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 54 | 47–54 | 47–54 | 47–54 | 42–55 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 61 | 50–63 | 50–63 | 50–63 | 50–63 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 54 | 49–59 | 49–67 | 44–69 | 42–69 |
-| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 49 | 49–56 | 49–56 | 47–56 | 47–57 |
+| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 52 | 46–60 | 45–61 | 43–65 | 41–69 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 50 | 45–57 | 45–58 | 44–58 | 41–63 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 55 | 49–61 | 47–62 | 46–64 | 43–67 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 58 | 52–67 | 49–70 | 47–71 | 43–75 |
@@ -839,8 +839,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 32 | 32–39 | 31–40 | 31–41 | 22–48 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 36 | 30–42 | 30–49 | 28–49 | 26–50 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 39 | 33–49 | 33–50 | 33–50 | 31–50 |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov |  |  |  |  |  |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 46 | 37–51 | 34–51 | 34–51 | 33–53 |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 35 | 35–38 | 32–39 | 32–39 | 32–40 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1342,38 +1342,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
 | 40 | 0.1% | 99.9% |  |
-| 41 | 0.1% | 99.8% |  |
-| 42 | 0.2% | 99.7% |  |
-| 43 | 0.4% | 99.4% |  |
-| 44 | 1.1% | 99.1% |  |
+| 41 | 0.2% | 99.8% |  |
+| 42 | 0.5% | 99.6% |  |
+| 43 | 0.5% | 99.1% |  |
+| 44 | 1.1% | 98.7% |  |
 | 45 | 2% | 98% |  |
-| 46 | 1.0% | 96% | Last Result |
-| 47 | 3% | 95% |  |
-| 48 | 3% | 92% |  |
-| 49 | 12% | 90% |  |
-| 50 | 4% | 78% |  |
-| 51 | 5% | 74% |  |
-| 52 | 7% | 69% |  |
-| 53 | 6% | 61% |  |
-| 54 | 8% | 56% | Median |
-| 55 | 6% | 47% |  |
-| 56 | 7% | 41% |  |
-| 57 | 5% | 34% |  |
-| 58 | 5% | 29% |  |
-| 59 | 6% | 24% |  |
-| 60 | 4% | 18% |  |
-| 61 | 2% | 14% |  |
-| 62 | 3% | 11% |  |
+| 46 | 2% | 95% | Last Result |
+| 47 | 3% | 94% |  |
+| 48 | 4% | 91% |  |
+| 49 | 5% | 87% |  |
+| 50 | 5% | 82% |  |
+| 51 | 5% | 77% |  |
+| 52 | 8% | 71% |  |
+| 53 | 6% | 64% |  |
+| 54 | 8% | 58% | Median |
+| 55 | 7% | 50% |  |
+| 56 | 6% | 43% |  |
+| 57 | 5% | 36% |  |
+| 58 | 5% | 31% |  |
+| 59 | 6% | 26% |  |
+| 60 | 5% | 20% |  |
+| 61 | 3% | 15% |  |
+| 62 | 3% | 12% |  |
 | 63 | 2% | 9% |  |
-| 64 | 1.1% | 7% |  |
-| 65 | 1.3% | 6% |  |
+| 64 | 1.2% | 7% |  |
+| 65 | 1.5% | 6% |  |
 | 66 | 1.1% | 4% |  |
 | 67 | 0.5% | 3% |  |
 | 68 | 1.0% | 3% |  |
 | 69 | 0.6% | 2% |  |
-| 70 | 0.4% | 1.2% |  |
+| 70 | 0.5% | 1.2% |  |
 | 71 | 0.2% | 0.8% |  |
 | 72 | 0.2% | 0.6% |  |
 | 73 | 0.1% | 0.4% |  |
