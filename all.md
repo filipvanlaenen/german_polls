@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 29–33% <br> 220–253 | 13–16% <br> 96–119 | 8–10% <br> 58–80 | 5–7% <br> 0–55 | 7–9% <br> 51–71 | 16–20% <br> 125–153 | 6–8% <br> 46–64 |
+| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 211–240 | 13–16% <br> 97–121 | 10–12% <br> 73–93 | 6–8% <br> 45–62 | 7–10% <br> 55–73 | 15–18% <br> 111–135 | 6–8% <br> 44–61 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 29–33% <br> 220–251 | 13–16% <br> 95–119 | 9–11% <br> 67–87 | 5–7% <br> 39–54 | 6–8% <br> 45–63 | 16–20% <br> 124–149 | 6–8% <br> 46–63 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 29–33% <br> 213–249 | 13–17% <br> 99–128 | 9–13% <br> 71–95 | 5–7% <br> 0–55 | 7–10% <br> 50–72 | 15–19% <br> 112–144 | 6–9% <br> 44–64 |
@@ -161,12 +164,12 @@ The table below lists all polls registered and analyzed so far.
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> 159–185 | 14–18% <br> 99–142 | 12–16% <br> 92–109 | 9–12% <br> 65–87 | 9–12% <br> 63–83 | 16–20% <br> 123–139 | 4–6% <br> 33–50 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 20–24% <br> 145–191 | 11–15% <br> 84–111 | 12–16% <br> 93–119 | 6–8% <br> 43–58 | 9–12% <br> 73–90 | 20–24% <br> 145–175 | 4–6% <br> 34–51 |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 140–165 | 12–15% <br> 103–109 | 14–18% <br> 121–128 | 7–9% <br> 55–70 | 9–11% <br> 66–87 | 19–23% <br> 145–164 | 4–6% <br> 32–39 |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 21–25% <br> 167–185 | 12–15% <br> 86–117 | 12–15% <br> 90–115 | 7–9% <br> 59–71 | 9–11% <br> 71–86 | 18–22% <br> 135–163 | 4–6% <br> 35–43 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 20–24% <br> 163–176 | 14–18% <br> 99–133 | 13–17% <br> 101–112 | 8–10% <br> 61–77 | 8–10% <br> 65–87 | 16–20% <br> 126–138 | 4–6% <br> 35–49 |
+| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 147–167 | 12–15% <br> 101–112 | 14–17% <br> 101–134 | 6–9% <br> 48–63 | 8–10% <br> 58–70 | 21–25% <br> 161–182 | 4–6% <br> 31–46 |
+| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 22–25% <br> 169–195 | 13–15% <br> 98–118 | 12–14% <br> 90–109 | 7–9% <br> 52–70 | 7–9% <br> 54–70 | 18–22% <br> 142–164 | 5–6% <br> 35–49 |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 21–26% <br> 160–190 | 13–17% <br> 98–125 | 12–16% <br> 91–118 | 7–9% <br> 50–70 | 8–11% <br> 57–78 | 18–22% <br> 133–165 | 4–7% <br> 32–50 |
+| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov | 20–24% <br> 155–181 | 12–15% <br> 86–118 | 14–17% <br> 99–128 | 6–9% <br> 49–66 | 8–10% <br> 56–79 | 21–24% <br> 150–185 | 4–6% <br> 29–41 |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
