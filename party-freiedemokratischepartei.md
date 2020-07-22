@@ -10,7 +10,10 @@ Last result: **10.7%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.4–7.0% | 4.2–7.3% | 3.9–7.6% | 3.6–8.1% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.5–6.5% | 4.3–6.8% | 4.1–7.0% | 3.8–7.5% |
+| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
+| [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
+| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 5.5% | N/A | N/A | N/A | N/A |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.5% |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 6.0% | 5.3–6.9% | 5.1–7.2% | 4.9–7.4% | 4.6–7.8% |
@@ -167,12 +170,12 @@ Last result: **10.7%** (General Election of 24 September 2017)
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.5–11.7% | 8.1–12.2% |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.9–8.4% | 5.5–8.8% |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
-| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
+| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.0% | N/A | N/A | N/A | N/A |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | N/A | N/A | N/A | N/A |
@@ -667,13 +670,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 14% | 99.5% |  |
-| 4.5–5.5% | 36% | 86% |  |
-| 5.5–6.5% | 31% | 50% | Median |
-| 6.5–7.5% | 16% | 19% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 12% | 99.9% |  |
+| 4.5–5.5% | 44% | 88% | Median |
+| 5.5–6.5% | 36% | 44% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -686,7 +689,10 @@ Last result: **80** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 0–52 | 0–55 | 0–57 | 0–61 |
+| N/A | [Poll Average](average.html) | 41 | 0–49 | 0–51 | 0–53 | 0–56 |
+| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 46 | 41–52 | 39–54 | 0–55 | 0–57 |
+| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 52 | 47–59 | 46–60 | 45–62 | 43–64 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 46 | 41–51 | 40–53 | 39–54 | 0–57 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 46 | 39–51 | 38–53 | 0–55 | 0–58 |
@@ -843,12 +849,12 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 80 | 70–87 | 69–87 | 65–87 | 60–87 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 49 | 43–58 | 43–58 | 43–58 | 40–65 |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 57 | 55–70 | 55–70 | 55–70 | 49–70 |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa |  |  |  |  |  |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 60 | 60–62 | 60–66 | 59–71 | 56–72 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 66 | 66–71 | 66–72 | 61–77 | 54–82 |
+| [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 59 | 50–59 | 48–60 | 48–63 | 46–64 |
+| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 62 | 57–66 | 56–69 | 52–70 | 51–72 |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 59 | 53–66 | 51–69 | 50–70 | 47–74 |
+| [18–21 October 2019](2019-10-21-INSAandYouGov.html) | INSA and YouGov | 54 | 49–66 | 49–66 | 49–66 | 49–67 |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa |  |  |  |  |  |
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
@@ -1344,72 +1350,72 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 0% | 69% |  |
-| 2 | 0% | 69% |  |
-| 3 | 0% | 69% |  |
-| 4 | 0% | 69% |  |
-| 5 | 0% | 69% |  |
-| 6 | 0% | 69% |  |
-| 7 | 0% | 69% |  |
-| 8 | 0% | 69% |  |
-| 9 | 0% | 69% |  |
-| 10 | 0% | 69% |  |
-| 11 | 0% | 69% |  |
-| 12 | 0% | 69% |  |
-| 13 | 0% | 69% |  |
-| 14 | 0% | 69% |  |
-| 15 | 0% | 69% |  |
-| 16 | 0% | 69% |  |
-| 17 | 0% | 69% |  |
-| 18 | 0% | 69% |  |
-| 19 | 0% | 69% |  |
-| 20 | 0% | 69% |  |
-| 21 | 0% | 69% |  |
-| 22 | 0% | 69% |  |
-| 23 | 0% | 69% |  |
-| 24 | 0% | 69% |  |
-| 25 | 0% | 69% |  |
-| 26 | 0% | 69% |  |
-| 27 | 0% | 69% |  |
-| 28 | 0% | 69% |  |
-| 29 | 0% | 69% |  |
-| 30 | 0% | 69% |  |
-| 31 | 0% | 69% |  |
-| 32 | 0% | 69% |  |
-| 33 | 0% | 69% |  |
-| 34 | 0% | 69% |  |
-| 35 | 0% | 69% |  |
-| 36 | 0% | 69% |  |
-| 37 | 0.6% | 69% |  |
-| 38 | 4% | 68% |  |
-| 39 | 4% | 64% |  |
-| 40 | 4% | 60% |  |
-| 41 | 5% | 56% |  |
-| 42 | 4% | 51% | Median |
-| 43 | 7% | 48% |  |
-| 44 | 4% | 41% |  |
-| 45 | 5% | 37% |  |
-| 46 | 4% | 32% |  |
-| 47 | 4% | 29% |  |
-| 48 | 5% | 25% |  |
-| 49 | 3% | 20% |  |
-| 50 | 3% | 17% |  |
-| 51 | 3% | 14% |  |
-| 52 | 3% | 11% |  |
-| 53 | 2% | 9% |  |
-| 54 | 1.0% | 7% |  |
-| 55 | 2% | 6% |  |
-| 56 | 1.3% | 4% |  |
-| 57 | 0.7% | 3% |  |
-| 58 | 0.5% | 2% |  |
-| 59 | 0.5% | 2% |  |
-| 60 | 0.4% | 1.0% |  |
-| 61 | 0.2% | 0.6% |  |
-| 62 | 0.2% | 0.4% |  |
-| 63 | 0.1% | 0.2% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0.1% |  |
+| 0 | 32% | 100% |  |
+| 1 | 0% | 68% |  |
+| 2 | 0% | 68% |  |
+| 3 | 0% | 68% |  |
+| 4 | 0% | 68% |  |
+| 5 | 0% | 68% |  |
+| 6 | 0% | 68% |  |
+| 7 | 0% | 68% |  |
+| 8 | 0% | 68% |  |
+| 9 | 0% | 68% |  |
+| 10 | 0% | 68% |  |
+| 11 | 0% | 68% |  |
+| 12 | 0% | 68% |  |
+| 13 | 0% | 68% |  |
+| 14 | 0% | 68% |  |
+| 15 | 0% | 68% |  |
+| 16 | 0% | 68% |  |
+| 17 | 0% | 68% |  |
+| 18 | 0% | 68% |  |
+| 19 | 0% | 68% |  |
+| 20 | 0% | 68% |  |
+| 21 | 0% | 68% |  |
+| 22 | 0% | 68% |  |
+| 23 | 0% | 68% |  |
+| 24 | 0% | 68% |  |
+| 25 | 0% | 68% |  |
+| 26 | 0% | 68% |  |
+| 27 | 0% | 68% |  |
+| 28 | 0% | 68% |  |
+| 29 | 0% | 68% |  |
+| 30 | 0% | 68% |  |
+| 31 | 0% | 68% |  |
+| 32 | 0% | 68% |  |
+| 33 | 0% | 68% |  |
+| 34 | 0% | 68% |  |
+| 35 | 0% | 68% |  |
+| 36 | 0% | 68% |  |
+| 37 | 0.6% | 68% |  |
+| 38 | 6% | 67% |  |
+| 39 | 5% | 61% |  |
+| 40 | 4% | 57% |  |
+| 41 | 6% | 53% | Median |
+| 42 | 5% | 46% |  |
+| 43 | 7% | 42% |  |
+| 44 | 5% | 34% |  |
+| 45 | 6% | 29% |  |
+| 46 | 6% | 24% |  |
+| 47 | 3% | 18% |  |
+| 48 | 4% | 14% |  |
+| 49 | 2% | 10% |  |
+| 50 | 2% | 8% |  |
+| 51 | 1.2% | 6% |  |
+| 52 | 1.4% | 5% |  |
+| 53 | 1.3% | 3% |  |
+| 54 | 0.9% | 2% |  |
+| 55 | 0.3% | 1.1% |  |
+| 56 | 0.3% | 0.7% |  |
+| 57 | 0.3% | 0.4% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0.1% |  |
+| 60 | 0% | 0.1% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
