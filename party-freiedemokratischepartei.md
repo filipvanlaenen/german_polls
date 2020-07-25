@@ -689,7 +689,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 0–56 | 0–59 | 0–61 | 0–66 |
+| N/A | [Poll Average](average.html) | 42 | 0–56 | 0–59 | 0–61 | 0–66 |
 | [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 57 | 52–62 | 50–64 | 49–66 | 46–69 |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 46 | 41–52 | 39–54 | 0–55 | 0–57 |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 41 | 0–48 | 0–49 | 0–50 | 0–54 |
@@ -699,10 +699,10 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 53 | 47–58 | 46–61 | 45–62 | 43–64 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 0 | 0–43 | 0–46 | 0–47 | 0–49 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 44 | 39–51 | 38–52 | 0–53 | 0–57 |
-| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 0 | 0–43 | 0–45 | 0–46 | 0–50 |
+| [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 0 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–61 | 42–64 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 0–54 | 0–57 |
-| [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–45 | 0–46 | 0–46 | 0–51 |
+| [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–44 | 0–45 | 0–47 | 0–51 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 0 | 0–43 | 0–45 | 0–47 | 0–51 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 45 | 40–51 | 38–53 | 0–55 | 0–58 |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 38 | 0–43 | 0–44 | 0–46 | 0–50 |
@@ -1387,16 +1387,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 74% |  |
 | 35 | 0% | 74% |  |
 | 36 | 0% | 74% |  |
-| 37 | 1.3% | 74% |  |
+| 37 | 1.5% | 74% |  |
 | 38 | 5% | 72% |  |
-| 39 | 4% | 67% |  |
-| 40 | 3% | 63% |  |
-| 41 | 6% | 60% |  |
-| 42 | 4% | 54% |  |
-| 43 | 6% | 51% | Median |
-| 44 | 6% | 45% |  |
-| 45 | 5% | 39% |  |
-| 46 | 5% | 33% |  |
+| 39 | 5% | 67% |  |
+| 40 | 4% | 62% |  |
+| 41 | 5% | 58% |  |
+| 42 | 5% | 53% | Median |
+| 43 | 6% | 49% |  |
+| 44 | 6% | 43% |  |
+| 45 | 4% | 38% |  |
+| 46 | 4% | 33% |  |
 | 47 | 3% | 29% |  |
 | 48 | 3% | 25% |  |
 | 49 | 2% | 22% |  |
