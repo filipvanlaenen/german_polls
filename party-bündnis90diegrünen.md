@@ -702,9 +702,9 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 124 | 117–131 | 114–133 | 111–135 | 108–140 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 135 | 129–145 | 127–148 | 124–149 | 121–156 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 127 | 117–137 | 114–140 | 112–143 | 108–148 |
-| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 129 | 120–136 | 118–139 | 117–140 | 113–145 |
-| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 141 | 129–154 | 126–154 | 126–155 | 122–160 |
-| [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 139 | 131–150 | 128–153 | 126–157 | 121–161 |
+| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 128 | 120–136 | 118–139 | 116–141 | 113–145 |
+| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 140 | 130–153 | 128–155 | 126–157 | 122–161 |
+| [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 141 | 131–151 | 128–154 | 126–156 | 121–162 |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 153 | 142–166 | 138–168 | 136–171 | 131–177 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 128 | 119–135 | 117–137 | 115–138 | 112–143 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 128 | 121–138 | 119–141 | 116–144 | 113–148 |
