@@ -688,13 +688,13 @@ Last result: **69** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 50–69 | 48–74 | 46–75 | 43–83 |
+| N/A | [Poll Average](average.html) | 58 | 50–69 | 48–74 | 46–75 | 43–82 |
 | [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 56 | 51–63 | 49–65 | 49–66 | 46–70 |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 61 | 55–68 | 53–70 | 51–71 | 49–74 |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 58 | 49–64 | 47–65 | 45–68 | 43–74 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 65 | 58–69 | 57–71 | 55–73 | 52–76 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 53 | 48–59 | 47–61 | 45–63 | 43–66 |
-| [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 60 | 54–68 | 51–69 | 50–72 | 47–75 |
+| [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 60 | 53–67 | 51–69 | 50–71 | 47–75 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 61 | 55–67 | 53–68 | 52–69 | 50–72 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 63 | 57–72 | 55–73 | 53–74 | 50–77 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 61 | 52–68 | 51–68 | 49–70 | 47–73 |
@@ -1365,20 +1365,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 4% | 89% |  |
 | 52 | 3% | 85% |  |
 | 53 | 5% | 82% |  |
-| 54 | 4% | 77% |  |
+| 54 | 5% | 76% |  |
 | 55 | 6% | 72% |  |
-| 56 | 5% | 66% |  |
+| 56 | 5% | 65% |  |
 | 57 | 7% | 61% |  |
 | 58 | 6% | 54% | Median |
-| 59 | 4% | 47% |  |
+| 59 | 4% | 48% |  |
 | 60 | 5% | 43% |  |
-| 61 | 5% | 39% |  |
+| 61 | 4% | 38% |  |
 | 62 | 5% | 34% |  |
-| 63 | 4% | 29% |  |
+| 63 | 5% | 29% |  |
 | 64 | 3% | 24% |  |
 | 65 | 2% | 21% |  |
 | 66 | 3% | 19% |  |
-| 67 | 2% | 16% |  |
+| 67 | 2% | 15% |  |
 | 68 | 2% | 14% |  |
 | 69 | 2% | 11% | Last Result |
 | 70 | 0.9% | 10% |  |
