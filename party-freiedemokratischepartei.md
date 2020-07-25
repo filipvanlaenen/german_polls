@@ -692,12 +692,12 @@ Last result: **80** seats (General Election of 24 September 2017)
 | N/A | [Poll Average](average.html) | 42 | 0–56 | 0–59 | 0–61 | 0–66 |
 | [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 57 | 52–62 | 50–64 | 49–66 | 46–69 |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 46 | 41–52 | 39–54 | 0–55 | 0–57 |
-| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 41 | 0–48 | 0–49 | 0–50 | 0–54 |
+| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 40 | 0–48 | 0–50 | 0–51 | 0–54 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 52 | 47–59 | 46–60 | 45–62 | 43–64 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 46 | 41–51 | 40–53 | 39–54 | 0–57 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–62 | 43–65 |
-| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 0 | 0–43 | 0–45 | 0–46 | 0–49 |
+| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 38 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 44 | 39–50 | 37–52 | 0–54 | 0–57 |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 0 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–61 | 42–64 |
@@ -1387,22 +1387,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 74% |  |
 | 35 | 0% | 74% |  |
 | 36 | 0% | 74% |  |
-| 37 | 1.5% | 74% |  |
+| 37 | 1.0% | 74% |  |
 | 38 | 5% | 72% |  |
 | 39 | 5% | 67% |  |
 | 40 | 4% | 62% |  |
 | 41 | 5% | 58% |  |
 | 42 | 5% | 53% | Median |
-| 43 | 6% | 49% |  |
-| 44 | 6% | 43% |  |
+| 43 | 5% | 48% |  |
+| 44 | 5% | 42% |  |
 | 45 | 4% | 38% |  |
-| 46 | 4% | 33% |  |
+| 46 | 5% | 34% |  |
 | 47 | 3% | 29% |  |
-| 48 | 3% | 25% |  |
+| 48 | 3% | 26% |  |
 | 49 | 2% | 22% |  |
 | 50 | 2% | 20% |  |
 | 51 | 2% | 18% |  |
-| 52 | 1.4% | 16% |  |
+| 52 | 1.5% | 16% |  |
 | 53 | 2% | 15% |  |
 | 54 | 1.3% | 12% |  |
 | 55 | 0.8% | 11% |  |
