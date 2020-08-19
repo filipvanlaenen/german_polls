@@ -14,7 +14,7 @@ The following websites provide similar information to this website:
 + [Electograph – Germany](https://www.electograph.com/search/label/Germany)
 + [Germany - Europe Elects](https://europeelects.eu/european-union/germany/)
 + [POLITICO Poll of Polls — German polls, trends and election news for Germany - POLITICO](https://www.politico.eu/europe-poll-of-polls/germany/)
-+ [pollytix-Wahltrend | pollytix | strategic research](https://pollytix.de/wahltrend/)
++ [pollytix-Wahltrend – pollytix – strategic research](https://pollytix.de/wahltrend/)
 + [Twitter Search: EuropeElects Germany](https://twitter.com/search?f=tweets&q=europeelects%20germany&src=typd)
 + [Wahlumfragen zur Bundestagswahl – Sonntagsfrage (Wahlumfrage, Umfragen)](http://www.wahlrecht.de/umfragen/index.htm)
 
