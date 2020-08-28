@@ -217,8 +217,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 5.1% | 4.4–5.8% | 4.3–6.0% | 4.1–6.2% | 3.8–6.6% |
 | [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 4.9% | 4.3–5.5% | 4.1–5.7% | 4.0–5.9% | 3.8–6.2% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
-| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5.1% | N/A | N/A | N/A | N/A |
-| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5.4% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5.4% | 4.8–6.2% | 4.6–6.4% | 4.4–6.6% | 4.1–7.0% |
 | [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 5.1% | N/A | N/A | N/A | N/A |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 5.1% | N/A | N/A | N/A | N/A |
@@ -915,8 +915,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 38 | 33–44 | 32–45 | 31–47 | 29–49 |
 | [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 36 | 34–42 | 32–44 | 31–45 | 29–46 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 36 | 33–45 | 33–47 | 32–48 | 31–50 |
-| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 38 | 33–45 | 30–46 | 29–49 | 26–53 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 40 | 36–45 | 35–47 | 33–50 | 31–53 |
 | [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa |  |  |  |  |  |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS |  |  |  |  |  |

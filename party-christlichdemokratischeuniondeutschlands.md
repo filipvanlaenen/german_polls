@@ -217,8 +217,8 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.7–23.3% | 20.3–23.6% | 20.0–24.0% | 19.4–24.6% |
 | [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 21.2% | 20.0–22.3% | 19.7–22.7% | 19.4–23.0% | 18.9–23.6% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
-| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 21.9% | N/A | N/A | N/A | N/A |
-| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 23.6% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 21.9% | 20.4–23.6% | 19.9–24.1% | 19.5–24.5% | 18.8–25.3% |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 23.6% | 22.2–24.9% | 21.9–25.3% | 21.6–25.7% | 20.9–26.4% |
 | [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 21.5% | N/A | N/A | N/A | N/A |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 22.0% | N/A | N/A | N/A | N/A |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 21.9% | N/A | N/A | N/A | N/A |
@@ -919,8 +919,8 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 164 | 156–175 | 155–177 | 152–182 | 148–184 |
 | [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 158 | 152–168 | 149–171 | 147–172 | 143–177 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 168 | 162–175 | 159–177 | 155–179 | 150–187 |
-| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 165 | 153–176 | 150–181 | 147–184 | 141–191 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 173 | 169–186 | 167–187 | 158–189 | 157–196 |
 | [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa |  |  |  |  |  |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS |  |  |  |  |  |
