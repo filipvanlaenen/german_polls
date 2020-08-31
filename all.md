@@ -213,7 +213,7 @@ The table below lists all polls registered and analyzed so far.
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 20–24% <br> 155–179 | 13–17% <br> 105–129 | 12–15% <br> 90–112 | 7–9% <br> 52–69 | 6–8% <br> 47–63 | 20–24% <br> 156–180 | 4–6% <br> 32–48 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 20–25% <br> 147–184 | 12–16% <br> 91–121 | 12–16% <br> 90–122 | 6–10% <br> 49–72 | 6–10% <br> 48–74 | 21–26% <br> 154–194 | 4–7% <br> 29–49 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 22–26% <br> 158–189 | 13–17% <br> 100–125 | 12–16% <br> 93–117 | 7–9% <br> 52–70 | 7–9% <br> 50–70 | 19–23% <br> 143–172 | 4–7% <br> 33–50 |
-| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 150–177 | 12–15% <br> 92–112 | 14–18% <br> 109–136 | 6–9% <br> 49–66 | 6–9% <br> 49–66 | 21–24% <br> 156–185 | 4–6% <br> 31–45 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
