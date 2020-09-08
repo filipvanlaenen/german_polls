@@ -258,7 +258,7 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.9–6.1% | 3.6–6.5% |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.9–6.1% | 3.6–6.5% |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
-| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 5.5% | N/A | N/A | N/A | N/A |
+| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 5.0% | N/A | N/A | N/A | N/A |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 4.9% | N/A | N/A | N/A | N/A |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 4.9% | N/A | N/A | N/A | N/A |
@@ -719,7 +719,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 53 | 47–59 | 46–60 | 44–63 | 42–66 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 50 | 45–57 | 43–59 | 42–61 | 39–64 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 51 | 46–57 | 45–58 | 44–60 | 42–62 |
-| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 53 | 48–59 | 46–61 | 45–62 | 42–66 |
+| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 54 | 48–60 | 46–62 | 45–64 | 42–66 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–62 | 46–64 | 44–67 | 42–71 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 52 | 45–58 | 44–59 | 43–61 | 39–64 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 52 | 46–59 | 45–62 | 43–62 | 41–67 |
@@ -963,7 +963,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 37 | 32–42 | 31–45 | 30–46 | 27–48 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 38 | 33–43 | 31–45 | 30–46 | 27–49 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 27 | 26–34 | 26–39 | 26–40 | 23–46 |
-| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 41 | 37–45 | 35–47 | 34–48 | 33–51 |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |

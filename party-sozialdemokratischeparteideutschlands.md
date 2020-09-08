@@ -258,7 +258,7 @@ Last result: **20.5%** (General Election of 24 September 2017)
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.4–13.7% | 10.0–14.3% |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.3–14.8% | 10.8–15.4% |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 13.0% | 11.9–14.1% | 11.7–14.4% | 11.4–14.7% | 10.9–15.3% |
-| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 12.5% | N/A | N/A | N/A | N/A |
+| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 12.5% | 11.6–13.5% | 11.4–13.8% | 11.2–14.0% | 10.7–14.5% |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | N/A | N/A | N/A | N/A |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | N/A | N/A | N/A | N/A |
@@ -722,7 +722,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 125 | 114–135 | 112–137 | 111–141 | 107–145 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 128 | 117–137 | 115–139 | 113–142 | 108–147 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 120 | 112–128 | 110–131 | 108–132 | 105–136 |
-| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 129 | 123–138 | 121–140 | 119–142 | 116–147 |
+| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 127 | 118–135 | 114–138 | 112–140 | 108–146 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 121 | 111–131 | 108–137 | 106–137 | 101–145 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 119 | 112–126 | 109–130 | 107–132 | 103–139 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 124 | 113–136 | 111–138 | 109–139 | 105–145 |
@@ -966,7 +966,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 91 | 84–98 | 82–101 | 80–104 | 77–108 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 99 | 90–108 | 87–110 | 86–112 | 83–117 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 103 | 98–103 | 95–103 | 81–103 | 81–113 |
-| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 95 | 86–99 | 84–100 | 82–103 | 80–108 |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
