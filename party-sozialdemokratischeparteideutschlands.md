@@ -722,7 +722,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 125 | 114–135 | 112–137 | 111–141 | 107–145 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 128 | 117–137 | 115–139 | 113–142 | 108–147 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 120 | 112–128 | 110–131 | 108–132 | 105–136 |
-| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 127 | 118–135 | 114–138 | 112–140 | 108–146 |
+| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 127 |  |  |  |  |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 121 | 111–131 | 108–137 | 106–137 | 101–145 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 119 | 112–126 | 109–130 | 107–132 | 103–139 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 124 | 113–136 | 111–138 | 109–139 | 105–145 |
