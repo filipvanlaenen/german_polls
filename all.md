@@ -252,7 +252,7 @@ The table below lists all polls registered and analyzed so far.
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 19–23% <br> 147–177 | 10–14% <br> 80–104 | 12–16% <br> 94–120 | 7–9% <br> 51–72 | 6–8% <br> 44–63 | 24–28% <br> 183–213 | 4–6% <br> 30–46 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> 146–178 | 11–15% <br> 86–112 | 12–16% <br> 93–120 | 8–11% <br> 58–81 | 7–10% <br> 50–74 | 21–25% <br> 158–190 | 4–6% <br> 30–46 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 19–23% <br> 137–170 | 11–15% <br> 81–103 | 12–16% <br> 102–120 | 7–9% <br> 52–73 | 7–9% <br> 59–71 | 22–26% <br> 179–200 | 4–6% <br> 26–40 |
-| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 147–172 | 11–14% <br> 82–103 | 13–16% <br> 99–119 | 8–10% <br> 59–75 | 7–9% <br> 51–68 | 23–26% <br> 170–196 | 5–7% <br> 34–48 |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
