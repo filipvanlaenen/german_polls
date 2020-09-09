@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 27–31% <br> 209–249 | 14–18% <br> 111–141 | 8–10% <br> 61–83 | 4–6% <br> 0–46 | 8–10% <br> 60–82 | 16–20% <br> 124–157 | 6–8% <br> 44–63 |
+| [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 27–31% <br> 209–249 | 14–18% <br> 111–140 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 8–10% <br> 60–81 | 16–20% <br> 125–155 | 6–8% <br> 44–62 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–237 | 15–19% <br> 113–142 | 9–12% <br> 64–87 | 5–7% <br> 0–55 | 6–8% <br> 44–63 | 17–21% <br> 127–157 | 6–8% <br> 42–61 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 208–239 | 14–18% <br> 108–132 | 10–12% <br> 73–94 | 5–7% <br> 0–53 | 6–9% <br> 48–66 | 16–19% <br> 120–145 | 6–8% <br> 44–60 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 27–31% <br> 212–252 | 14–18% <br> 112–141 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 6–8% <br> 47–66 | 17–21% <br> 135–167 | 6–8% <br> 45–63 |
