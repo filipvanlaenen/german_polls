@@ -259,11 +259,11 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.6% | 6.3–10.1% |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 7.0% | N/A | N/A | N/A | N/A |
-| [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
-| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
-| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 8.0% | N/A | N/A | N/A | N/A |
+| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
+| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
+| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | N/A | N/A | N/A | N/A |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
@@ -721,11 +721,11 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 71 | 63–79 | 60–80 | 60–82 | 57–84 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 53 | 47–59 | 45–60 | 44–63 | 40–66 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 49–64 | 48–66 | 46–69 |
-| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 55 | 49–62 | 48–64 | 46–66 | 44–69 |
+| [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 55 | 49–62 | 48–64 | 47–66 | 44–69 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–68 | 52–72 | 50–74 | 47–78 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 60 | 54–67 | 52–68 | 51–70 | 48–74 |
-| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 62 | 56–70 | 54–71 | 51–73 | 49–77 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 67 | 62–74 | 60–75 | 58–77 | 56–81 |
+| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 62 | 55–69 | 54–72 | 52–73 | 49–77 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 68 | 61–73 | 60–76 | 58–77 | 56–81 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 56 | 49–62 | 48–64 | 46–66 | 44–69 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 61 | 53–69 | 51–71 | 49–74 | 45–78 |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 60 | 55–66 | 53–68 | 52–70 | 49–72 |
@@ -966,11 +966,11 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 61 | 54–66 | 52–71 | 50–74 | 48–76 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 66 | 59–66 | 59–69 | 59–71 | 45–71 |
 | [26–29 July 2019](2019-07-29-INSAandYouGov.html) | INSA and YouGov | 58 | 55–64 | 53–67 | 51–68 | 49–71 |
-| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa |  |  |  |  |  |
-| [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [17–22 July 2019](2019-07-22-GMS.html) | GMS |  |  |  |  |  |
+| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 53 | 48–59 | 46–61 | 46–63 | 43–65 |
+| [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 53–67 | 50–71 | 49–73 | 46–78 |
+| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 63 | 55–68 | 54–70 | 53–72 | 50–76 |
+| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 60 | 55–66 | 53–68 | 52–69 | 49–73 |
+| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 60 | 52–68 | 50–71 | 49–73 | 45–78 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
@@ -1417,32 +1417,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 1.2% | 98% |  |
 | 48 | 1.2% | 97% |  |
 | 49 | 2% | 96% |  |
-| 50 | 1.3% | 94% |  |
+| 50 | 1.4% | 94% |  |
 | 51 | 2% | 93% |  |
-| 52 | 4% | 91% |  |
-| 53 | 4% | 86% |  |
+| 52 | 4% | 90% |  |
+| 53 | 4% | 87% |  |
 | 54 | 4% | 82% |  |
 | 55 | 4% | 78% |  |
 | 56 | 5% | 74% |  |
 | 57 | 6% | 69% |  |
 | 58 | 5% | 63% |  |
 | 59 | 6% | 59% |  |
-| 60 | 7% | 53% | Median |
-| 61 | 6% | 46% |  |
-| 62 | 5% | 40% |  |
-| 63 | 5% | 35% |  |
-| 64 | 4% | 30% |  |
+| 60 | 6% | 53% | Median |
+| 61 | 7% | 47% |  |
+| 62 | 4% | 40% |  |
+| 63 | 5% | 36% |  |
+| 64 | 4% | 31% |  |
 | 65 | 3% | 27% |  |
 | 66 | 3% | 24% |  |
 | 67 | 2% | 21% |  |
 | 68 | 3% | 19% |  |
-| 69 | 2% | 16% | Last Result |
+| 69 | 3% | 16% | Last Result |
 | 70 | 2% | 14% |  |
 | 71 | 2% | 11% |  |
 | 72 | 3% | 9% |  |
-| 73 | 1.2% | 6% |  |
-| 74 | 1.0% | 5% |  |
-| 75 | 0.7% | 4% |  |
+| 73 | 1.3% | 6% |  |
+| 74 | 1.1% | 5% |  |
+| 75 | 0.6% | 4% |  |
 | 76 | 0.3% | 3% |  |
 | 77 | 0.4% | 3% |  |
 | 78 | 0.6% | 2% |  |
