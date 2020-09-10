@@ -264,8 +264,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.9–6.1% | 3.6–6.5% |
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.9% | 4.6–7.3% |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
-| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 5.0% | N/A | N/A | N/A | N/A |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.3% | N/A | N/A | N/A | N/A |
+| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.3% | 4.5–6.2% | 4.3–6.4% | 4.2–6.6% | 3.9–7.1% |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5.0% | N/A | N/A | N/A | N/A |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 6.0% | N/A | N/A | N/A | N/A |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 4.9% | N/A | N/A | N/A | N/A |
@@ -969,8 +969,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 39 | 35–42 | 34–44 | 32–45 | 29–47 |
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 45 | 40–50 | 39–51 | 36–52 | 34–55 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 40 | 34–48 | 31–49 | 31–51 | 28–55 |
-| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa |  |  |  |  |  |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 38 | 34–44 | 33–45 | 32–46 | 30–49 |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 42 | 42 | 41–42 | 37–43 | 34–45 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa |  |  |  |  |  |
