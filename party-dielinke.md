@@ -722,8 +722,8 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 53 | 47–59 | 45–60 | 44–63 | 40–66 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 49–64 | 48–66 | 46–69 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 55 | 49–62 | 48–64 | 47–66 | 44–69 |
-| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–77 |
-| [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 60 | 54–67 | 52–68 | 51–70 | 48–74 |
+| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–78 |
+| [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 60 | 53–67 | 52–68 | 50–71 | 48–74 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 62 | 55–69 | 54–72 | 52–73 | 49–77 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 68 | 61–73 | 60–76 | 58–77 | 56–81 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 56 | 49–62 | 48–64 | 46–66 | 44–69 |
@@ -1419,20 +1419,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 96% |  |
 | 50 | 1.5% | 94% |  |
 | 51 | 3% | 93% |  |
-| 52 | 3% | 90% |  |
+| 52 | 4% | 90% |  |
 | 53 | 5% | 87% |  |
 | 54 | 4% | 82% |  |
 | 55 | 4% | 78% |  |
 | 56 | 5% | 74% |  |
-| 57 | 6% | 69% |  |
-| 58 | 5% | 63% |  |
-| 59 | 6% | 58% |  |
-| 60 | 5% | 52% | Median |
-| 61 | 6% | 47% |  |
-| 62 | 5% | 41% |  |
-| 63 | 5% | 36% |  |
-| 64 | 3% | 31% |  |
-| 65 | 3% | 28% |  |
+| 57 | 6% | 70% |  |
+| 58 | 6% | 63% |  |
+| 59 | 5% | 58% |  |
+| 60 | 6% | 53% | Median |
+| 61 | 5% | 47% |  |
+| 62 | 4% | 42% |  |
+| 63 | 5% | 37% |  |
+| 64 | 4% | 33% |  |
+| 65 | 4% | 29% |  |
 | 66 | 4% | 25% |  |
 | 67 | 3% | 21% |  |
 | 68 | 3% | 18% |  |
@@ -1445,7 +1445,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 1.0% | 4% |  |
 | 76 | 0.8% | 3% |  |
 | 77 | 0.6% | 2% |  |
-| 78 | 0.6% | 2% |  |
+| 78 | 0.7% | 2% |  |
 | 79 | 0.4% | 1.2% |  |
 | 80 | 0.2% | 0.8% |  |
 | 81 | 0.1% | 0.6% |  |
