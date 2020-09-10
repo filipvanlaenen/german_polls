@@ -258,8 +258,8 @@ The table below lists all polls registered and analyzed so far.
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> 146–175 | 12–16% <br> 95–120 | 11–15% <br> 87–110 | 8–11% <br> 58–78 | 7–10% <br> 53–72 | 21–25% <br> 158–192 | 4–6% <br> 32–45 |
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 157–185 | 11–14% <br> 84–106 | 13–16% <br> 99–121 | 7–9% <br> 52–70 | 7–9% <br> 52–69 | 21–24% <br> 156–183 | 5–7% <br> 36–52 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 20–25% <br> 151–191 | 11–15% <br> 83–114 | 10–14% <br> 75–105 | 6–10% <br> 49–73 | 6–10% <br> 49–73 | 22–28% <br> 168–209 | 4–7% <br> 31–51 |
-| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 20–24% <br> 155–182 | 12–15% <br> 93–107 | 11–14% <br> 82–103 | 7–9% <br> 54–72 | 7–9% <br> 54–71 | 22–26% <br> 171–197 | 4–6% <br> 32–46 |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–25% <br> 154–181 | 11–15% <br> 95–112 | 10–14% <br> 66–124 | 7–10% <br> 44–57 | 7–10% <br> 50–70 | 23–27% <br> 190–209 | 4–7% <br> 24–28 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
