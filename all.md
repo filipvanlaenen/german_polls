@@ -9,7 +9,7 @@ The table below lists all polls registered and analyzed so far.
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–237 | 15–19% <br> 113–142 | 9–12% <br> 64–87 | 5–7% <br> 0–55 | 6–8% <br> 44–63 | 17–21% <br> 127–157 | 6–8% <br> 42–61 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 208–239 | 14–18% <br> 108–132 | 10–12% <br> 73–94 | 5–7% <br> 0–53 | 6–9% <br> 48–66 | 16–19% <br> 120–145 | 6–8% <br> 44–60 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 27–31% <br> 212–252 | 14–18% <br> 112–141 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 6–8% <br> 47–66 | 17–21% <br> 135–167 | 6–8% <br> 45–63 |
-| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 211–262 | 14–18% <br> 106–137 | 8–11% <br> 57–82 | 4–6% <br> 0–47 | 7–10% <br> 50–74 | 17–21% <br> 129–164 | 6–9% <br> 44–67 |
+| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 212–259 | 14–18% <br> 106–139 | 8–11% <br> 57–82 | 4–6% <br> 0–47 | 7–10% <br> 50–74 | 17–21% <br> 128–164 | 6–9% <br> 44–67 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 27–32% <br> 202–235 | 14–18% <br> 107–132 | 10–13% <br> 72–95 | 5–7% <br> 0–54 | 7–9% <br> 51–70 | 16–20% <br> 120–148 | 6–8% <br> 43–61 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 27–32% <br> 205–246 | 14–18% <br> 108–139 | 10–13% <br> 72–98 | 4–6% <br> 0–47 | 7–9% <br> 52–73 | 16–20% <br> 123–156 | 6–8% <br> 43–63 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 200–230 | 15–19% <br> 115–139 | 10–12% <br> 72–93 | 5–8% <br> 41–57 | 8–10% <br> 58–77 | 14–18% <br> 107–131 | 6–8% <br> 42–58 |
@@ -259,8 +259,8 @@ The table below lists all polls registered and analyzed so far.
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 157–185 | 11–14% <br> 84–106 | 13–16% <br> 99–121 | 7–9% <br> 52–70 | 7–9% <br> 52–69 | 21–24% <br> 156–183 | 5–7% <br> 36–52 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 20–25% <br> 151–191 | 11–15% <br> 83–114 | 10–14% <br> 75–105 | 6–10% <br> 49–73 | 6–10% <br> 49–73 | 22–28% <br> 168–209 | 4–7% <br> 31–51 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 20–24% <br> 155–182 | 12–15% <br> 93–107 | 11–14% <br> 82–103 | 7–9% <br> 54–72 | 7–9% <br> 54–71 | 22–26% <br> 171–197 | 4–6% <br> 32–46 |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–25% <br> 154–181 | 11–15% <br> 95–112 | 10–14% <br> 66–124 | 7–10% <br> 44–57 | 7–10% <br> 50–70 | 23–27% <br> 190–209 | 4–7% <br> 24–28 |
-| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–25% <br> 154–188 | 11–15% <br> 83–111 | 10–14% <br> 78–105 | 7–10% <br> 50–72 | 7–10% <br> 49–71 | 23–27% <br> 172–205 | 4–7% <br> 31–49 |
+| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 20–24% <br> 152–179 | 12–16% <br> 94–117 | 12–15% <br> 87–109 | 8–10% <br> 58–78 | 8–10% <br> 59–78 | 20–24% <br> 152–180 | 4–6% <br> 32–46 |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
