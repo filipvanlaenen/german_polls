@@ -266,7 +266,7 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.2–10.1% |
-| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
+| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 8.5% | N/A | N/A | N/A | N/A |
@@ -722,7 +722,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 53 | 47–59 | 45–60 | 44–63 | 40–66 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 49–64 | 48–66 | 46–69 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 55 | 49–62 | 48–64 | 47–66 | 44–69 |
-| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–68 | 52–72 | 50–74 | 47–78 |
+| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–77 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 60 | 54–67 | 52–68 | 51–70 | 48–74 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 62 | 55–69 | 54–72 | 52–73 | 49–77 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 68 | 61–73 | 60–76 | 58–77 | 56–81 |
@@ -972,8 +972,8 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 60 | 55–66 | 53–68 | 52–69 | 49–73 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 60 | 52–68 | 50–71 | 49–73 | 45–78 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 62 | 56–68 | 55–69 | 54–71 | 52–73 |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 57 | 53–57 | 53–57 | 53–62 | 53–67 |
-| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 61 | 53–67 | 52–70 | 49–71 | 46–76 |
+| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 62–74 | 60–76 | 59–78 | 56–81 |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa |  |  |  |  |  |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach |  |  |  |  |  |
@@ -1417,38 +1417,38 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 1.2% | 98% |  |
 | 48 | 1.2% | 97% |  |
 | 49 | 2% | 96% |  |
-| 50 | 1.4% | 94% |  |
-| 51 | 2% | 93% |  |
-| 52 | 4% | 90% |  |
-| 53 | 4% | 87% |  |
+| 50 | 1.5% | 94% |  |
+| 51 | 3% | 93% |  |
+| 52 | 3% | 90% |  |
+| 53 | 5% | 87% |  |
 | 54 | 4% | 82% |  |
 | 55 | 4% | 78% |  |
 | 56 | 5% | 74% |  |
 | 57 | 6% | 69% |  |
 | 58 | 5% | 63% |  |
-| 59 | 6% | 59% |  |
-| 60 | 5% | 53% | Median |
-| 61 | 7% | 47% |  |
-| 62 | 4% | 41% |  |
+| 59 | 6% | 58% |  |
+| 60 | 5% | 52% | Median |
+| 61 | 6% | 47% |  |
+| 62 | 5% | 41% |  |
 | 63 | 5% | 36% |  |
-| 64 | 4% | 32% |  |
+| 64 | 3% | 31% |  |
 | 65 | 3% | 28% |  |
-| 66 | 4% | 24% |  |
+| 66 | 4% | 25% |  |
 | 67 | 3% | 21% |  |
 | 68 | 3% | 18% |  |
 | 69 | 2% | 15% | Last Result |
-| 70 | 2% | 12% |  |
+| 70 | 2% | 13% |  |
 | 71 | 2% | 11% |  |
 | 72 | 2% | 9% |  |
 | 73 | 2% | 7% |  |
-| 74 | 1.4% | 6% |  |
-| 75 | 0.9% | 4% |  |
+| 74 | 1.2% | 5% |  |
+| 75 | 1.0% | 4% |  |
 | 76 | 0.8% | 3% |  |
 | 77 | 0.6% | 2% |  |
-| 78 | 0.7% | 2% |  |
+| 78 | 0.6% | 2% |  |
 | 79 | 0.4% | 1.2% |  |
 | 80 | 0.2% | 0.8% |  |
-| 81 | 0.1% | 0.5% |  |
+| 81 | 0.1% | 0.6% |  |
 | 82 | 0.1% | 0.4% |  |
 | 83 | 0.1% | 0.3% |  |
 | 84 | 0.1% | 0.2% |  |
