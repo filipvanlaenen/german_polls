@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 4–7 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-09-07-INSAandYouGov.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 4–7 September 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-09-07-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-09-07-INSAandYouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-09-07-INSAandYouGov.png" length="255439" type="image/png"/>
+      <pubDate>Sat, 12 Sep 2020 21:15:26 +0200</pubDate>
+      <dc:date>2020-09-12T21:15:26.986645+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 31 August–4 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-09-04-Forsa.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 31 August–4 September 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-09-04-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-09-04-Forsa-seating-plan.png"/>]]></description>
@@ -118,14 +126,6 @@
       <dc:date>2020-09-10T17:33:56.076071+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by INSA and YouGov, 21–24 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-24-INSAandYouGov.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 21–24 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-24-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-24-INSAandYouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-24-INSAandYouGov.png" length="255469" type="image/png"/>
-      <pubDate>Tue, 8 Sep 2020 22:47:07 +0200</pubDate>
-      <dc:date>2020-09-08T22:47:07.01037+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by YouGov, 20–24 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-08-24-YouGov.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by YouGov, 20–24 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-24-YouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-24-YouGov-seating-plan.png"/>]]></description>
@@ -196,30 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-19-Infratestdimap.png" length="264533" type="image/png"/>
       <pubDate>Sat, 22 Aug 2020 20:27:22 +0200</pubDate>
       <dc:date>2020-08-22T20:27:22.187478+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 13–19 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 13–19 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid-seating-plan.png" length="944814" type="image/png"/>
-      <pubDate>Thu, 27 Aug 2020 19:12:55 +0200</pubDate>
-      <dc:date>2020-08-27T19:12:55.709116+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 13–19 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 13–19 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid-seats.png" length="233478" type="image/png"/>
-      <pubDate>Thu, 27 Aug 2020 19:12:55 +0200</pubDate>
-      <dc:date>2020-08-27T19:12:55.709116+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 13–19 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 13–19 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-19-Emnid.png" length="248907" type="image/png"/>
-      <pubDate>Thu, 27 Aug 2020 19:12:55 +0200</pubDate>
-      <dc:date>2020-08-27T19:12:55.709116+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 14–17 August 2020 – Seating Plan Projection</title>
@@ -316,54 +292,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-11-INSAandYouGov.png" length="268329" type="image/png"/>
       <pubDate>Sun, 16 Aug 2020 15:12:55 +0200</pubDate>
       <dc:date>2020-08-16T15:12:55.888084+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 3–7 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 3–7 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa-seating-plan.png" length="953286" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 21:27:40 +0200</pubDate>
-      <dc:date>2020-08-18T21:27:40.196302+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 3–7 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 3–7 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa-seats.png" length="232564" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 21:27:40 +0200</pubDate>
-      <dc:date>2020-08-18T21:27:40.196302+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 3–7 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 3–7 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-07-Forsa.png" length="248378" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 21:27:40 +0200</pubDate>
-      <dc:date>2020-08-18T21:27:40.196302+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 30 July–6 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 30 July–6 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid-seating-plan.png" length="974194" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 20:41:21 +0200</pubDate>
-      <dc:date>2020-08-18T20:41:21.271127+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 30 July–6 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 30 July–6 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid-seats.png" length="251015" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 20:41:21 +0200</pubDate>
-      <dc:date>2020-08-18T20:41:21.271127+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 30 July–6 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 30 July–6 August 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-08-06-Emnid.png" length="254913" type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 20:41:21 +0200</pubDate>
-      <dc:date>2020-08-18T20:41:21.271127+02:00</dc:date>
     </item>
   </channel>
 </rss>
