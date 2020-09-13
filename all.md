@@ -8,17 +8,17 @@ The table below lists all polls registered and analyzed so far.
 | [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 200–225 | 14–18% <br> 109–132 | 10–12% <br> 74–92 | 5–8% <br> 42–56 | 7–9% <br> 52–68 | 16–20% <br> 123–147 | 6–8% <br> 42–58 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 27–31% <br> 209–249 | 14–18% <br> 111–140 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 8–10% <br> 60–81 | 16–20% <br> 125–155 | 6–8% <br> 44–62 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–237 | 15–19% <br> 113–142 | 9–12% <br> 64–87 | 5–7% <br> 0–55 | 6–8% <br> 44–63 | 17–21% <br> 127–157 | 6–8% <br> 42–61 |
-| [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 27–32% <br> 200–239 | 15–19% <br> 113–142 | 9–13% <br> 70–94 | 5–7% <br> 0–55 | 6–8% <br> 43–63 | 16–20% <br> 119–151 | 6–8% <br> 42–62 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 28–32% <br> 208–239 | 14–18% <br> 108–132 | 10–12% <br> 73–94 | 5–7% <br> 0–53 | 6–9% <br> 48–66 | 16–19% <br> 120–145 | 6–8% <br> 44–60 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 27–31% <br> 212–252 | 14–18% <br> 112–141 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 6–8% <br> 47–66 | 17–21% <br> 135–167 | 6–8% <br> 45–63 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 213–259 | 14–18% <br> 106–139 | 8–11% <br> 57–82 | 4–6% <br> 0–47 | 7–10% <br> 50–74 | 17–21% <br> 128–165 | 6–9% <br> 44–67 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 27–32% <br> 201–237 | 14–18% <br> 107–134 | 10–13% <br> 71–94 | 5–7% <br> 0–54 | 7–9% <br> 50–71 | 16–20% <br> 120–149 | 6–8% <br> 42–61 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 27–32% <br> 205–246 | 14–18% <br> 108–139 | 10–13% <br> 72–98 | 4–6% <br> 0–47 | 7–9% <br> 52–73 | 16–20% <br> 123–156 | 6–8% <br> 43–63 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 198–232 | 15–19% <br> 114–141 | 10–13% <br> 71–94 | 5–8% <br> 40–58 | 8–11% <br> 57–78 | 14–18% <br> 107–132 | 6–8% <br> 41–59 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 27–31% <br> 212–252 | 14–18% <br> 112–142 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 6–8% <br> 46–66 | 17–21% <br> 134–167 | 6–8% <br> 44–63 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 27–33% <br> 206–249 | 14–18% <br> 105–138 | 8–12% <br> 63–90 | 5–8% <br> 0–57 | 6–10% <br> 49–74 | 15–19% <br> 112–147 | 6–9% <br> 42–65 |
-| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 27–31% <br> 206–234 | 15–19% <br> 116–141 | 9–11% <br> 67–85 | 6–8% <br> 44–61 | 7–9% <br> 52–69 | 14–18% <br> 110–133 | 6–8% <br> 44–59 |
+| [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | 28–34% <br> 210–258 | 15–19% <br> 111–145 | 8–11% <br> 55–81 | 4–7% <br> 0–51 | 6–9% <br> 43–66 | 17–21% <br> 125–162 | 6–9% <br> 43–66 |
 | [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 203–233 | 16–20% <br> 123–147 | 10–12% <br> 73–93 | 5–7% <br> 38–53 | 7–9% <br> 52–69 | 14–18% <br> 108–132 | 6–8% <br> 43–59 |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 27–31% <br> 207–240 | 14–18% <br> 110–135 | 8–10% <br> 60–79 | 5–7% <br> 39–55 | 5–7% <br> 38–55 | 18–22% <br> 139–167 | 6–8% <br> 44–61 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 27–31% <br> 203–234 | 16–20% <br> 122–148 | 10–12% <br> 72–93 | 5–7% <br> 0–54 | 7–9% <br> 51–69 | 14–18% <br> 107–133 | 6–8% <br> 42–60 |
