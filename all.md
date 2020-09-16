@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 27–31% <br> 211–249 | 14–18% <br> 111–140 | 8–10% <br> 60–81 | 4–6% <br> 0–46 | 8–10% <br> 59–80 | 16–20% <br> 128–159 | 6–8% <br> 44–62 |
 | [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 199–228 | 14–18% <br> 109–133 | 10–12% <br> 73–93 | 5–8% <br> 41–57 | 7–9% <br> 51–69 | 16–20% <br> 123–147 | 6–8% <br> 42–58 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 27–31% <br> 209–249 | 14–18% <br> 111–140 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 8–10% <br> 60–81 | 16–20% <br> 125–155 | 6–8% <br> 44–62 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–236 | 15–19% <br> 113–142 | 9–12% <br> 64–87 | 5–7% <br> 0–55 | 6–8% <br> 44–63 | 17–21% <br> 127–157 | 6–8% <br> 41–61 |
@@ -269,11 +269,11 @@ The table below lists all polls registered and analyzed so far.
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 19–23% <br> 151–175 | 12–15% <br> 90–111 | 12–15% <br> 89–111 | 6–8% <br> 47–62 | 7–9% <br> 54–70 | 23–27% <br> 181–207 | 4–6% <br> 32–43 |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 22–26% <br> 163–197 | 13–17% <br> 94–125 | 10–13% <br> 74–100 | 6–9% <br> 42–65 | 7–10% <br> 53–77 | 21–25% <br> 155–190 | 4–7% <br> 33–53 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 20–23% <br> 146–169 | 14–17% <br> 102–123 | 12–14% <br> 87–108 | 7–9% <br> 52–67 | 8–10% <br> 58–76 | 22–26% <br> 166–191 | 4–6% <br> 31–43 |
-| [5–8 July 2019](2019-07-08-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 July 2019](2019-07-08-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 142–168 | 12–15% <br> 90–113 | 13–16% <br> 95–115 | 7–9% <br> 52–69 | 7–10% <br> 55–73 | 22–26% <br> 165–194 | 5–7% <br> 39–55 |
+| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 19–23% <br> 150–175 | 11–13% <br> 82–104 | 11–13% <br> 82–103 | 7–9% <br> 52–71 | 7–9% <br> 53–72 | 24–28% <br> 186–214 | 4–6% <br> 31–46 |
+| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 18–22% <br> 140–169 | 11–15% <br> 86–111 | 11–15% <br> 87–112 | 7–9% <br> 51–71 | 7–9% <br> 51–72 | 24–28% <br> 183–215 | 4–6% <br> 29–45 |
+| [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 20–23% <br> 150–174 | 12–14% <br> 90–108 | 13–15% <br> 97–117 | 6–8% <br> 46–61 | 8–10% <br> 61–78 | 22–26% <br> 171–194 | 4–6% <br> 32–43 |
+| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 19–23% <br> 170 | 11–15% <br> 97 | 11–15% <br> 102 | 6–8% <br> 44 | 8–10% <br> 64 | 23–27% <br> 208 | 4–6% <br> 24 |
 | [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
