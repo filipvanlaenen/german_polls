@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2020-09-13T22:00:36.413612+02:00</updated>
+  <updated>2020-09-18T09:29:42.845136+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 14.4–17.7%, 111–140 seats</li><li>Alternative für Deutschland: 7.8–10.3%, 60–82 seats</li><li>Freie Demokratische Partei: 4.1–6.1%, 0–46 seats</li><li>Die Linke: 7.8–10.3%, 60–81 seats</li><li>Bündnis 90/Die Grünen: 16.4–19.8%, 126–157 seats</li><li>Christlich Demokratische Union Deutschlands: 27.2–31.3%, 209–249 seats</li><li>Christlich-Soziale Union in Bayern: 5.7–8.0%, 44–63 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2020-09-11-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2020-09-11-Forsa.html"/>
+    <title>Opinion Poll by Forsa, 7–11 September 2020</title>
+    <updated>2020-09-18T09:29:42.845136+02:00</updated>
+    <dc:date>2020-09-18T09:29:42.845136+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 14.5–17.6%, 109–133 seats</li><li>Alternative für Deutschland: 9.7–12.4%, 73–93 seats</li><li>Freie Demokratische Partei: 5.5–7.6%, 41–57 seats</li><li>Die Linke: 6.9–9.2%, 51–69 seats</li><li>Bündnis 90/Die Grünen: 16.4–19.7%, 123–147 seats</li><li>Christlich Demokratische Union Deutschlands: 26.5–30.4%, 199–228 seats</li><li>Christlich-Soziale Union in Bayern: 5.6–7.7%, 42–58 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2020-09-07-INSAandYouGov.html</id>
@@ -383,5 +391,5 @@
     <updated>2020-04-18T20:48:02.885361+02:00</updated>
     <dc:date>2020-04-18T20:48:02.885361+02:00</dc:date>
   </entry>
-  <dc:date>2020-09-13T22:00:36.413612+02:00</dc:date>
+  <dc:date>2020-09-18T09:29:42.845136+02:00</dc:date>
 </feed>
