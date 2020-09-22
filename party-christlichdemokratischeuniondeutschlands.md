@@ -280,7 +280,7 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 20.3% | 19.0–21.7% | 18.7–22.1% | 18.4–22.4% | 17.8–23.1% |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 21.2% | 20.2–22.1% | 20.0–22.4% | 19.7–22.7% | 19.3–23.1% |
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 20.9% | 19.7–22.3% | 19.3–22.6% | 19.0–23.0% | 18.4–23.6% |
-| [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 23.0% | N/A | N/A | N/A | N/A |
+| [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 21.1% | N/A | N/A | N/A | N/A |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | N/A | N/A | N/A | N/A |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 20.7% | N/A | N/A | N/A | N/A |
@@ -994,7 +994,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 155 | 144–165 | 143–167 | 140–169 | 134–177 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 162 | 155–169 | 152–170 | 150–174 | 147–175 |
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 170 | 170 | 170 | 170 | 170 |
-| [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 172 | 163–183 | 162–185 | 161–186 | 155–190 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
