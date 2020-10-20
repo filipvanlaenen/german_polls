@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 26–32% <br> 199–247 | 13–19% <br> 101–143 | 8–13% <br> 59–101 | 4–8% <br> 0–58 | 6–10% <br> 41–77 | 17–22% <br> 128–172 | 5–8% <br> 41–62 |
+| N/A | [Poll Average](average.html) | 26–32% <br> 199–247 | 13–19% <br> 101–143 | 8–13% <br> 59–101 | 4–8% <br> 0–58 | 6–10% <br> 41–77 | 17–22% <br> 128–171 | 5–8% <br> 41–62 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 27–31% <br> 209–249 | 14–17% <br> 104–131 | 8–10% <br> 61–82 | 4–6% <br> 0–46 | 7–9% <br> 54–74 | 18–22% <br> 140–172 | 6–8% <br> 44–62 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 207–254 | 14–18% <br> 108–140 | 8–12% <br> 64–90 | 4–6% <br> 0–46 | 6–9% <br> 44–65 | 18–22% <br> 136–174 | 6–8% <br> 42–62 |
-| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 25–30% <br> 196–237 | 15–19% <br> 116–149 | 8–11% <br> 59–83 | 4–6% <br> 0–48 | 7–10% <br> 51–76 | 18–22% <br> 138–176 | 5–8% <br> 40–61 |
+| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 25–30% <br> 195–236 | 15–19% <br> 117–149 | 8–11% <br> 59–83 | 4–6% <br> 0–47 | 7–10% <br> 51–75 | 18–22% <br> 138–176 | 5–8% <br> 41–61 |
 | [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 207–237 | 13–16% <br> 99–122 | 10–13% <br> 77–99 | 6–8% <br> 45–62 | 5–7% <br> 39–54 | 17–20% <br> 128–153 | 6–8% <br> 43–59 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 26–31% <br> 195–230 | 13–17% <br> 101–126 | 9–12% <br> 65–87 | 5–7% <br> 0–55 | 7–9% <br> 50–71 | 19–23% <br> 142–173 | 5–8% <br> 41–59 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 26–31% <br> 197–242 | 13–17% <br> 101–132 | 10–14% <br> 79–109 | 4–6% <br> 0–47 | 8–11% <br> 58–83 | 16–20% <br> 122–157 | 5–8% <br> 40–62 |
