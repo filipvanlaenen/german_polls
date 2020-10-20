@@ -744,7 +744,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | N/A | [Poll Average](average.html) | 41 | 0–52 | 0–55 | 0–58 | 0–61 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 0 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–43 | 0–45 | 0–46 | 0–50 |
-| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 39 | 0–45 | 0–47 | 0–48 | 0–50 |
+| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 38 | 0–45 | 0–46 | 0–47 | 0–51 |
 | [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 52 | 48–59 | 46–61 | 45–62 | 43–65 |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 45 | 41–51 | 39–53 | 38–53 | 0–57 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 46 | 39–51 | 38–53 | 0–55 | 0–57 |
@@ -1493,13 +1493,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 69% |  |
 | 37 | 0.3% | 69% |  |
 | 38 | 4% | 69% |  |
-| 39 | 8% | 65% |  |
-| 40 | 6% | 58% |  |
+| 39 | 7% | 64% |  |
+| 40 | 5% | 57% |  |
 | 41 | 4% | 52% | Median |
-| 42 | 5% | 47% |  |
+| 42 | 5% | 48% |  |
 | 43 | 4% | 43% |  |
 | 44 | 4% | 39% |  |
-| 45 | 3% | 35% |  |
+| 45 | 4% | 35% |  |
 | 46 | 4% | 32% |  |
 | 47 | 4% | 27% |  |
 | 48 | 3% | 23% |  |

@@ -742,10 +742,10 @@ Last result: **94** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 75 | 65–93 | 62–96 | 59–101 | 55–108 |
+| N/A | [Poll Average](average.html) | 76 | 65–93 | 62–96 | 59–101 | 55–108 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 72 | 65–79 | 62–80 | 61–82 | 57–86 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 77 | 68–85 | 66–87 | 64–90 | 59–95 |
-| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 71 | 63–78 | 60–81 | 59–83 | 55–88 |
+| [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 70 | 63–79 | 60–81 | 59–83 | 55–89 |
 | [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 88 | 80–94 | 79–96 | 77–99 | 74–102 |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 69 | 63–76 | 61–77 | 60–79 | 57–81 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 74 | 68–83 | 66–85 | 65–87 | 60–90 |
@@ -1459,12 +1459,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0.1% | 99.9% |  |
 | 53 | 0.1% | 99.8% |  |
 | 54 | 0.1% | 99.8% |  |
-| 55 | 0.2% | 99.6% |  |
+| 55 | 0.2% | 99.7% |  |
 | 56 | 0.3% | 99.4% |  |
 | 57 | 0.3% | 99.1% |  |
 | 58 | 0.6% | 98.8% |  |
-| 59 | 0.9% | 98% |  |
-| 60 | 0.9% | 97% |  |
+| 59 | 0.8% | 98% |  |
+| 60 | 1.0% | 97% |  |
 | 61 | 0.8% | 96% |  |
 | 62 | 1.5% | 96% |  |
 | 63 | 2% | 94% |  |
@@ -1472,17 +1472,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 3% | 91% |  |
 | 66 | 3% | 88% |  |
 | 67 | 3% | 85% |  |
-| 68 | 3% | 82% |  |
-| 69 | 3% | 79% |  |
-| 70 | 3% | 76% |  |
-| 71 | 4% | 73% |  |
-| 72 | 6% | 69% |  |
+| 68 | 4% | 82% |  |
+| 69 | 3% | 78% |  |
+| 70 | 3% | 75% |  |
+| 71 | 3% | 72% |  |
+| 72 | 5% | 69% |  |
 | 73 | 6% | 64% |  |
-| 74 | 4% | 57% |  |
-| 75 | 4% | 53% | Median |
-| 76 | 3% | 50% |  |
+| 74 | 4% | 58% |  |
+| 75 | 4% | 54% |  |
+| 76 | 4% | 50% | Median |
 | 77 | 4% | 47% |  |
-| 78 | 3% | 43% |  |
+| 78 | 2% | 43% |  |
 | 79 | 2% | 40% |  |
 | 80 | 4% | 38% |  |
 | 81 | 2% | 35% |  |
