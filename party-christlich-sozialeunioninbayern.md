@@ -10,7 +10,17 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.9–7.6% | 5.6–7.9% | 5.4–8.2% | 5.1–8.7% |
+| N/A | [Poll Average](average.html) | 6.9% | 6.1–7.9% | 6.0–8.1% | 5.8–8.4% | 5.4–8.9% |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.4% |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.1% | 6.2–8.1% | 6.0–8.4% | 5.8–8.6% | 5.4–9.1% |
+| [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 6.6% | N/A | N/A | N/A | N/A |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 6.7% | N/A | N/A | N/A | N/A |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 6.6% | N/A | N/A | N/A | N/A |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 6.7% | N/A | N/A | N/A | N/A |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 6.6% | N/A | N/A | N/A | N/A |
+| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 6.6% | N/A | N/A | N/A | N/A |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 6.6% | N/A | N/A | N/A | N/A |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 6.8% | N/A | N/A | N/A | N/A |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 6.7% | 6.1–7.5% | 5.9–7.7% | 5.7–7.9% | 5.4–8.3% |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.9% | 6.1–7.9% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 6.4% | 5.6–7.3% | 5.4–7.6% | 5.2–7.8% | 4.9–8.2% |
@@ -722,12 +732,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 37% | 96% | Last Result |
-| 6.5–7.5% | 47% | 60% | Median |
-| 7.5–8.5% | 11% | 12% |  |
-| 8.5–9.5% | 0.8% | 0.9% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 26% | 99.1% | Last Result |
+| 6.5–7.5% | 54% | 73% | Median |
+| 7.5–8.5% | 18% | 19% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -738,7 +749,17 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 45–58 | 43–60 | 41–62 | 38–66 |
+| N/A | [Poll Average](average.html) | 53 | 46–60 | 45–63 | 44–64 | 42–69 |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 52 | 46–57 | 45–60 | 43–61 | 42–63 |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 48–62 | 46–64 | 44–66 | 41–70 |
+| [15–20 October 2020](2020-10-20-Emnid.html) | Emnid |  |  |  |  |  |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa |  |  |  |  |  |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid |  |  |  |  |  |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS |  |  |  |  |  |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 53 | 47–59 | 45–61 | 44–62 | 42–65 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–60 | 44–63 | 42–65 | 40–69 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 50 | 44–57 | 42–59 | 40–61 | 37–65 |
@@ -1451,44 +1472,43 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0% | 100% |  |
-| 36 | 0.1% | 99.9% |  |
-| 37 | 0.1% | 99.9% |  |
-| 38 | 0.2% | 99.7% |  |
-| 39 | 0.4% | 99.5% |  |
-| 40 | 0.8% | 99.1% |  |
-| 41 | 1.1% | 98% |  |
-| 42 | 2% | 97% |  |
-| 43 | 2% | 96% |  |
-| 44 | 3% | 94% |  |
-| 45 | 4% | 90% |  |
-| 46 | 5% | 87% | Last Result |
-| 47 | 5% | 82% |  |
-| 48 | 7% | 77% |  |
-| 49 | 7% | 70% |  |
-| 50 | 7% | 63% |  |
-| 51 | 8% | 55% | Median |
-| 52 | 7% | 48% |  |
-| 53 | 7% | 41% |  |
-| 54 | 6% | 33% |  |
-| 55 | 6% | 27% |  |
-| 56 | 5% | 22% |  |
-| 57 | 4% | 17% |  |
-| 58 | 3% | 12% |  |
-| 59 | 2% | 9% |  |
-| 60 | 2% | 7% |  |
-| 61 | 1.4% | 5% |  |
-| 62 | 1.0% | 3% |  |
-| 63 | 0.6% | 2% |  |
-| 64 | 0.6% | 2% |  |
-| 65 | 0.4% | 1.1% |  |
-| 66 | 0.2% | 0.7% |  |
-| 67 | 0.1% | 0.5% |  |
-| 68 | 0.1% | 0.3% |  |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0% | 0.1% |  |
-| 71 | 0% | 0.1% |  |
-| 72 | 0% | 0.1% |  |
-| 73 | 0% | 0% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
+| 40 | 0.1% | 99.8% |  |
+| 41 | 0.1% | 99.7% |  |
+| 42 | 0.7% | 99.6% |  |
+| 43 | 1.3% | 98.9% |  |
+| 44 | 1.0% | 98% |  |
+| 45 | 2% | 97% |  |
+| 46 | 6% | 95% | Last Result |
+| 47 | 4% | 89% |  |
+| 48 | 3% | 85% |  |
+| 49 | 4% | 82% |  |
+| 50 | 9% | 78% |  |
+| 51 | 7% | 69% |  |
+| 52 | 7% | 61% |  |
+| 53 | 13% | 54% | Median |
+| 54 | 8% | 42% |  |
+| 55 | 7% | 34% |  |
+| 56 | 3% | 27% |  |
+| 57 | 5% | 24% |  |
+| 58 | 5% | 19% |  |
+| 59 | 3% | 14% |  |
+| 60 | 2% | 11% |  |
+| 61 | 3% | 9% |  |
+| 62 | 1.4% | 6% |  |
+| 63 | 2% | 5% |  |
+| 64 | 1.3% | 3% |  |
+| 65 | 0.5% | 2% |  |
+| 66 | 0.4% | 1.5% |  |
+| 67 | 0.3% | 1.1% |  |
+| 68 | 0.2% | 0.7% |  |
+| 69 | 0.3% | 0.6% |  |
+| 70 | 0.1% | 0.3% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 
