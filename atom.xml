@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2020-10-28T08:22:22.805877+01:00</updated>
+  <updated>2020-10-30T08:24:08.09463+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.5–16.7%, 103–127 seats</li><li>Alternative für Deutschland: 7.8–10.4%, 59–79 seats</li><li>Freie Demokratische Partei: 5.0–7.1%, 38–54 seats</li><li>Die Linke: 6.0–8.2%, 45–63 seats</li><li>Bündnis 90/Die Grünen: 18.3–21.8%, 139–166 seats</li><li>Christlich Demokratische Union Deutschlands: 27.3–31.3%, 208–239 seats</li><li>Christlich-Soziale Union in Bayern: 5.7–8.0%, 44–61 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2020-10-23-Forsa.html</id>
@@ -54,6 +54,14 @@
     <title>Opinion Poll by Infratest dimap, 12–14 October 2020</title>
     <updated>2020-10-27T14:33:10.13691+01:00</updated>
     <dc:date>2020-10-27T14:33:10.13691+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.9–18.4%, 106–143 seats</li><li>Alternative für Deutschland: 8.3–12.1%, 65–93 seats</li><li>Freie Demokratische Partei: 3.8–6.5%, 0–49 seats</li><li>Die Linke: 5.5–8.7%, 42–67 seats</li><li>Bündnis 90/Die Grünen: 17.6–22.6%, 134–176 seats</li><li>Christlich Demokratische Union Deutschlands: 26.5–32.1%, 201–251 seats</li><li>Christlich-Soziale Union in Bayern: 5.4–8.5%, 41–66 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2020-10-12-GMS.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2020-10-12-GMS.html"/>
+    <title>Opinion Poll by GMS, 7–12 October 2020</title>
+    <updated>2020-10-30T08:24:08.09463+01:00</updated>
+    <dc:date>2020-10-30T08:24:08.09463+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.5–16.7%, 104–132 seats</li><li>Alternative für Deutschland: 7.8–10.3%, 60–82 seats</li><li>Freie Demokratische Partei: 4.1–6.1%, 0–46 seats</li><li>Die Linke: 6.9–9.3%, 53–73 seats</li><li>Bündnis 90/Die Grünen: 18.3–21.9%, 141–173 seats</li><li>Christlich Demokratische Union Deutschlands: 27.3–31.3%, 209–248 seats</li><li>Christlich-Soziale Union in Bayern: 5.7–7.9%, 44–62 seats</li></ul></div></content>
@@ -583,5 +591,5 @@
     <updated>2020-04-18T20:48:02.885361+02:00</updated>
     <dc:date>2020-04-18T20:48:02.885361+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-28T08:22:22.805877+01:00</dc:date>
+  <dc:date>2020-10-30T08:24:08.09463+01:00</dc:date>
 </feed>
