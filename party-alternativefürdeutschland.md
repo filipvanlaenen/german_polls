@@ -756,11 +756,11 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 69 | 61–77 | 59–80 | 57–82 | 54–87 |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 83 | 75–92 | 74–94 | 72–97 | 68–101 |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 73 | 66–81 | 64–84 | 62–86 | 58–92 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 87 | 80–93 | 78–95 | 77–97 | 74–100 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 86 | 80–93 | 78–95 | 76–97 | 74–100 |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 69 | 63–75 | 61–77 | 59–79 | 57–83 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 83 | 74–93 | 71–96 | 69–99 | 65–104 |
 | [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 75 | 70–82 | 68–83 | 67–85 | 64–88 |
-| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 83 | 76–90 | 75–92 | 74–93 | 70–97 |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 83 | 76–90 | 75–92 | 73–93 | 70–97 |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 77 | 68–89 | 67–92 | 65–93 | 59–97 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 70 | 64–77 | 62–80 | 60–82 | 57–85 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 76 | 68–86 | 66–89 | 64–91 | 60–96 |
@@ -1501,27 +1501,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 4% | 53% | Median |
 | 78 | 3% | 49% |  |
 | 79 | 4% | 45% |  |
-| 80 | 3% | 42% |  |
-| 81 | 4% | 39% |  |
+| 80 | 4% | 42% |  |
+| 81 | 4% | 38% |  |
 | 82 | 3% | 35% |  |
 | 83 | 4% | 32% |  |
-| 84 | 4% | 28% |  |
-| 85 | 3% | 24% |  |
-| 86 | 3% | 22% |  |
-| 87 | 3% | 19% |  |
+| 84 | 3% | 28% |  |
+| 85 | 3% | 25% |  |
+| 86 | 3% | 21% |  |
+| 87 | 3% | 18% |  |
 | 88 | 3% | 16% |  |
-| 89 | 3% | 13% |  |
+| 89 | 2% | 13% |  |
 | 90 | 2% | 10% |  |
-| 91 | 2% | 9% |  |
+| 91 | 2% | 8% |  |
 | 92 | 2% | 7% |  |
 | 93 | 1.4% | 5% |  |
-| 94 | 0.9% | 4% | Last Result |
+| 94 | 1.0% | 4% | Last Result |
 | 95 | 0.7% | 3% |  |
 | 96 | 0.6% | 2% |  |
 | 97 | 0.4% | 1.5% |  |
-| 98 | 0.2% | 1.0% |  |
-| 99 | 0.2% | 0.8% |  |
-| 100 | 0.2% | 0.6% |  |
+| 98 | 0.3% | 1.0% |  |
+| 99 | 0.3% | 0.8% |  |
+| 100 | 0.2% | 0.5% |  |
 | 101 | 0.1% | 0.4% |  |
 | 102 | 0.1% | 0.3% |  |
 | 103 | 0.1% | 0.2% |  |

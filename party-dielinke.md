@@ -754,11 +754,11 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–78 |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 61 | 54–68 | 52–70 | 51–72 | 48–76 |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 51 | 44–58 | 43–60 | 41–62 | 38–67 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 60 | 55–65 | 53–67 | 52–69 | 49–73 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 60 | 55–65 | 53–67 | 52–69 | 49–72 |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 53 | 48–59 | 46–61 | 45–63 | 43–66 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 53 | 46–61 | 44–64 | 42–66 | 39–71 |
 | [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 60 | 55–66 | 54–68 | 53–69 | 50–72 |
-| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 61 | 55–66 | 53–68 | 52–70 | 50–72 |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 61 | 55–67 | 53–68 | 52–70 | 50–72 |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 54 | 46–62 | 44–65 | 42–67 | 39–72 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 63 | 56–69 | 54–71 | 53–73 | 50–77 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–61 | 45–64 | 43–66 | 40–70 |
@@ -1530,12 +1530,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 6% | 60% |  |
 | 56 | 5% | 55% | Median |
 | 57 | 6% | 49% |  |
-| 58 | 6% | 43% |  |
+| 58 | 5% | 43% |  |
 | 59 | 5% | 38% |  |
-| 60 | 6% | 33% |  |
-| 61 | 5% | 27% |  |
+| 60 | 5% | 33% |  |
+| 61 | 5% | 28% |  |
 | 62 | 4% | 23% |  |
-| 63 | 3% | 18% |  |
+| 63 | 5% | 19% |  |
 | 64 | 3% | 15% |  |
 | 65 | 3% | 12% |  |
 | 66 | 2% | 9% |  |
