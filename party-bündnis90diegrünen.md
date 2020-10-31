@@ -766,7 +766,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 135 | 127–143 | 124–145 | 122–147 | 119–151 |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 152 | 144–162 | 141–164 | 139–167 | 135–172 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 151 | 139–164 | 136–168 | 133–171 | 128–178 |
-| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 143 | 136–151 | 134–153 | 132–156 | 128–160 |
+| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 143 | 136–151 | 133–153 | 132–156 | 128–160 |
 | [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 139 | 132–148 | 129–150 | 127–152 | 124–156 |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 155 | 140–168 | 137–173 | 134–176 | 128–183 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 156 | 145–167 | 143–170 | 141–173 | 136–177 |
