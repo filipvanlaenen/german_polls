@@ -773,7 +773,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 46 | 41–51 | 39–52 | 38–54 | 0–57 |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 38 | 0–44 | 0–46 | 0–47 | 0–51 |
-| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 49 | 44–54 | 42–56 | 41–57 | 39–59 |
+| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 49 | 44–54 | 42–56 | 41–57 | 39–60 |
 | [14–18 September 2020](2020-09-18-Forsa.html) | Forsa | 38 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [15–16 September 2020](2020-09-16-Infratestdimap.html) | Infratest dimap | 38 | 0–45 | 0–47 | 0–49 | 0–52 |
 | [14–16 September 2020](2020-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 37 | 0–44 | 0–46 | 0–47 | 0–51 |
@@ -819,7 +819,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 53 | 47–59 | 46–60 | 45–62 | 43–64 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 38–55 | 0–57 |
-| [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–44 | 0–45 | 0–47 | 0–51 |
+| [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 37 | 0–44 | 0–45 | 0–47 | 0–51 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–62 | 43–65 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 38 | 0–43 | 0–45 | 0–46 | 0–49 |
