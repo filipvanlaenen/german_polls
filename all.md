@@ -6,7 +6,11 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 | [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 26–30% <br> 196–225 | 14–17% <br> 106–128 | 11–14% <br> 80–102 | 6–8% <br> 45–62 | 6–9% <br> 49–65 | 16–19% <br> 119–144 | 5–8% <br> 41–57 |
-| [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 27–32% <br> 193–249 | 14–18% <br> 105–136 | 8–11% <br> 56–82 | 6–8% <br> 43–66 | 7–10% <br> 48–71 | 16–20% <br> 114–153 | 6–8% <br> 43–62 |
+| [4–9 November 2020](2020-11-09-GMS.html) | GMS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 27–31% <br> 207–239 | 13–17% <br> 103–127 | 9–11% <br> 66–87 | 5–7% <br> 38–54 | 7–9% <br> 52–71 | 16–20% <br> 124–151 | 6–8% <br> 44–61 |
+| [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 27–32% <br> 203–238 | 14–18% <br> 106–134 | 8–11% <br> 57–79 | 6–8% <br> 44–62 | 7–10% <br> 51–72 | 16–20% <br> 122–151 | 6–8% <br> 42–61 |
+| [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 27–31% <br> 208–239 | 13–17% <br> 103–127 | 8–10% <br> 59–79 | 5–7% <br> 38–54 | 6–8% <br> 45–63 | 18–22% <br> 139–166 | 6–8% <br> 44–61 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–34% <br> 213–260 | 13–17% <br> 99–132 | 8–11% <br> 57–82 | 4–6% <br> 0–47 | 7–10% <br> 50–74 | 18–22% <br> 134–172 | 6–9% <br> 44–66 |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 26–31% <br> 197–234 | 13–17% <br> 100–128 | 9–13% <br> 72–97 | 5–7% <br> 0–55 | 7–10% <br> 51–72 | 17–21% <br> 128–160 | 5–8% <br> 40–60 |
