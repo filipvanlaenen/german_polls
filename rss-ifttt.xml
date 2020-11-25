@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Forsa, 16–19 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-11-19-Forsa.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 16–19 November 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-11-19-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-11-19-Forsa.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-11-19-Forsa.png" length="247700" type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 08:04:02 +0100</pubDate>
+      <dc:date>2020-11-25T08:04:02.845002+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 12–18 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2020-11-18-Emnid.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 12–18 November 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-11-18-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-11-18-Emnid.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-11-18-Emnid.png" length="251258" type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 08:19:10 +0100</pubDate>
+      <dc:date>2020-11-25T08:19:10.793521+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov, 13–16 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2020-11-16-INSAandYouGov.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 13–16 November 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-11-16-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-11-16-INSAandYouGov.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-11-16-INSAandYouGov.png" length="253789" type="image/png"/>
-      <pubDate>Sat, 21 Nov 2020 23:18:40 +0100</pubDate>
-      <dc:date>2020-11-21T23:18:40.29659+01:00</dc:date>
+      <pubDate>Wed, 25 Nov 2020 08:50:22 +0100</pubDate>
+      <dc:date>2020-11-25T08:50:22.669428+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 9–13 November 2020 – Voting Intentions</title>
@@ -34,8 +50,8 @@
       <link>https://filipvanlaenen.github.io/german_polls/2020-11-11-Infratestdimap.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Infratest dimap, 9–11 November 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-11-11-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-11-11-Infratestdimap.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-11-11-Infratestdimap.png" length="258393" type="image/png"/>
-      <pubDate>Sun, 22 Nov 2020 10:39:52 +0100</pubDate>
-      <dc:date>2020-11-22T10:39:52.807653+01:00</dc:date>
+      <pubDate>Wed, 25 Nov 2020 19:36:23 +0100</pubDate>
+      <dc:date>2020-11-25T19:36:23.68809+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid, 5–11 November 2020 – Voting Intentions</title>
