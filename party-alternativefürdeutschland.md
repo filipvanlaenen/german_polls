@@ -769,13 +769,13 @@ Last result: **94** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 74 | 64–89 | 63–93 | 61–96 | 57–101 |
+| N/A | [Poll Average](average.html) | 74 | 65–89 | 62–93 | 61–96 | 57–101 |
 | [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 83 | 77–90 | 75–92 | 73–93 | 70–97 |
 | [16–19 November 2020](2020-11-19-Forsa.html) | Forsa | 69 | 64–75 | 62–77 | 61–78 | 59–81 |
 | [12–18 November 2020](2020-11-18-Emnid.html) | Emnid | 68 | 62–75 | 61–77 | 59–78 | 57–82 |
-| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 82 | 76–88 | 74–90 | 72–92 | 69–95 |
+| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 82 | 76–89 | 74–91 | 72–92 | 69–96 |
 | [9–13 November 2020](2020-11-13-Forsa.html) | Forsa | 78 | 71–86 | 69–88 | 67–90 | 64–94 |
-| [10–12 November 2020](2020-11-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 71 | 63–79 | 60–82 | 59–83 | 54–87 |
+| [10–12 November 2020](2020-11-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 70 | 62–78 | 60–80 | 58–83 | 55–87 |
 | [9–11 November 2020](2020-11-11-Infratestdimap.html) | Infratest dimap | 76 | 68–83 | 66–86 | 64–87 | 61–92 |
 | [5–11 November 2020](2020-11-11-Emnid.html) | Emnid | 68 | 63–74 | 62–76 | 60–77 | 58–80 |
 | [1–11 November 2020](2020-11-11-Allensbach.html) | Allensbach | 70 | 63–78 | 61–80 | 59–82 | 56–87 |
@@ -783,7 +783,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [4–9 November 2020](2020-11-09-GMS.html) | GMS | 78 | 69–89 | 66–92 | 64–94 | 60–100 |
 | [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 76 | 70–83 | 68–85 | 66–87 | 63–91 |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 68 | 61–75 | 59–78 | 57–80 | 54–83 |
-| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 84 | 76–90 | 74–92 | 73–94 | 70–98 |
+| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 83 | 77–90 | 75–92 | 73–94 | 70–97 |
 | [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 76 | 69–82 | 67–84 | 66–86 | 63–89 |
 | [22–28 October 2020](2020-10-28-Emnid.html) | Emnid | 76 | 69–82 | 68–84 | 66–86 | 63–89 |
 | [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 90 | 82–98 | 80–100 | 78–102 | 75–106 |
@@ -1514,34 +1514,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0.1% | 99.9% |  |
 | 55 | 0.1% | 99.9% |  |
 | 56 | 0.1% | 99.8% |  |
-| 57 | 0.2% | 99.7% |  |
-| 58 | 0.3% | 99.5% |  |
-| 59 | 0.5% | 99.2% |  |
-| 60 | 0.9% | 98.7% |  |
+| 57 | 0.2% | 99.6% |  |
+| 58 | 0.4% | 99.4% |  |
+| 59 | 0.5% | 99.0% |  |
+| 60 | 0.8% | 98% |  |
 | 61 | 1.2% | 98% |  |
-| 62 | 2% | 97% |  |
+| 62 | 2% | 96% |  |
 | 63 | 2% | 95% |  |
 | 64 | 3% | 93% |  |
 | 65 | 3% | 90% |  |
-| 66 | 3% | 87% |  |
+| 66 | 4% | 88% |  |
 | 67 | 4% | 84% |  |
-| 68 | 3% | 80% |  |
-| 69 | 5% | 77% |  |
-| 70 | 5% | 72% |  |
-| 71 | 4% | 67% |  |
-| 72 | 4% | 64% |  |
-| 73 | 6% | 59% |  |
-| 74 | 4% | 54% | Median |
+| 68 | 4% | 79% |  |
+| 69 | 5% | 76% |  |
+| 70 | 5% | 71% |  |
+| 71 | 4% | 66% |  |
+| 72 | 4% | 62% |  |
+| 73 | 4% | 58% |  |
+| 74 | 4% | 53% | Median |
 | 75 | 4% | 49% |  |
-| 76 | 4% | 45% |  |
+| 76 | 4% | 46% |  |
 | 77 | 3% | 42% |  |
 | 78 | 4% | 39% |  |
 | 79 | 3% | 35% |  |
-| 80 | 3% | 33% |  |
-| 81 | 3% | 30% |  |
+| 80 | 3% | 32% |  |
+| 81 | 3% | 29% |  |
 | 82 | 3% | 27% |  |
-| 83 | 3% | 24% |  |
-| 84 | 2% | 21% |  |
+| 83 | 2% | 24% |  |
+| 84 | 2% | 22% |  |
 | 85 | 2% | 19% |  |
 | 86 | 2% | 17% |  |
 | 87 | 2% | 15% |  |
