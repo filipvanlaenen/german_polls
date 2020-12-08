@@ -774,10 +774,10 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 45–58 | 44–61 | 42–63 | 39–68 |
-| [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 51 | 46–57 | 45–59 | 44–61 | 41–64 |
+| N/A | [Poll Average](average.html) | 51 | 45–58 | 43–61 | 42–63 | 39–68 |
+| [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 52 | 46–57 | 45–59 | 44–61 | 41–64 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 50 | 45–57 | 43–59 | 41–61 | 39–64 |
-| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 51 | 46–56 | 44–57 | 43–58 | 40–61 |
+| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 50 | 45–56 | 44–57 | 43–59 | 40–62 |
 | [23–27 November 2020](2020-11-27-Forsa.html) | Forsa | 52 | 48–57 | 46–59 | 45–60 | 43–63 |
 | [24–26 November 2020](2020-11-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–60 | 44–63 | 43–64 | 40–68 |
 | [24–25 November 2020](2020-11-25-Infratestdimap.html) | Infratest dimap | 49 | 42–56 | 40–59 | 38–61 | 36–65 |
@@ -1531,20 +1531,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.9% | 98.9% |  |
 | 42 | 1.3% | 98% |  |
 | 43 | 2% | 97% |  |
-| 44 | 3% | 95% |  |
+| 44 | 2% | 95% |  |
 | 45 | 3% | 92% |  |
-| 46 | 5% | 90% | Last Result |
+| 46 | 4% | 89% | Last Result |
 | 47 | 6% | 85% |  |
-| 48 | 7% | 79% |  |
-| 49 | 6% | 71% |  |
+| 48 | 7% | 78% |  |
+| 49 | 7% | 72% |  |
 | 50 | 8% | 65% |  |
-| 51 | 9% | 58% | Median |
-| 52 | 7% | 49% |  |
-| 53 | 7% | 42% |  |
+| 51 | 8% | 57% | Median |
+| 52 | 8% | 49% |  |
+| 53 | 6% | 41% |  |
 | 54 | 6% | 35% |  |
-| 55 | 6% | 29% |  |
+| 55 | 5% | 28% |  |
 | 56 | 5% | 23% |  |
-| 57 | 5% | 18% |  |
+| 57 | 4% | 18% |  |
 | 58 | 3% | 13% |  |
 | 59 | 3% | 10% |  |
 | 60 | 2% | 7% |  |
