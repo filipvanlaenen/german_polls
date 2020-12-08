@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2020-11-30T07:35:10.019532+01:00</updated>
+  <updated>2020-12-08T08:48:09.641459+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.5–16.6%, 103–127 seats</li><li>Alternative für Deutschland: 6.9–9.3%, 52–70 seats</li><li>Freie Demokratische Partei: 5.0–7.1%, 39–54 seats</li><li>Die Linke: 6.9–9.3%, 52–70 seats</li><li>Bündnis 90/Die Grünen: 18.3–21.8%, 139–167 seats</li><li>Christlich Demokratische Union Deutschlands: 27.3–31.3%, 208–239 seats</li><li>Christlich-Soziale Union in Bayern: 5.7–8.0%, 44–61 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2020-12-04-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2020-12-04-Forsa.html"/>
+    <title>Opinion Poll by Forsa, 30 November–4 December 2020</title>
+    <updated>2020-12-08T08:48:09.641459+01:00</updated>
+    <dc:date>2020-12-08T08:48:09.641459+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 14.0–17.1%, 106–129 seats</li><li>Alternative für Deutschland: 9.7–12.4%, 73–93 seats</li><li>Freie Demokratische Partei: 6.4–8.7%, 48–66 seats</li><li>Die Linke: 6.0–8.2%, 45–62 seats</li><li>Bündnis 90/Die Grünen: 15.9–19.2%, 120–144 seats</li><li>Christlich Demokratische Union Deutschlands: 26.9–30.8%, 203–232 seats</li><li>Christlich-Soziale Union in Bayern: 5.6–7.8%, 43–59 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2020-11-30-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2020-11-30-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov, 27–30 November 2020</title>
+    <updated>2020-12-08T07:34:21.740584+01:00</updated>
+    <dc:date>2020-12-08T07:34:21.740584+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.6–16.5%, 103–124 seats</li><li>Alternative für Deutschland: 6.1–8.1%, 46–61 seats</li><li>Freie Demokratische Partei: 5.1–7.0%, 39–53 seats</li><li>Die Linke: 7.0–9.1%, 53–69 seats</li><li>Bündnis 90/Die Grünen: 19.4–22.6%, 147–170 seats</li><li>Christlich Demokratische Union Deutschlands: 28.3–31.9%, 213–241 seats</li><li>Christlich-Soziale Union in Bayern: 6.0–8.0%, 45–60 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2020-11-27-Forsa.html</id>
@@ -799,5 +815,5 @@
     <updated>2020-04-18T20:48:02.885361+02:00</updated>
     <dc:date>2020-04-18T20:48:02.885361+02:00</dc:date>
   </entry>
-  <dc:date>2020-11-30T07:35:10.019532+01:00</dc:date>
+  <dc:date>2020-12-08T08:48:09.641459+01:00</dc:date>
 </feed>
