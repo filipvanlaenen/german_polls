@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 205–250 | 14–18% <br> 105–139 | 8–12% <br> 63–89 | 4–6% <br> 0–46 | 7–10% <br> 50–74 | 18–22% <br> 133–171 | 6–8% <br> 42–64 |
+| [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 205–251 | 14–18% <br> 105–138 | 8–12% <br> 63–90 | 4–6% <br> 0–46 | 7–10% <br> 50–73 | 18–22% <br> 133–171 | 6–8% <br> 42–64 |
 | [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 203–232 | 14–17% <br> 105–129 | 9–11% <br> 66–86 | 7–9% <br> 52–70 | 6–9% <br> 48–66 | 16–19% <br> 120–144 | 6–8% <br> 43–59 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 27–31% <br> 208–239 | 13–17% <br> 103–127 | 7–9% <br> 52–70 | 5–7% <br> 39–54 | 7–9% <br> 52–70 | 18–22% <br> 139–167 | 6–8% <br> 44–61 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–238 | 13–17% <br> 99–127 | 9–12% <br> 64–87 | 5–7% <br> 0–54 | 6–8% <br> 43–62 | 19–23% <br> 141–173 | 6–8% <br> 42–61 |
