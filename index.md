@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 27–32% <br> 203–249 | 14–18% <br> 102–136 | 7–12% <br> 57–88 | 4–9% <br> 0–65 | 6–10% <br> 47–73 | 16–22% <br> 123–165 | 6–8% <br> 42–63 |
-| [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 27–32% <br> 202–248 | 14–18% <br> 102–136 | 7–12% <br> 56–88 | 4–9% <br> 0–65 | 6–10% <br> 45–73 | 16–22% <br> 123–166 | 6–8% <br> 42–63 |
+| [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 26–32% <br> 199–245 | 14–18% <br> 104–139 | 7–11% <br> 55–83 | 5–8% <br> 0–57 | 6–9% <br> 42–66 | 18–23% <br> 133–172 | 5–9% <br> 40–64 |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 205–251 | 14–18% <br> 105–138 | 8–12% <br> 63–90 | 4–6% <br> 0–46 | 7–10% <br> 50–73 | 18–22% <br> 133–171 | 6–8% <br> 42–64 |
 | [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 203–232 | 14–17% <br> 105–129 | 9–11% <br> 66–86 | 7–9% <br> 52–70 | 6–9% <br> 48–66 | 16–19% <br> 120–144 | 6–8% <br> 43–59 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 27–31% <br> 208–239 | 13–17% <br> 103–127 | 7–9% <br> 52–70 | 5–7% <br> 39–54 | 7–9% <br> 52–70 | 18–22% <br> 139–167 | 6–8% <br> 44–61 |
