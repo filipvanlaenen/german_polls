@@ -15,250 +15,251 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.7–9.5% |
-| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [28 November–10 December 2020](2020-12-10-Allensbach.html) | Allensbach | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.5% |
-| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.4% | 5.4–8.8% |
 | [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [23–27 November 2020](2020-11-27-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [24–26 November 2020](2020-11-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.4–9.0% |
 | [24–25 November 2020](2020-11-25-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [19–25 November 2020](2020-11-25-Emnid.html) | Emnid | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [19–23 November 2020](2020-11-23-YouGov.html) | YouGov | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
-| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
+| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [16–19 November 2020](2020-11-19-Forsa.html) | Forsa | 7.1% | 6.4–7.8% | 6.3–8.0% | 6.1–8.1% | 5.8–8.5% |
 | [12–18 November 2020](2020-11-18-Emnid.html) | Emnid | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
-| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [9–13 November 2020](2020-11-13-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [10–12 November 2020](2020-11-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.2% | 5.7–8.5% | 5.4–9.0% |
 | [9–11 November 2020](2020-11-11-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [5–11 November 2020](2020-11-11-Emnid.html) | Emnid | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.1% | 6.6–9.5% |
 | [1–11 November 2020](2020-11-11-Allensbach.html) | Allensbach | 7.5% | 6.6–8.5% | 6.4–8.8% | 6.1–9.0% | 5.8–9.6% |
-| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [4–9 November 2020](2020-11-09-GMS.html) | GMS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.4% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [22–28 October 2020](2020-10-28-Emnid.html) | Emnid | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 9.0% | 8.2–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
-| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.7–9.6% | 6.2–10.2% |
 | [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 8.0% | N/A | N/A | N/A | N/A |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.7–9.6% |
-| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.6% | 6.3–10.0% |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 8.0% | 7.2–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
-| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.8–7.2% | 5.7–7.5% | 5.5–7.6% | 5.2–8.0% |
+| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.3% |
-| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [14–18 September 2020](2020-09-18-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [15–16 September 2020](2020-09-16-Infratestdimap.html) | Infratest dimap | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [14–16 September 2020](2020-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [10–16 September 2020](2020-09-16-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [4–16 September 2020](2020-09-16-Allensbach.html) | Allensbach | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
-| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.7% | 6.1–9.1% |
+| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
 | [3–9 September 2020](2020-09-09-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
+| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
-| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.2–10.1% |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
-| [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
+| [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [7–10 August 2020](2020-08-10-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [3–7 August 2020](2020-08-07-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [30 July–6 August 2020](2020-08-06-Emnid.html) | Emnid | 8.0% | 7.2–8.9% | 6.9–9.2% | 6.7–9.4% | 6.4–9.9% |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
-| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.8–9.4% | 7.6–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [27–31 July 2020](2020-07-31-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [28–30 July 2020](2020-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [23–29 July 2020](2020-07-29-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [24–27 July 2020](2020-07-27-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [24–27 July 2020](2020-07-27-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [22–27 July 2020](2020-07-27-GMS.html) | GMS | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [20–24 July 2020](2020-07-24-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [21–22 July 2020](2020-07-22-Infratestdimap.html) | Infratest dimap | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [16–22 July 2020](2020-07-22-Emnid.html) | Emnid | 8.0% | 7.3–8.8% | 7.0–9.0% | 6.9–9.2% | 6.5–9.6% |
-| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.7% | 6.1–9.1% |
+| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 7.5% | 6.6–8.6% | 6.4–8.9% | 6.2–9.1% | 5.8–9.7% |
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.8% |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
-| [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.8% |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 6.9–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
-| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.8–9.3% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.1% | 6.7–9.5% |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 8.1% | N/A | N/A | N/A | N/A |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.8% |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.4–9.0% |
 | [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
-| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.5% | 6.3–9.9% |
 | [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.5–9.7% | 6.1–10.3% |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.1% |
 | [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [20–26 May 2020](2020-05-26-Emnid.html) | Emnid | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
-| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
-| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.7–9.7% | 6.2–10.2% |
 | [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–10.0% |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.7% | 6.1–9.1% |
+| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.1–8.1% | 5.8–8.4% |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 8.0% | 7.1–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.5–8.7% | 6.1–9.1% |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.7–9.5% | 6.4–10.0% |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 9.0% | 8.1–10.1% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
-| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.2–8.0% | 6.0–8.3% | 5.8–8.6% | 5.4–9.0% |
 | [16–22 April 2020](2020-04-22-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 8.0% | 7.1–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.3–9.2% |
-| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
-| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
 | [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
 | [27–30 March 2020](2020-03-30-YouGov.html) | YouGov | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
-| [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.7% | 6.1–9.1% |
+| [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.5–9.7% | 6.1–10.3% |
 | [18–25 March 2020](2020-03-25-Emnid.html) | Emnid | 9.0% | 8.1–10.1% | 7.9–10.4% | 7.6–10.6% | 7.2–11.1% |
-| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
 | [17–18 March 2020](2020-03-18-Infratestdimap.html) | Infratest dimap | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.7% | 6.2–10.3% |
-| [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 8.0–11.3% |
+| [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
-| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.5% | 8.3–12.0% |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.1% |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 10.0% | 9.1–11.0% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
-| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
+| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.2% |
-| [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.6–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.3% |
+| [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 10.5% | N/A | N/A | N/A | N/A |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.3% |
-| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.8% | 7.9–11.3% |
+| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.8% |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.5% | 8.4–11.9% |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 9.5% | 8.5–10.7% | 8.2–11.0% | 8.0–11.3% | 7.6–11.8% |
-| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
+| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.6% |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.1% |
 | [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 9.0% | 8.1–10.1% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.8–9.3% | 7.6–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 9.0% | 8.3–9.8% | 8.1–10.0% | 8.0–10.2% | 7.6–10.6% |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 10.0% | 9.2–10.9% | 9.0–11.1% | 8.8–11.4% | 8.4–11.8% |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.6% | 6.2–10.2% |
-| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.9% | 8.0–11.3% |
+| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.1–11.2% |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
-| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 8.4% | N/A | N/A | N/A | N/A |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 10.0% | 9.1–11.1% | 8.9–11.4% | 8.6–11.6% | 8.2–12.1% |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 8.5% | 7.6–9.6% | 7.3–9.9% | 7.1–10.2% | 6.7–10.7% |
-| [6–9 December 2019](2019-12-09-INSAandYouGov.html) | INSA and YouGov | 8.3% | 7.6–9.2% | 7.4–9.4% | 7.2–9.6% | 6.9–10.0% |
+| [6–9 December 2019](2019-12-09-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
-| [29 November–2 December 2019](2019-12-02-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
+| [29 November–2 December 2019](2019-12-02-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [27 November–2 December 2019](2019-12-02-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [25–29 November 2019](2019-11-29-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [26–28 November 2019](2019-11-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10.0% | 9.0–11.1% | 8.7–11.4% | 8.5–11.7% | 8.0–12.3% |
 | [20–27 November 2019](2019-11-27-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [22–26 November 2019](2019-11-26-YouGov.html) | YouGov | 10.0% | 9.1–11.0% | 8.9–11.3% | 8.6–11.6% | 8.2–12.1% |
-| [22–25 November 2019](2019-11-25-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 8.0–11.3% |
+| [22–25 November 2019](2019-11-25-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
 | [18–22 November 2019](2019-11-22-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [13–20 November 2019](2019-11-20-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
-| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 9.9% | 9.4–10.6% | 9.2–10.7% | 9.1–10.9% | 8.8–11.2% |
+| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.2% |
@@ -298,18 +299,18 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
-| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.2–10.1% |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.4–7.6% | 6.2–7.8% | 6.1–8.0% | 5.8–8.3% |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
-| [6–9 September 2019](2019-09-09-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [6–9 September 2019](2019-09-09-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.8% |
-| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 7.0% | N/A | N/A | N/A | N/A |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.2–7.9% | 5.9–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
@@ -701,7 +702,7 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11.0% | N/A | N/A | N/A | N/A |
 | [27 December 2017–2 January 2018](2018-01-02-GMS.html) | GMS | 10.0% | N/A | N/A | N/A | N/A |
 | [25–27 December 2017](2017-12-27-YouGov.html) | YouGov | 10.0% | N/A | N/A | N/A | N/A |
-| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
+| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov | 9.9% | N/A | N/A | N/A | N/A |
 | [18–22 December 2017](2017-12-22-Forsa.html) | Forsa | 10.0% | N/A | N/A | N/A | N/A |
 | [14–20 December 2017](2017-12-20-Emnid.html) | Emnid | 10.0% | N/A | N/A | N/A | N/A |
 | [15–18 December 2017](2017-12-18-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
@@ -790,253 +791,254 @@ Last result: **69** seats (General Election of 24 September 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 60 | 50–71 | 47–74 | 45–76 | 41–81 |
 | [21–23 December 2020](2020-12-23-Forsa.html) | Forsa | 69 | 61–76 | 60–79 | 59–80 | 55–85 |
-| [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 50–64 | 49–65 | 46–68 |
+| [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 50–64 | 48–66 | 46–69 |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 62 | 57–67 | 53–67 | 52–72 | 51–73 |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 59 | 55–65 | 54–66 | 52–68 | 50–71 |
-| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 55 | 52–62 | 49–64 | 49–65 | 46–68 |
-| [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 62 | 57–70 | 54–72 | 53–72 | 50–77 |
-| [28 November–10 December 2020](2020-12-10-Allensbach.html) | Allensbach | 52 | 45–61 | 44–63 | 42–64 | 38–69 |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 63 | 56–69 | 54–71 | 53–73 | 50–77 |
+| [28 November–10 December 2020](2020-12-10-Allensbach.html) | Allensbach | 53 | 45–60 | 43–63 | 41–65 | 39–69 |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 53 | 45–62 | 44–64 | 42–66 | 38–71 |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 53–69 | 51–71 | 50–73 | 46–78 |
 | [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 53 | 48–59 | 46–60 | 45–60 | 44–64 |
-| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 50–64 | 48–66 | 46–69 |
+| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 61 | 55–67 | 54–69 | 52–70 | 50–74 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 52 | 46–59 | 45–60 | 43–62 | 41–66 |
 | [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 61 | 54–67 | 52–70 | 51–71 | 48–75 |
-| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–62 | 43–64 |
+| [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [23–27 November 2020](2020-11-27-Forsa.html) | Forsa | 60 | 55–66 | 54–67 | 53–69 | 50–72 |
 | [24–26 November 2020](2020-11-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–61 | 45–63 | 43–65 | 41–69 |
 | [24–25 November 2020](2020-11-25-Infratestdimap.html) | Infratest dimap | 52 | 45–59 | 43–62 | 41–64 | 38–68 |
 | [19–25 November 2020](2020-11-25-Emnid.html) | Emnid | 60 | 54–68 | 52–70 | 51–72 | 48–76 |
 | [19–23 November 2020](2020-11-23-YouGov.html) | YouGov | 68 | 61–74 | 59–76 | 58–78 | 55–82 |
-| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 47–60 | 45–62 | 43–64 |
+| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [16–19 November 2020](2020-11-19-Forsa.html) | Forsa | 54 | 49–59 | 48–61 | 47–62 | 44–65 |
 | [12–18 November 2020](2020-11-18-Emnid.html) | Emnid | 53 | 48–59 | 46–61 | 45–63 | 43–65 |
-| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 56 | 51–62 | 49–63 | 48–65 | 46–68 |
+| [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 November 2020](2020-11-13-Forsa.html) | Forsa | 63 | 56–69 | 54–71 | 53–73 | 51–77 |
 | [10–12 November 2020](2020-11-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–61 | 45–64 | 44–66 | 41–70 |
 | [9–11 November 2020](2020-11-11-Infratestdimap.html) | Infratest dimap | 53 | 47–60 | 45–62 | 44–63 | 41–67 |
 | [5–11 November 2020](2020-11-11-Emnid.html) | Emnid | 61 | 56–67 | 54–68 | 53–70 | 51–72 |
 | [1–11 November 2020](2020-11-11-Allensbach.html) | Allensbach | 55 | 49–62 | 47–64 | 45–66 | 43–70 |
-| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 50–64 | 48–65 | 46–68 |
+| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–9 November 2020](2020-11-09-GMS.html) | GMS | 54 | 47–63 | 45–66 | 43–68 | 39–72 |
 | [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 61 | 55–67 | 53–69 | 52–71 | 50–74 |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 60 | 53–68 | 52–70 | 50–71 | 47–75 |
-| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 65 | 58–70 | 57–72 | 56–74 | 53–77 |
+| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 60 | 55–67 | 53–69 | 52–70 | 49–73 |
 | [22–28 October 2020](2020-10-28-Emnid.html) | Emnid | 60 | 54–66 | 53–68 | 52–69 | 49–73 |
 | [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 67 | 61–74 | 59–76 | 58–78 | 55–82 |
-| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov | 57 | 52–64 | 50–65 | 49–66 | 46–69 |
+| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 54 | 48–59 | 47–61 | 45–63 | 43–66 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–78 |
 | [15–21 October 2020](2020-10-21-Emnid.html) | Emnid |  |  |  |  |  |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 51 | 44–58 | 43–60 | 41–62 | 38–67 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 60 | 55–65 | 53–67 | 52–69 | 49–72 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 53 | 48–59 | 46–61 | 45–63 | 43–66 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 53 | 46–61 | 44–64 | 42–66 | 39–71 |
 | [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 61 | 55–66 | 54–68 | 53–69 | 50–72 |
-| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 61 | 55–67 | 53–68 | 52–70 | 50–72 |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 54 | 46–62 | 44–65 | 42–67 | 39–72 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 63 | 56–69 | 54–71 | 53–73 | 50–77 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–61 | 45–64 | 43–66 | 40–70 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 63 | 55–71 | 53–73 | 52–75 | 48–79 |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 46 | 41–51 | 39–52 | 38–53 | 0–56 |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 54 | 48–59 | 47–61 | 45–63 | 43–66 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 60 | 53–67 | 52–69 | 50–71 | 47–75 |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 67 | 62–73 | 60–75 | 59–76 | 57–79 |
-| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 50 | 44–55 | 42–56 | 41–57 | 39–60 |
+| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 60 | 54–66 | 53–68 | 52–70 | 49–73 |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 60 | 53–67 | 52–69 | 50–71 | 47–75 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 70 | 61–78 | 59–81 | 58–83 | 54–88 |
-| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 55 | 50–63 | 48–65 | 46–67 | 45–71 |
+| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–18 September 2020](2020-09-18-Forsa.html) | Forsa | 63 | 56–69 | 54–71 | 53–73 | 51–77 |
 | [15–16 September 2020](2020-09-16-Infratestdimap.html) | Infratest dimap | 61 | 53–70 | 51–72 | 49–75 | 46–80 |
 | [14–16 September 2020](2020-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–62 | 45–64 | 43–66 | 40–70 |
 | [10–16 September 2020](2020-09-16-Emnid.html) | Emnid | 62 | 55–69 | 53–72 | 52–74 | 49–78 |
 | [4–16 September 2020](2020-09-16-Allensbach.html) | Allensbach | 52 | 45–60 | 43–63 | 41–65 | 38–69 |
-| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 49–64 | 48–65 | 46–68 |
+| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 71 | 63–77 | 62–79 | 60–81 | 57–85 |
 | [3–9 September 2020](2020-09-09-Emnid.html) | Emnid | 60 | 53–67 | 52–69 | 50–71 | 47–75 |
-| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 60 | 54–66 | 53–67 | 51–69 | 49–72 |
+| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 70 | 63–77 | 62–79 | 60–81 | 57–85 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 52 | 46–59 | 45–61 | 44–63 | 40–66 |
 | [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 53 | 46–59 | 44–61 | 43–63 | 40–66 |
-| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 56 | 51–62 | 50–64 | 48–65 | 46–68 |
+| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 55 | 49–62 | 48–64 | 47–66 | 44–69 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–78 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 60 | 53–67 | 52–68 | 50–71 | 48–74 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 62 | 55–69 | 54–72 | 52–73 | 49–77 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 67 | 61–74 | 59–76 | 57–78 | 54–82 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 56 | 49–62 | 48–64 | 46–66 | 44–69 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 61 | 53–69 | 51–71 | 49–74 | 45–78 |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 60 | 55–66 | 54–68 | 52–70 | 50–73 |
 | [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | 52 | 46–60 | 44–62 | 42–65 | 40–68 |
-| [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 60 | 54–66 | 53–67 | 52–69 | 49–72 |
+| [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 38–55 | 0–57 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 60 | 54–67 | 53–68 | 51–69 | 49–73 |
 | [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 67 | 58–76 | 56–78 | 54–81 | 51–85 |
+| [7–10 August 2020](2020-08-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–7 August 2020](2020-08-07-Forsa.html) | Forsa | 62 | 56–68 | 54–70 | 53–72 | 50–75 |
 | [30 July–6 August 2020](2020-08-06-Emnid.html) | Emnid | 59 | 53–66 | 51–68 | 50–70 | 47–73 |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 53 | 47–59 | 45–61 | 43–63 | 41–66 |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 68 | 61–75 | 60–77 | 58–79 | 55–83 |
-| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 64 | 59–70 | 57–72 | 56–74 | 53–77 |
+| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–31 July 2020](2020-07-31-Forsa.html) | Forsa | 62 | 56–68 | 54–70 | 53–71 | 50–75 |
 | [28–30 July 2020](2020-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 54–69 | 52–72 | 50–74 | 47–79 |
 | [23–29 July 2020](2020-07-29-Emnid.html) | Emnid | 61 | 54–68 | 52–70 | 51–72 | 48–76 |
-| [24–27 July 2020](2020-07-27-INSAandYouGov.html) | INSA and YouGov | 61 | 55–67 | 54–68 | 52–70 | 50–73 |
+| [24–27 July 2020](2020-07-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [22–27 July 2020](2020-07-27-GMS.html) | GMS | 46 | 39–54 | 0–56 | 0–58 | 0–63 |
 | [20–24 July 2020](2020-07-24-Forsa.html) | Forsa | 61 | 55–68 | 54–69 | 52–71 | 50–74 |
 | [21–22 July 2020](2020-07-22-Infratestdimap.html) | Infratest dimap | 54 | 46–63 | 44–65 | 43–67 | 39–72 |
 | [16–22 July 2020](2020-07-22-Emnid.html) | Emnid | 60 | 54–65 | 53–67 | 51–69 | 49–72 |
-| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 57 | 52–63 | 50–64 | 49–66 | 46–69 |
+| [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 61 | 55–67 | 54–69 | 52–71 | 50–74 |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 57 | 50–64 | 47–67 | 46–69 | 43–73 |
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 60 | 53–67 | 51–69 | 50–71 | 47–75 |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 64 | 58–70 | 56–72 | 55–73 | 53–76 |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 53 | 48–59 | 46–61 | 45–63 | 43–66 |
 | [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–62 | 45–64 | 43–66 | 40–70 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 60 | 53–67 | 51–69 | 50–71 | 47–75 |
-| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 61 | 55–66 | 53–68 | 52–69 | 49–72 |
+| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 63 | 55–69 | 54–72 | 53–73 | 50–77 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 59 | 53–67 | 51–69 | 50–70 | 47–74 |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 54 | 47–60 | 45–63 | 44–65 | 41–68 |
-| [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 60 | 54–66 | 53–67 | 51–69 | 49–72 |
+| [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 61 | 55–67 | 54–69 | 52–71 | 49–75 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 47–62 | 45–64 | 44–66 | 40–70 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 54 | 47–61 | 47–64 | 44–66 | 40–71 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 59 | 53–67 | 51–70 | 51–72 | 47–76 |
 | [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 71 | 63–77 | 60–81 | 58–83 | 56–85 |
-| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 64 | 58–70 | 57–72 | 56–73 | 52–76 |
+| [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 62 | 56–71 | 56–72 | 54–73 | 50–76 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 60 | 54–65 | 54–66 | 53–68 | 50–72 |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 59 | 54–66 | 53–68 | 52–69 | 49–72 |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 63 | 53–67 | 52–73 | 51–75 | 44–78 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 63 | 54–67 | 52–69 | 52–71 | 50–74 |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 53 | 46–62 | 46–63 | 44–65 | 41–68 |
 | [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 57 | 49–61 | 48–66 | 47–68 | 41–70 |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 52 | 48–58 | 47–60 | 45–62 | 42–65 |
-| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 63 | 58–70 | 56–72 | 55–73 | 53–76 |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 60 | 54–68 | 52–70 | 52–73 | 48–77 |
 | [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 61 | 52–66 | 52–69 | 50–70 | 47–75 |
 | [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 64 | 56–69 | 54–70 | 52–72 | 48–77 |
-| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 60 | 55–69 | 53–69 | 52–71 | 50–74 |
+| [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 63 | 55–70 | 52–73 | 51–76 | 47–81 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 62 | 55–70 | 53–73 | 52–75 | 49–79 |
 | [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 73 | 63–80 | 62–82 | 59–83 | 57–88 |
 | [20–26 May 2020](2020-05-26-Emnid.html) | Emnid | 52 | 47–58 | 45–59 | 45–61 | 42–64 |
-| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 61 | 55–67 | 54–69 | 52–70 | 50–74 |
+| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 62 | 55–71 | 53–73 | 52–76 | 50–78 |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 61 | 55–67 | 53–68 | 51–70 | 49–73 |
-| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 57 | 51–63 | 51–64 | 50–67 | 47–68 |
+| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 61 | 56–67 | 53–69 | 52–71 | 50–74 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 62 | 54–70 | 52–72 | 51–75 | 47–78 |
 | [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 56 | 47–65 | 46–66 | 44–69 | 38–71 |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 52 | 46–61 | 44–63 | 42–66 | 39–69 |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 61 | 53–68 | 53–70 | 51–71 | 48–75 |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 55 | 51–65 | 50–66 | 50–66 | 48–67 |
+| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 54 | 49–59 | 47–60 | 46–60 | 45–64 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 61 | 54–71 | 53–72 | 50–74 | 48–79 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 60 | 53–67 | 52–71 | 51–75 | 47–78 |
-| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 57 | 53–61 | 52–63 | 50–65 | 47–68 |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 62 | 56–70 | 54–72 | 52–74 | 49–77 |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 68 | 62–76 | 59–77 | 57–80 | 55–82 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 71 | 63–77 | 60–79 | 58–82 | 56–85 |
-| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–61 | 43–65 |
+| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 59 | 53–69 | 50–73 | 48–74 | 45–79 |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 61 | 54–67 | 54–69 | 52–71 | 49–74 |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 46–63 | 45–65 | 44–67 | 41–71 |
 | [16–22 April 2020](2020-04-22-Emnid.html) | Emnid | 68 | 63–74 | 61–75 | 60–77 | 57–80 |
-| [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 56 | 51–63 | 49–64 | 48–65 | 46–69 |
+| [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 63 | 56–70 | 54–72 | 53–74 | 50–79 |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 54 | 46–62 | 44–64 | 42–67 | 39–71 |
 | [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 58 | 58 | 58 | 58 | 58 |
 | [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 53 | 46–60 | 44–62 | 42–65 | 40–68 |
-| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 56 | 51–62 | 50–64 | 48–65 | 46–68 |
+| [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 62 | 57–68 | 55–70 | 54–71 | 52–75 |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 46–62 | 44–64 | 43–66 | 41–71 |
 | [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 67 | 61–74 | 59–76 | 58–77 | 55–81 |
-| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 53 | 47–58 | 46–60 | 45–62 | 43–65 |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 61 | 55–67 | 54–69 | 52–71 | 49–74 |
 | [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 53 | 47–59 | 45–62 | 44–64 | 42–69 |
 | [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | 67 | 60–74 | 58–77 | 57–79 | 54–83 |
 | [27–30 March 2020](2020-03-30-YouGov.html) | YouGov | 67 | 61–74 | 59–76 | 57–79 | 55–82 |
-| [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 57 | 51–63 | 50–65 | 49–66 | 46–68 |
+| [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 62 | 56–68 | 54–70 | 53–72 | 50–75 |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 61 | 53–68 | 52–70 | 51–71 | 48–75 |
 | [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | 62 | 54–70 | 52–72 | 51–75 | 47–78 |
 | [18–25 March 2020](2020-03-25-Emnid.html) | Emnid | 68 | 60–75 | 59–78 | 57–80 | 54–83 |
-| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 53 | 47–59 | 46–61 | 45–61 | 43–64 |
+| [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | 69 | 63–76 | 61–78 | 60–80 | 57–83 |
 | [17–18 March 2020](2020-03-18-Infratestdimap.html) | Infratest dimap | 68 | 61–78 | 58–80 | 57–83 | 53–87 |
 | [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | 65 | 66 | 66 | 66 | 66 |
 | [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | 60 | 53–68 | 51–70 | 50–72 | 46–76 |
-| [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 71 | 65–77 | 64–79 | 62–81 | 60–84 |
+| [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 78 | 72–85 | 69–87 | 68–89 | 65–92 |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 60 | 55–69 | 53–71 | 51–74 | 48–76 |
-| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 72 | 66–78 | 64–80 | 63–82 | 60–85 |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 77 | 70–85 | 69–86 | 68–88 | 64–91 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 62 | 54–68 | 52–72 | 50–73 | 47–77 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 69 | 60–77 | 60–78 | 59–79 | 55–84 |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 68 | 61–77 | 60–78 | 58–80 | 54–84 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 76 | 71–84 | 69–85 | 67–87 | 64–92 |
-| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 75 | 69–80 | 67–82 | 65–84 | 63–88 |
+| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 80 | 72–87 | 69–89 | 69–91 | 66–95 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 77 | 69–84 | 67–86 | 65–88 | 62–93 |
-| [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 80 | 72–87 | 70–89 | 69–89 | 68–93 |
+| [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 77 | 71–83 | 69–85 | 68–87 | 64–90 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 76 | 69–85 | 67–88 | 66–89 | 62–93 |
-| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 72 | 65–79 | 64–80 | 63–83 | 61–85 |
+| [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 77 | 71–83 | 68–86 | 68–88 | 64–92 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 69 | 57–79 | 55–83 | 54–84 | 50–87 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 74 | 66–75 | 66–75 | 66–75 | 62–82 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 69 | 62–77 | 61–80 | 59–82 | 56–87 |
-| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 75 | 71–81 | 69–84 | 67–86 | 63–89 |
+| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 83 | 58–83 | 57–83 | 57–83 | 57–83 |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 74 | 65–85 | 64–91 | 63–93 | 59–99 |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 67 | 62–75 | 59–76 | 58–79 | 55–83 |
 | [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 68 | 60–74 | 59–76 | 58–78 | 55–81 |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 63 | 54–67 | 53–67 | 51–68 | 49–71 |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 69 | 62–76 | 61–78 | 59–79 | 57–83 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 68 | 61–76 | 58–77 | 57–79 | 55–83 |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 63 | 59–71 | 57–73 | 55–73 | 53–77 |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 68 | 62–75 | 61–77 | 60–77 | 58–81 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 61 | 53–68 | 51–70 | 48–73 | 45–78 |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 74 | 69–81 | 67–83 | 65–84 | 63–88 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 60 | 53–68 | 51–69 | 49–72 | 47–76 |
-| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 71 | 66–78 | 64–80 | 63–81 | 60–84 |
+| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 68 | 62–75 | 60–77 | 59–78 | 56–82 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 68 | 59–76 | 58–78 | 57–80 | 54–84 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 66 | 63–73 | 63–74 | 59–77 | 56–80 |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 68 | 62–75 | 61–77 | 60–78 | 57–80 |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 61 | 55–68 | 54–70 | 54–71 | 50–74 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 61 | 54–67 | 52–70 | 50–72 | 47–74 |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 68 | 62–74 | 60–76 | 58–78 | 56–81 |
-| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 63 | 58–70 | 57–71 | 54–72 | 52–76 |
+| [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 62 | 54–69 | 52–73 | 49–75 | 46–78 |
-| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov | 60 | 55–66 | 53–68 | 53–69 | 49–72 |
+| [20–23 December 2019](2019-12-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 61 | 57–69 | 55–70 | 53–71 | 50–76 |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 65–71 | 64–72 | 58–74 | 55–82 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 77 | 70–83 | 68–87 | 65–88 | 64–92 |
-| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov | 71 | 65–78 | 64–80 | 63–81 | 60–85 |
+| [13–16 December 2019](2019-12-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 69 | 63–76 | 62–78 | 59–79 | 57–83 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 68 | 54–76 | 54–76 | 54–78 | 52–82 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 56–67 | 55–69 | 54–70 | 51–72 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 65 | 58–69 | 58–69 | 58–78 | 58–78 |
 | [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 50 | 49–56 | 49–75 | 49–75 | 49–75 |
-| [6–9 December 2019](2019-12-09-INSAandYouGov.html) | INSA and YouGov | 65 | 62–70 | 58–70 | 58–70 | 50–71 |
+| [6–9 December 2019](2019-12-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 62 | 62–63 | 62–63 | 62–63 | 62–63 |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 57 | 57 | 57–61 | 57–61 | 57–67 |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 66 | 60–66 | 60–66 | 60–68 | 60–68 |
-| [29 November–2 December 2019](2019-12-02-INSAandYouGov.html) | INSA and YouGov | 72 | 72 | 72–74 | 72–74 | 60–74 |
+| [29 November–2 December 2019](2019-12-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27 November–2 December 2019](2019-12-02-GMS.html) | GMS | 58 | 58–75 | 58–75 | 51–75 | 49–76 |
 | [25–29 November 2019](2019-11-29-Forsa.html) | Forsa | 66 | 55–73 | 55–73 | 54–73 | 52–73 |
 | [26–28 November 2019](2019-11-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 80 | 76–80 | 71–81 | 71–81 | 67–89 |
 | [20–27 November 2019](2019-11-27-Emnid.html) | Emnid <br> Bild am Sonntag | 77 | 73–80 | 73–80 | 64–85 | 59–85 |
 | [22–26 November 2019](2019-11-26-YouGov.html) | YouGov | 87 | 77–88 | 68–89 | 65–89 | 65–89 |
-| [22–25 November 2019](2019-11-25-INSAandYouGov.html) | INSA and YouGov | 74 | 74 | 74 | 71–74 | 59–76 |
+| [22–25 November 2019](2019-11-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–22 November 2019](2019-11-22-Forsa.html) | Forsa | 69 | 69 | 69 | 62–83 | 61–83 |
 | [13–20 November 2019](2019-11-20-Emnid.html) | Emnid <br> Bild am Sonntag | 74 | 69–80 | 68–80 | 63–80 | 55–80 |
-| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 71 | 71–73 | 71–73 | 71–78 | 69–78 |
+| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 74 | 71–82 | 71–84 | 71–84 | 70–85 |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 68 | 66–70 | 66–72 | 66–72 | 66–74 |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 79 | 75–79 | 75–79 | 71–87 | 67–92 |
@@ -1076,18 +1078,18 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 55 | 49–61 | 48–61 | 47–63 | 44–67 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 52–68 | 50–71 | 48–74 | 45–77 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 60 | 53–66 | 52–69 | 50–70 | 48–73 |
-| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 57 | 51–63 | 50–65 | 49–66 | 46–69 |
+| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 61 | 55–65 | 50–65 | 45–71 | 45–71 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 65 | 65 | 65–66 | 65–67 | 64–70 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 63 | 57–72 | 55–73 | 54–73 | 48–77 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 56 | 44–60 | 43–60 | 43–60 | 43–63 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 67 | 63–67 | 63–67 | 63–67 | 57–67 |
-| [6–9 September 2019](2019-09-09-INSAandYouGov.html) | INSA and YouGov | 56 | 52–63 | 50–64 | 49–66 | 46–69 |
+| [6–9 September 2019](2019-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 46 | 41–52 | 40–54 | 0–54 | 0–57 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 55 | 49–61 | 46–63 | 45–64 | 42–67 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 55 | 46–62 | 45–63 | 43–64 | 41–67 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 64 | 63–64 | 55–67 | 47–73 | 47–73 |
-| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 52 | 49–55 | 49–55 | 49–55 | 49–56 |
+| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 55 | 54–55 | 52–55 | 45–55 | 43–66 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 57 | 57 | 57 | 49–57 | 40–58 |
 | [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 60 | 60–69 | 59–69 | 59–69 | 58–69 |
@@ -1587,31 +1589,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 99.9% |  |
 | 36 | 0% | 99.9% |  |
 | 37 | 0% | 99.9% |  |
-| 38 | 0% | 99.9% |  |
+| 38 | 0.1% | 99.9% |  |
 | 39 | 0.1% | 99.9% |  |
-| 40 | 0.1% | 99.7% |  |
-| 41 | 0.3% | 99.6% |  |
-| 42 | 0.4% | 99.3% |  |
-| 43 | 0.4% | 99.0% |  |
-| 44 | 0.8% | 98.6% |  |
+| 40 | 0.1% | 99.8% |  |
+| 41 | 0.4% | 99.6% |  |
+| 42 | 0.3% | 99.3% |  |
+| 43 | 0.4% | 98.9% |  |
+| 44 | 0.8% | 98% |  |
 | 45 | 0.9% | 98% |  |
-| 46 | 0.9% | 97% |  |
+| 46 | 1.1% | 97% |  |
 | 47 | 2% | 96% |  |
 | 48 | 1.4% | 94% |  |
 | 49 | 2% | 93% |  |
 | 50 | 3% | 91% |  |
-| 51 | 3% | 87% |  |
+| 51 | 3% | 88% |  |
 | 52 | 3% | 85% |  |
-| 53 | 4% | 81% |  |
-| 54 | 4% | 77% |  |
-| 55 | 6% | 74% |  |
-| 56 | 3% | 68% |  |
-| 57 | 3% | 65% |  |
-| 58 | 6% | 61% |  |
+| 53 | 4% | 82% |  |
+| 54 | 4% | 78% |  |
+| 55 | 6% | 75% |  |
+| 56 | 4% | 69% |  |
+| 57 | 4% | 64% |  |
+| 58 | 5% | 60% |  |
 | 59 | 5% | 55% |  |
 | 60 | 5% | 50% | Median |
-| 61 | 5% | 46% |  |
-| 62 | 5% | 40% |  |
+| 61 | 5% | 45% |  |
+| 62 | 4% | 40% |  |
 | 63 | 4% | 36% |  |
 | 64 | 4% | 31% |  |
 | 65 | 3% | 27% |  |
