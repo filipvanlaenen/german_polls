@@ -5,17 +5,17 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [21–23 December 2020](2020-12-23-Forsa.html) | Forsa | 27–32% <br> 207–243 | 13–17% <br> 100–129 | 8–11% <br> 58–79 | 5–7% <br> 0–57 | 8–11% <br> 59–80 | 16–20% <br> 123–152 | 6–8% <br> 42–62 |
+| [21–23 December 2020](2020-12-23-Forsa.html) | Forsa | 27–32% <br> 205–242 | 13–17% <br> 101–129 | 8–11% <br> 58–81 | 5–7% <br> 0–55 | 8–11% <br> 58–81 | 16–20% <br> 123–153 | 6–8% <br> 42–62 |
 | [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 200–229 | 14–18% <br> 109–133 | 10–12% <br> 73–93 | 7–9% <br> 52–69 | 6–9% <br> 48–66 | 15–18% <br> 112–136 | 6–8% <br> 42–58 |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 28–32% <br> 214–246 | 13–17% <br> 102–127 | 7–9% <br> 53–71 | 5–7% <br> 38–54 | 7–9% <br> 52–72 | 17–21% <br> 131–157 | 6–8% <br> 44–61 |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 27–30% <br> 200–226 | 16–19% <br> 116–139 | 9–11% <br> 66–83 | 5–7% <br> 38–52 | 7–9% <br> 52–68 | 17–21% <br> 130–154 | 6–8% <br> 42–57 |
-| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 203–232 | 15–19% <br> 116–139 | 9–11% <br> 66–85 | 6–8% <br> 49–59 | 6–8% <br> 46–62 | 15–19% <br> 116–140 | 6–8% <br> 45–59 |
 | [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 28–32% <br> 215–255 | 13–17% <br> 104–132 | 7–9% <br> 53–73 | 4–6% <br> 0–46 | 7–9% <br> 53–73 | 18–22% <br> 141–173 | 6–8% <br> 45–64 |
 | [28 November–10 December 2020](2020-12-10-Allensbach.html) | Allensbach | 27–33% <br> 202–243 | 14–19% <br> 107–140 | 7–11% <br> 55–81 | 6–9% <br> 41–65 | 6–9% <br> 41–65 | 17–22% <br> 123–159 | 6–9% <br> 41–64 |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 26–32% <br> 199–245 | 14–18% <br> 104–139 | 7–11% <br> 55–83 | 5–8% <br> 0–57 | 6–9% <br> 42–66 | 18–23% <br> 133–172 | 5–9% <br> 40–64 |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 205–251 | 14–18% <br> 105–138 | 8–12% <br> 63–90 | 4–6% <br> 0–46 | 7–10% <br> 50–73 | 18–22% <br> 133–171 | 6–8% <br> 42–64 |
-| [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 27–30% <br> 201–228 | 15–18% <br> 110–132 | 9–11% <br> 66–85 | 6–8% <br> 45–61 | 6–8% <br> 45–60 | 17–21% <br> 132–154 | 6–8% <br> 43–58 |
-| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 27–30% <br> 201–228 | 15–18% <br> 110–132 | 9–11% <br> 67–85 | 6–8% <br> 45–61 | 6–8% <br> 45–61 | 17–21% <br> 132–155 | 6–8% <br> 43–57 |
+| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 26–29% <br> 193–221 | 14–17% <br> 105–129 | 9–11% <br> 66–86 | 7–9% <br> 52–70 | 6–9% <br> 48–65 | 16–19% <br> 120–144 | 7–9% <br> 52–70 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 27–31% <br> 208–239 | 13–17% <br> 103–127 | 7–9% <br> 52–70 | 5–7% <br> 39–54 | 7–9% <br> 52–70 | 18–22% <br> 139–167 | 6–8% <br> 44–61 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 27–32% <br> 201–238 | 13–17% <br> 99–127 | 9–12% <br> 64–87 | 5–7% <br> 0–54 | 6–8% <br> 43–62 | 19–23% <br> 141–173 | 6–8% <br> 42–61 |
 | [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 26–31% <br> 197–231 | 13–17% <br> 100–127 | 9–12% <br> 64–87 | 6–8% <br> 44–64 | 7–10% <br> 51–71 | 17–21% <br> 128–159 | 5–8% <br> 41–60 |
