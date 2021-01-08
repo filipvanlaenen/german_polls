@@ -819,15 +819,15 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [9–11 November 2020](2020-11-11-Infratestdimap.html) | Infratest dimap | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [5–11 November 2020](2020-11-11-Emnid.html) | Emnid | 53 | 49–59 | 47–60 | 46–61 | 44–64 |
 | [1–11 November 2020](2020-11-11-Allensbach.html) | Allensbach | 48 | 43–55 | 40–58 | 39–59 | 0–62 |
-| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 52 | 48–59 | 47–61 | 45–62 | 43–65 |
+| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 53 | 47–58 | 46–60 | 45–61 | 42–64 |
 | [4–9 November 2020](2020-11-09-GMS.html) | GMS | 0 | 0–45 | 0–47 | 0–49 | 0–53 |
 | [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 38–54 | 0–57 |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 53 | 46–60 | 45–62 | 44–64 | 41–67 |
-| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 47 | 44–55 | 43–56 | 42–57 | 39–61 |
+| [30 October–2 November 2020](2020-11-02-INSAandYouGov.html) | INSA and YouGov | 49 | 44–54 | 43–56 | 42–58 | 40–60 |
 | [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 45 | 41–51 | 39–52 | 0–53 | 0–57 |
 | [22–28 October 2020](2020-10-28-Emnid.html) | Emnid | 53 | 47–58 | 46–60 | 45–62 | 43–65 |
 | [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 45 | 39–51 | 38–52 | 0–54 | 0–57 |
-| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov | 48 | 44–55 | 44–56 | 41–56 | 40–60 |
+| [23–26 October 2020](2020-10-26-INSAandYouGov.html) | INSA and YouGov | 48 | 44–55 | 44–56 | 41–58 | 40–60 |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 38–54 | 0–57 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 38 | 0–43 | 0–45 | 0–47 | 0–50 |
 | [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 46 | 39–51 | 38–53 | 0–55 | 0–58 |
@@ -841,7 +841,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 0 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–43 | 0–45 | 0–47 | 0–50 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 0 | 0–45 | 0–46 | 0–47 | 0–51 |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 45 | 40–50 | 39–53 | 0–53 | 0–56 |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 45 | 40–50 | 39–53 | 38–54 | 0–56 |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 38–54 | 0–57 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 45 | 39–51 | 38–53 | 0–54 | 0–58 |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 45 | 40–50 | 39–51 | 38–52 | 0–55 |
@@ -849,13 +849,13 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 46 | 41–51 | 39–52 | 38–54 | 0–57 |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 45 | 39–51 | 38–53 | 0–55 | 0–58 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 38 | 0–44 | 0–46 | 0–47 | 0–51 |
-| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 50 | 44–54 | 43–56 | 42–57 | 40–60 |
+| [18–21 September 2020](2020-09-21-INSAandYouGov.html) | INSA and YouGov | 49 | 44–54 | 43–56 | 42–57 | 39–60 |
 | [14–18 September 2020](2020-09-18-Forsa.html) | Forsa | 38 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [15–16 September 2020](2020-09-16-Infratestdimap.html) | Infratest dimap | 38 | 0–45 | 0–47 | 0–49 | 0–52 |
 | [14–16 September 2020](2020-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 37 | 0–44 | 0–46 | 0–47 | 0–51 |
 | [10–16 September 2020](2020-09-16-Emnid.html) | Emnid | 38 | 0–44 | 0–45 | 0–47 | 0–50 |
 | [4–16 September 2020](2020-09-16-Allensbach.html) | Allensbach | 45 | 38–53 | 0–54 | 0–56 | 0–60 |
-| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 47–60 | 45–61 | 43–64 |
+| [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 53 | 48–58 | 46–60 | 45–61 | 43–64 |
 | [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 38 | 0–43 | 0–45 | 0–46 | 0–49 |
 | [3–9 September 2020](2020-09-09-Emnid.html) | Emnid | 46 | 40–51 | 0–52 | 0–55 | 0–57 |
 | [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
