@@ -218,19 +218,19 @@ Last result: **8.9%** (General Election of 24 September 2017)
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 22.0% | 20.7–23.4% | 20.3–23.9% | 20.0–24.2% | 19.4–24.9% |
 | [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 22.0% | N/A | N/A | N/A | N/A |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.5–23.5% | 20.3–23.9% | 19.7–24.4% |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 23.0% | 21.8–24.3% | 21.5–24.7% | 21.2–25.0% | 20.6–25.6% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 21.0% | 19.7–22.5% | 19.3–22.8% | 19.0–23.2% | 18.4–23.9% |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 20.5% | N/A | N/A | N/A | N/A |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 20.5% | 19.4–21.7% | 19.1–22.0% | 18.8–22.3% | 18.3–22.9% |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 23.0% | 22.0–24.1% | 21.7–24.4% | 21.4–24.7% | 20.9–25.3% |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 24.0% | 22.3–25.7% | 21.9–26.2% | 21.5–26.7% | 20.7–27.5% |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.8–23.4% |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 23.5% | 22.0–25.1% | 21.6–25.5% | 21.2–25.9% | 20.5–26.7% |
-| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 21.0% | N/A | N/A | N/A | N/A |
+| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.8–23.4% |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 22.0% | 20.9–23.3% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23.0% | 21.6–24.6% | 21.1–25.0% | 20.8–25.4% | 20.1–26.2% |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 21.0% | 19.9–22.2% | 19.6–22.6% | 19.3–22.8% | 18.7–23.4% |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 21.0% | N/A | N/A | N/A | N/A |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 21.0% | 19.9–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 22.0% | 20.8–23.3% | 20.5–23.6% | 20.2–23.9% | 19.6–24.5% |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 23.0% | 21.6–24.4% | 21.2–24.8% | 20.9–25.2% | 20.3–25.9% |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 21.0% | 19.8–22.3% | 19.5–22.6% | 19.2–22.9% | 18.6–23.5% |
@@ -866,11 +866,11 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [11–14 September 2020](2020-09-14-INSAandYouGov.html) | INSA and YouGov | 127 | 120–135 | 118–137 | 116–139 | 112–143 |
 | [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 141 | 130–151 | 128–155 | 126–157 | 122–162 |
 | [3–9 September 2020](2020-09-09-Emnid.html) | Emnid | 134 | 124–144 | 122–148 | 120–150 | 115–155 |
-| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 137 | 132–137 | 117–137 | 117–137 | 117–155 |
+| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 135 | 128–144 | 125–144 | 124–148 | 119–153 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 139 | 130–150 | 128–153 | 125–155 | 122–160 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 141 | 132–151 | 130–155 | 127–157 | 123–163 |
 | [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 134 | 124–144 | 122–147 | 120–150 | 115–156 |
-| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 134 | 127–134 | 125–134 | 125–134 | 120–137 |
+| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 131 | 123–140 | 120–142 | 119–145 | 116–149 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 150 | 140–161 | 137–165 | 135–167 | 130–172 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 145 | 134–158 | 131–161 | 128–165 | 123–170 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 134 | 125–143 | 123–146 | 120–149 | 116–154 |
@@ -919,7 +919,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 138 | 130–147 | 128–150 | 127–152 | 123–158 |
 | [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 139 | 131–154 | 128–154 | 126–158 | 121–163 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 127 | 119–134 | 117–137 | 116–138 | 113–143 |
-| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 146 | 142–146 | 137–146 | 137–149 | 137–150 |
+| [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 135 | 128–144 | 126–147 | 123–148 | 120–153 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 129 | 118–143 | 114–145 | 111–146 | 106–151 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 131 | 120–137 | 118–140 | 116–144 | 113–150 |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 143 | 129–152 | 128–157 | 126–158 | 120–166 |
@@ -944,7 +944,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 133 | 125–148 | 125–151 | 122–157 | 113–162 |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 107 | 97–116 | 95–117 | 95–119 | 88–123 |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 126 | 118–134 | 116–135 | 114–138 | 110–141 |
-| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 114 | 107–122 | 105–125 | 103–126 | 102–129 |
+| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 115 | 108–121 | 105–124 | 105–126 | 102–129 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 136 | 125–148 | 122–152 | 120–156 | 117–163 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 108 | 99–120 | 98–122 | 96–123 | 93–127 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 127 | 120–136 | 118–138 | 116–141 | 112–144 |
@@ -959,7 +959,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 120 | 111–128 | 110–129 | 109–131 | 105–137 |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 117 | 107–126 | 104–131 | 102–133 | 98–138 |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 145 | 132–158 | 129–161 | 126–165 | 121–172 |
-| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 130 | 130 | 130 | 130 | 130 |
+| [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 117 | 110–127 | 108–130 | 105–134 | 103–138 |
 | [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 142 | 131–152 | 129–156 | 126–160 | 121–166 |
 | [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 119 | 111–128 | 110–130 | 109–132 | 105–135 |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 125 | 116–134 | 114–138 | 111–140 | 108–145 |
@@ -978,7 +978,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 151 | 142–160 | 139–163 | 138–164 | 133–168 |
 | [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | 155 | 146–161 | 143–164 | 141–168 | 136–173 |
 | [17–18 March 2020](2020-03-18-Infratestdimap.html) | Infratest dimap | 174 | 162–189 | 158–193 | 155–195 | 151–201 |
-| [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | 180 | 180 | 180 | 180 | 180 |
+| [12–18 March 2020](2020-03-18-Emnid.html) | Emnid | 159 | 149–169 | 146–171 | 143–174 | 139–179 |
 | [5–18 March 2020](2020-03-18-Allensbach.html) | Allensbach | 172 | 160–184 | 158–187 | 155–188 | 148–194 |
 | [13–16 March 2020](2020-03-16-INSAandYouGov.html) | INSA and YouGov | 171 | 163–180 | 161–182 | 158–184 | 155–190 |
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 171 | 162–181 | 160–185 | 157–187 | 153–194 |
@@ -997,27 +997,27 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 154 | 141–163 | 139–166 | 136–168 | 132–173 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 154 | 145–163 | 144–167 | 141–169 | 138–173 |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 187 | 176–194 | 173–197 | 171–200 | 167–205 |
-| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 169 | 155–182 | 153–183 | 144–186 | 140–187 |
-| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 150 | 149–156 | 149–156 | 149–163 | 136–163 |
+| [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 164 | 155–180 | 152–185 | 147–185 | 141–192 |
+| [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 151 | 141–160 | 139–163 | 138–165 | 133–171 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 169 | 158–179 | 154–183 | 152–187 | 148–191 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 167 | 158–174 | 155–175 | 152–178 | 149–182 |
-| [3–7 February 2020](2020-02-07-Forsa.html) | Forsa |  | 180–190 | 180–190 | 165–190 | 165–190 |
+| [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 175 | 169–185 | 166–188 | 165–190 | 160–194 |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 173 | 153–182 | 149–186 | 146–189 | 143–195 |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 166 | 158–176 | 153–179 | 150–181 | 146–186 |
 | [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 148 | 141–158 | 139–161 | 136–163 | 132–167 |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 165 | 158–173 | 155–176 | 153–178 | 149–183 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 177 | 168–185 | 164–190 | 163–191 | 157–197 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 159 | 149–169 | 145–172 | 143–175 | 138–179 |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 174 | 167–183 | 164–185 | 161–188 | 161–191 |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 154 | 147–162 | 144–166 | 141–168 | 138–172 |
+| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 175 | 167–184 | 165–185 | 163–188 | 160–192 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 182 | 169–194 | 164–197 | 162–201 | 156–205 |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 156 | 149–164 | 146–167 | 144–169 | 140–174 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 175 | 163–187 | 161–189 | 159–193 | 153–198 |
-| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 159 | 149–166 | 147–169 | 145–171 | 142–176 |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 168 | 158–177 | 156–180 | 154–182 | 150–187 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 172 | 162–184 | 159–189 | 156–190 | 152–196 |
-| [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 155 | 154–166 | 146–167 | 145–167 | 142–170 |
-| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 156 | 153–166 | 153–167 | 146–168 | 143–174 |
+| [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 158 | 150–166 | 147–169 | 145–171 | 140–175 |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 169 | 160–178 | 158–182 | 155–183 | 152–188 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 172 | 163–183 | 160–187 | 158–189 | 153–195 |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 159 | 150–168 | 147–170 | 145–172 | 140–178 |
