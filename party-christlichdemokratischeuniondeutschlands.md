@@ -945,7 +945,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 228 | 219–240 | 217–241 | 213–245 | 209–251 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 241 | 232–255 | 228–256 | 225–262 | 220–266 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 235 | 223–252 | 219–258 | 217–260 | 210–270 |
-| [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 239 | 219–257 | 216–261 | 211–261 | 205–272 |
+| [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 237 | 222–254 | 217–259 | 214–262 | 206–270 |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 237 | 221–245 | 214–255 | 210–257 | 206–268 |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 239 | 228–250 | 224–254 | 221–257 | 216–266 |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 223 | 215–234 | 213–237 | 210–239 | 206–244 |
