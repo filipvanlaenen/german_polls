@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen, 12–14 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forschungsgruppe Wahlen, 12–14 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.png" length="264264" type="image/png"/>
+      <pubDate>Fri, 15 Jan 2021 19:18:28 +0100</pubDate>
+      <dc:date>2021-01-15T19:18:28.803236+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 4–8 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-01-08-Forsa.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 4–8 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-08-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-08-Forsa-seating-plan.png"/>]]></description>
@@ -220,78 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.png" length="246561" type="image/png"/>
       <pubDate>Tue, 5 Jan 2021 07:33:26 +0100</pubDate>
       <dc:date>2021-01-05T07:33:26.837416+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov, 11–14 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by INSA and YouGov, 11–14 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov-seating-plan.png" length="951754" type="image/png"/>
-      <pubDate>Wed, 6 Jan 2021 21:07:23 +0100</pubDate>
-      <dc:date>2021-01-06T21:07:23.21826+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov, 11–14 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by INSA and YouGov, 11–14 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov-seats.png" length="237902" type="image/png"/>
-      <pubDate>Wed, 6 Jan 2021 21:07:23 +0100</pubDate>
-      <dc:date>2021-01-06T21:07:23.21826+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov, 11–14 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 11–14 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-14-INSAandYouGov.png" length="253314" type="image/png"/>
-      <pubDate>Wed, 6 Jan 2021 21:07:23 +0100</pubDate>
-      <dc:date>2021-01-06T21:07:23.21826+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 7–11 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 7–11 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa-seating-plan.png" length="965755" type="image/png"/>
-      <pubDate>Tue, 29 Dec 2020 11:30:55 +0100</pubDate>
-      <dc:date>2020-12-29T11:30:55.128143+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 7–11 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 7–11 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa-seats.png" length="249029" type="image/png"/>
-      <pubDate>Tue, 29 Dec 2020 11:30:55 +0100</pubDate>
-      <dc:date>2020-12-29T11:30:55.128143+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 7–11 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 7–11 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-11-Forsa.png" length="249087" type="image/png"/>
-      <pubDate>Tue, 29 Dec 2020 11:30:55 +0100</pubDate>
-      <dc:date>2020-12-29T11:30:55.128143+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Allensbach, 28 November–10 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Allensbach, 28 November–10 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach-seating-plan.png" length="972915" type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 20:44:27 +0100</pubDate>
-      <dc:date>2020-12-28T20:44:27.538902+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Allensbach, 28 November–10 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Allensbach, 28 November–10 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach-seats.png" length="250396" type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 20:44:27 +0100</pubDate>
-      <dc:date>2020-12-28T20:44:27.538902+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Allensbach, 28 November–10 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Allensbach, 28 November–10 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-10-Allensbach.png" length="268932" type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 20:44:27 +0100</pubDate>
-      <dc:date>2020-12-28T20:44:27.538902+01:00</dc:date>
     </item>
   </channel>
 </rss>
