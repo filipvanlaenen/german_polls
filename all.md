@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 | [12–14 January 2021](2021-01-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 209–251 | 13–17% <br> 100–131 | 8–12% <br> 64–91 | 4–6% <br> 0–47 | 7–10% <br> 50–74 | 18–22% <br> 133–172 | 6–8% <br> 42–64 |
-| [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | 26–30% <br> 195–224 | 13–17% <br> 101–124 | 9–11% <br> 66–85 | 6–9% <br> 48–65 | 7–9% <br> 52–70 | 16–20% <br> 124–149 | 7–9% <br> 51–69 |
 | [4–8 January 2021](2021-01-08-Forsa.html) | Forsa | 27–31% <br> 208–238 | 13–16% <br> 96–118 | 7–9% <br> 52–70 | 6–8% <br> 45–62 | 7–9% <br> 52–70 | 18–22% <br> 140–166 | 6–8% <br> 43–60 |
 | [4–6 January 2021](2021-01-06-Infratestdimap.html) | Infratest dimap | 26–31% <br> 197–231 | 12–16% <br> 93–119 | 9–12% <br> 65–87 | 6–8% <br> 43–63 | 6–8% <br> 44–63 | 19–23% <br> 143–174 | 5–8% <br> 41–60 |
 | [30 December 2020–5 January 2021](2021-01-05-YouGov.html) | YouGov | 27–32% <br> 204–239 | 13–17% <br> 100–127 | 9–12% <br> 65–87 | 5–7% <br> 0–54 | 8–11% <br> 58–80 | 16–20% <br> 122–151 | 6–8% <br> 42–61 |
