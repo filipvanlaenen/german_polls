@@ -6,12 +6,44 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 17–18 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-18-INSAandYouGov.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 17–18 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-18-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-18-INSAandYouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-18-INSAandYouGov.png" length="257484" type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 18:18:48 +0100</pubDate>
+      <dc:date>2021-01-23T18:18:48.907889+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 16–17 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-17-Forsa.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 16–17 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-17-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-17-Forsa.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-17-Forsa.png" length="254620" type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 18:33:26 +0100</pubDate>
+      <dc:date>2021-01-23T18:33:26.407873+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 11–15 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-15-Forsa.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 11–15 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-15-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-15-Forsa.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-15-Forsa.png" length="249187" type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 18:51:13 +0100</pubDate>
+      <dc:date>2021-01-23T18:51:13.921649+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 12–14 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forschungsgruppe Wahlen, 12–14 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-14-ForschungsgruppeWahlen.png" length="264264" type="image/png"/>
       <pubDate>Fri, 15 Jan 2021 19:18:28 +0100</pubDate>
       <dc:date>2021-01-15T19:18:28.803236+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 5–13 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-13-Emnid.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 5–13 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-13-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-13-Emnid.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-13-Emnid.png" length="243321" type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 19:49:01 +0100</pubDate>
+      <dc:date>2021-01-23T19:49:01.50732+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 8–11 January 2021 – Voting Intentions</title>
@@ -188,54 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-21-INSAandYouGov.png" length="255470" type="image/png"/>
       <pubDate>Tue, 29 Dec 2020 13:25:34 +0100</pubDate>
       <dc:date>2020-12-29T13:25:34.862313+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 14–18 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa-seating-plan.png" length="953947" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 21:49:09 +0100</pubDate>
-      <dc:date>2021-01-04T21:49:09.094678+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 14–18 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa-seats.png" length="232240" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 21:49:09 +0100</pubDate>
-      <dc:date>2021-01-04T21:49:09.094678+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 14–18 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-18-Forsa.png" length="249956" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 21:49:09 +0100</pubDate>
-      <dc:date>2021-01-04T21:49:09.094678+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 10–16 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 10–16 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid-seating-plan.png" length="945097" type="image/png"/>
-      <pubDate>Tue, 5 Jan 2021 07:33:26 +0100</pubDate>
-      <dc:date>2021-01-05T07:33:26.837416+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 10–16 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 10–16 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid-seats.png" length="232684" type="image/png"/>
-      <pubDate>Tue, 5 Jan 2021 07:33:26 +0100</pubDate>
-      <dc:date>2021-01-05T07:33:26.837416+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Emnid, 10–16 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 10–16 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-16-Emnid.png" length="246561" type="image/png"/>
-      <pubDate>Tue, 5 Jan 2021 07:33:26 +0100</pubDate>
-      <dc:date>2021-01-05T07:33:26.837416+01:00</dc:date>
     </item>
   </channel>
 </rss>
