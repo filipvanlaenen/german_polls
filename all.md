@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 25–30% <br> 190–233 | 13–17% <br> 98–132 | 8–12% <br> 63–91 | 6–9% <br> 43–67 | 5–8% <br> 0–56 | 19–24% <br> 146–179 | 5–8% <br> 38–61 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 26–30% <br> 193–224 | 13–17% <br> 100–124 | 10–13% <br> 73–92 | 8–10% <br> 58–78 | 7–9% <br> 51–69 | 15–19% <br> 116–140 | 6–8% <br> 44–61 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 26–31% <br> 201–235 | 13–17% <br> 101–126 | 8–11% <br> 58–80 | 6–8% <br> 43–63 | 7–9% <br> 51–71 | 17–21% <br> 130–159 | 5–8% <br> 41–59 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 27–31% <br> 208–240 | 13–17% <br> 103–127 | 8–10% <br> 59–79 | 5–7% <br> 38–54 | 6–8% <br> 45–63 | 18–22% <br> 139–167 | 6–8% <br> 43–61 |
