@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 22–25 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov for Bild, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.png" length="254286" type="image/png"/>
+      <pubDate>Fri, 29 Jan 2021 20:15:16 +0100</pubDate>
+      <dc:date>2021-01-29T20:15:16.001595+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Infratest dimap, 18–20 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-01-20-Infratestdimap.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Infratest dimap, 18–20 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-20-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-20-Infratestdimap-seating-plan.png"/>]]></description>
@@ -228,30 +236,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-04-GMS.png" length="267812" type="image/png"/>
       <pubDate>Mon, 11 Jan 2021 18:14:50 +0100</pubDate>
       <dc:date>2021-01-11T18:14:50.456084+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 21–23 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 21–23 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa-seating-plan.png" length="973058" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 16:51:37 +0100</pubDate>
-      <dc:date>2021-01-04T16:51:37.157283+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 21–23 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html#seats</link>
-      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 21–23 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa-seats.png" length="256835" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 16:51:37 +0100</pubDate>
-      <dc:date>2021-01-04T16:51:37.157283+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa, 21–23 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html</link>
-      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 21–23 December 2020<br/>Details on https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_polls/2020-12-23-Forsa.png" length="257515" type="image/png"/>
-      <pubDate>Mon, 4 Jan 2021 16:51:37 +0100</pubDate>
-      <dc:date>2021-01-04T16:51:37.157283+01:00</dc:date>
     </item>
   </channel>
 </rss>
