@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 22–25 January 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by INSA and YouGov for Bild, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov-seating-plan.png" length="947096" type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 10:29:15 +0100</pubDate>
+      <dc:date>2021-01-30T10:29:15.364975+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 22–25 January 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html#seats</link>
+      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by INSA and YouGov for Bild, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov-seats.png" length="239048" type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 10:29:15 +0100</pubDate>
+      <dc:date>2021-01-30T10:29:15.364975+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 22–25 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov for Bild, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-25-INSAandYouGov.png" length="254286" type="image/png"/>
-      <pubDate>Fri, 29 Jan 2021 20:15:16 +0100</pubDate>
-      <dc:date>2021-01-29T20:15:16.001595+01:00</dc:date>
+      <pubDate>Sat, 30 Jan 2021 10:29:15 +0100</pubDate>
+      <dc:date>2021-01-30T10:29:15.364975+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap, 18–20 January 2021 – Seating Plan Projection</title>
@@ -36,6 +52,14 @@
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-20-Infratestdimap.png" length="269856" type="image/png"/>
       <pubDate>Sun, 24 Jan 2021 20:35:54 +0100</pubDate>
       <dc:date>2021-01-24T20:35:54.427372+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 14–20 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-01-20-Emnid.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 14–20 January 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-01-20-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-01-20-Emnid.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-01-20-Emnid.png" length="252029" type="image/png"/>
+      <pubDate>Fri, 29 Jan 2021 21:02:11 +0100</pubDate>
+      <dc:date>2021-01-29T21:02:11.94577+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 17–18 January 2021 – Seating Plan Projection</title>
