@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.6–7.5% | 5.4–7.7% | 5.3–7.9% | 4.9–8.4% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.5% | 5.5–7.7% | 5.3–7.9% | 5.0–8.4% |
+| [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.5% |
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 6.6% | 5.8–7.4% | 5.6–7.7% | 5.4–7.9% | 5.1–8.4% |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.4% |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 6.9% | 6.2–7.7% | 6.1–8.0% | 5.9–8.2% | 5.6–8.5% |
@@ -797,9 +798,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 7% | 100% |  |
-| 5.5–6.5% | 44% | 93% | Last Result |
-| 6.5–7.5% | 40% | 48% | Median |
+| 4.5–5.5% | 6% | 100% |  |
+| 5.5–6.5% | 44% | 94% | Last Result |
+| 6.5–7.5% | 41% | 49% | Median |
 | 7.5–8.5% | 8% | 8% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -813,7 +814,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 43–56 | 40–58 | 39–60 | 36–63 |
+| N/A | [Poll Average](average.html) | 49 | 42–56 | 41–58 | 39–60 | 37–63 |
+| [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 45 | 40–49 | 39–51 | 38–52 | 35–56 |
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 49 | 43–55 | 42–57 | 40–58 | 38–62 |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 44 | 40–50 | 38–51 | 36–52 | 35–54 |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 53 | 48–59 | 47–60 | 46–62 | 43–65 |
@@ -1602,27 +1604,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0% | 100% |  |
-| 35 | 0.3% | 99.9% |  |
-| 36 | 0.6% | 99.6% |  |
-| 37 | 0.4% | 99.0% |  |
-| 38 | 0.7% | 98.6% |  |
-| 39 | 1.2% | 98% |  |
-| 40 | 2% | 97% |  |
-| 41 | 2% | 95% |  |
-| 42 | 2% | 93% |  |
-| 43 | 5% | 91% |  |
-| 44 | 9% | 86% |  |
-| 45 | 9% | 77% |  |
-| 46 | 7% | 68% | Last Result |
-| 47 | 5% | 61% |  |
-| 48 | 5% | 56% |  |
-| 49 | 4% | 51% | Median |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 0.1% | 99.8% |  |
+| 37 | 0.4% | 99.7% |  |
+| 38 | 1.0% | 99.2% |  |
+| 39 | 1.4% | 98% |  |
+| 40 | 1.4% | 97% |  |
+| 41 | 3% | 95% |  |
+| 42 | 5% | 93% |  |
+| 43 | 3% | 88% |  |
+| 44 | 5% | 85% |  |
+| 45 | 8% | 81% |  |
+| 46 | 7% | 72% | Last Result |
+| 47 | 5% | 65% |  |
+| 48 | 7% | 60% |  |
+| 49 | 5% | 53% | Median |
 | 50 | 5% | 47% |  |
 | 51 | 10% | 42% |  |
 | 52 | 5% | 32% |  |
 | 53 | 6% | 27% |  |
-| 54 | 2% | 20% |  |
-| 55 | 6% | 18% |  |
+| 54 | 2% | 21% |  |
+| 55 | 6% | 19% |  |
 | 56 | 4% | 13% |  |
 | 57 | 3% | 9% |  |
 | 58 | 2% | 6% |  |
