@@ -12,12 +12,14 @@ Last result: **10.7%** (General Election of 24 September 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.0% | 6.8–9.4% | 6.5–9.7% | 6.3–10.0% | 5.9–10.5% |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 9.1% | 8.3–9.9% | 8.1–10.2% | 7.9–10.4% | 7.5–10.8% |
+| [10–15 February 2021](2021-02-15-GMS.html) | GMS | 7.0% | N/A | N/A | N/A | N/A |
+| [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 7.0% | N/A | N/A | N/A | N/A |
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.3–9.9% | 8.0–10.1% | 7.9–10.3% | 7.5–10.7% |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 8.0% | 7.1–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
-| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 7.0% | 6.2–8.1% | 5.9–8.2% | 5.8–8.5% | 5.3–9.1% |
-| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 7.0% | N/A | N/A | N/A | N/A |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–8.9% |
+| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 6.0% | N/A | N/A | N/A | N/A |
 | [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.0% | N/A | N/A | N/A | N/A |
@@ -799,7 +801,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 6% | 99.9% |  |
-| 6.5–7.5% | 26% | 94% |  |
+| 6.5–7.5% | 27% | 94% |  |
 | 7.5–8.5% | 36% | 68% | Median |
 | 8.5–9.5% | 25% | 32% |  |
 | 9.5–10.5% | 7% | 7% |  |
@@ -815,14 +817,16 @@ Last result: **80** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 60 | 52–69 | 49–71 | 47–73 | 44–77 |
+| N/A | [Poll Average](average.html) | 60 | 50–69 | 48–71 | 47–73 | 44–77 |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 67 | 61–73 | 59–75 | 58–77 | 56–80 |
+| [10–15 February 2021](2021-02-15-GMS.html) | GMS |  |  |  |  |  |
+| [9–15 February 2021](2021-02-15-Forsa.html) | Forsa |  |  |  |  |  |
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 58 | 53–65 | 52–68 | 49–71 | 46–73 |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 67 | 61–72 | 60–74 | 58–76 | 55–79 |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 54 | 48–59 | 46–61 | 45–62 | 43–66 |
 | [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 60 | 54–68 | 52–69 | 51–71 | 47–76 |
-| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid |  |  |  |  |  |
-| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov |  |  |  |  |  |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 54 | 47–61 | 45–62 | 44–63 | 41–67 |
+| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 52 | 47–58 | 46–60 | 44–61 | 42–64 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
@@ -1604,29 +1608,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0% | 99.9% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.4% | 99.8% |  |
-| 45 | 0.1% | 99.4% |  |
-| 46 | 0.9% | 99.3% |  |
-| 47 | 1.0% | 98% |  |
-| 48 | 1.4% | 97% |  |
-| 49 | 2% | 96% |  |
-| 50 | 1.4% | 94% |  |
-| 51 | 2% | 93% |  |
-| 52 | 4% | 90% |  |
-| 53 | 5% | 87% |  |
-| 54 | 8% | 82% |  |
-| 55 | 4% | 74% |  |
-| 56 | 3% | 70% |  |
-| 57 | 4% | 66% |  |
-| 58 | 5% | 62% |  |
-| 59 | 6% | 57% |  |
-| 60 | 4% | 51% | Median |
+| 41 | 0% | 100% |  |
+| 42 | 0.1% | 99.9% |  |
+| 43 | 0.2% | 99.8% |  |
+| 44 | 0.2% | 99.6% |  |
+| 45 | 0.5% | 99.3% |  |
+| 46 | 1.3% | 98.8% |  |
+| 47 | 1.3% | 98% |  |
+| 48 | 1.4% | 96% |  |
+| 49 | 2% | 95% |  |
+| 50 | 2% | 92% |  |
+| 51 | 3% | 90% |  |
+| 52 | 3% | 87% |  |
+| 53 | 6% | 84% |  |
+| 54 | 6% | 78% |  |
+| 55 | 5% | 72% |  |
+| 56 | 4% | 66% |  |
+| 57 | 4% | 63% |  |
+| 58 | 5% | 59% |  |
+| 59 | 3% | 54% |  |
+| 60 | 4% | 50% | Median |
 | 61 | 4% | 47% |  |
-| 62 | 9% | 43% |  |
-| 63 | 4% | 34% |  |
+| 62 | 9% | 42% |  |
+| 63 | 4% | 33% |  |
 | 64 | 3% | 30% |  |
 | 65 | 4% | 27% |  |
 | 66 | 3% | 23% |  |
