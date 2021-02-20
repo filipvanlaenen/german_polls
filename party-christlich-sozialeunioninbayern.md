@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.7–7.5% | 5.5–7.8% | 5.3–8.1% | 5.0–8.7% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.8–7.6% | 5.6–7.9% | 5.4–8.2% | 5.1–8.8% |
+| [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 6.1% | N/A | N/A | N/A | N/A |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.5% |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 6.6% | 5.9–7.3% | 5.7–7.6% | 5.6–7.8% | 5.3–8.2% |
@@ -22,10 +23,10 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 6.7% | 6.1–7.5% | 5.9–7.7% | 5.7–7.9% | 5.4–8.3% |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.9% | N/A | N/A | N/A | N/A |
-| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 6.7% | N/A | N/A | N/A | N/A |
-| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7.0% | N/A | N/A | N/A | N/A |
-| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 6.9% | N/A | N/A | N/A | N/A |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.9% | 6.1–7.9% | 5.9–8.2% | 5.7–8.4% | 5.3–8.9% |
+| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 6.7% | 5.9–7.7% | 5.7–7.9% | 5.5–8.2% | 5.2–8.6% |
+| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 6.9% | 6.3–7.7% | 6.1–7.8% | 5.9–8.0% | 5.7–8.4% |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 6.6% | 5.9–7.3% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
 | [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 6.9% | N/A | N/A | N/A | N/A |
@@ -800,12 +801,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 5% | 100% |  |
-| 5.5–6.5% | 44% | 95% | Last Result |
-| 6.5–7.5% | 42% | 51% | Median |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.7% | 0.7% |  |
+| 4.5–5.5% | 4% | 100% |  |
+| 5.5–6.5% | 40% | 96% | Last Result |
+| 6.5–7.5% | 44% | 56% | Median |
+| 7.5–8.5% | 11% | 11% |  |
+| 8.5–9.5% | 0.9% | 0.9% |  |
 | 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -816,7 +818,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 43–55 | 42–57 | 40–60 | 37–64 |
+| N/A | [Poll Average](average.html) | 50 | 44–56 | 42–59 | 40–61 | 37–65 |
+| [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 45 | 40–49 | 39–51 | 38–52 | 35–56 |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 53 | 45–60 | 43–63 | 43–64 | 37–70 |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 50 | 46–54 | 44–56 | 43–57 | 41–61 |
@@ -827,11 +830,11 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 51 | 45–58 | 43–60 | 41–61 | 39–65 |
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 51 | 46–55 | 45–56 | 43–59 | 39–62 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 56 | 51–62 | 49–63 | 47–65 | 45–68 |
-| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa |  |  |  |  |  |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid |  |  |  |  |  |
-| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa |  |  |  |  |  |
+| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 52 | 47–60 | 46–61 | 45–62 | 43–65 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–58 | 45–61 | 44–63 | 41–67 |
+| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 51 | 45–57 | 43–59 | 42–61 | 39–64 |
+| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 53 | 47–58 | 46–61 | 46–61 | 42–65 |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 52 | 48–58 | 47–61 | 46–61 | 43–64 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 48 | 41–57 | 39–59 | 38–61 | 35–65 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 49 | 44–55 | 43–57 | 41–58 | 40–61 |
 | [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach |  |  |  |  |  |
@@ -1608,40 +1611,40 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
-| 36 | 0.1% | 99.8% |  |
-| 37 | 0.3% | 99.7% |  |
-| 38 | 0.6% | 99.4% |  |
-| 39 | 0.9% | 98.8% |  |
-| 40 | 1.1% | 98% |  |
+| 36 | 0.1% | 99.9% |  |
+| 37 | 0.3% | 99.8% |  |
+| 38 | 0.6% | 99.5% |  |
+| 39 | 0.8% | 98.9% |  |
+| 40 | 0.9% | 98% |  |
 | 41 | 2% | 97% |  |
-| 42 | 3% | 95% |  |
-| 43 | 2% | 92% |  |
-| 44 | 4% | 90% |  |
-| 45 | 9% | 86% |  |
-| 46 | 8% | 77% | Last Result |
-| 47 | 6% | 69% |  |
-| 48 | 8% | 62% |  |
-| 49 | 7% | 54% | Median |
-| 50 | 8% | 47% |  |
-| 51 | 6% | 39% |  |
-| 52 | 8% | 33% |  |
-| 53 | 5% | 25% |  |
-| 54 | 6% | 20% |  |
-| 55 | 5% | 13% |  |
-| 56 | 3% | 9% |  |
-| 57 | 1.0% | 6% |  |
-| 58 | 0.8% | 5% |  |
-| 59 | 1.1% | 4% |  |
-| 60 | 0.6% | 3% |  |
-| 61 | 0.5% | 2% |  |
-| 62 | 0.6% | 2% |  |
-| 63 | 0.4% | 1.2% |  |
-| 64 | 0.4% | 0.8% |  |
-| 65 | 0.2% | 0.4% |  |
-| 66 | 0% | 0.2% |  |
+| 42 | 3% | 96% |  |
+| 43 | 2% | 93% |  |
+| 44 | 4% | 91% |  |
+| 45 | 6% | 86% |  |
+| 46 | 7% | 81% | Last Result |
+| 47 | 8% | 73% |  |
+| 48 | 8% | 65% |  |
+| 49 | 7% | 57% |  |
+| 50 | 5% | 50% | Median |
+| 51 | 6% | 46% |  |
+| 52 | 8% | 40% |  |
+| 53 | 7% | 31% |  |
+| 54 | 6% | 24% |  |
+| 55 | 6% | 18% |  |
+| 56 | 3% | 12% |  |
+| 57 | 2% | 9% |  |
+| 58 | 2% | 7% |  |
+| 59 | 1.1% | 5% |  |
+| 60 | 0.7% | 4% |  |
+| 61 | 0.7% | 3% |  |
+| 62 | 0.8% | 2% |  |
+| 63 | 0.5% | 2% |  |
+| 64 | 0.6% | 1.2% |  |
+| 65 | 0.2% | 0.5% |  |
+| 66 | 0.1% | 0.3% |  |
 | 67 | 0% | 0.2% |  |
 | 68 | 0% | 0.2% |  |
-| 69 | 0% | 0.1% |  |
+| 69 | 0% | 0.2% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
