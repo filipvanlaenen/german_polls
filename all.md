@@ -5,12 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 24–30% <br> 181–223 | 14–18% <br> 105–139 | 9–13% <br> 70–98 | 6–10% <br> 49–74 | 5–8% <br> 0–58 | 18–23% <br> 133–170 | 5–8% <br> 37–58 |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 26–30% <br> 190–219 | 16–19% <br> 115–139 | 9–12% <br> 69–90 | 8–10% <br> 58–77 | 7–9% <br> 51–70 | 16–19% <br> 117–139 | 5–7% <br> 38–52 |
-| [10–15 February 2021](2021-02-15-GMS.html) | GMS | 27–33% <br> 206–243 | 15–19% <br> 110–145 | 7–11% <br> 55–81 | 6–9% <br> 43–62 | 6–9% <br> 43–62 | 16–21% <br> 118–151 | 6–9% <br> 43–64 |
+| [10–15 February 2021](2021-02-15-GMS.html) | GMS | 27–33% <br> 203–244 | 15–19% <br> 110–145 | 7–11% <br> 55–81 | 6–9% <br> 43–62 | 6–9% <br> 43–64 | 16–21% <br> 118–152 | 6–9% <br> 43–64 |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 26–30% <br> 201–229 | 14–18% <br> 110–134 | 7–9% <br> 53–71 | 6–8% <br> 45–62 | 7–9% <br> 55–69 | 17–21% <br> 134–158 | 6–8% <br> 43–57 |
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 26–31% <br> 192–227 | 15–19% <br> 113–141 | 9–12% <br> 64–88 | 7–9% <br> 49–71 | 6–8% <br> 43–64 | 16–20% <br> 116–149 | 5–8% <br> 40–58 |
-| [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 196–225 | 14–18% <br> 107–129 | 9–12% <br> 69–88 | 8–10% <br> 58–76 | 7–10% <br> 55–72 | 16–19% <br> 118–141 | 5–7% <br> 36–52 |
+| [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 27–30% <br> 196–225 | 14–18% <br> 107–130 | 9–12% <br> 68–88 | 8–10% <br> 58–76 | 7–10% <br> 54–72 | 16–19% <br> 118–141 | 5–7% <br> 37–52 |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 28–32% <br> 215–243 | 13–17% <br> 102–127 | 7–9% <br> 52–70 | 6–8% <br> 45–62 | 6–8% <br> 46–63 | 17–21% <br> 133–158 | 6–8% <br> 46–62 |
 | [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 25–30% <br> 191–227 | 13–17% <br> 100–127 | 9–12% <br> 65–87 | 7–9% <br> 51–71 | 5–7% <br> 0–55 | 19–23% <br> 143–175 | 5–8% <br> 40–59 |
 | [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 27–32% <br> 204–238 | 14–18% <br> 105–133 | 8–11% <br> 58–80 | 6–8% <br> 44–63 | 6–8% <br> 44–65 | 17–21% <br> 128–159 | 6–8% <br> 41–61 |
