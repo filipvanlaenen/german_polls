@@ -818,7 +818,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 42–56 | 41–58 | 39–61 | 37–65 |
+| N/A | [Poll Average](average.html) | 49 | 42–56 | 41–59 | 39–61 | 37–65 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 47 | 40–54 | 38–56 | 37–58 | 34–62 |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 45 | 40–49 | 39–51 | 38–52 | 35–56 |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 53 | 45–61 | 44–63 | 43–64 | 37–70 |
@@ -831,7 +831,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 51 | 46–55 | 45–56 | 43–59 | 39–62 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 56 | 51–62 | 49–63 | 47–65 | 45–68 |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 52 | 47–60 | 46–61 | 45–62 | 43–65 |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–58 | 45–61 | 44–63 | 41–67 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 46–59 | 44–61 | 43–63 | 40–67 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 51 | 45–57 | 43–59 | 42–61 | 39–64 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 53 | 47–58 | 46–61 | 46–61 | 42–65 |
 | [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 52 | 48–58 | 47–61 | 46–61 | 43–64 |
@@ -1617,36 +1617,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.4% | 99.5% |  |
 | 38 | 0.9% | 99.1% |  |
 | 39 | 1.3% | 98% |  |
-| 40 | 1.5% | 97% |  |
+| 40 | 2% | 97% |  |
 | 41 | 3% | 95% |  |
 | 42 | 3% | 93% |  |
-| 43 | 2% | 90% |  |
+| 43 | 2% | 89% |  |
 | 44 | 4% | 87% |  |
 | 45 | 6% | 83% |  |
-| 46 | 8% | 77% | Last Result |
-| 47 | 8% | 70% |  |
-| 48 | 8% | 61% |  |
+| 46 | 7% | 77% | Last Result |
+| 47 | 8% | 69% |  |
+| 48 | 8% | 62% |  |
 | 49 | 6% | 54% | Median |
-| 50 | 5% | 47% |  |
-| 51 | 6% | 42% |  |
+| 50 | 5% | 48% |  |
+| 51 | 6% | 43% |  |
 | 52 | 8% | 36% |  |
 | 53 | 6% | 29% |  |
 | 54 | 5% | 23% |  |
-| 55 | 6% | 18% |  |
+| 55 | 5% | 18% |  |
 | 56 | 4% | 12% |  |
 | 57 | 2% | 8% |  |
-| 58 | 2% | 6% |  |
-| 59 | 1.0% | 5% |  |
-| 60 | 0.6% | 4% |  |
-| 61 | 0.8% | 3% |  |
+| 58 | 2% | 7% |  |
+| 59 | 1.1% | 5% |  |
+| 60 | 0.8% | 4% |  |
+| 61 | 0.9% | 3% |  |
 | 62 | 0.7% | 2% |  |
-| 63 | 0.4% | 1.5% |  |
+| 63 | 0.5% | 2% |  |
 | 64 | 0.5% | 1.0% |  |
-| 65 | 0.2% | 0.5% |  |
-| 66 | 0.1% | 0.3% |  |
-| 67 | 0.1% | 0.2% |  |
+| 65 | 0.2% | 0.6% |  |
+| 66 | 0.1% | 0.4% |  |
+| 67 | 0.1% | 0.3% |  |
 | 68 | 0% | 0.2% |  |
-| 69 | 0% | 0.1% |  |
+| 69 | 0% | 0.2% |  |
 | 70 | 0% | 0.1% |  |
 | 71 | 0% | 0.1% |  |
 | 72 | 0% | 0% |  |
