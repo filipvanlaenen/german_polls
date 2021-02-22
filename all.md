@@ -17,7 +17,7 @@ The table below lists all polls registered and analyzed so far.
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 27–31% <br> 205–235 | 13–17% <br> 100–124 | 9–11% <br> 66–85 | 6–8% <br> 44–61 | 8–10% <br> 59–77 | 16–20% <br> 122–146 | 6–8% <br> 43–59 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 27–31% <br> 201–232 | 14–17% <br> 100–124 | 10–12% <br> 72–93 | 7–9% <br> 52–69 | 6–9% <br> 47–66 | 15–19% <br> 114–140 | 6–9% <br> 47–65 |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 28–32% <br> 213–245 | 13–17% <br> 102–127 | 7–9% <br> 52–70 | 5–7% <br> 0–54 | 7–9% <br> 53–71 | 17–21% <br> 132–160 | 6–8% <br> 45–62 |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 208–247 | 13–17% <br> 100–128 | 8–11% <br> 57–80 | 5–7% <br> 0–55 | 6–8% <br> 44–63 | 18–22% <br> 135–168 | 6–8% <br> 44–63 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 208–246 | 13–17% <br> 100–129 | 8–11% <br> 57–80 | 5–7% <br> 0–55 | 6–8% <br> 43–64 | 18–22% <br> 135–168 | 6–8% <br> 43–63 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 27–32% <br> 204–238 | 13–17% <br> 100–127 | 8–11% <br> 56–78 | 6–8% <br> 44–63 | 7–10% <br> 50–72 | 17–21% <br> 129–158 | 6–8% <br> 42–61 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26–30% <br> 197–224 | 14–18% <br> 109–132 | 9–11% <br> 66–86 | 7–9% <br> 52–69 | 7–9% <br> 53–70 | 15–19% <br> 117–140 | 6–8% <br> 46–61 |
 | [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 28–32% <br> 213–243 | 14–17% <br> 104–126 | 8–10% <br> 60–77 | 6–8% <br> 45–61 | 6–8% <br> 46–61 | 17–20% <br> 126–148 | 6–8% <br> 46–61 |
