@@ -5,15 +5,15 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 190–240 | 14–19% <br> 103–139 | 7–12% <br> 55–92 | 5–10% <br> 40–73 | 5–10% <br> 39–72 | 16–22% <br> 119–164 | 5–8% <br> 39–61 |
+| N/A | [Poll Average](average.html) | 25–32% <br> 189–237 | 14–18% <br> 103–138 | 7–12% <br> 56–93 | 6–10% <br> 43–72 | 5–9% <br> 40–68 | 16–22% <br> 120–162 | 5–8% <br> 39–61 |
+| [23–25 February 2021](2021-02-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26–32% <br> 193–237 | 14–19% <br> 103–139 | 8–12% <br> 61–91 | 5–9% <br> 41–67 | 5–9% <br> 42–66 | 17–22% <br> 124–163 | 5–8% <br> 38–63 |
+| [18–22 February 2021](2021-02-22-YouGov.html) | YouGov | 25–29% <br> 186–218 | 14–18% <br> 108–134 | 10–13% <br> 72–95 | 7–9% <br> 51–71 | 7–9% <br> 51–71 | 16–20% <br> 122–150 | 5–7% <br> 38–56 |
+| [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 25–29% <br> 190–220 | 14–18% <br> 108–132 | 10–12% <br> 73–93 | 8–10% <br> 59–78 | 7–9% <br> 52–69 | 15–19% <br> 117–140 | 5–7% <br> 40–55 |
+| [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 26–31% <br> 201–231 | 14–18% <br> 110–136 | 7–9% <br> 52–70 | 7–9% <br> 51–68 | 6–8% <br> 45–62 | 17–21% <br> 136–158 | 6–8% <br> 42–56 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 24–30% <br> 181–223 | 14–18% <br> 105–139 | 9–13% <br> 70–98 | 6–10% <br> 49–74 | 5–8% <br> 0–58 | 18–23% <br> 133–170 | 5–8% <br> 37–58 |
-| [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 26–30% <br> 190–219 | 16–19% <br> 115–139 | 9–12% <br> 69–90 | 8–10% <br> 58–77 | 7–9% <br> 51–70 | 16–19% <br> 117–139 | 5–7% <br> 38–52 |
+| [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 26–30% <br> 194–223 | 14–18% <br> 109–133 | 8–10% <br> 59–78 | 7–9% <br> 51–70 | 7–9% <br> 51–70 | 17–21% <br> 130–157 | 5–8% <br> 40–57 |
+| [4–17 February 2021](2021-02-17-Allensbach.html) | Allensbach | 27–33% <br> 202–242 | 13–17% <br> 96–127 | 8–11% <br> 59–84 | 6–9% <br> 42–64 | 6–9% <br> 42–64 | 18–22% <br> 131–165 | 6–9% <br> 41–64 |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 27–33% <br> 203–244 | 15–19% <br> 110–145 | 7–11% <br> 55–81 | 6–9% <br> 43–62 | 6–9% <br> 43–64 | 16–21% <br> 118–152 | 6–9% <br> 43–64 |
-| [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 26–30% <br> 201–229 | 14–18% <br> 110–134 | 7–9% <br> 53–71 | 6–8% <br> 45–62 | 7–9% <br> 55–69 | 17–21% <br> 134–158 | 6–8% <br> 43–57 |
-| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 27–31% <br> 204–233 | 13–17% <br> 100–124 | 9–11% <br> 65–85 | 6–8% <br> 44–61 | 8–10% <br> 58–77 | 16–20% <br> 122–146 | 6–8% <br> 43–59 |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28–33% <br> 208–246 | 13–17% <br> 100–129 | 8–11% <br> 57–80 | 5–7% <br> 0–55 | 6–8% <br> 43–64 | 18–22% <br> 135–168 | 6–8% <br> 43–63 |
-| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 
 Only polls for which at least the sample size has been published are included in the table above.
