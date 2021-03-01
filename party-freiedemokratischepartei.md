@@ -839,11 +839,11 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 60 | 53–66 | 52–68 | 51–69 | 47–73 |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 67 | 61–73 | 60–74 | 58–76 | 55–79 |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 54 | 48–59 | 46–61 | 45–62 | 43–66 |
-| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 60 | 54–68 | 52–69 | 51–71 | 47–76 |
-| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 54 | 47–61 | 45–62 | 44–63 | 41–67 |
+| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 61 | 54–68 | 52–69 | 51–71 | 48–76 |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 53 | 47–60 | 45–62 | 43–64 | 41–67 |
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 52 | 47–58 | 46–60 | 44–61 | 42–64 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 60 | 55–66 | 53–68 | 52–69 | 49–72 |
-| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 0–54 | 0–57 |
+| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 46 | 41–52 | 39–53 | 0–54 | 0–57 |
 | [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 46 | 40–52 | 38–54 | 0–55 | 0–59 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 53 | 47–60 | 45–62 | 43–64 | 41–67 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 61 | 56–67 | 54–68 | 52–69 | 49–72 |

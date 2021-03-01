@@ -844,11 +844,11 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [4–10 February 2021](2021-02-10-Emnid.html) | Emnid | 217 | 210–223 | 196–224 | 193–225 | 188–228 |
 | [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 210 | 201–219 | 198–222 | 196–225 | 192–229 |
 | [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 228 | 219–240 | 217–241 | 215–243 | 210–248 |
-| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 208 | 195–221 | 193–225 | 191–227 | 186–234 |
-| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 221 | 208–232 | 207–235 | 204–238 | 198–244 |
+| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 207 | 197–220 | 194–224 | 191–227 | 186–234 |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 220 | 209–232 | 205–235 | 202–238 | 197–244 |
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 218 | 209–228 | 206–230 | 204–233 | 200–237 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 216 | 207–226 | 204–228 | 202–230 | 197–235 |
-| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 230 | 219–240 | 216–243 | 213–245 | 209–251 |
+| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 229 | 219–240 | 216–243 | 214–246 | 209–253 |
 | [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 226 | 215–239 | 211–243 | 208–246 | 203–255 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 220 | 209–232 | 206–235 | 203–238 | 198–244 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 208 | 202–220 | 199–224 | 197–224 | 193–229 |
