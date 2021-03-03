@@ -35,7 +35,7 @@ Last result: **8.9%** (General Election of 24 September 2017)
 | [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 18.0% | 17.0–19.1% | 16.7–19.4% | 16.5–19.6% | 16.0–20.2% |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 21.0% | 19.5–22.7% | 19.0–23.2% | 18.6–23.6% | 17.9–24.5% |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 20.0% | 18.8–21.2% | 18.5–21.5% | 18.2–21.8% | 17.7–22.4% |
-| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 20.0% | N/A | N/A | N/A | N/A |
+| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.9–18.2% | 15.6–18.5% | 15.3–18.8% | 14.8–19.4% |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 19.0% | 17.8–20.3% | 17.4–20.7% | 17.1–21.1% | 16.5–21.7% |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
@@ -858,7 +858,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 135 | 130–143 | 127–147 | 126–148 | 122–152 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 161 | 149–173 | 145–178 | 141–181 | 136–188 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 150 | 142–159 | 140–162 | 138–164 | 133–168 |
-| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 148 | 141–154 | 135–164 | 129–168 | 124–172 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 127 | 118–135 | 116–138 | 115–139 | 111–144 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 145 | 135–154 | 133–157 | 130–160 | 126–165 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 153 | 144–162 | 141–164 | 139–167 | 135–172 |
