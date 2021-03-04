@@ -850,7 +850,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 52 | 48–58 | 47–61 | 46–61 | 43–64 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 48 | 41–57 | 39–59 | 38–61 | 35–65 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 49 | 44–55 | 43–57 | 41–58 | 40–61 |
-| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 52 | 45–59 | 43–62 | 41–63 | 39–67 |
+| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 52 | 44–59 | 43–62 | 41–63 | 38–67 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 52 | 47–58 | 45–60 | 44–61 | 42–64 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 50 | 44–56 | 43–58 | 41–60 | 39–63 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 52 | 46–57 | 45–59 | 43–61 | 41–64 |
