@@ -6,11 +6,11 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 19–23% <br> 150–175 | 14–18% <br> 112–135 | 9–11% <br> 67–87 | 9–11% <br> 67–88 | 7–9% <br> 53–71 | 20–24% <br> 156–184 | 4–6% <br> 31–45 |
-| [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 21–26% <br> 155–188 | 16–20% <br> 118–152 | 8–12% <br> 62–86 | 7–10% <br> 52–77 | 7–10% <br> 52–78 | 19–24% <br> 143–178 | 4–7% <br> 32–51 |
-| [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–17 March 2021](2021-03-17-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 21–26% <br> 154–189 | 16–20% <br> 117–151 | 8–12% <br> 62–89 | 7–10% <br> 52–77 | 7–10% <br> 51–77 | 19–24% <br> 142–178 | 4–7% <br> 31–51 |
+| [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 21–26% <br> 162–196 | 15–19% <br> 113–144 | 9–13% <br> 71–99 | 8–11% <br> 59–82 | 6–9% <br> 44–65 | 18–22% <br> 136–171 | 4–7% <br> 33–52 |
+| [11–17 March 2021](2021-03-17-Emnid.html) | Emnid | 20–24% <br> 153–179 | 15–19% <br> 117–141 | 9–11% <br> 66–86 | 9–11% <br> 66–85 | 7–9% <br> 52–70 | 20–24% <br> 152–180 | 4–6% <br> 31–46 |
+| [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 22–26% <br> 168–195 | 15–19% <br> 117–142 | 10–13% <br> 77–98 | 9–12% <br> 69–91 | 7–9% <br> 52–70 | 15–19% <br> 115–143 | 5–7% <br> 35–49 |
+| [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | 22–26% <br> 164–198 | 14–18% <br> 112–134 | 9–11% <br> 67–89 | 7–9% <br> 51–72 | 7–9% <br> 53–72 | 19–23% <br> 148–176 | 5–7% <br> 35–51 |
 | [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 March 2021](2021-03-08-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–8 March 2021](2021-03-08-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
