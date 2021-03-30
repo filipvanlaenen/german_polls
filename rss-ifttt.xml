@@ -6,12 +6,44 @@
     <description>All Registered Polls for the Bundestag</description>
     <pubDate>Fri, 17 Jul 2020 21:31:31 +0200</pubDate>
     <item>
+      <title>Opinion Poll by GMS, 24–29 March 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by GMS, 24–29 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS-seating-plan.png" length="952038" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 17:33:58 +0200</pubDate>
+      <dc:date>2021-03-30T17:33:58.114489+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GMS, 24–29 March 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html#seats</link>
+      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by GMS, 24–29 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS-seats.png" length="257588" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 17:33:58 +0200</pubDate>
+      <dc:date>2021-03-30T17:33:58.114489+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GMS, 24–29 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by GMS, 24–29 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-29-GMS.png" length="277775" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 17:33:58 +0200</pubDate>
+      <dc:date>2021-03-30T17:33:58.114489+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 23–25 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-03-25-ForschungsgruppeWahlen.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forschungsgruppe Wahlen, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-25-ForschungsgruppeWahlen.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-25-ForschungsgruppeWahlen.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-25-ForschungsgruppeWahlen.png" length="293183" type="image/png"/>
       <pubDate>Sun, 28 Mar 2021 09:54:57 +0200</pubDate>
       <dc:date>2021-03-28T09:54:57.920706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 18–24 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-24-Emnid.html</link>
+      <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 18–24 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-24-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-24-Emnid.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-24-Emnid.png" length="266471" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 15:41:04 +0200</pubDate>
+      <dc:date>2021-03-30T15:41:04.503035+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 19–22 March 2021 – Voting Intentions</title>
@@ -86,12 +118,28 @@
       <dc:date>2021-03-29T13:59:21.822782+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Emnid, 4–10 March 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 4–10 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid-seating-plan.png" length="935771" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 18:20:54 +0200</pubDate>
+      <dc:date>2021-03-30T18:20:54.923425+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 4–10 March 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html#seats</link>
+      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Emnid, 4–10 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid-seats.png" length="234432" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 18:20:54 +0200</pubDate>
+      <dc:date>2021-03-30T18:20:54.923425+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Emnid, 4–10 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Emnid, 4–10 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-10-Emnid.png" length="249382" type="image/png"/>
-      <pubDate>Sun, 28 Mar 2021 21:41:21 +0200</pubDate>
-      <dc:date>2021-03-28T21:41:21.085648+02:00</dc:date>
+      <pubDate>Tue, 30 Mar 2021 18:20:54 +0200</pubDate>
+      <dc:date>2021-03-30T18:20:54.923425+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 5–8 March 2021 – Seating Plan Projection</title>
@@ -178,16 +226,32 @@
       <link>https://filipvanlaenen.github.io/german_polls/2021-03-01-INSAandYouGov.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by INSA and YouGov, 26 February–1 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-01-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-01-INSAandYouGov.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-01-INSAandYouGov.png" length="260149" type="image/png"/>
-      <pubDate>Mon, 29 Mar 2021 10:03:38 +0200</pubDate>
-      <dc:date>2021-03-29T10:03:38.207238+02:00</dc:date>
+      <pubDate>Tue, 30 Mar 2021 20:04:51 +0200</pubDate>
+      <dc:date>2021-03-30T20:04:51.153057+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 25 February–1 March 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 25 February–1 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa-seating-plan.png" length="948679" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 19:34:10 +0200</pubDate>
+      <dc:date>2021-03-30T19:34:10.61224+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 25 February–1 March 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html#seats</link>
+      <description><![CDATA[Seat projections for the Bundestag<br/>355 seats needed for a majority<br/>Opinion poll by Forsa, 25 February–1 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa-seats.png" length="235750" type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 19:34:10 +0200</pubDate>
+      <dc:date>2021-03-30T19:34:10.61224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 25 February–1 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html</link>
       <description><![CDATA[Voting intentions for the Bundestag<br/>Opinion poll by Forsa, 25 February–1 March 2021<br/>Details on https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/german_polls/2021-03-01-Forsa.png" length="254118" type="image/png"/>
-      <pubDate>Mon, 29 Mar 2021 10:21:03 +0200</pubDate>
-      <dc:date>2021-03-29T10:21:03.027516+02:00</dc:date>
+      <pubDate>Tue, 30 Mar 2021 19:34:10 +0200</pubDate>
+      <dc:date>2021-03-30T19:34:10.61224+02:00</dc:date>
     </item>
   </channel>
 </rss>
