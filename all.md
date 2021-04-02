@@ -441,11 +441,11 @@ The table below lists all polls registered and analyzed so far.
 | [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 21–25% <br> 153–185 | 15–19% <br> 113–140 | 11–15% <br> 84–112 | 8–11% <br> 56–79 | 9–12% <br> 64–88 | 16–20% <br> 120–152 | 4–7% <br> 31–48 |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22–27% <br> 160–198 | 14–18% <br> 101–134 | 12–16% <br> 87–117 | 8–12% <br> 60–87 | 8–12% <br> 61–88 | 15–19% <br> 108–141 | 4–7% <br> 31–52 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 21–25% <br> 155–185 | 15–19% <br> 114–143 | 11–15% <br> 85–110 | 8–11% <br> 58–79 | 7–9% <br> 51–71 | 17–21% <br> 130–158 | 4–6% <br> 32–50 |
-| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 21–24% <br> 180 | 17–20% <br> 138 | 12–14% <br> 96 | 7–9% <br> 52 | 8–10% <br> 65 | 18–21% <br> 148 | 4–6% <br> 30 |
-| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 21–24% <br> 156–182 | 17–20% <br> 124–144 | 12–14% <br> 87–105 | 7–9% <br> 52–67 | 8–10% <br> 59–75 | 18–21% <br> 130–153 | 4–6% <br> 34–46 |
+| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 22–26% <br> 161–193 | 14–18% <br> 106–134 | 11–15% <br> 85–110 | 7–9% <br> 50–71 | 7–9% <br> 50–70 | 19–23% <br> 141–173 | 4–7% <br> 33–49 |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23–27% <br> 175–200 | 14–17% <br> 103–126 | 13–16% <br> 92–115 | 8–10% <br> 60–77 | 8–10% <br> 57–73 | 16–20% <br> 120–140 | 4–6% <br> 33–48 |
+| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 22–26% <br> 164–191 | 14–18% <br> 108–134 | 11–14% <br> 79–101 | 9–11% <br> 66–85 | 7–9% <br> 51–69 | 17–21% <br> 129–154 | 4–7% <br> 34–50 |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 22–27% <br> 162–199 | 16–21% <br> 120–155 | 11–14% <br> 80–108 | 8–11% <br> 55–79 | 7–10% <br> 49–70 | 16–20% <br> 116–151 | 4–7% <br> 33–51 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
