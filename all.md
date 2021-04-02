@@ -360,7 +360,7 @@ The table below lists all polls registered and analyzed so far.
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 20–24% <br> 152–183 | 12–16% <br> 94–121 | 13–17% <br> 100–130 | 6–8% <br> 44–64 | 6–8% <br> 45–64 | 21–25% <br> 161–195 | 4–6% <br> 32–48 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21–25% <br> 160–193 | 13–17% <br> 103–128 | 11–15% <br> 89–113 | 5–7% <br> 0–55 | 6–9% <br> 43–64 | 22–26% <br> 163–209 | 4–7% <br> 31–51 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 22–26% <br> 161–183 | 14–18% <br> 103–120 | 13–16% <br> 95–120 | 6–8% <br> 41–63 | 7–9% <br> 47–73 | 19–23% <br> 152–167 | 4–7% <br> 34–48 |
-| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 18–22% <br> 140–166 | 13–16% <br> 97–119 | 14–17% <br> 103–123 | 7–10% <br> 57–70 | 6–8% <br> 45–59 | 22–25% <br> 163–188 | 5–7% <br> 37–52 |
+| [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 18–22% <br> 140–165 | 13–16% <br> 97–119 | 14–17% <br> 104–123 | 7–10% <br> 56–71 | 6–8% <br> 45–60 | 22–25% <br> 161–188 | 5–7% <br> 37–52 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 21–24% <br> 152–183 | 14–17% <br> 105–135 | 11–14% <br> 83–98 | 8–11% <br> 59–82 | 6–8% <br> 45–55 | 21–24% <br> 151–193 | 4–6% <br> 31–53 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21–26% <br> 173–177 | 13–17% <br> 97–117 | 12–16% <br> 107–118 | 6–8% <br> 48–51 | 6–8% <br> 49–57 | 20–24% <br> 169–174 | 4–7% <br> 35–46 |
 | [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 151–157 | 12–15% <br> 96–102 | 14–17% <br> 108–121 | 7–9% <br> 59–68 | 7–9% <br> 59–69 | 22–26% <br> 164–190 | 4–6% <br> 33–40 |
@@ -400,48 +400,48 @@ The table below lists all polls registered and analyzed so far.
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 19–23% <br> 170 | 11–15% <br> 97 | 11–15% <br> 102 | 6–8% <br> 44 | 8–10% <br> 64 | 23–27% <br> 208 | 4–6% <br> 24 |
 | [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 161–186 | 12–15% <br> 87–106 | 13–16% <br> 94–117 | 7–9% <br> 53–70 | 7–9% <br> 51–69 | 22–26% <br> 166–193 | 3–5% <br> 28–37 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 19–23% <br> 150–175 | 11–13% <br> 82–104 | 11–13% <br> 82–103 | 7–9% <br> 52–71 | 7–9% <br> 53–72 | 24–28% <br> 186–214 | 4–6% <br> 31–46 |
-| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–24 June 2019](2019-06-24-GMS.html) | GMS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–8 May 2019](2019-05-08-GMS.html) | GMS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 19–24% <br> 147–177 | 11–15% <br> 86–117 | 10–14% <br> 78–108 | 7–11% <br> 59–83 | 6–9% <br> 44–66 | 22–28% <br> 176–208 | 4–6% <br> 29–49 |
+| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 19–23% <br> 146–173 | 11–14% <br> 88–109 | 12–15% <br> 94–118 | 7–9% <br> 52–70 | 7–9% <br> 52–70 | 23–26% <br> 173–201 | 4–6% <br> 30–45 |
+| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 18–21% <br> 133–159 | 11–14% <br> 85–106 | 12–15% <br> 90–111 | 7–10% <br> 56–74 | 8–10% <br> 60–78 | 24–27% <br> 177–204 | 5–7% <br> 38–54 |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 19–24% <br> 140–178 | 11–15% <br> 83–115 | 11–15% <br> 82–113 | 6–10% <br> 48–74 | 6–10% <br> 48–74 | 23–29% <br> 175–216 | 4–6% <br> 28–48 |
+| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 18–21% <br> 142–163 | 11–13% <br> 82–103 | 12–15% <br> 90–112 | 7–9% <br> 53–69 | 7–9% <br> 55–71 | 25–29% <br> 194–217 | 4–5% <br> 29–42 |
+| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–24% <br> 151–182 | 12–16% <br> 91–120 | 11–15% <br> 85–112 | 6–9% <br> 43–64 | 6–9% <br> 43–64 | 24–29% <br> 178–212 | 4–6% <br> 30–48 |
+| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 20–24% <br> 154–182 | 11–14% <br> 82–102 | 12–16% <br> 96–118 | 6–8% <br> 44–63 | 7–9% <br> 52–71 | 23–27% <br> 177–205 | 4–6% <br> 32–47 |
+| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 138–161 | 12–15% <br> 87–108 | 13–16% <br> 91–111 | 8–11% <br> 59–77 | 8–11% <br> 59–77 | 24–28% <br> 174–200 | 4–6% <br> 31–45 |
+| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 18–21% <br> 135–164 | 10–13% <br> 73–96 | 11–15% <br> 88–112 | 8–11% <br> 60–80 | 7–9% <br> 52–72 | 25–29% <br> 191–224 | 4–6% <br> 28–43 |
+| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 19–22% <br> 144–165 | 11–13% <br> 82–101 | 12–14% <br> 90–108 | 7–9% <br> 53–70 | 7–9% <br> 53–69 | 25–29% <br> 193–219 | 4–6% <br> 30–42 |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 21–26% <br> 161–193 | 10–14% <br> 78–105 | 10–14% <br> 77–104 | 7–10% <br> 50–73 | 7–10% <br> 50–72 | 23–27% <br> 171–206 | 4–7% <br> 33–52 |
+| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov | 16–20% <br> 141 | 12–15% <br> 97 | 12–15% <br> 103 | 8–10% <br> 63 | 6–9% <br> 50 | 25–28% <br> 218 | 5–7% <br> 37 |
+| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 18–21% <br> 143–164 | 11–13% <br> 83–105 | 11–13% <br> 83–105 | 7–9% <br> 54–69 | 7–9% <br> 56–72 | 25–29% <br> 195–220 | 4–5% <br> 29–42 |
+| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 18–22% <br> 143–173 | 10–14% <br> 81–106 | 11–15% <br> 89–116 | 7–9% <br> 53–73 | 6–8% <br> 45–65 | 24–28% <br> 186–219 | 4–6% <br> 29–45 |
+| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–24% <br> 149–183 | 11–15% <br> 87–114 | 11–15% <br> 85–113 | 6–9% <br> 43–65 | 6–9% <br> 44–65 | 24–28% <br> 180–213 | 4–6% <br> 31–49 |
+| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 20–24% <br> 153–182 | 11–14% <br> 81–103 | 11–14% <br> 81–102 | 7–9% <br> 52–71 | 6–8% <br> 45–63 | 25–29% <br> 191–223 | 4–6% <br> 32–46 |
+| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 19–24% <br> 140–177 | 12–16% <br> 90–119 | 11–15% <br> 83–115 | 6–10% <br> 50–74 | 6–10% <br> 48–71 | 22–28% <br> 170–209 | 4–7% <br> 31–47 |
+| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 19–23% <br> 149–179 | 11–14% <br> 81–106 | 10–13% <br> 75–99 | 7–9% <br> 53–73 | 6–8% <br> 46–64 | 25–29% <br> 194–227 | 4–6% <br> 31–46 |
+| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21–25% <br> 157–191 | 14–18% <br> 108–137 | 11–15% <br> 86–114 | 7–10% <br> 51–72 | 7–10% <br> 51–72 | 18–22% <br> 136–167 | 4–7% <br> 33–50 |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 145–171 | 14–17% <br> 106–128 | 12–15% <br> 92–113 | 8–11% <br> 62–81 | 8–10% <br> 60–79 | 17–21% <br> 131–156 | 6–8% <br> 41–58 |
+| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa | 21–25% <br> 161–189 | 15–19% <br> 118–143 | 12–15% <br> 91–111 | 7–9% <br> 53–70 | 7–9% <br> 55–71 | 16–20% <br> 126–152 | 4–6% <br> 34–49 |
+| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag | 22–26% <br> 164–190 | 15–19% <br> 117–143 | 12–15% <br> 86–109 | 8–10% <br> 58–78 | 8–10% <br> 59–79 | 15–19% <br> 116–142 | 4–7% <br> 34–50 |
+| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov | 22–26% <br> 163–193 | 16–20% <br> 122–151 | 10–14% <br> 79–103 | 7–9% <br> 51–71 | 8–11% <br> 58–79 | 16–20% <br> 121–151 | 4–7% <br> 33–49 |
+| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 148–173 | 16–20% <br> 121–145 | 12–15% <br> 91–113 | 8–11% <br> 63–83 | 8–10% <br> 56–74 | 16–20% <br> 122–146 | 5–7% <br> 37–52 |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 22–26% <br> 164–191 | 14–18% <br> 109–134 | 12–15% <br> 87–110 | 7–9% <br> 52–70 | 8–10% <br> 58–78 | 17–21% <br> 130–157 | 4–7% <br> 34–49 |
+| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach | 22–27% <br> 165–199 | 16–20% <br> 115–146 | 11–15% <br> 85–111 | 8–11% <br> 56–79 | 7–10% <br> 53–75 | 15–19% <br> 113–142 | 4–7% <br> 33–53 |
+| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag | 22–26% <br> 164–194 | 14–18% <br> 109–133 | 12–15% <br> 88–109 | 8–10% <br> 59–78 | 8–10% <br> 58–78 | 16–20% <br> 123–148 | 4–7% <br> 34–49 |
+| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22–26% <br> 161–187 | 15–18% <br> 107–131 | 13–16% <br> 93–115 | 8–11% <br> 61–80 | 8–10% <br> 58–76 | 18–21% <br> 127–152 | 4–6% <br> 31–43 |
+| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 23–26% <br> 171–196 | 14–16% <br> 103–125 | 12–14% <br> 89–108 | 7–9% <br> 53–69 | 7–9% <br> 53–69 | 18–22% <br> 139–163 | 5–7% <br> 36–50 |
+| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 21–26% <br> 155–196 | 15–19% <br> 110–143 | 11–15% <br> 82–114 | 6–10% <br> 47–73 | 7–11% <br> 54–81 | 17–22% <br> 124–160 | 4–7% <br> 32–53 |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 22–25% <br> 164–187 | 15–18% <br> 109–130 | 12–14% <br> 88–107 | 8–10% <br> 59–75 | 8–10% <br> 60–75 | 17–21% <br> 130–154 | 5–6% <br> 35–47 |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–24% <br> 153–179 | 14–18% <br> 106–130 | 12–15% <br> 92–113 | 8–10% <br> 58–76 | 8–10% <br> 58–75 | 18–22% <br> 134–158 | 5–7% <br> 37–52 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 21–26% <br> 162–193 | 13–17% <br> 100–128 | 11–15% <br> 85–110 | 7–9% <br> 51–70 | 8–11% <br> 58–79 | 18–22% <br> 135–166 | 4–7% <br> 33–50 |
+| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 21–25% <br> 154–187 | 16–20% <br> 120–150 | 10–14% <br> 77–103 | 7–9% <br> 50–71 | 8–11% <br> 57–79 | 18–22% <br> 135–166 | 4–7% <br> 32–48 |
+| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 21–25% <br> 156–183 | 15–19% <br> 116–141 | 12–15% <br> 86–108 | 8–10% <br> 58–77 | 8–10% <br> 58–77 | 17–21% <br> 129–156 | 4–6% <br> 32–47 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 22–26% <br> 160–190 | 16–20% <br> 121–149 | 11–15% <br> 85–108 | 8–11% <br> 58–77 | 8–11% <br> 58–78 | 15–19% <br> 113–140 | 4–7% <br> 33–49 |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> 155–184 | 14–18% <br> 107–130 | 13–16% <br> 92–116 | 9–11% <br> 64–85 | 8–10% <br> 56–73 | 17–21% <br> 128–153 | 4–6% <br> 30–44 |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 20–24% <br> 150–180 | 15–19% <br> 115–142 | 11–15% <br> 86–111 | 7–9% <br> 50–70 | 8–11% <br> 58–79 | 18–22% <br> 137–165 | 4–6% <br> 30–47 |
+| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 21–25% <br> 153–185 | 15–19% <br> 113–140 | 11–15% <br> 84–112 | 8–11% <br> 56–79 | 9–12% <br> 64–88 | 16–20% <br> 120–152 | 4–7% <br> 31–48 |
+| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22–27% <br> 160–198 | 14–18% <br> 101–134 | 12–16% <br> 87–117 | 8–12% <br> 60–87 | 8–12% <br> 61–88 | 15–19% <br> 108–141 | 4–7% <br> 31–52 |
+| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 21–25% <br> 155–185 | 15–19% <br> 114–143 | 11–15% <br> 85–110 | 8–11% <br> 58–79 | 7–9% <br> 51–71 | 17–21% <br> 130–158 | 4–6% <br> 32–50 |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 21–24% <br> 180 | 17–20% <br> 138 | 12–14% <br> 96 | 7–9% <br> 52 | 8–10% <br> 65 | 18–21% <br> 148 | 4–6% <br> 30 |
 | [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -812,7 +812,7 @@ The table below lists all polls registered and analyzed so far.
 | [25–29 September 2017](2017-09-29-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–28 September 2017](2017-09-28-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26–28 September 2017](2017-09-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid | 24–30% <br> 169–202 | 19–24% <br> 145–170 | 10–14% <br> 75–103 | 9–13% <br> 53–112 | 8–12% <br> 63–81 | 8–12% <br> 65–100 | 5–8% <br> 37–56 |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 
 Only polls for which at least the sample size has been published are included in the table above.
