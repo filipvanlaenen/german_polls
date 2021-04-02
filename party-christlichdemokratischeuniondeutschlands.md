@@ -449,9 +449,9 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.1–25.6% |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 22.8% | 21.8–23.8% | 21.5–24.1% | 21.2–24.4% | 20.8–24.9% |
 | [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 23.6% | 22.2–25.0% | 21.8–25.5% | 21.5–25.8% | 20.9–26.5% |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | N/A | N/A | N/A | N/A |
-| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23.6% | N/A | N/A | N/A | N/A |
-| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.4% | N/A | N/A | N/A | N/A |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | 23.9–26.4% | 23.5–26.7% | 23.2–27.0% | 22.7–27.6% |
+| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23.6% | 22.3–24.9% | 22.0–25.2% | 21.7–25.5% | 21.1–26.2% |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.4% | 23.0–26.0% | 22.5–26.5% | 22.2–26.9% | 21.5–27.6% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.8% | N/A | N/A | N/A | N/A |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 24.4% | N/A | N/A | N/A | N/A |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | N/A | N/A | N/A | N/A |
@@ -1287,10 +1287,10 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 178 | 165–190 | 163–193 | 160–198 | 153–205 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 172 | 162–182 | 161–184 | 155–185 | 152–192 |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 169 | 162–177 | 160–179 | 156–182 | 155–185 |
-| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 191 | 191 | 191 | 191 | 191 |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 174 | 165–187 | 163–191 | 161–193 | 157–198 |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 189 | 180–194 | 178–198 | 175–200 | 171–204 |
+| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 175 | 167–187 | 165–189 | 164–191 | 159–195 |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 181 | 168–194 | 165–196 | 162–199 | 157–206 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
