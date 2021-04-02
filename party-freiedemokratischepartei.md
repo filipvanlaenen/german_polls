@@ -407,48 +407,48 @@ Last result: **10.7%** (General Election of 24 September 2017)
 | [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.3% | 6.6–9.7% |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.6% |
-| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 7.8% | N/A | N/A | N/A | N/A |
-| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 8.5% | N/A | N/A | N/A | N/A |
-| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 8.0% | N/A | N/A | N/A | N/A |
-| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | N/A | N/A | N/A | N/A |
-| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | N/A | N/A | N/A | N/A |
-| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
-| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 9.0% | N/A | N/A | N/A | N/A |
-| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 8.0% | N/A | N/A | N/A | N/A |
-| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
-| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
-| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | N/A | N/A | N/A | N/A |
-| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
-| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 9.5% | N/A | N/A | N/A | N/A |
-| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov | 8.0% | N/A | N/A | N/A | N/A |
-| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov | 9.7% | N/A | N/A | N/A | N/A |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach | 9.0% | N/A | N/A | N/A | N/A |
-| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.6% | N/A | N/A | N/A | N/A |
-| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | N/A | N/A | N/A | N/A |
-| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 8.0% | N/A | N/A | N/A | N/A |
-| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | N/A | N/A | N/A | N/A |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | N/A | N/A | N/A | N/A |
-| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
-| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | N/A | N/A | N/A | N/A |
-| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | N/A | N/A | N/A | N/A |
-| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | N/A | N/A | N/A | N/A |
-| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | N/A | N/A | N/A | N/A |
-| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | N/A | N/A | N/A | N/A |
-| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
-| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
+| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 7.8% | 7.1–8.7% | 6.9–8.9% | 6.7–9.1% | 6.4–9.5% |
+| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.8–9.4% | 7.6–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.1–8.0% | 5.9–8.2% | 5.7–8.5% | 5.3–9.0% |
+| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
+| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.3% | 8.5–10.6% | 8.3–10.8% | 7.9–11.2% |
+| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.7–9.5% |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.6% | 6.2–10.2% |
+| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.4–9.0% |
+| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
+| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
+| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
+| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
+| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
+| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov | 9.7% | 8.9–10.6% | 8.7–10.8% | 8.5–11.1% | 8.1–11.5% |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach | 9.0% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.1–11.2% |
+| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.6% | 8.8–10.5% | 8.6–10.7% | 8.4–10.9% | 8.0–11.4% |
+| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
+| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | 8.2–9.8% | 8.0–10.0% | 7.8–10.3% | 7.5–10.7% |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
+| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.5% | 6.3–9.9% |
+| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.9% |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.4–9.9% |
+| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
+| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.7% |
+| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.1% |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% |
+| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.2–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
 | [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | N/A | N/A | N/A | N/A |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 10.0% | N/A | N/A | N/A | N/A |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9.0% | N/A | N/A | N/A | N/A |
@@ -818,7 +818,7 @@ Last result: **10.7%** (General Election of 24 September 2017)
 | [25–29 September 2017](2017-09-29-Forsa.html) | Forsa | 11.0% | N/A | N/A | N/A | N/A |
 | [27–28 September 2017](2017-09-28-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
 | [26–28 September 2017](2017-09-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | N/A | N/A | N/A | N/A |
-| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid | 11.0% | N/A | N/A | N/A | N/A |
+| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
 
 ### Probability Mass Function
 
@@ -1243,49 +1243,49 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 44 | 44 | 44 | 44 | 44 |
 | [28 June–1 July 2019](2019-07-01-INSAandYouGov.html) | INSA and YouGov | 62 | 56–69 | 56–69 | 53–70 | 51–74 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 61 | 56–67 | 55–70 | 52–71 | 50–74 |
-| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 65 | 65 | 65 | 65 | 65 |
-| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [18–24 June 2019](2019-06-24-GMS.html) | GMS |  |  |  |  |  |
-| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa |  |  |  |  |  |
-| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa |  |  |  |  |  |
-| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa |  |  |  |  |  |
-| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa |  |  |  |  |  |
-| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa |  |  |  |  |  |
-| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov |  |  |  |  |  |
-| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa |  |  |  |  |  |
-| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [2–8 May 2019](2019-05-08-GMS.html) | GMS |  |  |  |  |  |
-| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
-| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 70 | 61–77 | 60–81 | 59–83 | 54–88 |
+| [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 60 | 54–66 | 53–69 | 52–70 | 49–73 |
+| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 66 | 59–71 | 57–74 | 56–74 | 53–77 |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 60 | 53–69 | 51–71 | 48–74 | 45–79 |
+| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 61 | 56–66 | 54–67 | 53–69 | 51–71 |
+| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 53 | 46–60 | 45–62 | 43–64 | 40–67 |
+| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 53 | 48–60 | 47–61 | 44–63 | 42–66 |
+| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 68 | 63–74 | 60–75 | 59–77 | 56–80 |
+| [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 70 | 63–77 | 61–78 | 60–80 | 56–84 |
+| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 61 | 56–66 | 55–68 | 53–70 | 51–72 |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 60 | 53–68 | 52–71 | 50–73 | 47–76 |
+| [7–10 June 2019](2019-06-10-INSAandYouGov.html) | INSA and YouGov | 63 | 63 | 63 | 63 | 63 |
+| [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 62 | 56–67 | 55–68 | 54–69 | 52–72 |
+| [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 62 | 55–70 | 55–71 | 53–73 | 50–77 |
+| [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 53 | 48–61 | 45–64 | 43–65 | 41–68 |
+| [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 60 | 56–67 | 53–69 | 52–71 | 49–73 |
+| [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 63 | 54–70 | 52–73 | 50–74 | 46–79 |
+| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 64 | 55–68 | 54–70 | 53–73 | 51–77 |
+| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 60 | 54–67 | 52–70 | 51–72 | 48–75 |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 70 | 67–78 | 64–80 | 62–81 | 60–85 |
+| [20–24 May 2019](2019-05-24-Forsa.html) | Forsa | 63 | 54–69 | 53–69 | 53–70 | 50–73 |
+| [16–22 May 2019](2019-05-22-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 62–74 | 60–77 | 58–78 | 56–80 |
+| [17–21 May 2019](2019-05-21-YouGov.html) | YouGov | 61 | 54–67 | 53–70 | 51–71 | 48–74 |
+| [17–20 May 2019](2019-05-20-INSAandYouGov.html) | INSA and YouGov | 70 | 66–77 | 64–80 | 63–83 | 61–85 |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 60 | 55–67 | 54–68 | 52–70 | 49–74 |
+| [3–16 May 2019](2019-05-16-Allensbach.html) | Allensbach | 66 | 61–76 | 58–78 | 56–79 | 53–83 |
+| [9–15 May 2019](2019-05-15-Emnid.html) | Emnid <br> Bild am Sonntag | 69 | 62–74 | 61–76 | 59–78 | 56–81 |
+| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 70 | 64–76 | 63–79 | 61–80 | 58–83 |
+| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 60 | 56–66 | 54–68 | 53–69 | 50–72 |
+| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 60 | 52–69 | 48–71 | 47–73 | 44–77 |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 62–74 | 60–75 | 59–75 | 56–78 |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 66 | 61–73 | 59–74 | 58–76 | 55–79 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 60 | 54–68 | 51–69 | 51–70 | 46–74 |
+| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 53–67 | 51–69 | 50–71 | 47–73 |
+| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 68 | 61–73 | 59–75 | 58–77 | 56–80 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 67 | 60–74 | 58–76 | 58–77 | 55–82 |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 75 | 68–82 | 67–83 | 64–85 | 62–87 |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 61 | 54–67 | 52–69 | 50–70 | 48–74 |
+| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 64 | 60–76 | 58–78 | 56–79 | 53–84 |
+| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 65–82 | 62–84 | 60–87 | 57–93 |
+| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 67 | 61–75 | 59–76 | 58–79 | 54–83 |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 60 | 55–64 | 54–67 | 52–67 | 51–70 |
+| [15–16 April 2019](2019-04-16-Infratestdimap.html) | Infratest dimap <br> ARD | 51 | 51 | 51 | 51 | 51 |
 | [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
@@ -1655,7 +1655,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [25–29 September 2017](2017-09-29-Forsa.html) | Forsa |  |  |  |  |  |
 | [27–28 September 2017](2017-09-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–28 September 2017](2017-09-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid |  |  |  |  |  |
+| [25–27 September 2017](2017-09-27-Emnid.html) | Emnid | 64 | 53–112 | 53–112 | 53–112 | 52–112 |
 
 ### Probability Mass Function
 
