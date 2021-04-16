@@ -5,14 +5,16 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 20–22% <br> 147–170 | 16–18% <br> 118–138 | 11–13% <br> 81–99 | 9–11% <br> 67–83 | 6–8% <br> 46–60 | 19–22% <br> 145–166 | 6–7% <br> 43–55 |
 | [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 20–24% <br> 152–182 | 13–17% <br> 103–127 | 10–12% <br> 73–95 | 8–10% <br> 59–79 | 7–9% <br> 52–70 | 21–25% <br> 160–189 | 4–6% <br> 32–46 |
 | [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 20–24% <br> 150–184 | 13–17% <br> 102–128 | 9–13% <br> 72–97 | 8–11% <br> 58–80 | 8–11% <br> 59–78 | 20–24% <br> 151–185 | 4–6% <br> 31–48 |
-| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 20–22% <br> 148–169 | 16–18% <br> 119–140 | 11–13% <br> 82–99 | 9–11% <br> 67–80 | 6–8% <br> 46–59 | 20–22% <br> 147–168 | 5–7% <br> 39–52 |
-| [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 20–22% <br> 148–169 | 16–18% <br> 118–139 | 11–13% <br> 82–100 | 9–11% <br> 67–85 | 6–8% <br> 46–59 | 20–22% <br> 147–170 | 5–7% <br> 39–53 |
+| [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 20–24% <br> 152–187 | 13–17% <br> 99–133 | 8–12% <br> 64–92 | 8–12% <br> 65–90 | 6–9% <br> 43–66 | 21–26% <br> 159–196 | 4–6% <br> 30–50 |
+| [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 19–23% <br> 146–177 | 14–18% <br> 107–136 | 9–12% <br> 66–88 | 8–11% <br> 58–81 | 8–11% <br> 57–80 | 21–25% <br> 158–191 | 4–6% <br> 30–47 |
+| [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 20–24% <br> 152–187 | 14–18% <br> 109–137 | 9–13% <br> 73–98 | 8–11% <br> 58–81 | 6–8% <br> 45–64 | 20–24% <br> 152–186 | 4–6% <br> 31–49 |
+| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 20–24% <br> 152–179 | 15–19% <br> 118–141 | 10–12% <br> 74–93 | 9–11% <br> 67–85 | 7–9% <br> 52–70 | 19–23% <br> 145–172 | 4–6% <br> 32–46 |
 | [26–29 March 2021](2021-03-29-INSAandYouGov.html) | INSA and YouGov | 18–20% <br> 134–155 | 17–19% <br> 127–147 | 10–12% <br> 75–92 | 9–12% <br> 72–88 | 6–8% <br> 46–61 | 20–22% <br> 148–170 | 6–8% <br> 47–60 |
 | [24–29 March 2021](2021-03-29-GMS.html) | GMS | 19–24% <br> 142–180 | 14–18% <br> 105–139 | 9–13% <br> 70–99 | 9–13% <br> 70–99 | 6–10% <br> 49–74 | 19–24% <br> 142–179 | 4–6% <br> 28–49 |
 | [23–29 March 2021](2021-03-29-Forsa.html) | Forsa | 20–24% <br> 152–180 | 13–17% <br> 102–126 | 10–12% <br> 74–95 | 9–11% <br> 66–87 | 6–8% <br> 46–63 | 21–25% <br> 162–190 | 4–6% <br> 32–46 |
