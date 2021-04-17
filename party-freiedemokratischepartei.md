@@ -857,8 +857,8 @@ Last result: **80** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 63–85 | 59–90 | 57–93 | 52–99 |
-| [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 68 | 61–76 | 58–79 | 57–80 | 54–85 |
+| N/A | [Poll Average](average.html) | 73 | 63–85 | 60–90 | 57–93 | 52–99 |
+| [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 69 | 61–77 | 59–79 | 57–81 | 54–85 |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 83 | 75–92 | 73–95 | 70–97 | 67–102 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 75 | 70–81 | 69–82 | 67–83 | 65–86 |
 | [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 69 | 63–74 | 60–77 | 59–79 | 57–82 |
@@ -1693,9 +1693,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0.2% | 99.4% |  |
 | 54 | 0.3% | 99.2% |  |
 | 55 | 0.3% | 99.0% |  |
-| 56 | 0.8% | 98.7% |  |
-| 57 | 0.7% | 98% |  |
-| 58 | 0.9% | 97% |  |
+| 56 | 0.7% | 98.7% |  |
+| 57 | 0.8% | 98% |  |
+| 58 | 0.7% | 97% |  |
 | 59 | 1.2% | 96% |  |
 | 60 | 2% | 95% |  |
 | 61 | 2% | 93% |  |
@@ -1705,20 +1705,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 4% | 84% |  |
 | 66 | 4% | 80% |  |
 | 67 | 2% | 76% |  |
-| 68 | 5% | 74% |  |
-| 69 | 4% | 69% |  |
-| 70 | 5% | 65% |  |
-| 71 | 4% | 60% |  |
-| 72 | 4% | 57% |  |
-| 73 | 6% | 52% | Median |
+| 68 | 4% | 74% |  |
+| 69 | 5% | 70% |  |
+| 70 | 4% | 65% |  |
+| 71 | 4% | 61% |  |
+| 72 | 5% | 57% |  |
+| 73 | 5% | 52% | Median |
 | 74 | 5% | 47% |  |
 | 75 | 3% | 42% |  |
 | 76 | 4% | 39% |  |
-| 77 | 3% | 34% |  |
+| 77 | 4% | 34% |  |
 | 78 | 4% | 31% |  |
 | 79 | 3% | 27% |  |
 | 80 | 3% | 24% | Last Result |
-| 81 | 3% | 20% |  |
+| 81 | 3% | 21% |  |
 | 82 | 2% | 17% |  |
 | 83 | 2% | 15% |  |
 | 84 | 2% | 13% |  |

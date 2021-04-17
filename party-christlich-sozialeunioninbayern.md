@@ -855,7 +855,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40 | 34–49 | 32–52 | 31–53 | 28–56 |
-| [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 44 | 39–52 | 37–53 | 36–55 | 33–59 |
+| [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 44 | 38–51 | 37–53 | 36–55 | 33–58 |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 41 | 35–48 | 33–49 | 31–50 | 29–55 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 50 | 45–53 | 44–54 | 43–55 | 41–58 |
 | [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 38 | 33–43 | 33–44 | 32–46 | 30–49 |
@@ -1699,23 +1699,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 6% | 63% |  |
 | 40 | 7% | 57% | Median |
 | 41 | 6% | 50% |  |
-| 42 | 5% | 44% |  |
-| 43 | 5% | 39% |  |
-| 44 | 6% | 34% |  |
+| 42 | 5% | 43% |  |
+| 43 | 6% | 39% |  |
+| 44 | 5% | 33% |  |
 | 45 | 5% | 28% |  |
-| 46 | 3% | 23% | Last Result |
+| 46 | 4% | 23% | Last Result |
 | 47 | 3% | 19% |  |
 | 48 | 3% | 16% |  |
 | 49 | 3% | 13% |  |
 | 50 | 2% | 10% |  |
-| 51 | 2% | 8% |  |
-| 52 | 2% | 6% |  |
-| 53 | 2% | 4% |  |
+| 51 | 2% | 7% |  |
+| 52 | 2% | 5% |  |
+| 53 | 2% | 3% |  |
 | 54 | 0.9% | 2% |  |
-| 55 | 0.3% | 1.1% |  |
+| 55 | 0.4% | 1.0% |  |
 | 56 | 0.3% | 0.7% |  |
 | 57 | 0.2% | 0.4% |  |
-| 58 | 0.1% | 0.3% |  |
+| 58 | 0.1% | 0.2% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
