@@ -868,8 +868,8 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 68 | 60–75 | 59–77 | 57–79 | 54–84 |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 84 | 75–93 | 73–96 | 71–98 | 67–103 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 75 | 70–81 | 69–82 | 68–83 | 65–86 |
-| [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 69 | 63–74 | 60–77 | 59–79 | 57–82 |
-| [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 68 | 62–77 | 60–78 | 58–80 | 54–83 |
+| [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 68 | 63–75 | 60–77 | 59–79 | 57–82 |
+| [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 68 | 62–77 | 60–79 | 58–80 | 54–84 |
 | [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 76 | 70–81 | 69–82 | 68–84 | 65–87 |
 | [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 77 | 69–86 | 67–89 | 65–91 | 61–96 |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 69 | 62–76 | 60–79 | 58–80 | 55–85 |
