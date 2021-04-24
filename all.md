@@ -5,8 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 15–19% <br> 115–149 | 11–15% <br> 86–116 | 9–13% <br> 72–100 | 10–14% <br> 78–107 | 6–9% <br> 43–66 | 25–31% <br> 196–236 | 3–5% <br> 22–40 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23–28% <br> 174–210 | 12–16% <br> 93–122 | 9–13% <br> 72–97 | 8–11% <br> 57–81 | 6–8% <br> 43–64 | 19–23% <br> 143–177 | 5–7% <br> 36–55 |
 | [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 21–26% <br> 161–194 | 13–17% <br> 100–127 | 9–13% <br> 71–96 | 8–11% <br> 57–79 | 7–10% <br> 51–72 | 20–24% <br> 150–182 | 4–7% <br> 33–51 |
