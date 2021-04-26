@@ -5,11 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 17–22% <br> 128–166 | 15–19% <br> 109–144 | 9–13% <br> 67–97 | 10–14% <br> 74–105 | 6–10% <br> 47–74 | 20–26% <br> 154–189 | 3–6% <br> 25–45 |
+| [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 20–24% <br> 145–188 | 11–15% <br> 84–111 | 8–12% <br> 64–88 | 7–11% <br> 54–84 | 6–9% <br> 42–67 | 26–31% <br> 190–233 | 4–6% <br> 29–50 |
+| [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 19–25% <br> 149–181 | 14–18% <br> 103–135 | 10–14% <br> 75–105 | 9–13% <br> 69–97 | 6–9% <br> 42–66 | 20–25% <br> 145–183 | 4–7% <br> 29–49 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 15–19% <br> 115–149 | 11–15% <br> 86–116 | 9–13% <br> 72–100 | 10–14% <br> 78–107 | 6–9% <br> 43–66 | 25–31% <br> 196–236 | 3–5% <br> 22–40 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 21–24% <br> 162–177 | 15–17% <br> 121–133 | 11–13% <br> 82–100 | 10–12% <br> 80–95 | 6–8% <br> 43–55 | 20–22% <br> 143–159 | 4–6% <br> 27–49 |
+| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 21–25% <br> 159–190 | 13–17% <br> 101–127 | 10–12% <br> 73–96 | 9–11% <br> 65–88 | 5–7% <br> 0–54 | 21–25% <br> 160–193 | 4–6% <br> 33–47 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23–28% <br> 174–210 | 12–16% <br> 93–122 | 9–13% <br> 72–97 | 8–11% <br> 57–81 | 6–8% <br> 43–64 | 19–23% <br> 143–177 | 5–7% <br> 36–55 |
 | [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
