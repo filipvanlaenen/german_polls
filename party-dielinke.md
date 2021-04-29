@@ -869,8 +869,8 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 53 | 46–61 | 44–62 | 43–65 | 40–68 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 52 | 45–60 | 43–63 | 42–65 | 38–69 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 54 | 47–62 | 45–64 | 43–66 | 40–70 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 52 | 48–56 | 47–58 | 46–58 | 44–61 |
-| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 46 | 41–51 | 40–52 | 38–54 | 0–57 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 52 | 48–57 | 47–58 | 46–59 | 44–62 |
+| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 46 | 41–51 | 39–53 | 0–54 | 0–57 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 60 | 52–68 | 50–70 | 48–72 | 45–77 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 53 | 47–60 | 45–62 | 43–64 | 41–68 |
 | [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach | 56 | 49–64 | 47–67 | 45–69 | 42–74 |
@@ -881,7 +881,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 68 | 62–76 | 60–78 | 58–80 | 55–84 |
 | [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 53 | 48–57 | 47–59 | 46–60 | 44–62 |
 | [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 54 | 47–62 | 45–64 | 43–66 | 41–70 |
-| [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 69 | 62–76 | 60–78 | 58–80 | 55–84 |
+| [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 69 | 62–76 | 60–78 | 58–81 | 55–84 |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 54 | 47–61 | 46–63 | 44–64 | 41–68 |
 | [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 60 | 55–66 | 53–68 | 52–70 | 49–73 |
 | [26–29 March 2021](2021-03-29-INSAandYouGov.html) | INSA and YouGov | 52 | 48–58 | 48–58 | 46–61 | 45–62 |
@@ -1744,15 +1744,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 99.8% |  |
 | 41 | 0.3% | 99.7% |  |
 | 42 | 0.4% | 99.4% |  |
-| 43 | 0.8% | 99.0% |  |
+| 43 | 0.7% | 99.0% |  |
 | 44 | 1.0% | 98% |  |
-| 45 | 1.2% | 97% |  |
+| 45 | 1.3% | 97% |  |
 | 46 | 2% | 96% |  |
 | 47 | 2% | 94% |  |
 | 48 | 3% | 92% |  |
 | 49 | 4% | 90% |  |
-| 50 | 4% | 86% |  |
-| 51 | 6% | 82% |  |
+| 50 | 3% | 86% |  |
+| 51 | 5% | 82% |  |
 | 52 | 5% | 77% |  |
 | 53 | 6% | 72% |  |
 | 54 | 5% | 66% |  |
@@ -1762,20 +1762,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 5% | 43% |  |
 | 59 | 6% | 38% |  |
 | 60 | 5% | 32% |  |
-| 61 | 5% | 27% |  |
+| 61 | 5% | 28% |  |
 | 62 | 4% | 22% |  |
 | 63 | 4% | 18% |  |
 | 64 | 3% | 14% |  |
 | 65 | 2% | 12% |  |
 | 66 | 2% | 9% |  |
 | 67 | 2% | 7% |  |
-| 68 | 1.4% | 6% |  |
-| 69 | 1.0% | 4% | Last Result |
-| 70 | 0.8% | 3% |  |
+| 68 | 1.3% | 6% |  |
+| 69 | 1.1% | 4% | Last Result |
+| 70 | 0.9% | 3% |  |
 | 71 | 0.6% | 2% |  |
 | 72 | 0.5% | 2% |  |
 | 73 | 0.3% | 1.2% |  |
-| 74 | 0.2% | 0.8% |  |
+| 74 | 0.3% | 0.8% |  |
 | 75 | 0.2% | 0.6% |  |
 | 76 | 0.1% | 0.4% |  |
 | 77 | 0.1% | 0.3% |  |
