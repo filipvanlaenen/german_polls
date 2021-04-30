@@ -471,32 +471,32 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | 23.9–26.4% | 23.5–26.7% | 23.2–27.0% | 22.7–27.6% |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23.6% | 22.3–24.9% | 22.0–25.2% | 21.7–25.5% | 21.1–26.2% |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.4% | 23.0–26.0% | 22.5–26.5% | 22.2–26.9% | 21.5–27.6% |
-| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.8% | N/A | N/A | N/A | N/A |
-| [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag | 24.4% | N/A | N/A | N/A | N/A |
-| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | N/A | N/A | N/A | N/A |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 23.6% | N/A | N/A | N/A | N/A |
-| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | N/A | N/A | N/A | N/A |
-| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 23.6% | N/A | N/A | N/A | N/A |
-| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 24.4% | N/A | N/A | N/A | N/A |
-| [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | N/A | N/A | N/A | N/A |
-| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 22.8% | N/A | N/A | N/A | N/A |
-| [21–27 March 2019](2019-03-27-Kantar.html) | Kantar <br> Bild am Sonntag | 24.4% | N/A | N/A | N/A | N/A |
-| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.4% | N/A | N/A | N/A | N/A |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24.4% | N/A | N/A | N/A | N/A |
-| [22–25 March 2019](2019-03-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | N/A | N/A | N/A | N/A |
-| [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 24.4% | N/A | N/A | N/A | N/A |
-| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.4% | N/A | N/A | N/A | N/A |
-| [14–20 March 2019](2019-03-20-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | N/A | N/A | N/A | N/A |
-| [19–20 March 2019](2019-03-20-Infratestdimap.html) | Infratest dimap <br> ARD | 23.5% | N/A | N/A | N/A | N/A |
-| [15–18 March 2019](2019-03-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.5% | N/A | N/A | N/A | N/A |
-| [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 25.2% | N/A | N/A | N/A | N/A |
-| [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.2% | N/A | N/A | N/A | N/A |
-| [7–13 March 2019](2019-03-13-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | N/A | N/A | N/A | N/A |
-| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 23.5% | N/A | N/A | N/A | N/A |
-| [8–11 March 2019](2019-03-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | N/A | N/A | N/A | N/A |
-| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 25.2% | N/A | N/A | N/A | N/A |
-| [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | N/A | N/A | N/A | N/A |
-| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | N/A | N/A | N/A | N/A |
+| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.8% | 21.3–24.3% | 20.9–24.8% | 20.6–25.2% | 19.9–25.9% |
+| [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag | 24.4% | 23.3–25.5% | 23.0–25.8% | 22.8–26.1% | 22.3–26.6% |
+| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | 22.3–24.7% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 23.6% | 22.3–24.9% | 22.0–25.2% | 21.7–25.5% | 21.1–26.2% |
+| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | 24.1–26.4% | 23.7–26.7% | 23.5–27.0% | 22.9–27.6% |
+| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 23.6% | 22.2–25.0% | 21.8–25.4% | 21.5–25.8% | 20.8–26.5% |
+| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 24.4% | 22.7–26.2% | 22.3–26.7% | 21.9–27.2% | 21.1–28.1% |
+| [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | 22.6–24.4% | 22.4–24.6% | 22.2–24.8% | 21.8–25.3% |
+| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 22.8% | 21.5–24.1% | 21.2–24.4% | 20.9–24.7% | 20.3–25.4% |
+| [21–27 March 2019](2019-03-27-Kantar.html) | Kantar <br> Bild am Sonntag | 24.4% | 23.2–25.5% | 22.9–25.8% | 22.7–26.1% | 22.1–26.7% |
+| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.4% | 22.9–25.9% | 22.5–26.4% | 22.1–26.8% | 21.4–27.5% |
+| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24.4% | 23.0–25.8% | 22.7–26.2% | 22.3–26.5% | 21.7–27.2% |
+| [22–25 March 2019](2019-03-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | 22.3–24.8% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
+| [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 24.4% | 23.2–25.7% | 22.8–26.1% | 22.5–26.4% | 21.9–27.1% |
+| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.4% | 22.8–26.0% | 22.4–26.5% | 22.0–26.9% | 21.3–27.7% |
+| [14–20 March 2019](2019-03-20-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | 23.8–26.7% | 23.4–27.1% | 23.1–27.5% | 22.5–28.2% |
+| [19–20 March 2019](2019-03-20-Infratestdimap.html) | Infratest dimap <br> ARD | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.2% | 20.3–27.1% |
+| [15–18 March 2019](2019-03-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.5% | 21.4–23.7% | 21.0–24.1% | 20.7–24.4% | 20.2–25.0% |
+| [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 25.2% | 23.9–26.5% | 23.6–26.8% | 23.3–27.2% | 22.7–27.8% |
+| [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.2% | 23.7–26.8% | 23.3–27.3% | 22.9–27.6% | 22.2–28.4% |
+| [7–13 March 2019](2019-03-13-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | 23.9–26.5% | 23.6–26.8% | 23.3–27.2% | 22.7–27.8% |
+| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 23.5% | 22.2–25.0% | 21.8–25.4% | 21.5–25.8% | 20.8–26.5% |
+| [8–11 March 2019](2019-03-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | 22.3–24.7% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
+| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 25.2% | 23.9–26.5% | 23.6–26.9% | 23.3–27.2% | 22.7–27.8% |
+| [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag | 25.2% | 23.9–26.5% | 23.6–26.9% | 23.3–27.2% | 22.7–27.8% |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 22.2–23.9% | 21.9–24.1% | 21.7–24.3% | 21.3–24.8% |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 24.4% | N/A | N/A | N/A | N/A |
 | [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag | 23.6% | N/A | N/A | N/A | N/A |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 25.3% | N/A | N/A | N/A | N/A |
@@ -1334,32 +1334,32 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 189 | 180–194 | 178–198 | 175–200 | 171–204 |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 175 | 167–187 | 165–189 | 164–191 | 159–195 |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 181 | 168–194 | 165–196 | 162–199 | 157–206 |
-| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS |  |  |  |  |  |
-| [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [21–27 March 2019](2019-03-27-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
-| [22–25 March 2019](2019-03-25-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
-| [14–20 March 2019](2019-03-20-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [19–20 March 2019](2019-03-20-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [15–18 March 2019](2019-03-18-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [7–13 March 2019](2019-03-13-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [8–11 March 2019](2019-03-11-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 168 | 160–182 | 157–185 | 155–186 | 147–190 |
+| [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag | 182 | 178–193 | 176–196 | 171–197 | 166–199 |
+| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 173 | 165–181 | 162–184 | 160–187 | 157–192 |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 175 | 165–186 | 163–189 | 161–190 | 158–195 |
+| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 186 | 178–196 | 177–197 | 174–201 | 169–207 |
+| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 175 | 166–184 | 162–188 | 160–191 | 155–196 |
+| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 181 | 169–196 | 165–199 | 161–202 | 157–208 |
+| [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 174 | 167–180 | 166–183 | 164–185 | 163–188 |
+| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 171 | 164–179 | 159–182 | 158–185 | 153–188 |
+| [21–27 March 2019](2019-03-27-Kantar.html) | Kantar <br> Bild am Sonntag | 183 | 176–190 | 173–195 | 171–196 | 166–201 |
+| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 183 | 171–196 | 168–198 | 165–200 | 160–203 |
+| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 179 | 170–186 | 167–189 | 165–192 | 162–195 |
+| [22–25 March 2019](2019-03-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 175 | 166–184 | 164–186 | 162–188 | 157–193 |
+| [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 185 | 176–193 | 173–194 | 169–196 | 165–203 |
+| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 178 | 168–192 | 164–195 | 162–197 | 157–203 |
+| [14–20 March 2019](2019-03-20-Kantar.html) | Kantar <br> Bild am Sonntag | 189 | 176–199 | 175–201 | 172–205 | 167–209 |
+| [19–20 March 2019](2019-03-20-Infratestdimap.html) | Infratest dimap <br> ARD | 176 | 164–186 | 160–190 | 157–192 | 150–202 |
+| [15–18 March 2019](2019-03-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 167 | 158–175 | 155–179 | 154–179 | 149–186 |
+| [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 191 | 181–198 | 178–202 | 175–204 | 170–209 |
+| [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 190 | 178–203 | 174–205 | 172–209 | 168–214 |
+| [7–13 March 2019](2019-03-13-Kantar.html) | Kantar <br> Bild am Sonntag | 190 | 180–198 | 178–202 | 175–203 | 172–208 |
+| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 173 | 165–183 | 162–187 | 159–190 | 155–195 |
+| [8–11 March 2019](2019-03-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 173 | 163–182 | 161–183 | 160–185 | 155–190 |
+| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 190 | 181–198 | 178–201 | 176–203 | 172–209 |
+| [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag | 188 | 177–199 | 177–201 | 174–201 | 170–207 |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 171 | 163–176 | 161–178 | 159–180 | 156–183 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS |  |  |  |  |  |
