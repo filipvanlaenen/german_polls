@@ -497,15 +497,15 @@ Last result: **9.2%** (General Election of 24 September 2017)
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.9% |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.4–10.6% | 9.2–10.8% | 9.1–11.0% | 8.8–11.3% |
-| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | N/A | N/A | N/A | N/A |
-| [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | N/A | N/A | N/A | N/A |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9.0% | N/A | N/A | N/A | N/A |
-| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | N/A | N/A | N/A | N/A |
-| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | N/A | N/A | N/A | N/A |
-| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7.0% | N/A | N/A | N/A | N/A |
-| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | N/A | N/A | N/A | N/A |
-| [14–20 February 2019](2019-02-20-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [19–20 February 2019](2019-02-20-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
+| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
+| [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.5–11.7% | 8.1–12.2% |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
+| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
+| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
+| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.1–11.3% |
+| [14–20 February 2019](2019-02-20-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
+| [19–20 February 2019](2019-02-20-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.5% | N/A | N/A | N/A | N/A |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 6.0% | N/A | N/A | N/A | N/A |
 | [7–13 February 2019](2019-02-13-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | N/A | N/A | N/A | N/A |
@@ -1350,16 +1350,16 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [8–11 March 2019](2019-03-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 68 | 62–71 | 59–72 | 58–75 | 56–77 |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 60 | 54–66 | 53–68 | 52–69 | 50–73 |
 | [28 February–6 March 2019](2019-03-06-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 61–74 | 60–76 | 58–78 | 55–80 |
-| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 73 | 69–79 | 68–80 | 66–82 | 65–83 |
-| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS |  |  |  |  |  |
-| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
-| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [14–20 February 2019](2019-02-20-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [19–20 February 2019](2019-02-20-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 73 | 70–78 | 68–79 | 67–81 | 64–83 |
+| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 62 | 54–66 | 53–67 | 52–68 | 50–70 |
+| [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag | 74 | 66–82 | 65–83 | 64–87 | 61–91 |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 63 | 57–73 | 55–77 | 53–80 | 51–84 |
+| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 66 | 60–74 | 59–75 | 57–77 | 54–81 |
+| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 65 | 60–73 | 59–75 | 58–76 | 55–80 |
+| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 53 | 48–59 | 46–60 | 45–62 | 43–65 |
+| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–75 | 58–78 | 56–79 | 53–84 |
+| [14–20 February 2019](2019-02-20-Kantar.html) | Kantar <br> Bild am Sonntag | 66 | 60–74 | 58–77 | 57–79 | 53–82 |
+| [19–20 February 2019](2019-02-20-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 53–69 | 51–71 | 48–71 | 44–78 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [7–13 February 2019](2019-02-13-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
