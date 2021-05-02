@@ -500,8 +500,8 @@ The table below lists all polls registered and analyzed so far.
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23–28% <br> 169–206 | 13–17% <br> 97–128 | 11–15% <br> 83–111 | 6–9% <br> 43–65 | 7–11% <br> 56–79 | 18–22% <br> 133–166 | 5–7% <br> 33–54 |
 | [14–20 February 2019](2019-02-20-Kantar.html) | Kantar <br> Bild am Sonntag | 21–26% <br> 160–192 | 17–21% <br> 127–157 | 11–15% <br> 85–110 | 8–11% <br> 57–77 | 8–11% <br> 57–79 | 14–18% <br> 106–133 | 4–7% <br> 33–50 |
 | [19–20 February 2019](2019-02-20-Infratestdimap.html) | Infratest dimap <br> ARD | 22–27% <br> 167–204 | 16–20% <br> 119–153 | 10–14% <br> 78–103 | 6–10% <br> 48–73 | 6–10% <br> 48–71 | 16–20% <br> 116–154 | 4–7% <br> 35–57 |
-| [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23–27% <br> 172–199 | 16–20% <br> 124–146 | 13–16% <br> 92–115 | 8–10% <br> 58–77 | 8–11% <br> 62–80 | 14–17% <br> 101–124 | 4–6% <br> 31–45 |
+| [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 22–26% <br> 161–192 | 15–19% <br> 114–140 | 11–14% <br> 78–103 | 9–11% <br> 69–83 | 5–7% <br> 38–53 | 19–23% <br> 143–170 | 4–7% <br> 34–47 |
 | [7–13 February 2019](2019-02-13-Kantar.html) | Kantar <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
