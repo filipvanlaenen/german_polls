@@ -534,21 +534,21 @@ Last result: **12.6%** (General Election of 24 September 2017)
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
 | [3–9 January 2019](2019-01-09-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | 13.0–15.1% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.9–15.2% | 12.6–15.6% | 12.3–15.9% | 11.8–16.5% |
-| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.3% | 13.4–15.4% | 13.1–15.6% | 12.8–15.9% | 12.4–16.4% |
-| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 12.0% | N/A | N/A | N/A | N/A |
-| [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | N/A | N/A | N/A | N/A |
-| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14.0% | N/A | N/A | N/A | N/A |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | N/A | N/A | N/A | N/A |
-| [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | N/A | N/A | N/A | N/A |
-| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | N/A | N/A | N/A | N/A |
-| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | N/A | N/A | N/A | N/A |
-| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 12.0% | N/A | N/A | N/A | N/A |
-| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15.0% | N/A | N/A | N/A | N/A |
-| [6–12 December 2018](2018-12-12-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | N/A | N/A | N/A | N/A |
-| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | N/A | N/A | N/A | N/A |
-| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 15.0% | N/A | N/A | N/A | N/A |
-| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14.0% | N/A | N/A | N/A | N/A |
-| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | N/A | N/A | N/A | N/A |
+| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.3% | 13.4–15.3% | 13.1–15.6% | 12.8–15.9% | 12.4–16.4% |
+| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 12.0% | 10.8–13.3% | 10.5–13.7% | 10.2–14.0% | 9.7–14.7% |
+| [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14.0% | 13.0–15.2% | 12.7–15.5% | 12.4–15.7% | 11.9–16.3% |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | 13.7–16.5% | 13.3–17.0% | 13.0–17.3% | 12.3–18.1% |
+| [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.5–14.6% | 11.1–15.1% |
+| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | 13.0–15.1% | 12.7–15.3% | 12.5–15.6% | 12.0–16.1% |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | 14.1–16.1% | 13.8–16.4% | 13.5–16.6% | 13.1–17.1% |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.6% | 10.2–14.1% |
+| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15.0% | 13.8–16.3% | 13.4–16.7% | 13.1–17.1% | 12.6–17.7% |
+| [6–12 December 2018](2018-12-12-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | 13.1–15.1% | 12.8–15.4% | 12.6–15.6% | 12.1–16.1% |
+| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
+| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 15.0% | 13.7–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
+| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | N/A | N/A | N/A | N/A |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | N/A | N/A | N/A | N/A |
 | [29 November–5 December 2018](2018-12-05-Kantar.html) | Kantar <br> Bild am Sonntag | 14.0% | N/A | N/A | N/A | N/A |
@@ -1377,7 +1377,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 102 | 96–110 | 94–114 | 94–115 | 89–118 |
 | [21–25 January 2019](2019-01-25-Forsa.html) | Forsa <br> Stern and RTL | 83 | 75–89 | 75–92 | 71–93 | 70–97 |
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 97 | 88–106 | 86–109 | 84–112 | 80–115 |
-| [17–23 January 2019](2019-01-23-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
+| [17–23 January 2019](2019-01-23-Kantar.html) | Kantar <br> Bild am Sonntag | 104 | 96–111 | 94–113 | 92–115 | 90–119 |
 | [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 110 | 101–120 | 98–123 | 97–126 | 93–129 |
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 96 | 85–106 | 82–109 | 79–112 | 76–117 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 97 | 89–103 | 88–106 | 86–108 | 82–110 |
@@ -1389,20 +1389,20 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 103 | 94–114 | 91–117 | 91–119 | 87–124 |
 | [3–9 January 2019](2019-01-09-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 95–114 | 94–115 | 93–116 | 90–119 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 103 | 95–112 | 93–115 | 91–117 | 87–121 |
-| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [6–12 December 2018](2018-12-12-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [6–12 December 2018](2018-12-12-GMS.html) | GMS |  |  |  |  |  |
-| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 103 | 99–109 | 98–114 | 94–118 | 90–119 |
+| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 90 | 81–100 | 79–101 | 76–104 | 73–109 |
+| [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 104 | 92–113 | 90–118 | 89–119 | 83–126 |
+| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 102 | 96–111 | 94–113 | 91–116 | 88–121 |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 109 | 98–126 | 95–130 | 93–132 | 89–138 |
+| [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 97 | 91–105 | 90–106 | 87–109 | 84–114 |
+| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 97–112 | 95–114 | 93–117 | 90–121 |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 108 | 103–118 | 102–120 | 101–122 | 98–124 |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 92 | 84–98 | 82–99 | 80–101 | 77–106 |
+| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 111 | 100–124 | 99–125 | 99–127 | 94–132 |
+| [6–12 December 2018](2018-12-12-Kantar.html) | Kantar <br> Bild am Sonntag | 103 | 97–112 | 95–114 | 94–115 | 90–120 |
+| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 98 | 90–107 | 86–110 | 83–113 | 77–118 |
+| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 109 | 99–120 | 98–124 | 95–129 | 91–134 |
+| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 104 | 91–114 | 90–115 | 90–115 | 88–115 |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
