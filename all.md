@@ -5,11 +5,17 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 17–22% <br> 127–163 | 15–19% <br> 110–145 | 9–13% <br> 68–97 | 10–14% <br> 75–105 | 6–10% <br> 48–73 | 20–26% <br> 152–191 | 3–6% <br> 25–44 |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 20–24% <br> 148–183 | 11–15% <br> 85–113 | 8–12% <br> 64–89 | 7–11% <br> 56–81 | 6–9% <br> 43–65 | 26–31% <br> 192–229 | 4–6% <br> 30–48 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 19–25% <br> 144–182 | 14–18% <br> 103–136 | 10–14% <br> 75–105 | 9–13% <br> 68–97 | 6–9% <br> 42–65 | 20–25% <br> 145–183 | 4–7% <br> 29–49 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 15–19% <br> 115–149 | 11–15% <br> 86–116 | 9–13% <br> 71–99 | 10–14% <br> 78–107 | 6–9% <br> 43–66 | 25–31% <br> 196–236 | 3–5% <br> 22–40 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 21–24% <br> 159–181 | 15–17% <br> 110–129 | 11–13% <br> 81–98 | 10–12% <br> 74–91 | 6–8% <br> 46–59 | 20–22% <br> 146–167 | 4–6% <br> 34–45 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 21–25% <br> 160–188 | 13–17% <br> 103–127 | 10–12% <br> 74–95 | 9–11% <br> 67–87 | 5–7% <br> 0–54 | 21–25% <br> 162–190 | 4–6% <br> 33–48 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 20–25% <br> 149–187 | 16–20% <br> 116–150 | 10–14% <br> 75–104 | 8–12% <br> 61–88 | 7–10% <br> 48–73 | 18–23% <br> 130–166 | 4–7% <br> 30–50 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23–28% <br> 174–210 | 12–16% <br> 93–122 | 9–13% <br> 72–97 | 8–11% <br> 57–81 | 6–8% <br> 43–64 | 19–23% <br> 143–177 | 5–7% <br> 36–55 |
@@ -542,17 +548,17 @@ The table below lists all polls registered and analyzed so far.
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 23–28% <br> 169–208 | 13–17% <br> 96–124 | 11–15% <br> 83–113 | 7–10% <br> 50–76 | 7–10% <br> 48–73 | 18–23% <br> 134–169 | 5–7% <br> 34–54 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 22–27% <br> 162–200 | 12–16% <br> 89–120 | 13–17% <br> 95–129 | 7–11% <br> 54–80 | 7–11% <br> 54–80 | 17–22% <br> 123–160 | 4–7% <br> 33–54 |
 | [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21–26% <br> 158–183 | 15–19% <br> 111–135 | 12–16% <br> 90–115 | 7–10% <br> 57–69 | 8–11% <br> 58–72 | 17–21% <br> 129–153 | 4–7% <br> 34–50 |
-| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> N/A | 13–17% <br> N/A | 13–17% <br> N/A | 9–11% <br> N/A | 9–11% <br> N/A | 15–19% <br> N/A | 5–7% <br> N/A |
-| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 November–5 December 2018](2018-12-05-Kantar.html) | Kantar <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–30 November 2018](2018-11-30-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [22–28 November 2018](2018-11-28-Kantar.html) | Kantar <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–28 November 2018](2018-11-28-Infratestdimap.html) | Infratest dimap <br> ARD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 November 2018](2018-11-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> 156–184 | 14–17% <br> 100–123 | 14–17% <br> 100–123 | 9–11% <br> 64–82 | 9–11% <br> 65–84 | 15–19% <br> 114–138 | 5–7% <br> 37–53 |
+| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 24–29% <br> 177–215 | 12–16% <br> 91–121 | 11–15% <br> 85–113 | 7–10% <br> 50–73 | 7–10% <br> 49–71 | 17–21% <br> 124–156 | 5–7% <br> 35–57 |
+| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 22–25% <br> 164–193 | 13–16% <br> 95–118 | 12–15% <br> 88–109 | 7–9% <br> 52–70 | 7–9% <br> 52–70 | 20–24% <br> 151–180 | 5–7% <br> 34–49 |
+| [29 November–5 December 2018](2018-12-05-Kantar.html) | Kantar <br> Bild am Sonntag | 22–25% <br> 163–188 | 14–16% <br> 102–122 | 13–15% <br> 95–115 | 8–10% <br> 58–76 | 8–10% <br> 59–76 | 17–21% <br> 129–154 | 5–6% <br> 33–47 |
+| [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 22–27% <br> 169–201 | 12–16% <br> 92–119 | 12–16% <br> 93–119 | 7–9% <br> 51–72 | 7–9% <br> 50–71 | 18–22% <br> 136–166 | 5–7% <br> 34–52 |
+| [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20–23% <br> 148–173 | 12–15% <br> 88–111 | 14–18% <br> 106–129 | 8–11% <br> 62–81 | 10–12% <br> 73–94 | 16–20% <br> 122–145 | 5–7% <br> 37–52 |
+| [26–30 November 2018](2018-11-30-Forsa.html) | Forsa <br> Stern and RTL | 20–24% <br> 153–179 | 13–16% <br> 95–118 | 13–16% <br> 95–116 | 8–10% <br> 58–77 | 7–9% <br> 52–70 | 20–24% <br> 152–180 | 4–6% <br> 31–46 |
+| [22–28 November 2018](2018-11-28-Kantar.html) | Kantar <br> Bild am Sonntag | 21–25% <br> 155–185 | 13–17% <br> 98–123 | 13–17% <br> 98–125 | 8–11% <br> 57–79 | 8–11% <br> 56–77 | 17–21% <br> 128–158 | 4–6% <br> 31–48 |
+| [27–28 November 2018](2018-11-28-Infratestdimap.html) | Infratest dimap <br> ARD | 20–25% <br> 151–187 | 12–16% <br> 89–120 | 13–17% <br> 97–128 | 7–11% <br> 55–80 | 6–10% <br> 48–72 | 19–24% <br> 138–175 | 4–7% <br> 30–51 |
+| [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 20–24% <br> 147–178 | 13–17% <br> 98–123 | 12–16% <br> 91–116 | 8–11% <br> 57–77 | 9–12% <br> 63–86 | 19–23% <br> 141–170 | 4–6% <br> 30–46 |
+| [23–26 November 2018](2018-11-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20–24% <br> 151–177 | 13–16% <br> 93–115 | 14–18% <br> 108–131 | 7–10% <br> 54–72 | 9–11% <br> 66–85 | 17–21% <br> 129–155 | 5–7% <br> 34–48 |
 | [19–23 November 2018](2018-11-23-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 November 2018](2018-11-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–21 November 2018](2018-11-21-Kantar.html) | Kantar <br> Bild am Sonntag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
