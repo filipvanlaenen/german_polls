@@ -7,9 +7,9 @@ The table below lists all polls registered and analyzed so far.
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 17–21% <br> 130–156 | 14–17% <br> 102–125 | 11–13% <br> 80–100 | 11–13% <br> 80–102 | 6–8% <br> 45–61 | 22–26% <br> 168–194 | 4–6% <br> 32–46 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 17–21% <br> 129–156 | 12–16% <br> 95–120 | 9–11% <br> 66–88 | 11–14% <br> 80–104 | 5–7% <br> 0–55 | 26–30% <br> 198–231 | 3–5% <br> 26–41 |
-| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 18–22% <br> 130–162 | 13–17% <br> 99–126 | 9–12% <br> 64–88 | 10–13% <br> 71–96 | 6–8% <br> 44–63 | 25–29% <br> 187–219 | 4–6% <br> 27–43 |
+| [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 18–21% <br> 134–163 | 12–16% <br> 93–120 | 10–13% <br> 73–96 | 10–13% <br> 73–95 | 7–9% <br> 51–73 | 23–27% <br> 175–208 | 4–6% <br> 28–43 |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 17–21% <br> 130–158 | 14–18% <br> 111–135 | 11–13% <br> 81–100 | 11–13% <br> 79–101 | 7–9% <br> 52–71 | 21–25% <br> 160–187 | 3–5% <br> 24–38 |
 | [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 17–22% <br> 127–163 | 15–19% <br> 110–145 | 9–13% <br> 68–97 | 10–14% <br> 75–105 | 6–10% <br> 48–73 | 20–26% <br> 152–191 | 3–6% <br> 25–44 |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 20–24% <br> 148–183 | 11–15% <br> 85–113 | 8–12% <br> 64–89 | 7–11% <br> 56–81 | 6–9% <br> 43–65 | 26–31% <br> 192–229 | 4–6% <br> 30–48 |
