@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 17–21% <br> 130–156 | 14–17% <br> 102–125 | 11–13% <br> 80–100 | 11–13% <br> 80–102 | 6–8% <br> 45–61 | 22–26% <br> 168–194 | 4–6% <br> 32–46 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 17–21% <br> 129–156 | 12–16% <br> 95–120 | 9–11% <br> 66–88 | 11–14% <br> 80–104 | 5–7% <br> 0–55 | 26–30% <br> 198–231 | 3–5% <br> 26–41 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 18–22% <br> 130–162 | 13–17% <br> 99–126 | 9–12% <br> 64–88 | 10–13% <br> 71–96 | 6–8% <br> 44–63 | 25–29% <br> 187–219 | 4–6% <br> 27–43 |
