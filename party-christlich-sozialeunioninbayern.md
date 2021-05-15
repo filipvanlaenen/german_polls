@@ -877,7 +877,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | N/A | [Poll Average](average.html) | 35 | 29–42 | 28–44 | 26–46 | 24–50 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 34 | 29–40 | 27–42 | 26–44 | 24–47 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 33 | 29–41 | 28–42 | 28–42 | 26–44 |
-| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 25–36 | 24–38 | 24–40 | 22–42 |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 25–36 | 24–37 | 24–40 | 22–42 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 30–43 | 27–44 | 26–45 | 25–51 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 33 | 28–37 | 27–39 | 26–40 | 24–42 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
@@ -1724,22 +1724,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 1.1% | 99.7% |  |
-| 25 | 0.5% | 98.7% |  |
+| 23 | 0.2% | 99.9% |  |
+| 24 | 0.7% | 99.6% |  |
+| 25 | 1.0% | 98.9% |  |
 | 26 | 0.9% | 98% |  |
 | 27 | 2% | 97% |  |
-| 28 | 4% | 96% |  |
-| 29 | 4% | 92% |  |
-| 30 | 5% | 87% |  |
-| 31 | 5% | 82% |  |
-| 32 | 8% | 77% |  |
-| 33 | 9% | 69% |  |
-| 34 | 8% | 60% |  |
-| 35 | 8% | 53% | Median |
-| 36 | 8% | 44% |  |
+| 28 | 3% | 95% |  |
+| 29 | 6% | 92% |  |
+| 30 | 5% | 86% |  |
+| 31 | 6% | 82% |  |
+| 32 | 8% | 76% |  |
+| 33 | 9% | 68% |  |
+| 34 | 7% | 59% |  |
+| 35 | 8% | 52% | Median |
+| 36 | 7% | 43% |  |
 | 37 | 5% | 36% |  |
-| 38 | 4% | 31% |  |
+| 38 | 4% | 30% |  |
 | 39 | 7% | 26% |  |
 | 40 | 5% | 19% |  |
 | 41 | 4% | 14% |  |
