@@ -10,10 +10,10 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.1% | 3.3–6.7% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.5% | 3.7–5.8% | 3.5–6.1% | 3.1–6.7% |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 4.5% | 3.9–5.2% | 3.7–5.3% | 3.6–5.5% | 3.4–5.8% |
-| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.3% | 3.2–6.8% |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 4.3% | 3.7–5.0% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
@@ -858,11 +858,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 39% | 98% |  |
-| 4.5–5.5% | 48% | 59% | Median |
-| 5.5–6.5% | 10% | 11% | Last Result |
-| 6.5–7.5% | 0.8% | 0.8% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 42% | 97% |  |
+| 4.5–5.5% | 44% | 54% | Median |
+| 5.5–6.5% | 9% | 10% | Last Result |
+| 6.5–7.5% | 0.7% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -874,10 +874,10 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 30–42 | 29–44 | 27–46 | 25–50 |
-| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 36 | 30–43 | 27–44 | 26–44 | 25–47 |
+| N/A | [Poll Average](average.html) | 35 | 29–42 | 28–44 | 26–46 | 24–50 |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 34 | 29–40 | 27–42 | 26–44 | 24–47 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 33 | 29–41 | 28–42 | 28–42 | 26–44 |
-| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 25–36 | 24–38 | 24–40 | 22–42 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 30–43 | 27–44 | 26–45 | 25–51 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 33 | 28–37 | 27–39 | 26–40 | 24–42 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
@@ -1723,39 +1723,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0% | 100% |  |
-| 20 | 0% | 99.9% |  |
-| 21 | 0% | 99.9% |  |
-| 22 | 0% | 99.9% |  |
+| 22 | 0.1% | 100% |  |
 | 23 | 0.1% | 99.9% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.4% | 99.7% |  |
-| 26 | 0.6% | 99.3% |  |
-| 27 | 1.4% | 98.8% |  |
-| 28 | 2% | 97% |  |
-| 29 | 3% | 96% |  |
-| 30 | 15% | 93% |  |
-| 31 | 7% | 77% |  |
-| 32 | 6% | 71% |  |
-| 33 | 8% | 65% |  |
-| 34 | 6% | 56% |  |
-| 35 | 8% | 50% | Median |
-| 36 | 7% | 42% |  |
-| 37 | 4% | 36% |  |
+| 24 | 1.1% | 99.7% |  |
+| 25 | 0.5% | 98.7% |  |
+| 26 | 0.9% | 98% |  |
+| 27 | 2% | 97% |  |
+| 28 | 4% | 96% |  |
+| 29 | 4% | 92% |  |
+| 30 | 5% | 87% |  |
+| 31 | 5% | 82% |  |
+| 32 | 8% | 77% |  |
+| 33 | 9% | 69% |  |
+| 34 | 8% | 60% |  |
+| 35 | 8% | 53% | Median |
+| 36 | 8% | 44% |  |
+| 37 | 5% | 36% |  |
 | 38 | 4% | 31% |  |
-| 39 | 8% | 27% |  |
-| 40 | 5% | 20% |  |
-| 41 | 4% | 15% |  |
+| 39 | 7% | 26% |  |
+| 40 | 5% | 19% |  |
+| 41 | 4% | 14% |  |
 | 42 | 3% | 11% |  |
-| 43 | 3% | 8% |  |
-| 44 | 2% | 6% |  |
+| 43 | 2% | 8% |  |
+| 44 | 2% | 5% |  |
 | 45 | 1.2% | 4% |  |
-| 46 | 0.8% | 3% | Last Result |
-| 47 | 0.6% | 2% |  |
-| 48 | 0.5% | 1.4% |  |
-| 49 | 0.3% | 0.9% |  |
+| 46 | 0.7% | 3% | Last Result |
+| 47 | 0.5% | 2% |  |
+| 48 | 0.4% | 1.3% |  |
+| 49 | 0.3% | 0.8% |  |
 | 50 | 0.1% | 0.6% |  |
-| 51 | 0.2% | 0.5% |  |
+| 51 | 0.1% | 0.4% |  |
 | 52 | 0.1% | 0.3% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0.1% |  |
