@@ -10,11 +10,13 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.4% | 3.5–6.9% |
-| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 4.5% | N/A | N/A | N/A | N/A |
-| [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.7% | N/A | N/A | N/A | N/A |
-| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 4.3% | N/A | N/A | N/A | N/A |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 4.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.2% | 3.3–6.8% |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 4.5% | N/A | N/A | N/A | N/A |
+| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 4.5% | 3.9–5.2% | 3.7–5.3% | 3.6–5.5% | 3.4–5.8% |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
+| [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.3% | 3.2–6.8% |
+| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 4.3% | 3.7–5.0% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
@@ -856,13 +858,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 26% | 99.3% |  |
-| 4.5–5.5% | 55% | 74% | Median |
-| 5.5–6.5% | 17% | 18% | Last Result |
-| 6.5–7.5% | 1.5% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 38% | 98% |  |
+| 4.5–5.5% | 48% | 60% | Median |
+| 5.5–6.5% | 11% | 12% | Last Result |
+| 6.5–7.5% | 0.9% | 0.9% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -873,10 +874,12 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 32–44 | 31–46 | 29–48 | 26–52 |
-| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa |  |  |  |  |  |
-| [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 35 | 30–42 | 29–44 | 27–46 | 25–51 |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 33 | 29–41 | 28–42 | 28–42 | 26–44 |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 30–43 | 27–44 | 26–45 | 25–51 |
+| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 33 | 28–37 | 27–39 | 26–40 | 24–42 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 39 | 33–42 | 32–44 | 32–46 | 29–48 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 33 | 28–39 | 27–40 | 26–41 | 24–43 |
@@ -1720,40 +1723,40 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.4% | 99.9% |  |
-| 26 | 0.1% | 99.6% |  |
-| 27 | 0.1% | 99.4% |  |
-| 28 | 1.0% | 99.3% |  |
-| 29 | 2% | 98% |  |
-| 30 | 0.8% | 96% |  |
-| 31 | 3% | 96% |  |
-| 32 | 7% | 92% |  |
-| 33 | 7% | 85% |  |
-| 34 | 4% | 78% |  |
-| 35 | 10% | 74% |  |
-| 36 | 8% | 64% |  |
-| 37 | 5% | 56% |  |
-| 38 | 6% | 51% | Median |
-| 39 | 15% | 45% |  |
-| 40 | 8% | 30% |  |
-| 41 | 4% | 22% |  |
-| 42 | 4% | 18% |  |
-| 43 | 4% | 14% |  |
-| 44 | 3% | 10% |  |
-| 45 | 2% | 8% |  |
-| 46 | 2% | 6% | Last Result |
-| 47 | 1.3% | 4% |  |
-| 48 | 1.0% | 3% |  |
-| 49 | 0.5% | 2% |  |
-| 50 | 0.3% | 1.2% |  |
-| 51 | 0.3% | 0.9% |  |
-| 52 | 0.2% | 0.6% |  |
-| 53 | 0.2% | 0.4% |  |
-| 54 | 0.1% | 0.2% |  |
-| 55 | 0.1% | 0.1% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.2% | 99.9% |  |
+| 25 | 0.4% | 99.8% |  |
+| 26 | 0.7% | 99.3% |  |
+| 27 | 2% | 98.6% |  |
+| 28 | 2% | 97% |  |
+| 29 | 3% | 95% |  |
+| 30 | 3% | 92% |  |
+| 31 | 6% | 88% |  |
+| 32 | 7% | 82% |  |
+| 33 | 10% | 75% |  |
+| 34 | 7% | 65% |  |
+| 35 | 10% | 59% | Median |
+| 36 | 8% | 49% |  |
+| 37 | 5% | 41% |  |
+| 38 | 5% | 36% |  |
+| 39 | 9% | 32% |  |
+| 40 | 6% | 23% |  |
+| 41 | 4% | 17% |  |
+| 42 | 3% | 13% |  |
+| 43 | 3% | 10% |  |
+| 44 | 2% | 7% |  |
+| 45 | 1.4% | 5% |  |
+| 46 | 0.9% | 3% | Last Result |
+| 47 | 0.7% | 2% |  |
+| 48 | 0.5% | 2% |  |
+| 49 | 0.3% | 1.1% |  |
+| 50 | 0.2% | 0.7% |  |
+| 51 | 0.2% | 0.6% |  |
+| 52 | 0.1% | 0.4% |  |
+| 53 | 0.1% | 0.2% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0.1% |  |
-| 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
 
 
