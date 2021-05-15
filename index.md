@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 134–180 | 13–18% <br> 95–134 | 8–13% <br> 64–98 | 9–13% <br> 66–98 | 5–9% <br> 41–68 | 22–28% <br> 161–217 | 4–6% <br> 27–46 |
-| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–24% <br> 134–179 | 13–18% <br> 96–133 | 9–13% <br> 65–97 | 9–13% <br> 66–101 | 6–9% <br> 41–67 | 22–28% <br> 161–216 | 4–6% <br> 27–46 |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 17–22% <br> 132–172 | 13–17% <br> 106–130 | 9–13% <br> 72–97 | 10–14% <br> 77–101 | 6–9% <br> 42–61 | 23–28% <br> 172–189 | 3–6% <br> 21–49 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 18–21% <br> 135–164 | 13–17% <br> 102–128 | 9–11% <br> 66–86 | 10–12% <br> 73–96 | 5–7% <br> 0–55 | 25–29% <br> 191–223 | 4–6% <br> 28–42 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18–23% <br> 136–174 | 12–16% <br> 93–124 | 9–13% <br> 71–100 | 8–12% <br> 63–90 | 6–9% <br> 43–67 | 23–29% <br> 178–221 | 4–6% <br> 26–45 |
