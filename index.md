@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 17–24% <br> 128–178 | 13–18% <br> 97–134 | 9–13% <br> 65–98 | 9–14% <br> 67–102 | 6–12% <br> 42–90 | 20–28% <br> 152–214 | 4–6% <br> 26–46 |
+| N/A | [Poll Average](average.html) | 17–24% <br> 128–179 | 13–18% <br> 96–134 | 9–13% <br> 65–98 | 9–14% <br> 66–102 | 6–12% <br> 41–90 | 20–28% <br> 151–215 | 4–6% <br> 26–46 |
+| [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 17–22% <br> 130–164 | 13–17% <br> 98–129 | 9–13% <br> 70–97 | 10–14% <br> 77–105 | 6–9% <br> 43–65 | 23–28% <br> 170–206 | 3–6% <br> 26–44 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 18–21% <br> 135–163 | 13–17% <br> 102–128 | 9–11% <br> 66–87 | 10–12% <br> 74–95 | 5–7% <br> 38–55 | 25–29% <br> 191–222 | 4–6% <br> 28–42 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 16–20% <br> 120–153 | 14–18% <br> 107–137 | 9–13% <br> 71–97 | 10–14% <br> 79–106 | 9–13% <br> 71–97 | 19–23% <br> 144–178 | 3–5% <br> 24–40 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18–23% <br> 135–173 | 12–16% <br> 91–123 | 9–13% <br> 70–100 | 8–12% <br> 63–91 | 6–9% <br> 42–67 | 23–29% <br> 177–219 | 4–6% <br> 27–47 |
-| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 17–21% <br> 130–154 | 14–18% <br> 109–133 | 9–11% <br> 66–86 | 11–14% <br> 80–102 | 6–8% <br> 45–62 | 24–28% <br> 181–211 | 3–5% <br> 26–40 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 17–21% <br> 131–156 | 14–17% <br> 102–125 | 11–13% <br> 80–101 | 11–13% <br> 80–101 | 6–8% <br> 45–61 | 22–26% <br> 167–195 | 4–6% <br> 31–45 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 18–21% <br> 134–163 | 12–16% <br> 94–120 | 10–13% <br> 73–96 | 10–13% <br> 73–96 | 7–9% <br> 51–71 | 23–27% <br> 175–207 | 4–6% <br> 27–42 |
 | [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach | 20–25% <br> 151–189 | 14–19% <br> 107–141 | 8–11% <br> 60–86 | 8–12% <br> 62–89 | 6–9% <br> 45–69 | 21–26% <br> 154–191 | 4–7% <br> 30–51 |
