@@ -5,16 +5,16 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–17 May 2021](2021-05-17-GMS.html) | GMS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17–22% <br> 134–168 | 12–16% <br> 94–123 | 9–13% <br> 72–99 | 9–13% <br> 72–99 | 6–9% <br> 44–66 | 23–27% <br> 174–210 | 3–6% <br> 26–44 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 19–23% <br> 144–175 | 12–16% <br> 92–119 | 9–13% <br> 71–95 | 9–13% <br> 71–95 | 7–10% <br> 51–72 | 22–26% <br> 164–197 | 4–6% <br> 29–46 |
+| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 19–22% <br> 141–167 | 14–18% <br> 108–132 | 10–12% <br> 73–93 | 11–14% <br> 83–105 | 5–8% <br> 41–57 | 21–25% <br> 159–186 | 4–6% <br> 31–45 |
+| [11–17 May 2021](2021-05-17-GMS.html) | GMS | 19–24% <br> 140–178 | 13–17% <br> 97–131 | 9–13% <br> 69–99 | 9–13% <br> 69–99 | 6–9% <br> 42–65 | 21–27% <br> 161–200 | 4–6% <br> 28–48 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 18–22% <br> 136–166 | 13–17% <br> 103–133 | 9–12% <br> 67–89 | 9–13% <br> 73–97 | 5–7% <br> 0–55 | 24–28% <br> 184–218 | 4–6% <br> 27–43 |
+| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 18–23% <br> 137–167 | 14–18% <br> 107–132 | 10–14% <br> 76–103 | 9–13% <br> 70–96 | 6–9% <br> 43–63 | 22–26% <br> 163–193 | 4–6% <br> 27–45 |
+| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 20–25% <br> 149–190 | 14–18% <br> 104–139 | 8–12% <br> 64–89 | 8–12% <br> 63–90 | 5–8% <br> 40–61 | 21–27% <br> 163–200 | 4–7% <br> 30–50 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 18–22% <br> 132–163 | 13–17% <br> 100–127 | 9–13% <br> 71–95 | 9–13% <br> 71–96 | 7–10% <br> 50–72 | 23–27% <br> 172–205 | 4–6% <br> 27–43 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 17–22% <br> 130–164 | 13–17% <br> 98–129 | 9–13% <br> 70–97 | 10–14% <br> 77–105 | 6–9% <br> 43–65 | 23–28% <br> 170–206 | 3–6% <br> 26–44 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 18–21% <br> 154 | 14–17% <br> 113 | 10–12% <br> 79 | 11–14% <br> 88 | 6–9% <br> 50 | 22–25% <br> 189 | 5–7% <br> 36 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 18–21% <br> 135–163 | 13–17% <br> 102–128 | 9–11% <br> 66–87 | 10–12% <br> 74–95 | 5–7% <br> 38–55 | 25–29% <br> 191–222 | 4–6% <br> 28–42 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 16–20% <br> 120–153 | 14–18% <br> 107–137 | 9–13% <br> 71–97 | 10–14% <br> 79–106 | 9–13% <br> 71–97 | 19–23% <br> 144–178 | 3–5% <br> 24–40 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18–23% <br> 135–173 | 12–16% <br> 91–123 | 9–13% <br> 70–100 | 8–12% <br> 63–91 | 6–9% <br> 42–67 | 23–29% <br> 177–219 | 4–6% <br> 27–47 |
