@@ -10,17 +10,17 @@ Last result: **12.6%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.1% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.4% |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | N/A | N/A | N/A | N/A |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 11.0% | N/A | N/A | N/A | N/A |
-| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
-| [11–17 May 2021](2021-05-17-GMS.html) | GMS | 11.0% | N/A | N/A | N/A | N/A |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 10.0% | N/A | N/A | N/A | N/A |
-| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
-| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 10.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 10.9% | 9.6–12.1% | 9.3–12.4% | 9.0–12.7% | 8.4–13.4% |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.4–12.9% | 8.9–13.5% |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.5–12.7% | 9.0–13.3% |
+| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
+| [11–17 May 2021](2021-05-17-GMS.html) | GMS | 11.0% | 9.9–12.4% | 9.5–12.8% | 9.3–13.1% | 8.7–13.8% |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.1% |
+| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 12.0% | 10.9–13.2% | 10.6–13.5% | 10.4–13.9% | 9.9–14.4% |
+| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.5–12.7% | 9.0–13.3% |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 11.0% | 9.9–12.3% | 9.6–12.6% | 9.4–12.9% | 8.9–13.5% |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.0% | 10.0–12.2% | 9.7–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.6–13.9% |
@@ -867,12 +867,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 3% | 99.9% |  |
-| 9.5–10.5% | 24% | 97% |  |
-| 10.5–11.5% | 45% | 73% | Median |
-| 11.5–12.5% | 23% | 28% |  |
-| 12.5–13.5% | 4% | 5% | Last Result |
+| 7.5–8.5% | 0.8% | 100% |  |
+| 8.5–9.5% | 8% | 99.2% |  |
+| 9.5–10.5% | 28% | 91% |  |
+| 10.5–11.5% | 40% | 63% | Median |
+| 11.5–12.5% | 19% | 23% |  |
+| 12.5–13.5% | 3% | 4% | Last Result |
 | 13.5–14.5% | 0.3% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -885,17 +885,17 @@ Last result: **94** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 84 | 76–92 | 73–95 | 71–97 | 68–101 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar |  |  |  |  |  |
-| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [11–17 May 2021](2021-05-17-GMS.html) | GMS |  |  |  |  |  |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa |  |  |  |  |  |
-| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 82 | 72–91 | 70–94 | 68–96 | 64–101 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 85 | 76–94 | 74–97 | 72–99 | 68–104 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–95 | 68–100 |
+| [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 83 | 76–89 | 74–91 | 73–93 | 70–97 |
+| [11–17 May 2021](2021-05-17-GMS.html) | GMS | 84 | 74–93 | 72–96 | 69–99 | 65–104 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 77 | 69–85 | 67–88 | 67–89 | 63–93 |
+| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 89 | 80–97 | 79–101 | 76–103 | 72–107 |
+| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 75 | 68–85 | 65–87 | 64–89 | 58–96 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–95 | 68–100 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 83 | 75–92 | 72–95 | 70–97 | 67–101 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 84 | 75–90 | 75–90 | 74–90 | 71–96 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 76 | 70–83 | 68–85 | 66–87 | 64–91 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 84 | 76–93 | 73–95 | 71–97 | 68–102 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 84 | 75–94 | 72–97 | 70–100 | 66–105 |
@@ -1743,44 +1743,50 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0% | 100% |  |
-| 65 | 0.1% | 99.9% |  |
-| 66 | 0.1% | 99.8% |  |
-| 67 | 0.2% | 99.7% |  |
-| 68 | 0.3% | 99.5% |  |
-| 69 | 0.5% | 99.2% |  |
-| 70 | 0.6% | 98.7% |  |
-| 71 | 0.8% | 98% |  |
-| 72 | 1.1% | 97% |  |
-| 73 | 1.4% | 96% |  |
-| 74 | 2% | 95% |  |
-| 75 | 2% | 93% |  |
-| 76 | 3% | 90% |  |
-| 77 | 3% | 87% |  |
-| 78 | 4% | 84% |  |
-| 79 | 6% | 79% |  |
-| 80 | 5% | 74% |  |
-| 81 | 7% | 69% |  |
-| 82 | 5% | 62% |  |
-| 83 | 7% | 57% |  |
-| 84 | 6% | 50% | Median |
-| 85 | 7% | 44% |  |
-| 86 | 5% | 38% |  |
-| 87 | 5% | 33% |  |
-| 88 | 5% | 28% |  |
-| 89 | 4% | 23% |  |
-| 90 | 4% | 19% |  |
-| 91 | 3% | 15% |  |
-| 92 | 3% | 12% |  |
-| 93 | 2% | 9% |  |
-| 94 | 2% | 7% | Last Result |
-| 95 | 1.5% | 5% |  |
-| 96 | 1.0% | 4% |  |
-| 97 | 0.9% | 3% |  |
+| 58 | 0% | 100% |  |
+| 59 | 0% | 99.9% |  |
+| 60 | 0.1% | 99.9% |  |
+| 61 | 0.1% | 99.9% |  |
+| 62 | 0.1% | 99.8% |  |
+| 63 | 0.1% | 99.7% |  |
+| 64 | 0.2% | 99.6% |  |
+| 65 | 0.4% | 99.5% |  |
+| 66 | 0.2% | 99.1% |  |
+| 67 | 0.8% | 98.8% |  |
+| 68 | 0.9% | 98% |  |
+| 69 | 1.1% | 97% |  |
+| 70 | 1.3% | 96% |  |
+| 71 | 3% | 95% |  |
+| 72 | 2% | 92% |  |
+| 73 | 2% | 90% |  |
+| 74 | 3% | 88% |  |
+| 75 | 2% | 85% |  |
+| 76 | 4% | 83% |  |
+| 77 | 3% | 78% |  |
+| 78 | 5% | 75% |  |
+| 79 | 6% | 69% |  |
+| 80 | 5% | 63% |  |
+| 81 | 6% | 59% |  |
+| 82 | 5% | 53% | Median |
+| 83 | 6% | 48% |  |
+| 84 | 5% | 42% |  |
+| 85 | 6% | 37% |  |
+| 86 | 4% | 30% |  |
+| 87 | 4% | 26% |  |
+| 88 | 4% | 22% |  |
+| 89 | 3% | 18% |  |
+| 90 | 3% | 14% |  |
+| 91 | 2% | 12% |  |
+| 92 | 2% | 10% |  |
+| 93 | 2% | 7% |  |
+| 94 | 1.3% | 5% | Last Result |
+| 95 | 1.1% | 4% |  |
+| 96 | 0.8% | 3% |  |
+| 97 | 0.6% | 2% |  |
 | 98 | 0.5% | 2% |  |
-| 99 | 0.4% | 1.3% |  |
-| 100 | 0.3% | 0.9% |  |
-| 101 | 0.2% | 0.7% |  |
+| 99 | 0.4% | 1.2% |  |
+| 100 | 0.2% | 0.8% |  |
+| 101 | 0.2% | 0.6% |  |
 | 102 | 0.1% | 0.4% |  |
 | 103 | 0.1% | 0.3% |  |
 | 104 | 0.1% | 0.2% |  |
