@@ -31,12 +31,12 @@ Last result: **20.5%** (General Election of 24 September 2017)
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 15.0% | 13.8–16.2% | 13.5–16.6% | 13.2–16.9% | 12.7–17.5% |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 14.0% | 12.9–15.2% | 12.7–15.5% | 12.4–15.8% | 11.9–16.3% |
 | [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
-| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.5–14.6% | 11.1–15.1% |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.6% |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 13.0% | 11.8–14.4% | 11.5–14.8% | 11.2–15.2% | 10.6–15.8% |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 16.0% | N/A | N/A | N/A | N/A |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.2–16.9% | 14.9–17.1% | 14.7–17.3% | 14.3–17.8% |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 15.0% | 14.0–16.0% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.7–16.7% |
@@ -898,23 +898,23 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 121 | 111–132 | 107–134 | 104–139 | 99–143 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 113 | 104–122 | 102–125 | 100–127 | 95–132 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 113 | 103–123 | 101–126 | 98–129 | 94–133 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 114 | 110–120 | 107–121 | 103–123 | 99–129 |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 115 | 105–120 | 102–121 | 100–122 | 97–127 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 114 | 106–122 | 104–125 | 102–128 | 99–132 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 122 | 112–131 | 109–134 | 107–137 | 102–143 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 106 | 96–118 | 93–121 | 91–123 | 86–130 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 121 | 113–129 | 111–131 | 109–133 | 105–137 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 109 | 101–119 | 98–122 | 95–125 | 91–130 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 112 | 106–121 | 104–123 | 102–125 | 98–128 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 107 | 99–115 | 98–117 | 95–120 | 91–124 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 112 | 104–123 | 103–124 | 99–126 | 96–133 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 106 | 98–115 | 96–118 | 94–120 | 91–124 |
-| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 121 | 113–132 | 111–134 | 111–135 | 105–135 |
-| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa |  |  |  |  |  |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 121 | 113–128 | 111–132 | 109–134 | 105–136 |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 98 | 92–105 | 89–109 | 89–110 | 84–114 |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 126 | 116–138 | 113–141 | 110–145 | 105–150 |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 98 | 89–107 | 86–109 | 85–113 | 80–116 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 119 | 108–130 | 105–133 | 103–136 | 98–142 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 100 | 91–110 | 88–113 | 86–116 | 82–121 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 120 | 113–126 | 111–127 | 110–129 | 107–133 |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 115 | 107–122 | 104–125 | 103–127 | 99–131 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 133 | 122–145 | 119–148 | 116–150 | 111–156 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 106 | 97–117 | 95–119 | 93–122 | 89–127 |
