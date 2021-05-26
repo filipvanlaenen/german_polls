@@ -889,8 +889,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 38 | 33–42 | 32–44 | 31–45 | 29–48 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 37 | 31–44 | 29–46 | 28–48 | 25–52 |
 | [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 35 | 30–40 | 28–42 | 27–43 | 25–46 |
-| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 35 | 30–42 | 28–44 | 27–45 | 25–47 |
-| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 40 | 34–45 | 32–48 | 30–50 | 27–54 |
+| [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 35 | 30–41 | 28–43 | 27–44 | 25–47 |
+| [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 40 | 33–46 | 31–49 | 30–50 | 27–54 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 34 | 29–40 | 27–41 | 27–43 | 24–46 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 34 | 29–40 | 27–42 | 26–44 | 24–47 |
 | [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 46 | 40–50 | 39–52 | 38–53 | 36–55 |
@@ -900,7 +900,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 32 | 28–37 | 27–39 | 26–40 | 24–42 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 35 | 29–40 | 27–42 | 26–43 | 23–45 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 38 | 33–43 | 32–44 | 31–45 | 29–48 |
-| [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 33 | 28–39 | 27–40 | 26–41 | 24–43 |
+| [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 33 | 29–38 | 28–39 | 27–40 | 25–43 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 35 | 29–40 | 28–41 | 27–43 | 25–46 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 35 | 30–40 | 28–41 | 27–42 | 25–46 |
 | [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 31 | 25–34 | 25–35 | 24–36 | 23–40 |
@@ -1751,8 +1751,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 2% | 96% |  |
 | 29 | 3% | 94% |  |
 | 30 | 4% | 90% |  |
-| 31 | 5% | 86% |  |
-| 32 | 6% | 81% |  |
+| 31 | 6% | 86% |  |
+| 32 | 6% | 80% |  |
 | 33 | 8% | 74% |  |
 | 34 | 8% | 66% |  |
 | 35 | 8% | 58% |  |
@@ -1765,12 +1765,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 12% |  |
 | 43 | 3% | 9% |  |
 | 44 | 2% | 6% |  |
-| 45 | 1.4% | 4% |  |
-| 46 | 0.8% | 3% | Last Result |
-| 47 | 0.5% | 2% |  |
-| 48 | 0.5% | 1.3% |  |
-| 49 | 0.2% | 0.8% |  |
-| 50 | 0.2% | 0.7% |  |
+| 45 | 1.2% | 4% |  |
+| 46 | 0.9% | 3% | Last Result |
+| 47 | 0.6% | 2% |  |
+| 48 | 0.4% | 1.4% |  |
+| 49 | 0.3% | 1.0% |  |
+| 50 | 0.2% | 0.6% |  |
 | 51 | 0.2% | 0.4% |  |
 | 52 | 0.1% | 0.2% |  |
 | 53 | 0.1% | 0.2% |  |
