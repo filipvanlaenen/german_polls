@@ -893,15 +893,15 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 40 | 33–46 | 31–49 | 30–50 | 27–54 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 34 | 29–40 | 27–41 | 27–43 | 24–46 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 34 | 29–40 | 27–42 | 26–44 | 24–47 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 46 | 40–50 | 39–52 | 38–53 | 36–55 |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 45 | 40–50 | 39–52 | 38–53 | 35–56 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 34 | 30–39 | 28–41 | 28–42 | 26–44 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 31 | 26–37 | 25–39 | 24–40 | 22–44 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 36 | 30–44 | 28–45 | 27–47 | 24–51 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 32 | 28–37 | 27–39 | 26–40 | 24–42 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 35 | 29–40 | 27–42 | 26–43 | 23–45 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 33 | 28–39 | 27–41 | 26–42 | 24–46 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 38 | 33–43 | 32–44 | 31–45 | 29–48 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 33 | 29–38 | 28–39 | 27–40 | 25–43 |
-| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 35 | 29–40 | 28–41 | 27–43 | 25–46 |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 35 | 29–39 | 28–41 | 27–43 | 25–46 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 35 | 30–40 | 28–41 | 27–42 | 25–46 |
 | [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 31 | 25–34 | 25–35 | 24–36 | 23–40 |
 | [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 32 | 27–36 | 26–37 | 26–39 | 23–41 |
@@ -1765,7 +1765,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 12% |  |
 | 43 | 3% | 9% |  |
 | 44 | 2% | 6% |  |
-| 45 | 1.2% | 4% |  |
+| 45 | 1.3% | 4% |  |
 | 46 | 0.9% | 3% | Last Result |
 | 47 | 0.6% | 2% |  |
 | 48 | 0.4% | 1.4% |  |

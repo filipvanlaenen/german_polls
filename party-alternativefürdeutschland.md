@@ -890,20 +890,20 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–95 | 68–100 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 83 | 76–89 | 74–91 | 73–93 | 70–97 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 84 | 74–93 | 72–96 | 69–99 | 65–104 |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 77 | 69–85 | 67–88 | 67–89 | 63–93 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 77 | 70–85 | 68–87 | 66–89 | 63–94 |
 | [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 89 | 81–97 | 79–101 | 76–102 | 72–106 |
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 76 | 67–85 | 65–88 | 63–90 | 59–96 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–95 | 68–100 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 83 | 75–92 | 72–95 | 70–97 | 67–101 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 82 | 76–89 | 74–90 | 73–93 | 69–96 |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 82 | 76–89 | 74–91 | 73–93 | 70–96 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 76 | 70–83 | 68–85 | 66–87 | 64–91 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 84 | 76–93 | 73–95 | 71–97 | 68–102 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 84 | 75–94 | 72–97 | 70–100 | 66–105 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 75 | 69–82 | 67–84 | 66–86 | 63–89 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 92 | 82–100 | 81–103 | 79–105 | 76–115 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 92 | 84–101 | 82–104 | 80–107 | 76–112 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 90 | 84–98 | 81–100 | 80–101 | 78–105 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 77 | 70–83 | 68–86 | 66–87 | 64–91 |
-| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 76 | 68–83 | 65–86 | 64–88 | 61–92 |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 76 | 68–83 | 66–86 | 65–87 | 60–92 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 84 | 77–92 | 75–94 | 73–96 | 70–100 |
 | [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 91 | 83–97 | 82–99 | 80–101 | 77–104 |
 | [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 85 | 78–91 | 75–93 | 74–95 | 71–98 |
@@ -1750,17 +1750,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0.1% | 99.8% |  |
 | 63 | 0.2% | 99.7% |  |
 | 64 | 0.2% | 99.5% |  |
-| 65 | 0.4% | 99.4% |  |
+| 65 | 0.4% | 99.3% |  |
 | 66 | 0.4% | 98.9% |  |
-| 67 | 0.8% | 98.5% |  |
+| 67 | 0.7% | 98.5% |  |
 | 68 | 0.9% | 98% |  |
-| 69 | 1.2% | 97% |  |
+| 69 | 1.1% | 97% |  |
 | 70 | 2% | 96% |  |
-| 71 | 1.4% | 94% |  |
+| 71 | 2% | 94% |  |
 | 72 | 2% | 93% |  |
-| 73 | 2% | 90% |  |
-| 74 | 3% | 88% |  |
-| 75 | 3% | 86% |  |
+| 73 | 2% | 91% |  |
+| 74 | 3% | 89% |  |
+| 75 | 3% | 85% |  |
 | 76 | 4% | 83% |  |
 | 77 | 4% | 79% |  |
 | 78 | 5% | 75% |  |
@@ -1770,7 +1770,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 5% | 53% | Median |
 | 83 | 6% | 48% |  |
 | 84 | 5% | 42% |  |
-| 85 | 6% | 37% |  |
+| 85 | 6% | 36% |  |
 | 86 | 4% | 31% |  |
 | 87 | 4% | 26% |  |
 | 88 | 4% | 22% |  |

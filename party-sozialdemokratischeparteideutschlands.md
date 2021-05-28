@@ -888,25 +888,25 @@ Last result: **153** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 114 | 102–126 | 98–130 | 96–133 | 91–139 |
+| N/A | [Poll Average](average.html) | 114 | 102–126 | 98–130 | 96–132 | 91–139 |
 | [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 108 | 98–118 | 96–121 | 94–123 | 89–129 |
 | [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 105 | 97–114 | 94–117 | 92–119 | 88–124 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 120 | 112–128 | 110–130 | 108–132 | 105–136 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 113 | 103–124 | 100–128 | 97–131 | 93–136 |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 115 | 110–121 | 108–127 | 103–133 | 98–136 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 115 | 110–121 | 107–124 | 102–133 | 97–137 |
 | [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 120 | 109–129 | 107–132 | 105–134 | 101–139 |
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 120 | 110–132 | 106–135 | 104–138 | 99–144 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 113 | 104–122 | 102–125 | 100–127 | 95–132 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 113 | 103–123 | 101–126 | 98–129 | 94–133 |
-| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 115 | 105–120 | 102–121 | 100–122 | 97–127 |
+| [7–10 May 2021](2021-05-10-INSAandYouGov.html) | INSA and YouGov | 112 | 105–120 | 103–122 | 101–124 | 98–128 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 114 | 106–122 | 104–125 | 102–128 | 99–132 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 122 | 112–131 | 109–134 | 107–137 | 102–143 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 106 | 96–118 | 93–121 | 91–123 | 86–130 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 121 | 113–129 | 111–131 | 109–133 | 105–137 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 109 | 101–119 | 98–122 | 95–125 | 91–130 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 108 | 99–117 | 96–120 | 94–123 | 90–128 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 112 | 106–121 | 104–123 | 102–125 | 98–128 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 107 | 99–114 | 97–117 | 95–119 | 92–123 |
-| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 112 | 104–123 | 103–124 | 99–126 | 96–133 |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 115 | 104–123 | 102–124 | 100–125 | 96–132 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 106 | 98–115 | 96–118 | 94–120 | 91–124 |
 | [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 121 | 113–128 | 111–132 | 109–134 | 105–136 |
 | [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 98 | 92–105 | 89–109 | 89–110 | 84–114 |
@@ -1763,7 +1763,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 101 | 2% | 92% |  |
 | 102 | 3% | 90% |  |
 | 103 | 2% | 88% |  |
-| 104 | 2% | 86% |  |
+| 104 | 3% | 86% |  |
 | 105 | 3% | 83% |  |
 | 106 | 3% | 80% |  |
 | 107 | 3% | 77% |  |
@@ -1778,7 +1778,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 116 | 5% | 42% |  |
 | 117 | 4% | 37% |  |
 | 118 | 4% | 33% |  |
-| 119 | 3% | 29% |  |
+| 119 | 4% | 29% |  |
 | 120 | 3% | 26% |  |
 | 121 | 3% | 23% |  |
 | 122 | 3% | 20% |  |
@@ -1792,11 +1792,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 130 | 1.2% | 5% |  |
 | 131 | 0.8% | 4% |  |
 | 132 | 0.7% | 3% |  |
-| 133 | 0.6% | 3% |  |
-| 134 | 0.6% | 2% |  |
+| 133 | 0.5% | 2% |  |
+| 134 | 0.5% | 2% |  |
 | 135 | 0.3% | 1.4% |  |
 | 136 | 0.3% | 1.1% |  |
-| 137 | 0.2% | 0.8% |  |
+| 137 | 0.2% | 0.9% |  |
 | 138 | 0.1% | 0.7% |  |
 | 139 | 0.1% | 0.5% |  |
 | 140 | 0.1% | 0.4% |  |
