@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 17–24% <br> 128–179 | 13–18% <br> 98–134 | 9–13% <br> 68–97 | 9–14% <br> 68–103 | 6–12% <br> 42–91 | 20–27% <br> 151–204 | 4–6% <br> 26–47 |
-| [19–25 May 2021](2021-05-25-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–25 May 2021](2021-05-25-Ipsos.html) | Ipsos | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–24 May 2021](2021-05-24-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–21 May 2021](2021-05-21-Forsa.html) | Forsa | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 17–24% <br> 130–177 | 12–18% <br> 93–132 | 9–14% <br> 68–103 | 9–14% <br> 70–107 | 5–12% <br> 41–88 | 20–27% <br> 152–205 | 4–6% <br> 27–46 |
+| [19–25 May 2021](2021-05-25-Kantar.html) | Kantar | 18–22% <br> 138–169 | 13–17% <br> 99–127 | 10–14% <br> 79–104 | 10–14% <br> 78–104 | 6–8% <br> 44–64 | 21–25% <br> 157–189 | 4–6% <br> 28–45 |
+| [18–25 May 2021](2021-05-25-Ipsos.html) | Ipsos | 19–22% <br> 140–166 | 12–15% <br> 87–110 | 12–15% <br> 88–109 | 10–12% <br> 73–94 | 8–10% <br> 58–78 | 21–25% <br> 160–187 | 4–6% <br> 29–43 |
+| [21–24 May 2021](2021-05-24-YouGov.html) | YouGov | 19–23% <br> 147–176 | 13–17% <br> 102–127 | 10–13% <br> 73–96 | 11–14% <br> 80–104 | 6–8% <br> 44–62 | 20–24% <br> 152–182 | 4–6% <br> 30–45 |
+| [18–21 May 2021](2021-05-21-Forsa.html) | Forsa | 18–22% <br> 134–166 | 12–16% <br> 96–123 | 9–12% <br> 66–90 | 11–15% <br> 88–115 | 5–7% <br> 0–55 | 23–27% <br> 177–212 | 4–6% <br> 28–44 |
 | [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17–22% <br> 134–168 | 12–16% <br> 94–123 | 9–13% <br> 72–99 | 9–13% <br> 72–99 | 6–9% <br> 44–66 | 23–27% <br> 174–210 | 3–6% <br> 26–44 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 19–22% <br> 141–167 | 14–18% <br> 108–132 | 10–12% <br> 73–93 | 11–14% <br> 83–105 | 5–8% <br> 41–57 | 21–25% <br> 159–186 | 4–6% <br> 31–45 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 19–24% <br> 140–178 | 13–17% <br> 97–131 | 9–13% <br> 69–99 | 9–13% <br> 69–99 | 6–9% <br> 42–65 | 21–27% <br> 161–200 | 4–6% <br> 28–48 |
