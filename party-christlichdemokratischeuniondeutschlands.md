@@ -900,7 +900,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 153 | 138–168 | 134–172 | 130–177 | 123–185 |
-| [28–31 May 2021](2021-05-31-INSAandYouGov.html) | INSA and YouGov | 148 | 139–156 | 137–159 | 135–161 | 131–165 |
+| [28–31 May 2021](2021-05-31-INSAandYouGov.html) | INSA and YouGov | 148 | 140–156 | 137–158 | 135–161 | 131–165 |
 | [25–31 May 2021](2021-05-31-Forsa.html) | Forsa | 157 | 147–166 | 145–169 | 143–171 | 138–177 |
 | [25–28 May 2021](2021-05-28-INSAandYouGov.html) | INSA and YouGov | 152 | 141–161 | 139–165 | 136–168 | 130–172 |
 | [19–25 May 2021](2021-05-25-Kantar.html) | Kantar | 153 | 143–163 | 140–166 | 138–169 | 133–174 |
@@ -1787,7 +1787,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.8% | 95% |  |
 | 135 | 0.9% | 94% |  |
 | 136 | 1.1% | 94% |  |
-| 137 | 1.3% | 92% |  |
+| 137 | 1.4% | 93% |  |
 | 138 | 1.2% | 91% |  |
 | 139 | 2% | 90% |  |
 | 140 | 2% | 88% |  |
@@ -1795,11 +1795,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 2% | 85% |  |
 | 143 | 2% | 83% |  |
 | 144 | 2% | 81% |  |
-| 145 | 2% | 78% |  |
+| 145 | 3% | 78% |  |
 | 146 | 3% | 76% |  |
 | 147 | 3% | 73% |  |
 | 148 | 3% | 70% |  |
-| 149 | 4% | 67% |  |
+| 149 | 3% | 67% |  |
 | 150 | 3% | 63% |  |
 | 151 | 4% | 60% |  |
 | 152 | 3% | 56% |  |
