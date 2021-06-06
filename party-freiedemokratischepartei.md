@@ -612,20 +612,20 @@ Last result: **10.7%** (General Election of 24 September 2017)
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.1–10.3% |
 | [11–17 October 2018](2018-10-17-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | 9.1–11.0% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
-| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 11.0% | N/A | N/A | N/A | N/A |
-| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.5% | N/A | N/A | N/A | N/A |
-| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | N/A | N/A | N/A | N/A |
-| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8.5% | N/A | N/A | N/A | N/A |
-| [4–10 October 2018](2018-10-10-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 10.0% | N/A | N/A | N/A | N/A |
-| [4–10 October 2018](2018-10-10-GMS.html) | GMS | 10.0% | N/A | N/A | N/A | N/A |
-| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | N/A | N/A | N/A | N/A |
-| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | N/A | N/A | N/A | N/A |
-| [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | N/A | N/A | N/A | N/A |
-| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | N/A | N/A | N/A | N/A |
-| [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | N/A | N/A | N/A | N/A |
-| [20–26 September 2018](2018-09-26-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | N/A | N/A | N/A | N/A |
+| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
+| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.9% | 8.0–11.3% |
+| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 7.9–10.2% | 7.7–10.4% | 7.4–10.9% |
+| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8.5% | 7.6–9.6% | 7.3–9.9% | 7.1–10.2% | 6.6–10.7% |
+| [4–10 October 2018](2018-10-10-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
+| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.2% |
+| [4–10 October 2018](2018-10-10-GMS.html) | GMS | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
+| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.2–10.9% | 8.9–11.1% | 8.7–11.4% | 8.4–11.8% |
+| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.1–10.1% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
+| [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.0% |
+| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
+| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 7.9–10.2% | 7.7–10.4% | 7.3–10.9% |
+| [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.6% | 6.2–10.2% |
+| [20–26 September 2018](2018-09-26-Kantar.html) | Kantar <br> Bild am Sonntag | 10.0% | 9.1–10.9% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS | 9.0% | N/A | N/A | N/A | N/A |
 | [21–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | N/A | N/A | N/A | N/A |
 | [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | N/A | N/A | N/A | N/A |
@@ -899,7 +899,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | N/A | [Poll Average](average.html) | 89 | 77–105 | 73–110 | 70–113 | 64–119 |
 | [28–31 May 2021](2021-05-31-INSAandYouGov.html) | INSA and YouGov | 102 | 95–109 | 93–112 | 91–114 | 88–117 |
 | [25–31 May 2021](2021-05-31-Forsa.html) | Forsa | 108 | 100–116 | 98–119 | 96–120 | 92–126 |
-| [25–28 May 2021](2021-05-28-INSAandYouGov.html) | INSA and YouGov | 97 | 88–106 | 86–108 | 84–111 | 80–115 |
+| [25–28 May 2021](2021-05-28-INSAandYouGov.html) | INSA and YouGov | 97 | 88–106 | 86–108 | 84–111 | 80–116 |
 | [19–25 May 2021](2021-05-25-Kantar.html) | Kantar | 91 | 82–99 | 80–102 | 78–104 | 75–108 |
 | [18–25 May 2021](2021-05-25-Ipsos.html) | Ipsos | 83 | 77–90 | 75–92 | 73–94 | 70–97 |
 | [21–25 May 2021](2021-05-25-INSAandYouGov.html) | INSA and YouGov | 94 | 87–101 | 85–103 | 84–104 | 80–108 |
@@ -1498,20 +1498,20 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 68 | 61–73 | 60–76 | 58–78 | 56–80 |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 60 | 51–67 | 50–69 | 48–71 | 45–76 |
 | [11–17 October 2018](2018-10-17-Kantar.html) | Kantar <br> Bild am Sonntag | 73 | 70–83 | 69–84 | 64–86 | 61–91 |
-| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
-| [4–10 October 2018](2018-10-10-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [4–10 October 2018](2018-10-10-GMS.html) | GMS |  |  |  |  |  |
-| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [20–26 September 2018](2018-09-26-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
+| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 82 | 72–92 | 71–95 | 70–97 | 67–102 |
+| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 70 | 64–76 | 63–78 | 61–79 | 58–83 |
+| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 64 | 60–72 | 59–75 | 59–76 | 56–80 |
+| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 64 | 55–72 | 53–74 | 52–76 | 50–78 |
+| [4–10 October 2018](2018-10-10-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 62–74 | 60–75 | 58–77 | 55–80 |
+| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 76 | 68–83 | 67–85 | 65–88 | 61–92 |
+| [4–10 October 2018](2018-10-10-GMS.html) | GMS | 73 | 64–85 | 63–87 | 61–89 | 58–92 |
+| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 73 | 67–81 | 66–82 | 64–84 | 62–87 |
+| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 67 | 59–77 | 57–79 | 55–80 | 53–84 |
+| [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 60–74 | 59–77 | 57–79 | 54–83 |
+| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 68–79 | 66–81 | 64–84 | 61–86 |
+| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 67 | 61–74 | 60–76 | 57–77 | 55–81 |
+| [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 60 | 53–67 | 51–69 | 50–71 | 46–74 |
+| [20–26 September 2018](2018-09-26-Kantar.html) | Kantar <br> Bild am Sonntag | 72 | 66–80 | 65–82 | 63–85 | 60–88 |
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS |  |  |  |  |  |
 | [21–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
 | [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
