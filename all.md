@@ -5,9 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 21–25% <br> 155–189 | 12–16% <br> 92–121 | 10–14% <br> 80–104 | 10–14% <br> 78–105 | 6–9% <br> 45–65 | 18–22% <br> 136–167 | 4–7% <br> 31–50 |
+| [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20–25% <br> 156–192 | 13–17% <br> 100–130 | 9–13% <br> 70–99 | 8–12% <br> 64–90 | 6–9% <br> 44–64 | 20–24% <br> 150–185 | 4–7% <br> 32–51 |
+| [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 19–23% <br> 145–176 | 14–18% <br> 107–135 | 9–13% <br> 72–96 | 11–15% <br> 86–112 | 6–8% <br> 43–63 | 19–23% <br> 142–173 | 4–6% <br> 29–46 |
+| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 20–23% <br> 149–175 | 14–17% <br> 105–129 | 10–12% <br> 72–94 | 12–15% <br> 91–112 | 6–8% <br> 44–62 | 19–22% <br> 142–168 | 4–6% <br> 31–45 |
+| [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 20–24% <br> 155–184 | 12–16% <br> 96–121 | 8–10% <br> 60–79 | 12–16% <br> 96–120 | 5–7% <br> 0–55 | 20–24% <br> 155–185 | 4–6% <br> 32–47 |
+| [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 144–174 | 15–19% <br> 114–143 | 10–14% <br> 80–104 | 10–14% <br> 79–104 | 5–7% <br> 38–54 | 19–23% <br> 143–175 | 4–6% <br> 30–45 |
+| [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 18–22% <br> 133–164 | 14–18% <br> 110–137 | 9–13% <br> 73–95 | 11–15% <br> 86–110 | 6–8% <br> 45–64 | 20–24% <br> 154–183 | 4–6% <br> 27–43 |
 | [28–31 May 2021](2021-05-31-INSAandYouGov.html) | INSA and YouGov | 18–21% <br> 135–161 | 14–17% <br> 106–129 | 10–12% <br> 73–94 | 12–15% <br> 91–114 | 6–8% <br> 42–58 | 20–23% <br> 150–176 | 5–7% <br> 38–54 |
 | [25–31 May 2021](2021-05-31-Forsa.html) | Forsa | 19–22% <br> 143–171 | 12–16% <br> 96–120 | 8–10% <br> 60–80 | 12–16% <br> 96–120 | 5–7% <br> 0–55 | 22–26% <br> 170–201 | 4–6% <br> 29–44 |
 | [25–28 May 2021](2021-05-28-INSAandYouGov.html) | INSA and YouGov | 18–23% <br> 136–168 | 14–18% <br> 105–135 | 10–14% <br> 76–104 | 11–15% <br> 84–111 | 6–9% <br> 43–63 | 20–24% <br> 148–181 | 4–6% <br> 27–44 |
