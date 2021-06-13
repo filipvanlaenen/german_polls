@@ -699,7 +699,7 @@ Last result: **6.2%** (General Election of 24 September 2017)
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
 | [18–22 June 2018](2018-06-22-Forsa.html) | Forsa <br> Stern and RTL | 5.6% | 5.0–6.4% | 4.8–6.6% | 4.7–6.8% | 4.4–7.1% |
 | [14–20 June 2018](2018-06-20-Kantar.html) | Kantar <br> Bild am Sonntag | 5.8% | 5.2–6.5% | 5.1–6.7% | 4.9–6.9% | 4.7–7.2% |
-| [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6.0% | N/A | N/A | N/A | N/A |
+| [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
 | [14–15 June 2018](2018-06-15-Forsa.html) | Forsa <br> Stern and RTL | 5.7% | N/A | N/A | N/A | N/A |
 | [7–13 June 2018](2018-06-13-Kantar.html) | Kantar <br> Bild am Sonntag | 6.2% | N/A | N/A | N/A | N/A |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 5.8% | N/A | N/A | N/A | N/A |
@@ -899,14 +899,14 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 33–44 | 31–46 | 30–48 | 27–52 |
-| [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 40 | 34–47 | 33–48 | 31–50 | 29–53 |
-| [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 40 | 34–47 | 32–49 | 32–51 | 29–55 |
-| [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 37 | 32–43 | 30–45 | 29–46 | 27–50 |
+| N/A | [Poll Average](average.html) | 38 | 32–44 | 31–46 | 30–48 | 27–52 |
+| [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 40 | 35–46 | 33–48 | 32–50 | 29–53 |
+| [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 40 | 34–47 | 33–49 | 32–51 | 29–54 |
+| [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 37 | 32–43 | 30–44 | 29–46 | 27–49 |
 | [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 37 | 33–42 | 32–44 | 31–45 | 29–48 |
-| [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 39 | 34–45 | 33–46 | 32–47 | 30–50 |
-| [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 37 | 32–42 | 31–43 | 30–45 | 27–48 |
-| [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 35 | 29–39 | 29–42 | 27–43 | 25–46 |
+| [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 39 | 34–44 | 33–46 | 32–47 | 30–50 |
+| [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 37 | 32–43 | 30–44 | 29–46 | 27–49 |
+| [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 34 | 29–40 | 28–42 | 27–43 | 25–46 |
 | [28–31 May 2021](2021-05-31-INSAandYouGov.html) | INSA and YouGov | 45 | 41–51 | 39–52 | 38–54 | 36–56 |
 | [25–31 May 2021](2021-05-31-Forsa.html) | Forsa | 37 | 32–42 | 31–43 | 29–44 | 28–47 |
 | [25–28 May 2021](2021-05-28-INSAandYouGov.html) | INSA and YouGov | 35 | 30–41 | 28–43 | 27–44 | 25–48 |
@@ -1588,7 +1588,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 44 | 39–50 | 39–52 | 38–53 | 35–55 |
 | [18–22 June 2018](2018-06-22-Forsa.html) | Forsa <br> Stern and RTL | 43 | 39–49 | 37–50 | 35–51 | 34–54 |
 | [14–20 June 2018](2018-06-20-Kantar.html) | Kantar <br> Bild am Sonntag | 42 | 38–47 | 37–49 | 37–50 | 35–53 |
-| [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 49 | 42–49 | 38–50 | 38–53 | 38–57 |
 | [14–15 June 2018](2018-06-15-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [7–13 June 2018](2018-06-13-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
@@ -1774,37 +1774,38 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.1% | 99.9% |  |
+| 26 | 0.2% | 99.9% |  |
 | 27 | 0.3% | 99.7% |  |
 | 28 | 0.6% | 99.4% |  |
-| 29 | 0.9% | 98.8% |  |
+| 29 | 1.0% | 98.8% |  |
 | 30 | 2% | 98% |  |
 | 31 | 2% | 96% |  |
 | 32 | 4% | 94% |  |
-| 33 | 6% | 90% |  |
-| 34 | 7% | 84% |  |
-| 35 | 6% | 78% |  |
-| 36 | 9% | 72% |  |
-| 37 | 8% | 62% |  |
-| 38 | 8% | 55% | Median |
-| 39 | 10% | 47% |  |
-| 40 | 7% | 37% |  |
-| 41 | 6% | 30% |  |
+| 33 | 5% | 90% |  |
+| 34 | 6% | 85% |  |
+| 35 | 7% | 78% |  |
+| 36 | 8% | 71% |  |
+| 37 | 8% | 63% |  |
+| 38 | 9% | 54% | Median |
+| 39 | 8% | 46% |  |
+| 40 | 8% | 38% |  |
+| 41 | 7% | 30% |  |
 | 42 | 6% | 23% |  |
-| 43 | 4% | 17% |  |
+| 43 | 5% | 18% |  |
 | 44 | 3% | 13% |  |
-| 45 | 3% | 10% |  |
+| 45 | 3% | 9% |  |
 | 46 | 2% | 7% | Last Result |
-| 47 | 2% | 5% |  |
-| 48 | 1.0% | 3% |  |
-| 49 | 0.6% | 2% |  |
-| 50 | 0.7% | 2% |  |
+| 47 | 1.5% | 5% |  |
+| 48 | 1.1% | 3% |  |
+| 49 | 0.8% | 2% |  |
+| 50 | 0.5% | 1.5% |  |
 | 51 | 0.4% | 0.9% |  |
 | 52 | 0.2% | 0.6% |  |
 | 53 | 0.1% | 0.4% |  |
-| 54 | 0.1% | 0.3% |  |
+| 54 | 0.1% | 0.2% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 57 | 0% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 
