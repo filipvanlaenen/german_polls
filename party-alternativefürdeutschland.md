@@ -817,23 +817,23 @@ Last result: **12.6%** (General Election of 24 September 2017)
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12.0% | 10.9–13.3% | 10.6–13.7% | 10.3–14.0% | 9.8–14.6% |
 | [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.3–14.8% | 10.8–15.4% |
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 12.0% | 10.9–13.1% | 10.7–13.4% | 10.4–13.7% | 10.0–14.3% |
-| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | N/A | N/A | N/A | N/A |
-| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 11.0% | N/A | N/A | N/A | N/A |
-| [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag | 13.0% | N/A | N/A | N/A | N/A |
-| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13.5% | N/A | N/A | N/A | N/A |
-| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 10.0% | N/A | N/A | N/A | N/A |
-| [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag | 12.0% | N/A | N/A | N/A | N/A |
-| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | N/A | N/A | N/A | N/A |
-| [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13.0% | N/A | N/A | N/A | N/A |
-| [27 December 2017–2 January 2018](2018-01-02-GMS.html) | GMS | 14.0% | N/A | N/A | N/A | N/A |
-| [25–27 December 2017](2017-12-27-YouGov.html) | YouGov | 13.0% | N/A | N/A | N/A | N/A |
-| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov | 12.9% | N/A | N/A | N/A | N/A |
-| [18–22 December 2017](2017-12-22-Forsa.html) | Forsa | 12.0% | N/A | N/A | N/A | N/A |
-| [14–20 December 2017](2017-12-20-Kantar.html) | Kantar | 12.0% | N/A | N/A | N/A | N/A |
-| [15–18 December 2017](2017-12-18-INSAandYouGov.html) | INSA and YouGov | 14.0% | N/A | N/A | N/A | N/A |
-| [11–15 December 2017](2017-12-15-Forsa.html) | Forsa | 12.0% | N/A | N/A | N/A | N/A |
-| [1–14 December 2017](2017-12-14-Allensbach.html) | Allensbach | 11.0% | N/A | N/A | N/A | N/A |
-| [7–13 December 2017](2017-12-13-Kantar.html) | Kantar | 13.0% | N/A | N/A | N/A | N/A |
+| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
+| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 11.0% | 10.2–12.0% | 9.9–12.3% | 9.7–12.5% | 9.3–13.0% |
+| [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag | 13.0% | 12.1–14.1% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
+| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13.5% | 12.6–14.5% | 12.3–14.8% | 12.1–15.1% | 11.6–15.6% |
+| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.4–13.8% | 10.0–14.4% |
+| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
+| [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.2–15.1% |
+| [27 December 2017–2 January 2018](2018-01-02-GMS.html) | GMS | 14.0% | 12.7–15.5% | 12.3–16.0% | 12.0–16.3% | 11.4–17.1% |
+| [25–27 December 2017](2017-12-27-YouGov.html) | YouGov | 13.0% | 11.9–14.2% | 11.7–14.6% | 11.4–14.9% | 10.9–15.5% |
+| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov | 12.9% | 12.1–13.9% | 11.8–14.2% | 11.6–14.4% | 11.2–14.9% |
+| [18–22 December 2017](2017-12-22-Forsa.html) | Forsa | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.7% |
+| [14–20 December 2017](2017-12-20-Kantar.html) | Kantar | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.1% |
+| [15–18 December 2017](2017-12-18-INSAandYouGov.html) | INSA and YouGov | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
+| [11–15 December 2017](2017-12-15-Forsa.html) | Forsa | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.8% |
+| [1–14 December 2017](2017-12-14-Allensbach.html) | Allensbach | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.5–12.7% | 9.0–13.3% |
+| [7–13 December 2017](2017-12-13-Kantar.html) | Kantar | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.5–14.6% | 11.1–15.1% |
 | [11–13 December 2017](2017-12-13-Infratestdimap.html) | Infratest dimap | 13.0% | N/A | N/A | N/A | N/A |
 | [8–11 December 2017](2017-12-11-INSAandYouGov.html) | INSA and YouGov | 13.6% | N/A | N/A | N/A | N/A |
 | [9–10 December 2017](2017-12-10-Forsa.html) | Forsa | 11.0% | N/A | N/A | N/A | N/A |
@@ -921,19 +921,19 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 78 | 69–87 | 67–90 | 64–92 | 59–99 |
 | [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 92 | 83–100 | 80–104 | 78–106 | 74–111 |
 | [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 76 | 69–85 | 67–87 | 65–89 | 62–93 |
-| [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 81 | 70–87 | 69–89 | 68–90 | 66–92 |
+| [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 78 | 72–85 | 71–87 | 69–89 | 67–92 |
 | [16–21 June 2021](2021-06-21-GMS.html) | GMS | 75 | 66–85 | 64–87 | 62–90 | 59–95 |
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 69 | 63–75 | 61–77 | 59–79 | 57–83 |
-| [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 84 | 77–90 | 74–93 | 72–95 | 67–100 |
-| [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 76 | 68–85 | 66–86 | 64–88 | 61–93 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 84 | 75–89 | 74–93 | 72–95 | 70–99 |
-| [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 69 | 64–75 | 62–77 | 60–79 | 57–82 |
-| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 82 | 75–92 | 73–93 | 71–96 | 67–100 |
+| [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 83 | 76–91 | 73–93 | 72–95 | 68–100 |
+| [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 76 | 68–84 | 66–87 | 65–88 | 61–93 |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 84 | 76–89 | 75–91 | 73–94 | 71–98 |
+| [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 69 | 62–75 | 61–77 | 59–79 | 57–82 |
+| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 83 | 75–91 | 73–93 | 71–96 | 67–100 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 92 | 83–100 | 80–103 | 79–106 | 75–110 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 84 | 76–93 | 74–96 | 72–98 | 68–102 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 67 | 59–75 | 57–78 | 55–80 | 52–85 |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–96 | 68–100 |
-| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 83 | 77–90 | 75–92 | 73–94 | 70–97 |
+| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 83 | 76–90 | 75–92 | 73–93 | 70–97 |
 | [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 69 | 63–76 | 62–78 | 60–80 | 57–84 |
 | [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 91 | 82–100 | 80–102 | 79–104 | 75–109 |
 | [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 84 | 76–92 | 74–95 | 72–97 | 69–101 |
@@ -1722,24 +1722,24 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 91 | 81–99 | 79–101 | 78–103 | 74–107 |
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 89 | 81–97 | 79–100 | 76–103 | 72–107 |
 | [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 98 | 90–105 | 87–108 | 84–111 | 80–114 |
-| [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 88 | 83–99 | 81–101 | 75–104 | 75–109 |
-| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag |  |  |  |  |  |
-| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [27 December 2017–2 January 2018](2018-01-02-GMS.html) | GMS |  |  |  |  |  |
+| [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 90 | 83–98 | 80–101 | 79–104 | 75–107 |
+| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 105 | 98–112 | 95–114 | 95–117 | 91–120 |
+| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 84 | 76–90 | 75–92 | 73–94 | 70–98 |
+| [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag | 95 | 88–102 | 86–104 | 85–107 | 83–111 |
+| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 100 | 93–108 | 91–110 | 90–112 | 87–115 |
+| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 75 | 69–82 | 68–84 | 66–86 | 63–90 |
+| [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag | 90 | 81–99 | 79–100 | 77–102 | 74–107 |
+| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 98 | 88–105 | 87–106 | 84–110 | 81–115 |
+| [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 96 | 90–103 | 88–105 | 86–107 | 83–110 |
+| [27 December 2017–2 January 2018](2018-01-02-GMS.html) | GMS | 103 | 94–113 | 91–116 | 89–120 | 84–125 |
 | [25–27 December 2017](2017-12-27-YouGov.html) | YouGov |  |  |  |  |  |
-| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [18–22 December 2017](2017-12-22-Forsa.html) | Forsa |  |  |  |  |  |
-| [14–20 December 2017](2017-12-20-Kantar.html) | Kantar |  |  |  |  |  |
-| [15–18 December 2017](2017-12-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [11–15 December 2017](2017-12-15-Forsa.html) | Forsa |  |  |  |  |  |
-| [1–14 December 2017](2017-12-14-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [7–13 December 2017](2017-12-13-Kantar.html) | Kantar |  |  |  |  |  |
+| [21–22 December 2017](2017-12-22-INSAandYouGov.html) | INSA and YouGov | 96 | 90–101 | 87–104 | 86–106 | 83–109 |
+| [18–22 December 2017](2017-12-22-Forsa.html) | Forsa | 89 | 84–96 | 82–97 | 80–99 | 78–102 |
+| [14–20 December 2017](2017-12-20-Kantar.html) | Kantar | 89 | 83–97 | 81–99 | 80–102 | 76–104 |
+| [15–18 December 2017](2017-12-18-INSAandYouGov.html) | INSA and YouGov | 104 | 98–113 | 96–115 | 94–116 | 90–119 |
+| [11–15 December 2017](2017-12-15-Forsa.html) | Forsa | 91 | 85–96 | 83–98 | 81–100 | 79–103 |
+| [1–14 December 2017](2017-12-14-Allensbach.html) | Allensbach | 80 | 73–89 | 71–92 | 71–93 | 67–97 |
+| [7–13 December 2017](2017-12-13-Kantar.html) | Kantar | 100 | 91–105 | 88–109 | 87–110 | 84–112 |
 | [11–13 December 2017](2017-12-13-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [8–11 December 2017](2017-12-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–10 December 2017](2017-12-10-Forsa.html) | Forsa |  |  |  |  |  |
