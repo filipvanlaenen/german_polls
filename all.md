@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 22–25% <br> 166–193 | 15–18% <br> 114–138 | 9–11% <br> 67–86 | 11–14% <br> 85–107 | 6–8% <br> 45–62 | 16–20% <br> 125–150 | 5–7% <br> 34–49 |
+| [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 22–26% <br> 173–203 | 13–17% <br> 104–128 | 9–11% <br> 67–87 | 10–12% <br> 74–95 | 6–8% <br> 46–63 | 17–21% <br> 133–160 | 5–7% <br> 36–52 |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 158–192 | 15–19% <br> 116–146 | 8–12% <br> 65–89 | 10–14% <br> 80–106 | 6–9% <br> 44–65 | 16–20% <br> 123–154 | 4–7% <br> 32–50 |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 21–25% <br> 158–192 | 13–17% <br> 101–131 | 9–13% <br> 72–98 | 9–13% <br> 73–98 | 6–9% <br> 44–65 | 18–22% <br> 138–171 | 4–7% <br> 32–51 |
 | [23–29 June 2021](2021-06-29-Kantar.html) | Kantar | 21–25% <br> 159–192 | 14–18% <br> 109–138 | 9–13% <br> 73–98 | 9–12% <br> 66–90 | 6–8% <br> 44–65 | 18–22% <br> 139–170 | 4–7% <br> 32–50 |
