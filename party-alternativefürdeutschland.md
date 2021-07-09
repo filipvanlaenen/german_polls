@@ -985,13 +985,13 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 77 | 70–84 | 68–86 | 66–87 | 63–91 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 76 | 68–83 | 66–85 | 64–87 | 61–91 |
 | [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 84 | 77–92 | 75–94 | 73–96 | 70–100 |
-| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 91 | 83–97 | 82–99 | 80–101 | 77–104 |
-| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 85 | 78–91 | 75–93 | 74–95 | 71–98 |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 90 | 84–98 | 82–100 | 81–101 | 77–105 |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 84 | 77–91 | 75–93 | 73–95 | 71–99 |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 82 | 73–92 | 70–95 | 68–97 | 64–102 |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 76 | 68–84 | 66–87 | 64–89 | 60–93 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 89 | 80–100 | 78–103 | 75–105 | 72–110 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 85 | 76–94 | 73–97 | 71–99 | 67–104 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 89 | 83–95 | 83–96 | 81–98 | 79–100 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 89 | 84–95 | 82–97 | 81–98 | 79–101 |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 84 | 77–91 | 75–93 | 74–95 | 71–99 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 89 | 79–99 | 77–102 | 75–104 | 70–109 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 84 | 75–92 | 74–95 | 72–97 | 68–102 |
