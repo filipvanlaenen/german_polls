@@ -999,7 +999,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 211 | 198–222 | 194–227 | 192–229 | 186–236 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 164 | 152–177 | 148–180 | 145–183 | 139–189 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 215 | 202–228 | 199–232 | 196–236 | 190–242 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 157 | 150–164 | 148–166 | 146–168 | 143–170 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 157 | 150–164 | 148–166 | 146–167 | 143–171 |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 175 | 166–185 | 164–188 | 162–190 | 157–196 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 147 | 135–159 | 132–162 | 130–166 | 124–172 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 160 | 149–170 | 146–174 | 143–177 | 138–182 |
@@ -1187,7 +1187,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 145 | 134–158 | 131–161 | 128–164 | 122–170 |
 | [18–24 June 2020](2020-06-24-Kantar.html) | Kantar | 134 | 125–144 | 122–146 | 121–150 | 116–155 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 154 | 140–166 | 137–168 | 134–171 | 129–179 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 133 | 122–142 | 119–146 | 116–150 | 112–153 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 131 | 121–142 | 118–145 | 116–148 | 112–152 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 138 | 130–147 | 128–150 | 127–152 | 123–158 |
 | [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 139 | 131–154 | 128–154 | 126–158 | 121–163 |
 | [10–17 June 2020](2020-06-17-Kantar.html) | Kantar | 127 | 119–134 | 117–137 | 116–138 | 113–143 |
@@ -1207,7 +1207,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 127 | 114–136 | 112–140 | 109–142 | 105–148 |
 | [20–26 May 2020](2020-05-26-Kantar.html) | Kantar | 112 | 104–121 | 102–122 | 101–124 | 97–127 |
 | [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 136 | 128–144 | 126–148 | 125–151 | 119–157 |
-| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 124 | 113–134 | 110–137 | 109–142 | 106–147 |
+| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 125 | 114–136 | 111–139 | 109–142 | 105–147 |
 | [14–19 May 2020](2020-05-19-Kantar.html) | Kantar | 112 | 105–121 | 103–123 | 101–125 | 98–128 |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 139 | 130–147 | 128–149 | 127–152 | 121–154 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 122 | 114–131 | 112–133 | 110–135 | 106–141 |
@@ -1328,7 +1328,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 165 | 155–178 | 151–180 | 149–183 | 143–189 |
 | [30 October–6 November 2019](2019-11-06-Kantar.html) | Kantar <br> Bild am Sonntag | 135 | 127–145 | 124–148 | 122–151 | 117–156 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 166 | 158–177 | 155–181 | 152–183 | 147–189 |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 166 | 157–177 | 155–180 | 152–183 | 147–188 |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 167 | 157–177 | 155–180 | 152–183 | 148–188 |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 158 | 149–166 | 148–169 | 146–171 | 142–176 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 155 | 147–162 | 141–167 | 141–168 | 135–170 |
 | [24–30 October 2019](2019-10-30-Kantar.html) | Kantar <br> Bild am Sonntag | 136 | 128–145 | 127–147 | 124–148 | 119–152 |
@@ -1522,7 +1522,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 143 | 131–153 | 128–155 | 125–158 | 120–165 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 133 | 120–144 | 119–149 | 115–151 | 111–157 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 135 | 125–143 | 121–144 | 119–145 | 116–152 |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 144 | 126–157 | 124–161 | 121–165 | 117–169 |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 141 | 130–153 | 127–157 | 124–160 | 119–166 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 150 | 142–160 | 141–162 | 137–163 | 134–168 |
 | [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 142 | 133–151 | 131–152 | 129–155 | 124–159 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 134 | 130–139 | 127–140 | 125–141 | 118–145 |
@@ -1749,7 +1749,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [15–19 January 2018](2018-01-19-Forsa.html) | Forsa <br> Stern and RTL | 91 | 84–99 | 81–100 | 79–102 | 77–106 |
 | [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 89 | 82–99 | 79–100 | 77–103 | 74–107 |
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 78 | 70–86 | 68–88 | 66–90 | 62–95 |
-| [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 74 | 68–82 | 65–84 | 63–87 | 61–90 |
+| [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 75 | 67–82 | 65–85 | 64–87 | 61–91 |
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 89 | 83–98 | 78–100 | 77–102 | 75–108 |
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 68–80 | 66–82 | 65–84 | 63–89 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 92 | 84–98 | 81–100 | 79–101 | 77–104 |

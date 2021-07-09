@@ -991,7 +991,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 76 | 68–84 | 66–87 | 64–89 | 60–93 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 89 | 80–100 | 78–103 | 75–105 | 72–110 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 85 | 76–94 | 73–97 | 71–99 | 67–104 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 89 | 84–95 | 82–97 | 81–98 | 79–101 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 90 | 84–95 | 83–97 | 81–98 | 79–101 |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 84 | 77–91 | 75–93 | 74–95 | 71–99 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 89 | 79–99 | 77–102 | 75–104 | 70–109 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 84 | 75–92 | 74–95 | 72–97 | 68–102 |
@@ -1179,7 +1179,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 69 | 61–78 | 59–80 | 57–82 | 53–87 |
 | [18–24 June 2020](2020-06-24-Kantar.html) | Kantar | 75 | 68–82 | 66–85 | 64–87 | 61–92 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 76 | 66–85 | 64–90 | 63–93 | 59–97 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 85 | 77–92 | 75–95 | 72–97 | 69–102 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 85 | 77–94 | 75–96 | 73–98 | 70–103 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 74 | 69–82 | 68–84 | 66–86 | 63–89 |
 | [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 70 | 63–77 | 62–79 | 61–81 | 57–87 |
 | [10–17 June 2020](2020-06-17-Kantar.html) | Kantar | 75 | 68–80 | 67–83 | 66–84 | 63–87 |
@@ -1199,7 +1199,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [20–26 May 2020](2020-05-26-YouGov.html) | YouGov | 84 | 77–96 | 75–98 | 73–100 | 69–105 |
 | [20–26 May 2020](2020-05-26-Kantar.html) | Kantar | 66 | 62–74 | 60–76 | 58–77 | 55–80 |
 | [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 72 | 66–78 | 64–81 | 63–82 | 60–86 |
-| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 70 | 63–79 | 60–80 | 59–82 | 56–88 |
+| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 70 | 63–79 | 61–81 | 59–83 | 56–87 |
 | [14–19 May 2020](2020-05-19-Kantar.html) | Kantar | 74 | 69–82 | 66–84 | 65–86 | 63–89 |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 79 | 74–86 | 71–88 | 70–90 | 68–95 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 69 | 62–75 | 61–76 | 60–79 | 57–83 |
@@ -1320,7 +1320,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 105 | 96–116 | 93–118 | 92–121 | 88–124 |
 | [30 October–6 November 2019](2019-11-06-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 96–114 | 95–116 | 93–119 | 89–123 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 109 | 97–118 | 95–118 | 93–122 | 89–124 |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 106 | 98–115 | 96–118 | 94–120 | 91–125 |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 107 | 98–115 | 96–118 | 94–120 | 90–125 |
 | [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 121 | 113–129 | 111–131 | 110–132 | 105–137 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 101 | 93–108 | 90–111 | 88–113 | 85–116 |
 | [24–30 October 2019](2019-10-30-Kantar.html) | Kantar <br> Bild am Sonntag | 113 | 106–120 | 103–122 | 102–125 | 99–130 |
@@ -1514,7 +1514,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 90 | 81–100 | 79–101 | 76–104 | 73–109 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 104 | 92–113 | 90–118 | 89–119 | 83–126 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 102 | 96–111 | 94–113 | 91–116 | 88–121 |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 109 | 98–126 | 95–130 | 93–132 | 89–138 |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 112 | 101–123 | 99–126 | 96–129 | 92–134 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 97 | 91–105 | 90–106 | 87–109 | 84–114 |
 | [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 97–112 | 95–114 | 93–117 | 90–121 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 108 | 103–118 | 102–120 | 101–122 | 98–124 |
@@ -1741,7 +1741,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [15–19 January 2018](2018-01-19-Forsa.html) | Forsa <br> Stern and RTL | 88 | 81–96 | 80–98 | 79–101 | 77–105 |
 | [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 91 | 81–99 | 79–101 | 78–103 | 74–107 |
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 89 | 81–97 | 79–100 | 76–103 | 72–107 |
-| [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 98 | 90–105 | 87–108 | 84–111 | 80–114 |
+| [11–17 January 2018](2018-01-17-Kantar.html) | Kantar <br> Bild am Sonntag | 97 | 88–105 | 86–108 | 84–110 | 80–115 |
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 90 | 83–98 | 80–101 | 79–104 | 75–107 |
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 105 | 98–112 | 95–114 | 95–117 | 91–120 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 84 | 76–90 | 75–92 | 73–94 | 70–98 |
