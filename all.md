@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 21–26% <br> 163–196 | 13–17% <br> 101–129 | 9–13% <br> 72–97 | 9–13% <br> 72–97 | 7–10% <br> 50–73 | 17–21% <br> 129–161 | 4–7% <br> 33–51 |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 22–25% <br> 166–193 | 15–18% <br> 114–138 | 9–11% <br> 67–86 | 11–14% <br> 85–107 | 6–8% <br> 45–62 | 16–20% <br> 125–150 | 5–7% <br> 34–49 |
 | [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 22–26% <br> 173–203 | 13–17% <br> 104–128 | 9–11% <br> 67–87 | 10–12% <br> 74–95 | 6–8% <br> 46–63 | 17–21% <br> 133–160 | 5–7% <br> 36–52 |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 158–192 | 15–19% <br> 116–146 | 8–12% <br> 65–89 | 10–14% <br> 80–106 | 6–9% <br> 44–65 | 16–20% <br> 123–154 | 4–7% <br> 32–50 |
@@ -509,7 +510,7 @@ The table below lists all polls registered and analyzed so far.
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22–26% <br> 161–187 | 15–18% <br> 107–131 | 13–16% <br> 93–115 | 8–11% <br> 61–80 | 8–10% <br> 58–76 | 18–21% <br> 127–152 | 4–6% <br> 31–43 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 23–26% <br> 171–196 | 14–16% <br> 103–125 | 12–14% <br> 89–108 | 7–9% <br> 53–69 | 7–9% <br> 53–69 | 18–22% <br> 139–163 | 5–7% <br> 36–50 |
 | [2–8 May 2019](2019-05-08-Kantar.html) | Kantar <br> Bild am Sonntag | 22–25% <br> 164–187 | 15–18% <br> 109–130 | 12–14% <br> 88–107 | 8–10% <br> 59–75 | 8–10% <br> 60–75 | 17–21% <br> 130–154 | 5–6% <br> 35–47 |
-| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 21–26% <br> 155–196 | 15–19% <br> 110–143 | 11–15% <br> 82–114 | 6–10% <br> 47–73 | 7–11% <br> 54–81 | 17–22% <br> 124–160 | 4–7% <br> 32–53 |
+| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 21–26% <br> 156–195 | 15–19% <br> 110–144 | 11–15% <br> 82–114 | 6–10% <br> 48–72 | 7–11% <br> 55–81 | 17–22% <br> 124–160 | 4–7% <br> 31–52 |
 | [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–24% <br> 153–179 | 14–18% <br> 106–130 | 12–15% <br> 92–113 | 8–10% <br> 58–76 | 8–10% <br> 58–75 | 18–22% <br> 134–158 | 5–7% <br> 37–52 |
 | [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 21–26% <br> 162–193 | 13–17% <br> 100–128 | 11–15% <br> 85–110 | 7–9% <br> 51–70 | 8–11% <br> 58–79 | 18–22% <br> 135–166 | 4–7% <br> 33–50 |
 | [25–30 April 2019](2019-04-30-Kantar.html) | Kantar <br> Bild am Sonntag | 21–25% <br> 156–183 | 15–19% <br> 116–141 | 12–15% <br> 86–108 | 8–10% <br> 58–77 | 8–10% <br> 58–77 | 17–21% <br> 129–156 | 4–6% <br> 32–47 |
@@ -642,7 +643,7 @@ The table below lists all polls registered and analyzed so far.
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21–26% <br> 158–192 | 17–21% <br> 125–156 | 13–17% <br> 97–125 | 7–10% <br> 52–76 | 8–11% <br> 56–79 | 13–17% <br> 98–126 | 4–7% <br> 32–51 |
 | [4–10 October 2018](2018-10-10-Kantar.html) | Kantar <br> Bild am Sonntag | 19–23% <br> 144–171 | 15–19% <br> 115–140 | 13–17% <br> 101–124 | 8–10% <br> 58–77 | 10–12% <br> 72–93 | 15–19% <br> 114–139 | 4–6% <br> 30–44 |
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 19–23% <br> 144–176 | 13–17% <br> 99–128 | 14–18% <br> 107–136 | 9–12% <br> 65–88 | 9–12% <br> 64–88 | 15–19% <br> 114–141 | 4–6% <br> 29–45 |
-| [4–10 October 2018](2018-10-10-GMS.html) | GMS | 19–25% <br> 145–184 | 13–17% <br> 94–128 | 16–20% <br> 114–151 | 8–12% <br> 61–89 | 8–12% <br> 61–88 | 14–18% <br> 101–136 | 4–7% <br> 28–49 |
+| [4–10 October 2018](2018-10-10-GMS.html) | GMS | 19–25% <br> 143–180 | 13–17% <br> 95–127 | 16–20% <br> 115–150 | 8–12% <br> 61–88 | 8–12% <br> 62–88 | 14–18% <br> 102–135 | 4–7% <br> 28–49 |
 | [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19–23% <br> 141–167 | 14–18% <br> 107–130 | 16–20% <br> 121–146 | 9–11% <br> 64–84 | 10–12% <br> 71–93 | 14–17% <br> 99–122 | 4–6% <br> 31–45 |
 | [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 21–25% <br> 153–187 | 14–18% <br> 104–135 | 12–16% <br> 91–118 | 8–11% <br> 55–80 | 9–12% <br> 64–89 | 16–20% <br> 119–150 | 4–7% <br> 31–49 |
 | [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag | 20–24% <br> 148–180 | 15–19% <br> 113–139 | 14–18% <br> 106–134 | 8–11% <br> 57–79 | 9–12% <br> 64–87 | 14–18% <br> 107–134 | 4–6% <br> 30–48 |
@@ -711,7 +712,7 @@ The table below lists all polls registered and analyzed so far.
 | [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 24–28% <br> 179–207 | 15–19% <br> 114–139 | 13–17% <br> 100–124 | 9–11% <br> 65–86 | 9–11% <br> 65–85 | 11–14% <br> 78–101 | 4–6% <br> 31–45 |
 | [21–28 June 2018](2018-06-28-Kantar.html) | Kantar <br> Bild am Sonntag | 24–28% <br> 179–206 | 17–21% <br> 130–153 | 13–16% <br> 95–115 | 8–10% <br> 58–76 | 8–10% <br> 59–77 | 11–14% <br> 80–100 | 5–7% <br> 37–53 |
 | [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24–29% <br> 175–205 | 16–20% <br> 116–147 | 12–16% <br> 89–116 | 8–11% <br> 55–77 | 8–12% <br> 62–85 | 12–16% <br> 88–118 | 5–7% <br> 36–54 |
-| [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 22–27% <br> 164–197 | 15–19% <br> 112–140 | 14–18% <br> 106–131 | 9–12% <br> 62–86 | 10–13% <br> 70–93 | 10–14% <br> 75–101 | 5–7% <br> 34–52 |
+| [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 22–27% <br> 164–196 | 15–19% <br> 111–140 | 14–18% <br> 105–131 | 9–12% <br> 63–86 | 10–13% <br> 70–93 | 10–14% <br> 77–101 | 5–7% <br> 34–51 |
 | [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 23–29% <br> 176–214 | 17–22% <br> 124–160 | 12–16% <br> 91–120 | 6–10% <br> 49–71 | 7–11% <br> 56–81 | 11–15% <br> 82–112 | 5–8% <br> 34–56 |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> 157–185 | 18–21% <br> 133–158 | 14–18% <br> 107–132 | 8–10% <br> 58–77 | 10–12% <br> 72–92 | 10–12% <br> 71–92 | 5–7% <br> 38–53 |
 | [18–22 June 2018](2018-06-22-Forsa.html) | Forsa <br> Stern and RTL | 23–26% <br> 169–197 | 15–19% <br> 116–142 | 13–17% <br> 101–125 | 8–10% <br> 58–79 | 9–11% <br> 65–86 | 12–15% <br> 87–109 | 5–7% <br> 35–51 |
