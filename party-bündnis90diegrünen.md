@@ -10,7 +10,8 @@ Last result: **8.9%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 16.5–22.1% | 14.9–22.8% | 14.3–23.4% | 13.4–24.5% |
+| N/A | [Poll Average](average.html) | 19.6% | 15.9–22.1% | 14.9–22.8% | 14.3–23.4% | 13.4–24.5% |
+| [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.8–18.4% | 15.4–18.8% | 15.1–19.1% | 14.5–19.8% |
 | [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.1% | 16.4–21.8% |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
 | [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
@@ -912,12 +913,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.6% | 100% |  |
 | 13.5–14.5% | 3% | 99.3% |  |
-| 14.5–15.5% | 4% | 96% |  |
-| 15.5–16.5% | 3% | 92% |  |
-| 16.5–17.5% | 5% | 90% |  |
-| 17.5–18.5% | 14% | 85% |  |
-| 18.5–19.5% | 20% | 71% |  |
-| 19.5–20.5% | 19% | 51% | Median |
+| 14.5–15.5% | 5% | 96% |  |
+| 15.5–16.5% | 5% | 92% |  |
+| 16.5–17.5% | 6% | 87% |  |
+| 17.5–18.5% | 12% | 81% |  |
+| 18.5–19.5% | 19% | 69% |  |
+| 19.5–20.5% | 19% | 50% | Median |
 | 20.5–21.5% | 15% | 32% |  |
 | 21.5–22.5% | 10% | 16% |  |
 | 22.5–23.5% | 5% | 7% |  |
@@ -935,7 +936,8 @@ Last result: **67** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 149 | 125–168 | 112–173 | 107–177 | 101–186 |
+| N/A | [Poll Average](average.html) | 149 | 120–168 | 112–173 | 107–177 | 101–186 |
+| [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 129 | 120–139 | 117–142 | 115–145 | 110–150 |
 | [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 143 | 135–155 | 132–157 | 129–161 | 125–165 |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 137 | 129–145 | 127–148 | 125–150 | 121–154 |
 | [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 146 | 138–155 | 135–158 | 133–160 | 129–164 |
@@ -1264,7 +1266,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 176 | 165–187 | 164–190 | 160–193 | 154–200 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 159 | 152–169 | 149–174 | 144–177 | 142–182 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 172 | 161–177 | 158–181 | 157–187 | 154–191 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 190 | 178–203 | 173–206 | 172–208 | 167–213 |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 190 | 177–202 | 174–206 | 172–208 | 167–214 |
 | [20–27 February 2020](2020-02-27-Kantar.html) | Kantar | 169 | 157–178 | 155–182 | 153–184 | 147–189 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 167 | 157–176 | 155–178 | 154–181 | 149–185 |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 184 | 177–190 | 174–193 | 173–195 | 169–199 |
@@ -1380,7 +1382,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 190 | 177–203 | 176–206 | 171–210 | 166–218 |
 | [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 181 | 173–192 | 171–192 | 169–195 | 166–201 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 185 | 176–195 | 173–197 | 170–201 | 165–203 |
-| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 177 | 167–190 | 165–193 | 162–195 | 157–202 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 179 | 168–190 | 165–193 | 163–195 | 158–202 |
 | [8–14 August 2019](2019-08-14-Kantar.html) | Kantar <br> Bild am Sonntag | 165 | 154–176 | 153–178 | 152–181 | 148–184 |
 | [9–11 August 2019](2019-08-11-INSAandYouGov.html) | INSA and YouGov | 175 | 168–184 | 165–187 | 163–190 | 159–193 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 193 | 184–202 | 181–204 | 178–206 | 172–211 |
@@ -1518,7 +1520,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 132 | 124–140 | 121–143 | 120–145 | 117–149 |
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 141 | 135–153 | 131–154 | 129–157 | 124–159 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 157 | 146–168 | 142–172 | 141–173 | 136–180 |
-| [3–9 January 2019](2019-01-09-Kantar.html) | Kantar <br> Bild am Sonntag | 136 | 128–142 | 125–144 | 123–146 | 119–149 |
+| [3–9 January 2019](2019-01-09-Kantar.html) | Kantar <br> Bild am Sonntag | 135 | 126–143 | 124–145 | 122–147 | 118–151 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 146 | 138–157 | 136–159 | 132–162 | 129–166 |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 117 | 111–124 | 108–128 | 106–129 | 104–133 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 143 | 131–153 | 128–155 | 125–158 | 120–165 |
@@ -1576,7 +1578,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 127 | 118–136 | 114–140 | 114–141 | 109–147 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 118 | 107–129 | 104–132 | 102–135 | 97–141 |
 | [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 111 | 102–119 | 101–121 | 99–122 | 95–126 |
-| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 134 | 123–144 | 121–147 | 119–150 | 114–156 |
+| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 134 | 124–144 | 121–147 | 118–150 | 115–155 |
 | [27 September–2 October 2018](2018-10-02-Kantar.html) | Kantar <br> Bild am Sonntag | 119 | 109–129 | 108–132 | 107–134 | 102–138 |
 | [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 107 | 99–113 | 98–116 | 95–118 | 92–121 |
 | [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 127 | 118–135 | 115–138 | 114–140 | 111–143 |
@@ -1614,13 +1616,13 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 91 | 85–99 | 83–101 | 82–102 | 78–106 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 111 | 102–119 | 101–122 | 99–123 | 96–126 |
 | [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 109 | 101–119 | 97–122 | 95–124 | 92–128 |
-| [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 92 | 84–101 | 81–103 | 81–106 | 77–110 |
+| [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 92 | 84–101 | 82–104 | 80–106 | 76–111 |
 | [2–8 August 2018](2018-08-08-Kantar.html) | Kantar <br> Bild am Sonntag | 112 | 104–119 | 102–121 | 102–122 | 99–125 |
 | [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 94 | 88–99 | 85–100 | 83–102 | 79–105 |
 | [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 96 | 90–103 | 88–106 | 85–109 | 82–112 |
 | [26 July–1 August 2018](2018-08-01-Kantar.html) | Kantar <br> Bild am Sonntag | 112 | 105–119 | 103–121 | 102–123 | 99–126 |
 | [30 July–1 August 2018](2018-08-01-Infratestdimap.html) | Infratest dimap <br> ARD | 111 | 104–121 | 101–124 | 99–126 | 95–129 |
-| [25–31 July 2018](2018-07-31-GMS.html) | GMS | 96 | 87–107 | 85–109 | 82–112 | 78–117 |
+| [25–31 July 2018](2018-07-31-GMS.html) | GMS | 96 | 87–106 | 84–109 | 82–112 | 77–117 |
 | [27–30 July 2018](2018-07-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 88 | 83–96 | 81–98 | 79–99 | 76–103 |
 | [23–27 July 2018](2018-07-27-Forsa.html) | Forsa <br> Stern and RTL | 96 | 89–104 | 86–106 | 86–109 | 82–112 |
 | [19–25 July 2018](2018-07-25-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 96–112 | 94–114 | 93–116 | 91–121 |
@@ -1670,7 +1672,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [15–17 May 2018](2018-05-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 87 | 79–96 | 77–99 | 75–103 | 71–105 |
 | [9–16 May 2018](2018-05-16-Kantar.html) | Kantar <br> Bild am Sonntag | 95 | 89–104 | 88–106 | 85–107 | 83–109 |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 98 | 94–102 | 92–104 | 84–106 | 80–115 |
-| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 86 | 78–99 | 77–102 | 75–103 | 72–107 |
+| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 89 | 80–100 | 77–103 | 75–105 | 71–110 |
 | [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 85 | 79–92 | 77–94 | 75–96 | 73–99 |
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 98 | 90–104 | 88–108 | 85–109 | 82–115 |
 | [3–8 May 2018](2018-05-08-Kantar.html) | Kantar <br> Bild am Sonntag | 90 | 82–98 | 80–100 | 78–102 | 75–106 |
@@ -1806,7 +1808,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [23–27 October 2017](2017-10-27-Forsa.html) | Forsa | 81 | 77–87 | 76–90 | 74–91 | 72–94 |
 | [24–26 October 2017](2017-10-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 83 | 75–88 | 73–90 | 69–93 | 66–98 |
 | [19–25 October 2017](2017-10-25-Kantar.html) | Kantar | 74 | 70–81 | 68–84 | 67–85 | 63–88 |
-| [23 October 2017](2017-10-23-INSAandYouGov.html) | INSA and YouGov | 67 | 59–76 | 56–78 | 54–80 | 51–85 |
+| [23 October 2017](2017-10-23-INSAandYouGov.html) | INSA and YouGov | 67 | 58–75 | 56–78 | 54–80 | 51–85 |
 | [16–20 October 2017](2017-10-20-Forsa.html) | Forsa | 75 | 69–81 | 67–82 | 66–83 | 64–87 |
 | [7–19 October 2017](2017-10-19-Allensbach.html) | Allensbach | 70 | 63–77 | 62–79 | 61–81 | 57–85 |
 | [12–18 October 2017](2017-10-18-Kantar.html) | Kantar | 75 | 69–80 | 67–82 | 66–84 | 63–87 |
@@ -1877,44 +1879,44 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 0.5% | 97% |  |
 | 109 | 0.5% | 97% |  |
 | 110 | 0.6% | 96% |  |
-| 111 | 0.5% | 96% |  |
-| 112 | 0.6% | 95% |  |
-| 113 | 0.5% | 95% |  |
-| 114 | 0.5% | 94% |  |
-| 115 | 0.7% | 94% |  |
-| 116 | 0.4% | 93% |  |
-| 117 | 0.4% | 92% |  |
-| 118 | 0.4% | 92% |  |
-| 119 | 0.4% | 92% |  |
-| 120 | 0.2% | 91% |  |
-| 121 | 0.3% | 91% |  |
-| 122 | 0.3% | 91% |  |
-| 123 | 0.2% | 91% |  |
-| 124 | 0.3% | 90% |  |
-| 125 | 0.2% | 90% |  |
-| 126 | 0.3% | 90% |  |
-| 127 | 0.4% | 90% |  |
-| 128 | 0.4% | 89% |  |
-| 129 | 0.4% | 89% |  |
-| 130 | 0.6% | 88% |  |
-| 131 | 0.8% | 88% |  |
-| 132 | 0.8% | 87% |  |
-| 133 | 0.9% | 86% |  |
-| 134 | 1.2% | 85% |  |
-| 135 | 2% | 84% |  |
-| 136 | 2% | 82% |  |
-| 137 | 2% | 81% |  |
-| 138 | 2% | 79% |  |
-| 139 | 2% | 77% |  |
-| 140 | 2% | 75% |  |
-| 141 | 2% | 73% |  |
-| 142 | 3% | 71% |  |
-| 143 | 3% | 68% |  |
-| 144 | 3% | 65% |  |
-| 145 | 2% | 62% |  |
+| 111 | 0.6% | 96% |  |
+| 112 | 0.7% | 95% |  |
+| 113 | 0.6% | 94% |  |
+| 114 | 0.6% | 94% |  |
+| 115 | 0.7% | 93% |  |
+| 116 | 0.6% | 93% |  |
+| 117 | 0.6% | 92% |  |
+| 118 | 0.5% | 91% |  |
+| 119 | 0.5% | 91% |  |
+| 120 | 0.5% | 90% |  |
+| 121 | 0.6% | 90% |  |
+| 122 | 0.5% | 89% |  |
+| 123 | 0.6% | 89% |  |
+| 124 | 0.6% | 88% |  |
+| 125 | 0.5% | 88% |  |
+| 126 | 0.5% | 87% |  |
+| 127 | 0.8% | 87% |  |
+| 128 | 0.8% | 86% |  |
+| 129 | 0.8% | 85% |  |
+| 130 | 0.7% | 84% |  |
+| 131 | 0.8% | 84% |  |
+| 132 | 0.9% | 83% |  |
+| 133 | 0.9% | 82% |  |
+| 134 | 1.2% | 81% |  |
+| 135 | 1.3% | 80% |  |
+| 136 | 1.3% | 79% |  |
+| 137 | 1.4% | 77% |  |
+| 138 | 2% | 76% |  |
+| 139 | 2% | 74% |  |
+| 140 | 2% | 73% |  |
+| 141 | 2% | 71% |  |
+| 142 | 2% | 69% |  |
+| 143 | 3% | 67% |  |
+| 144 | 3% | 64% |  |
+| 145 | 2% | 61% |  |
 | 146 | 3% | 59% |  |
-| 147 | 3% | 57% |  |
-| 148 | 3% | 54% |  |
+| 147 | 3% | 56% |  |
+| 148 | 2% | 54% |  |
 | 149 | 3% | 51% | Median |
 | 150 | 3% | 48% |  |
 | 151 | 3% | 46% |  |
