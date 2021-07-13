@@ -1340,7 +1340,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 91 | 86–101 | 85–102 | 84–103 | 78–107 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 96 | 89–104 | 86–108 | 85–109 | 81–115 |
 | [2–9 October 2019](2019-10-09-Kantar.html) | Kantar <br> Bild am Sonntag | 114 | 105–123 | 103–124 | 103–126 | 100–130 |
-| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 105 | 99–114 | 98–116 | 94–116 | 88–125 |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 106 | 98–115 | 95–117 | 93–119 | 89–124 |
 | [4–7 October 2019](2019-10-07-INSAandYouGov.html) | INSA and YouGov | 120 | 113–127 | 110–129 | 109–132 | 105–135 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 115 | 103–124 | 100–128 | 98–131 | 93–137 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 101 | 92–108 | 90–111 | 89–112 | 85–116 |
@@ -1587,7 +1587,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 96 | 89–104 | 87–106 | 85–108 | 83–112 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 110 | 103–119 | 99–122 | 97–126 | 92–130 |
 | [1–13 September 2018](2018-09-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 111 | 101–120 | 98–122 | 97–126 | 92–130 |
-| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 112 | 105–121 | 102–122 | 101–124 | 97–128 |
+| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 112 | 104–120 | 102–122 | 101–124 | 97–128 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 132 | 122–141 | 120–143 | 118–144 | 113–149 |
 | [4–10 September 2018](2018-09-10-GMS.html) | GMS | 119 | 109–131 | 107–134 | 103–137 | 99–144 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 103 | 97–113 | 95–116 | 93–117 | 89–120 |
@@ -1709,7 +1709,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [8–14 March 2018](2018-03-14-Kantar.html) | Kantar <br> Bild am Sonntag | 104 | 95–110 | 94–112 | 92–114 | 89–119 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 110 | 101–118 | 100–119 | 98–121 | 96–126 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 89 | 82–95 | 81–97 | 80–100 | 74–104 |
-| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 97 | 89–104 | 87–106 | 86–108 | 83–112 |
+| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 97 | 90–104 | 88–107 | 86–109 | 83–112 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 108 | 100–120 | 97–123 | 94–125 | 90–131 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 97 | 88–105 | 85–110 | 82–113 | 79–115 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 94 | 88–104 | 86–105 | 85–108 | 82–112 |
@@ -1796,7 +1796,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [3–6 November 2017](2017-11-06-INSAandYouGov.html) | INSA and YouGov | 100 | 92–106 | 90–107 | 88–110 | 86–114 |
 | [30 October–3 November 2017](2017-11-03-Forsa.html) | Forsa | 90 | 83–97 | 81–98 | 79–100 | 76–105 |
 | [26–30 October 2017](2017-10-30-Kantar.html) | Kantar | 90 | 82–96 | 79–100 | 78–101 | 74–107 |
-| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 97 | 84–107 | 83–111 | 79–114 | 76–117 |
+| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 96 | 86–106 | 84–109 | 81–112 | 77–117 |
 | [23–27 October 2017](2017-10-27-Forsa.html) | Forsa | 83 | 78–85 | 75–87 | 74–90 | 71–93 |
 | [24–26 October 2017](2017-10-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 89 | 82–97 | 79–99 | 77–101 | 72–105 |
 | [19–25 October 2017](2017-10-25-Kantar.html) | Kantar | 91 | 83–96 | 81–98 | 80–100 | 77–104 |

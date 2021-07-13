@@ -1337,7 +1337,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 40 | 35–43 | 34–47 | 34–48 | 30–49 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 41 | 36–46 | 35–48 | 33–49 | 31–53 |
 | [2–9 October 2019](2019-10-09-Kantar.html) | Kantar <br> Bild am Sonntag | 40 | 35–46 | 34–47 | 34–48 | 31–50 |
-| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 39 | 34–46 | 33–47 | 32–49 | 29–52 |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 40 | 34–46 | 33–47 | 32–49 | 30–52 |
 | [4–7 October 2019](2019-10-07-INSAandYouGov.html) | INSA and YouGov | 38 | 33–42 | 32–44 | 31–45 | 29–48 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 39 | 32–47 | 31–49 | 29–50 | 27–54 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 41 | 35–46 | 35–46 | 32–49 | 31–51 |
@@ -1584,7 +1584,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 41 | 37–48 | 36–49 | 35–51 | 33–52 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 42 | 36–48 | 35–49 | 33–51 | 31–55 |
 | [1–13 September 2018](2018-09-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 44 | 38–51 | 36–51 | 35–54 | 33–57 |
-| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 42 | 37–47 | 36–48 | 34–50 | 33–52 |
+| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 42 | 37–47 | 36–49 | 35–50 | 33–53 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 53 | 47–59 | 46–61 | 44–63 | 41–65 |
 | [4–10 September 2018](2018-09-10-GMS.html) | GMS | 41 | 35–49 | 33–51 | 32–53 | 29–57 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 44 | 39–49 | 37–51 | 36–52 | 34–55 |
@@ -1706,7 +1706,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [8–14 March 2018](2018-03-14-Kantar.html) | Kantar <br> Bild am Sonntag | 47 | 39–50 | 39–52 | 38–53 | 37–57 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 44 | 40–49 | 39–50 | 38–52 | 36–55 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 47 | 42–52 | 41–54 | 39–55 | 37–59 |
-| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 47 | 41–52 | 40–54 | 39–55 | 37–58 |
+| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 46 | 41–52 | 40–54 | 39–55 | 37–58 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 32 | 27–40 | 27–41 | 25–43 | 22–46 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 48 | 41–55 | 39–57 | 37–59 | 35–63 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 49 | 43–54 | 42–56 | 41–57 | 38–60 |
@@ -1793,7 +1793,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [3–6 November 2017](2017-11-06-INSAandYouGov.html) | INSA and YouGov | 47 | 43–52 | 41–53 | 40–55 | 38–58 |
 | [30 October–3 November 2017](2017-11-03-Forsa.html) | Forsa | 45 | 39–50 | 39–51 | 38–52 | 34–56 |
 | [26–30 October 2017](2017-10-30-Kantar.html) | Kantar | 44 | 38–49 | 36–51 | 35–54 | 33–56 |
-| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 39 | 33–47 | 31–48 | 31–51 | 28–54 |
+| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 39 | 33–46 | 31–48 | 30–50 | 28–54 |
 | [23–27 October 2017](2017-10-27-Forsa.html) | Forsa | 46 | 42–51 | 41–52 | 41–53 | 37–56 |
 | [24–26 October 2017](2017-10-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 46 | 41–52 | 38–55 | 37–56 | 34–60 |
 | [19–25 October 2017](2017-10-25-Kantar.html) | Kantar | 44 | 39–48 | 38–50 | 37–51 | 34–53 |

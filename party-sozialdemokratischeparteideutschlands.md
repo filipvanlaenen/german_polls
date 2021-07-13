@@ -1342,7 +1342,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 108 | 101–115 | 98–118 | 96–121 | 93–124 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 120 | 110–127 | 108–130 | 105–133 | 101–138 |
 | [2–9 October 2019](2019-10-09-Kantar.html) | Kantar <br> Bild am Sonntag | 107 | 99–115 | 97–116 | 96–120 | 91–122 |
-| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 98 | 89–108 | 87–110 | 86–112 | 82–116 |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 98 | 90–107 | 88–109 | 86–111 | 82–116 |
 | [4–7 October 2019](2019-10-07-INSAandYouGov.html) | INSA and YouGov | 98 | 91–104 | 89–107 | 87–108 | 84–113 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 105 | 97–117 | 94–120 | 91–122 | 85–131 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 108 | 100–116 | 99–119 | 97–122 | 93–124 |
@@ -1589,7 +1589,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 138 | 126–141 | 125–142 | 124–144 | 116–152 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 148 | 136–160 | 132–162 | 131–164 | 129–166 |
 | [1–13 September 2018](2018-09-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 145 | 134–154 | 130–157 | 128–160 | 122–164 |
-| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 135 | 126–143 | 124–145 | 121–147 | 119–151 |
+| [6–12 September 2018](2018-09-12-Kantar.html) | Kantar <br> Bild am Sonntag | 134 | 126–143 | 124–145 | 122–147 | 118–151 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 126 | 118–133 | 117–136 | 114–138 | 111–142 |
 | [4–10 September 2018](2018-09-10-GMS.html) | GMS | 125 | 114–139 | 112–144 | 109–148 | 104–153 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 120 | 111–128 | 110–130 | 107–132 | 104–136 |
@@ -1711,7 +1711,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [8–14 March 2018](2018-03-14-Kantar.html) | Kantar <br> Bild am Sonntag | 142 | 132–148 | 130–151 | 126–152 | 125–156 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 128 | 120–135 | 117–140 | 115–141 | 113–145 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 132 | 126–139 | 123–143 | 121–146 | 116–151 |
-| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 141 | 133–151 | 131–153 | 129–156 | 125–159 |
+| [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 142 | 133–150 | 130–153 | 129–155 | 125–159 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 109 | 100–120 | 97–123 | 96–125 | 89–132 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 140 | 131–152 | 126–156 | 125–156 | 120–162 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 135 | 125–142 | 122–144 | 120–146 | 116–148 |
@@ -1798,7 +1798,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [3–6 November 2017](2017-11-06-INSAandYouGov.html) | INSA and YouGov | 161 | 154–171 | 152–173 | 149–175 | 145–180 |
 | [30 October–3 November 2017](2017-11-03-Forsa.html) | Forsa | 156 | 146–166 | 145–167 | 143–171 | 140–174 |
 | [26–30 October 2017](2017-10-30-Kantar.html) | Kantar | 154 | 150–168 | 141–170 | 140–172 | 138–174 |
-| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 153 | 141–169 | 138–173 | 136–175 | 131–179 |
+| [27–28 October 2017](2017-10-28-INSAandYouGov.html) | INSA and YouGov | 154 | 143–167 | 140–171 | 137–174 | 132–180 |
 | [23–27 October 2017](2017-10-27-Forsa.html) | Forsa | 149 | 141–156 | 139–158 | 138–160 | 134–165 |
 | [24–26 October 2017](2017-10-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 154 | 145–165 | 143–168 | 140–170 | 135–175 |
 | [19–25 October 2017](2017-10-25-Kantar.html) | Kantar | 164 | 156–172 | 153–175 | 151–177 | 148–180 |
