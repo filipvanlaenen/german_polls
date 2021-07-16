@@ -1281,7 +1281,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 167 | 161–171 | 158–174 | 153–177 | 148–186 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 176 | 165–186 | 163–188 | 161–190 | 156–194 |
 | [23–29 January 2020](2020-01-29-Kantar.html) | Kantar | 165 | 154–177 | 152–180 | 150–182 | 145–186 |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 154 | 140–161 | 138–163 | 136–165 | 132–167 |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 154 | 143–160 | 139–162 | 136–163 | 133–166 |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 173 | 165–180 | 163–184 | 161–186 | 158–189 |
 | [16–22 January 2020](2020-01-22-Kantar.html) | Kantar | 155 | 147–167 | 146–169 | 143–171 | 141–173 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 159 | 147–173 | 144–176 | 140–178 | 136–183 |
@@ -1586,7 +1586,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild | 170 | 160–177 | 158–181 | 155–182 | 151–185 |
 | [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 168 | 160–181 | 159–182 | 155–184 | 153–189 |
 | [13–19 September 2018](2018-09-19-Kantar.html) | Kantar <br> Bild am Sonntag | 169 | 161–177 | 159–181 | 157–182 | 154–186 |
-| [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 164 | 155–176 | 151–182 | 147–184 | 144–191 |
+| [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 166 | 154–179 | 151–182 | 148–185 | 143–190 |
 | [19 September 2018](2018-09-19-INSAandYouGov.html) | INSA and YouGov <br> Focus | 159 | 151–174 | 148–178 | 146–181 | 141–187 |
 | [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 173 | 165–182 | 163–185 | 162–189 | 156–193 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 181 | 172–191 | 170–192 | 167–195 | 163–201 |
@@ -1719,13 +1719,13 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 199 | 192–216 | 189–219 | 186–222 | 177–225 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 212 | 200–220 | 198–223 | 196–225 | 191–230 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 191 | 181–202 | 180–205 | 177–207 | 171–213 |
-| [22–28 February 2018](2018-02-28-Kantar.html) | Kantar <br> Bild am Sonntag | 198 | 189–208 | 185–210 | 184–213 | 179–216 |
+| [22–28 February 2018](2018-02-28-Kantar.html) | Kantar <br> Bild am Sonntag | 198 | 188–207 | 186–210 | 183–213 | 179–217 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 211 | 191–216 | 187–221 | 185–224 | 181–231 |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 194 | 183–206 | 178–211 | 177–214 | 171–221 |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 212 | 202–220 | 200–223 | 198–225 | 193–230 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 201 | 188–212 | 186–214 | 183–218 | 177–223 |
 | [15–21 February 2018](2018-02-21-Kantar.html) | Kantar <br> Bild am Sonntag | 196 | 186–204 | 183–208 | 180–212 | 178–214 |
-| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 202 | 190–217 | 186–222 | 183–225 | 177–231 |
+| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 203 | 191–217 | 187–220 | 184–224 | 178–230 |
 | [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 186 | 176–195 | 173–199 | 172–199 | 168–203 |
 | [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 206 | 195–215 | 192–219 | 191–222 | 186–224 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 194 | 182–209 | 179–211 | 175–217 | 171–221 |

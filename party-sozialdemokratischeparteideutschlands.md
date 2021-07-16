@@ -1281,7 +1281,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 99 | 92–105 | 90–108 | 87–109 | 85–112 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 92 | 85–100 | 83–103 | 82–104 | 78–109 |
 | [23–29 January 2020](2020-01-29-Kantar.html) | Kantar | 113 | 104–123 | 101–124 | 100–127 | 96–132 |
-| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 105 | 99–113 | 96–115 | 94–117 | 91–120 |
+| [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 104 | 99–112 | 95–115 | 94–118 | 92–120 |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 92 | 85–97 | 84–100 | 82–101 | 79–104 |
 | [16–22 January 2020](2020-01-22-Kantar.html) | Kantar | 106 | 97–113 | 95–114 | 94–116 | 91–120 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 105 | 95–117 | 93–119 | 90–122 | 86–127 |
@@ -1586,7 +1586,7 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild | 116 | 109–123 | 107–126 | 105–128 | 101–132 |
 | [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 127 | 118–135 | 115–138 | 114–140 | 111–143 |
 | [13–19 September 2018](2018-09-19-Kantar.html) | Kantar <br> Bild am Sonntag | 127 | 120–134 | 119–137 | 116–139 | 113–143 |
-| [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 124 | 113–134 | 110–138 | 108–141 | 103–146 |
+| [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 124 | 113–135 | 110–138 | 108–141 | 103–147 |
 | [19 September 2018](2018-09-19-INSAandYouGov.html) | INSA and YouGov <br> Focus | 120 | 111–132 | 109–135 | 105–138 | 100–143 |
 | [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 127 | 118–134 | 116–137 | 114–139 | 111–142 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 138 | 126–141 | 125–142 | 124–144 | 116–152 |
@@ -1719,13 +1719,13 @@ Last result: **153** seats (General Election of 24 September 2017)
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 140 | 131–152 | 126–156 | 125–156 | 120–162 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 135 | 125–142 | 122–144 | 120–146 | 116–148 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 119 | 113–124 | 111–125 | 110–128 | 101–133 |
-| [22–28 February 2018](2018-02-28-Kantar.html) | Kantar <br> Bild am Sonntag | 118 | 110–125 | 108–128 | 105–131 | 103–135 |
+| [22–28 February 2018](2018-02-28-Kantar.html) | Kantar <br> Bild am Sonntag | 118 | 110–126 | 108–128 | 106–130 | 102–134 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 129 | 121–141 | 117–144 | 115–148 | 112–154 |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 114 | 102–123 | 100–125 | 98–129 | 92–136 |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 132 | 124–141 | 122–142 | 120–144 | 117–147 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 126 | 117–135 | 115–139 | 112–142 | 108–147 |
 | [15–21 February 2018](2018-02-21-Kantar.html) | Kantar <br> Bild am Sonntag | 122 | 115–132 | 113–134 | 112–138 | 110–141 |
-| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 126 | 114–135 | 113–139 | 109–142 | 105–148 |
+| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 125 | 115–136 | 112–140 | 109–142 | 104–148 |
 | [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 114 | 105–121 | 104–123 | 103–126 | 100–130 |
 | [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 119 | 110–128 | 109–131 | 106–133 | 104–136 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 117 | 107–128 | 104–131 | 102–132 | 97–139 |
