@@ -2,19 +2,19 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
-| N/A | [Poll Average](average.html) | 21–26% <br> 159–198 | 13–18% <br> 99–136 | 8–12% <br> 64–95 | 9–14% <br> 70–103 | 6–9% <br> 45–69 | 16–23% <br> 125–178 | 4–7% <br> 33–51 |
-| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 161–188 | 15–19% <br> 118–142 | 10–12% <br> 75–95 | 11–14% <br> 85–107 | 6–8% <br> 46–62 | 15–19% <br> 119–142 | 4–6% <br> 33–48 |
-| [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 23–26% <br> 173–202 | 13–17% <br> 104–128 | 8–10% <br> 60–80 | 11–14% <br> 82–104 | 6–8% <br> 46–63 | 17–21% <br> 134–159 | 5–7% <br> 36–52 |
-| [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 21–26% <br> 163–196 | 13–17% <br> 101–129 | 9–13% <br> 72–97 | 9–13% <br> 72–97 | 7–10% <br> 50–73 | 17–21% <br> 129–161 | 4–7% <br> 33–51 |
-| [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 21–25% <br> 158–192 | 13–17% <br> 101–131 | 9–13% <br> 72–98 | 9–13% <br> 73–98 | 6–9% <br> 44–65 | 18–22% <br> 138–171 | 4–7% <br> 32–51 |
-| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 22–26% <br> 170–201 | 13–17% <br> 102–128 | 10–13% <br> 73–96 | 10–13% <br> 73–96 | 6–8% <br> 45–63 | 17–21% <br> 131–159 | 5–7% <br> 35–52 |
-| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 21–25% <br> 160–187 | 13–17% <br> 103–126 | 9–11% <br> 67–86 | 10–12% <br> 74–95 | 7–9% <br> 52–70 | 19–23% <br> 147–174 | 4–6% <br> 33–48 |
-| [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21–26% <br> 161–201 | 12–16% <br> 92–125 | 8–12% <br> 64–92 | 8–12% <br> 64–92 | 6–9% <br> 43–67 | 20–25% <br> 150–189 | 4–7% <br> 32–54 |
-| [16–21 June 2021](2021-06-21-GMS.html) | GMS | 20–25% <br> 152–191 | 14–18% <br> 104–138 | 8–12% <br> 62–90 | 10–14% <br> 76–106 | 6–10% <br> 49–74 | 18–23% <br> 132–169 | 4–7% <br> 30–51 |
-| 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 |
+| Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–26% <br> 159–199 | 13–18% <br> 102–136 | 8–12% <br> 64–94 | 9–14% <br> 71–103 | 6–9% <br> 46–70 | 16–22% <br> 125–169 | 4–7% <br> 33–51 | N/A <br> N/A |
+| [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22–27% <br> 169–206 | 13–17% <br> 101–131 | 8–12% <br> 65–90 | 8–12% <br> 65–90 | 6–9% <br> 44–66 | 18–22% <br> 137–171 | 4–7% <br> 34–54 | N/A <br> N/A |
+| [7–13 July 2021](2021-07-13-Kantar.html) | Kantar | 21–25% <br> 158–190 | 13–17% <br> 101–128 | 9–13% <br> 72–96 | 9–13% <br> 72–96 | 7–10% <br> 51–72 | 18–22% <br> 137–168 | 4–6% <br> 32–49 | N/A <br> N/A |
+| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 21–25% <br> 161–188 | 15–19% <br> 118–142 | 10–12% <br> 75–95 | 11–14% <br> 85–107 | 6–8% <br> 46–62 | 15–19% <br> 119–142 | 4–6% <br> 33–48 | N/A <br> N/A |
+| [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 23–26% <br> 173–202 | 13–17% <br> 104–128 | 8–10% <br> 60–80 | 11–14% <br> 82–104 | 6–8% <br> 46–63 | 17–21% <br> 134–159 | 5–7% <br> 36–52 | N/A <br> N/A |
+| [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 21–25% <br> 158–192 | 13–17% <br> 101–131 | 9–13% <br> 72–98 | 9–13% <br> 73–98 | 6–9% <br> 44–65 | 18–22% <br> 138–171 | 4–7% <br> 32–51 | N/A <br> N/A |
+| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 22–26% <br> 170–201 | 13–17% <br> 102–128 | 10–13% <br> 73–96 | 10–13% <br> 73–96 | 6–8% <br> 45–63 | 17–21% <br> 131–159 | 5–7% <br> 35–52 | N/A <br> N/A |
+| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 21–25% <br> 160–187 | 13–17% <br> 103–126 | 9–11% <br> 67–86 | 10–12% <br> 74–95 | 7–9% <br> 52–70 | 19–23% <br> 147–174 | 4–6% <br> 33–48 | N/A <br> N/A |
+| [16–21 June 2021](2021-06-21-GMS.html) | GMS | 20–25% <br> 152–191 | 14–18% <br> 104–138 | 8–12% <br> 62–90 | 10–14% <br> 76–106 | 6–10% <br> 49–74 | 18–23% <br> 132–169 | 4–7% <br> 30–51 | N/A <br> N/A |
+| 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -28,6 +28,7 @@ Only polls for which at least the sample size has been published are included in
 + **LINKE:** Die Linke
 + **GRÜNEN:** Bündnis 90/Die Grünen
 + **CSU:** Christlich-Soziale Union in Bayern
++ **FW:** Freie Wähler
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
