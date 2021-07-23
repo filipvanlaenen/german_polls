@@ -1470,7 +1470,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 63–74 | 61–75 | 59–76 | 57–80 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 68–80 | 66–83 | 64–84 | 62–87 |
 | [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 75 | 68–81 | 65–84 | 65–85 | 62–89 |
-| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 60 | 54–67 | 53–68 | 52–69 | 49–72 |
+| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 60 | 55–65 | 53–67 | 52–68 | 50–71 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 67 | 61–74 | 59–77 | 56–78 | 54–83 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 74 | 65–84 | 64–86 | 61–89 | 58–93 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 69–79 | 69–80 | 68–82 | 65–83 |
@@ -1564,7 +1564,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 53–67 | 51–69 | 50–71 | 48–75 |
 | [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 68 | 62–75 | 60–76 | 58–78 | 56–81 |
 | [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 68 | 61–73 | 59–75 | 58–76 | 56–80 |
-| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–75 | 58–77 | 56–80 | 53–84 |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–75 | 57–78 | 56–80 | 52–84 |
 | [5–7 November 2018](2018-11-07-Kantar.html) | Kantar <br> Bild am Sonntag | 60 | 54–67 | 53–68 | 50–71 | 47–75 |
 | [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 75 | 70–80 | 68–82 | 68–83 | 65–86 |
 | [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 74 | 68–80 | 65–83 | 63–85 | 60–89 |
@@ -1765,7 +1765,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 70 | 65–77 | 63–79 | 62–80 | 59–84 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 67 | 62–74 | 61–76 | 59–77 | 57–82 |
 | [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag | 60 | 54–65 | 52–67 | 51–69 | 48–72 |
-| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 68–80 | 67–83 | 65–84 | 61–88 |
+| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 74 | 68–81 | 67–82 | 65–84 | 62–88 |
 | [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 68 | 62–74 | 61–76 | 59–78 | 56–82 |
 | [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 60–75 | 59–76 | 57–80 | 54–84 |
 | [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 67 | 60–74 | 58–77 | 56–79 | 54–82 |

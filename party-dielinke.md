@@ -1469,7 +1469,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [10 April 2019](2019-04-10-Kantar.html) | Kantar <br> Bild am Sonntag | 69 | 62–73 | 61–75 | 60–76 | 57–80 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 63 | 58–68 | 56–70 | 54–72 | 52–76 |
 | [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 60 | 55–66 | 52–67 | 51–69 | 49–72 |
-| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 61–72 | 60–74 | 59–75 | 56–79 |
+| [28 March–3 April 2019](2019-04-03-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 61–73 | 60–75 | 59–76 | 56–79 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 61 | 54–67 | 52–69 | 51–72 | 48–72 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 67 | 59–76 | 56–79 | 55–81 | 51–86 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 63 | 59–67 | 58–68 | 57–69 | 55–72 |
@@ -1534,7 +1534,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 74 | 67–80 | 66–84 | 64–86 | 61–89 |
 | [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 67 | 59–76 | 56–79 | 55–81 | 51–86 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 60 | 55–66 | 53–68 | 52–69 | 49–73 |
-| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 61–73 | 60–75 | 58–78 | 56–80 |
+| [13–19 December 2018](2018-12-19-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 62–73 | 60–75 | 58–78 | 55–80 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 70 | 64–76 | 64–78 | 62–79 | 58–83 |
 | [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 61 | 55–66 | 53–68 | 52–69 | 49–73 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–75 | 58–78 | 57–80 | 54–84 |
@@ -1563,7 +1563,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 68 | 61–75 | 59–77 | 58–79 | 55–84 |
 | [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 69 | 65–83 | 64–85 | 63–86 | 61–89 |
 | [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 67 | 60–73 | 60–75 | 59–76 | 57–79 |
-| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–76 | 58–78 | 56–80 | 52–84 |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 67 | 60–75 | 58–78 | 56–80 | 53–84 |
 | [5–7 November 2018](2018-11-07-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 61–75 | 59–78 | 58–80 | 55–83 |
 | [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 84 | 77–87 | 75–88 | 74–91 | 73–93 |
 | [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 74 | 67–80 | 64–84 | 63–85 | 60–89 |
@@ -1764,7 +1764,7 @@ Last result: **69** seats (General Election of 24 September 2017)
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 86 | 80–94 | 78–95 | 77–97 | 73–100 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 68 | 62–75 | 61–77 | 59–78 | 56–82 |
 | [4–10 January 2018](2018-01-10-Kantar.html) | Kantar <br> Bild am Sonntag | 66 | 61–73 | 59–74 | 57–76 | 54–79 |
-| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 82 | 75–88 | 74–90 | 72–92 | 70–96 |
+| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 82 | 75–88 | 73–90 | 72–92 | 69–96 |
 | [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 69 | 62–74 | 60–77 | 59–78 | 56–81 |
 | [21 December 2017–3 January 2018](2018-01-03-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 61–76 | 59–77 | 57–79 | 54–83 |
 | [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 66 | 59–74 | 58–77 | 56–78 | 53–82 |
