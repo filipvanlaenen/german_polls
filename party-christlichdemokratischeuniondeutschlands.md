@@ -951,11 +951,11 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 188 | 175–198 | 172–202 | 169–206 | 164–212 |
 | [3–14 July 2021](2021-07-14-Allensbach.html) | Allensbach | 192 | 179–205 | 176–210 | 173–213 | 167–220 |
 | [7–13 July 2021](2021-07-13-Kantar.html) | Kantar | 173 | 163–184 | 161–188 | 158–190 | 153–195 |
-| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 176 | 167–185 | 165–188 | 162–189 | 157–195 |
+| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 176 | 167–185 | 165–188 | 162–190 | 158–195 |
 | [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 188 | 178–197 | 176–200 | 173–202 | 169–207 |
 | [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 173 | 162–184 | 159–188 | 157–190 | 152–196 |
 | [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 179 | 168–190 | 165–194 | 163–196 | 158–202 |
-| [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 175 | 166–184 | 163–187 | 161–189 | 158–193 |
+| [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 176 | 166–184 | 164–187 | 162–190 | 158–193 |
 | [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 188 | 179–198 | 176–200 | 173–203 | 169–207 |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 175 | 164–186 | 161–189 | 158–192 | 153–198 |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 175 | 164–186 | 161–190 | 158–192 | 153–198 |
@@ -1241,7 +1241,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 241 | 229–256 | 227–261 | 223–263 | 217–274 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 227 | 218–235 | 214–238 | 211–239 | 206–247 |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 239 | 226–251 | 222–255 | 218–257 | 212–264 |
-| [22–29 April 2020](2020-04-29-Kantar.html) | Kantar | 227 | 214–238 | 212–243 | 209–246 | 203–252 |
+| [22–29 April 2020](2020-04-29-Kantar.html) | Kantar | 227 | 215–238 | 211–243 | 209–246 | 203–253 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 232 | 218–244 | 214–249 | 212–252 | 204–260 |
 | [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 219 | 210–229 | 207–230 | 205–233 | 200–237 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 233 | 219–248 | 215–254 | 212–257 | 205–265 |
@@ -1625,7 +1625,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 170 | 164–180 | 163–182 | 162–183 | 154–190 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 180 | 172–192 | 169–194 | 166–196 | 163–201 |
 | [16–22 August 2018](2018-08-22-Kantar.html) | Kantar <br> Bild am Sonntag | 181 | 173–190 | 169–194 | 167–197 | 163–202 |
-| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 176 | 164–188 | 161–189 | 156–194 | 152–200 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 175 | 163–188 | 160–192 | 158–195 | 151–201 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 163 | 156–169 | 153–170 | 151–173 | 149–177 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 180 | 171–189 | 169–192 | 166–194 | 162–199 |
 | [9–15 August 2018](2018-08-15-Kantar.html) | Kantar <br> Bild am Sonntag | 183 | 174–191 | 174–192 | 172–192 | 166–198 |
@@ -1756,7 +1756,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 192 | 180–207 | 178–210 | 172–213 | 169–220 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 183 | 172–190 | 169–193 | 168–196 | 164–200 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 200 | 191–211 | 187–212 | 186–216 | 180–220 |
-| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 185 | 176–197 | 172–201 | 169–204 | 163–210 |
+| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 184 | 175–198 | 172–201 | 169–204 | 163–209 |
 | [25–31 January 2018](2018-01-31-Kantar.html) | Kantar <br> Bild am Sonntag | 197 | 187–211 | 183–212 | 180–214 | 174–221 |
 | [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 195 | 185–207 | 182–210 | 179–213 | 174–219 |
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 197 | 188–206 | 185–209 | 183–211 | 179–216 |
@@ -1795,7 +1795,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [5–7 December 2017](2017-12-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 192 | 181–205 | 177–209 | 175–210 | 170–217 |
 | [30 November–6 December 2017](2017-12-06-Kantar.html) | Kantar | 198 | 188–209 | 185–210 | 182–213 | 178–217 |
 | [4–6 December 2017](2017-12-06-Infratestdimap.html) | Infratest dimap | 192 | 181–202 | 177–206 | 176–208 | 171–214 |
-| [1–4 December 2017](2017-12-04-INSAandYouGov.html) | INSA and YouGov | 183 | 172–193 | 170–196 | 168–198 | 163–201 |
+| [1–4 December 2017](2017-12-04-INSAandYouGov.html) | INSA and YouGov | 183 | 174–191 | 172–194 | 169–196 | 165–201 |
 | [28 November–1 December 2017](2017-12-01-GMS.html) | GMS | 190 | 179–204 | 174–207 | 171–212 | 166–218 |
 | [27 November–1 December 2017](2017-12-01-Forsa.html) | Forsa | 209 | 201–217 | 196–219 | 195–222 | 191–225 |
 | [23–29 November 2017](2017-11-29-Kantar.html) | Kantar | 199 | 190–209 | 187–213 | 184–215 | 181–220 |
