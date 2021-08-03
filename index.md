@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 153–200 | 14–18% <br> 104–142 | 8–13% <br> 65–99 | 9–14% <br> 71–111 | 5–9% <br> 39–67 | 15–22% <br> 118–172 | 4–7% <br> 32–52 | N/A <br> N/A |
-| [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 20–24% <br> 151–188 | 15–19% <br> 115–149 | 9–13% <br> 72–99 | 11–15% <br> 86–116 | 5–8% <br> 0–58 | 16–20% <br> 122–157 | 4–7% <br> 31–50 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–26% <br> 154–200 | 14–19% <br> 104–143 | 8–13% <br> 65–99 | 9–14% <br> 71–109 | 5–9% <br> 40–67 | 15–22% <br> 118–172 | 4–7% <br> 32–52 | N/A <br> N/A |
+| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 21–24% <br> 155–181 | 16–20% <br> 123–147 | 10–12% <br> 73–93 | 12–14% <br> 87–108 | 6–8% <br> 45–61 | 16–20% <br> 123–147 | 4–6% <br> 32–47 | N/A <br> N/A |
 | [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20–25% <br> 152–193 | 14–18% <br> 105–140 | 9–13% <br> 69–100 | 8–12% <br> 62–92 | 6–9% <br> 42–67 | 18–24% <br> 140–180 | 4–7% <br> 30–53 | N/A <br> N/A |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 20–24% <br> 151–185 | 15–19% <br> 115–146 | 10–13% <br> 72–97 | 11–15% <br> 86–114 | 5–7% <br> 0–56 | 17–21% <br> 130–161 | 4–6% <br> 31–48 | N/A <br> N/A |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 22–27% <br> 168–208 | 13–17% <br> 99–133 | 8–12% <br> 64–92 | 10–14% <br> 77–108 | 6–9% <br> 43–67 | 16–21% <br> 121–157 | 4–7% <br> 33–55 | N/A <br> N/A |
