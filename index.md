@@ -5,16 +5,16 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 153–198 | 14–19% <br> 106–145 | 9–13% <br> 65–98 | 9–14% <br> 69–109 | 5–9% <br> 40–66 | 15–22% <br> 117–168 | 4–7% <br> 35–54 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–26% <br> 153–198 | 14–19% <br> 106–144 | 9–13% <br> 65–98 | 9–14% <br> 68–109 | 5–9% <br> 39–67 | 15–22% <br> 117–168 | 4–7% <br> 35–54 | N/A <br> N/A |
 | [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 21–24% <br> 154–180 | 16–20% <br> 122–147 | 10–12% <br> 73–93 | 12–14% <br> 86–108 | 6–8% <br> 45–61 | 16–20% <br> 122–147 | 4–6% <br> 35–49 | N/A <br> N/A |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 19–23% <br> 150–179 | 14–18% <br> 110–137 | 9–11% <br> 68–89 | 12–15% <br> 89–113 | 5–7% <br> 39–56 | 18–22% <br> 141–169 | 4–6% <br> 34–49 | N/A <br> N/A |
-| [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 20–24% <br> 153–180 | 16–20% <br> 124–150 | 10–12% <br> 74–94 | 9–11% <br> 66–87 | 6–8% <br> 45–62 | 18–22% <br> 139–164 | 4–6% <br> 34–48 | N/A <br> N/A |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20–25% <br> 152–191 | 14–18% <br> 104–140 | 9–13% <br> 68–98 | 8–12% <br> 62–91 | 6–9% <br> 43–67 | 18–24% <br> 140–179 | 4–7% <br> 33–55 | N/A <br> N/A |
+| [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 20–24% <br> 153–180 | 16–20% <br> 124–149 | 10–12% <br> 74–94 | 9–11% <br> 66–86 | 6–8% <br> 45–62 | 18–22% <br> 139–165 | 4–6% <br> 35–49 | N/A <br> N/A |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20–25% <br> 152–193 | 14–18% <br> 104–139 | 9–13% <br> 69–99 | 8–12% <br> 62–91 | 6–9% <br> 42–67 | 18–24% <br> 139–179 | 4–7% <br> 33–55 | N/A <br> N/A |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 20–24% <br> 151–185 | 15–19% <br> 115–145 | 10–13% <br> 72–97 | 11–15% <br> 85–113 | 5–7% <br> 0–55 | 17–21% <br> 129–161 | 4–6% <br> 34–51 | N/A <br> N/A |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 22–27% <br> 167–207 | 13–17% <br> 99–132 | 8–12% <br> 63–92 | 10–14% <br> 77–107 | 6–9% <br> 43–67 | 16–21% <br> 121–157 | 4–7% <br> 36–58 | N/A <br> N/A |
-| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 21–25% <br> 160–188 | 14–18% <br> 112–136 | 11–14% <br> 81–103 | 11–14% <br> 81–103 | 7–9% <br> 53–73 | 14–18% <br> 110–136 | 4–6% <br> 37–53 | N/A <br> N/A |
-| [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach | 22–27% <br> 165–201 | 14–18% <br> 106–135 | 8–11% <br> 60–84 | 10–14% <br> 77–104 | 6–9% <br> 43–63 | 17–22% <br> 130–162 | 4–7% <br> 37–56 | N/A <br> N/A |
-| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 21–26% <br> 164–200 | 14–18% <br> 108–139 | 8–12% <br> 66–92 | 10–14% <br> 79–109 | 5–7% <br> 0–57 | 17–21% <br> 130–164 | 4–7% <br> 36–55 | N/A <br> N/A |
+| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 21–25% <br> 159–189 | 14–18% <br> 110–136 | 11–14% <br> 81–104 | 11–14% <br> 81–104 | 7–9% <br> 52–72 | 14–18% <br> 110–136 | 4–6% <br> 36–52 | N/A <br> N/A |
+| [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach | 22–27% <br> 165–201 | 14–18% <br> 105–136 | 8–11% <br> 60–84 | 10–14% <br> 77–104 | 6–9% <br> 43–64 | 17–22% <br> 130–163 | 4–7% <br> 37–56 | N/A <br> N/A |
+| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 21–26% <br> 162–201 | 14–18% <br> 108–140 | 8–12% <br> 64–91 | 10–14% <br> 79–108 | 5–7% <br> 0–57 | 17–21% <br> 129–164 | 4–7% <br> 36–56 | N/A <br> N/A |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
