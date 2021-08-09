@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2021-08-08T12:37:18.548611+02:00</updated>
+  <updated>2021-08-08T21:39:45.149776+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 16.4–19.7%, 126–151 seats</li><li>Alternative für Deutschland: 9.7–12.4%, 74–95 seats</li><li>Freie Demokratische Partei: 10.6–13.5%, 82–103 seats</li><li>Die Linke: 5.9–8.2%, 46–63 seats</li><li>Bündnis 90/Die Grünen: 16.4–19.7%, 126–151 seats</li><li>Christlich Demokratische Union Deutschlands: 19.4–23.0%, 148–176 seats</li><li>Christlich-Soziale Union in Bayern: 4.0–5.9%, 34–48 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2021-08-06-INSAandYouGov.html</id>
@@ -2400,6 +2400,14 @@
     <dc:date>2021-07-21T16:05:37.316743+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 13.2–16.9%, 99–127 seats</li><li>Alternative für Deutschland: 12.3–15.9%, 92–119 seats</li><li>Freie Demokratische Partei: 5.8–8.4%, 43–63 seats</li><li>Die Linke: 5.8–8.4%, 43–63 seats</li><li>Bündnis 90/Die Grünen: 19.9–24.2%, 149–181 seats</li><li>Christlich Demokratische Union Deutschlands: 21.4–25.8%, 161–193 seats</li><li>Christlich-Soziale Union in Bayern: 4.4–6.8%, 36–53 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2019-08-28-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2019-08-28-Kantar.html"/>
+    <title>Opinion Poll by Kantar for Bild am Sonntag, 22–28 August 2019</title>
+    <updated>2021-08-08T21:39:45.149776+02:00</updated>
+    <dc:date>2021-08-08T21:39:45.149776+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 12.1–16.2%, 92–123 seats</li><li>Alternative für Deutschland: 12.1–16.2%, 91–123 seats</li><li>Freie Demokratische Partei: 5.6–8.7%, 42–66 seats</li><li>Die Linke: 5.6–8.7%, 42–66 seats</li><li>Bündnis 90/Die Grünen: 22.5–27.7%, 171–210 seats</li><li>Christlich Demokratische Union Deutschlands: 18.7–23.6%, 142–179 seats</li><li>Christlich-Soziale Union in Bayern: 3.7–6.4%, 28–48 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2019-08-21-Infratestdimap.html</id>
     <link href="https://filipvanlaenen.github.io/german_polls/2019-08-21-Infratestdimap.html"/>
@@ -2744,6 +2752,14 @@
     <dc:date>2021-07-15T23:23:14.439287+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 14.4–18.9%, 104–137 seats</li><li>Alternative für Deutschland: 15.3–19.9%, 111–144 seats</li><li>Freie Demokratische Partei: 8.3–12.0%, 60–87 seats</li><li>Die Linke: 9.2–13.0%, 66–94 seats</li><li>Bündnis 90/Die Grünen: 12.5–16.8%, 91–122 seats</li><li>Christlich Demokratische Union Deutschlands: 19.9–25.0%, 144–181 seats</li><li>Christlich-Soziale Union in Bayern: 4.0–6.7%, 32–52 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2018-09-19-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2018-09-19-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov for Focus, 19 September 2018</title>
+    <updated>2021-08-08T19:09:00.113672+02:00</updated>
+    <dc:date>2021-08-08T19:09:00.113672+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 16.4–19.8%, 122–147 seats</li><li>Alternative für Deutschland: 13.5–16.7%, 101–124 seats</li><li>Freie Demokratische Partei: 7.8–10.3%, 58–77 seats</li><li>Die Linke: 8.8–11.4%, 65–85 seats</li><li>Bündnis 90/Die Grünen: 11.6–14.6%, 86–108 seats</li><li>Christlich Demokratische Union Deutschlands: 22.5–26.3%, 168–196 seats</li><li>Christlich-Soziale Union in Bayern: 4.7–6.7%, 35–50 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2018-09-12-Kantar.html</id>
     <link href="https://filipvanlaenen.github.io/german_polls/2018-09-12-Kantar.html"/>
@@ -2872,6 +2888,14 @@
     <dc:date>2021-07-12T19:33:24.461341+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 16.2–20.0%, 120–148 seats</li><li>Alternative für Deutschland: 11.4–14.8%, 85–109 seats</li><li>Freie Demokratische Partei: 7.7–10.5%, 57–77 seats</li><li>Die Linke: 8.6–11.6%, 64–86 seats</li><li>Bündnis 90/Die Grünen: 9.5–12.7%, 71–94 seats</li><li>Christlich Demokratische Union Deutschlands: 25.5–29.9%, 189–221 seats</li><li>Christlich-Soziale Union in Bayern: 5.3–7.7%, 42–60 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2018-05-04-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2018-05-04-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 30 April–4 May 2018</title>
+    <updated>2021-08-08T17:44:47.318033+02:00</updated>
+    <dc:date>2021-08-08T17:44:47.318033+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 15.2–19.0%, 113–141 seats</li><li>Alternative für Deutschland: 12.3–15.9%, 92–117 seats</li><li>Freie Demokratische Partei: 6.8–9.5%, 50–71 seats</li><li>Die Linke: 8.6–11.6%, 64–87 seats</li><li>Bündnis 90/Die Grünen: 10.5–13.8%, 78–102 seats</li><li>Christlich Demokratische Union Deutschlands: 25.4–29.9%, 189–222 seats</li><li>Christlich-Soziale Union in Bayern: 5.2–7.7%, 39–57 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2018-05-02-Kantar.html</id>
     <link href="https://filipvanlaenen.github.io/german_polls/2018-05-02-Kantar.html"/>
@@ -2894,6 +2918,14 @@
     <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 3–17 April 2018</title>
     <updated>2021-07-21T17:10:26.015265+02:00</updated>
     <dc:date>2021-07-21T17:10:26.015265+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 16.8–21.4%, 123–156 seats</li><li>Alternative für Deutschland: 11.2–15.1%, 82–110 seats</li><li>Freie Demokratische Partei: 6.6–9.7%, 48–71 seats</li><li>Die Linke: 7.5–10.8%, 55–79 seats</li><li>Bündnis 90/Die Grünen: 12.1–16.1%, 89–118 seats</li><li>Christlich Demokratische Union Deutschlands: 24.3–29.4%, 178–215 seats</li><li>Christlich-Soziale Union in Bayern: 5.0–7.8%, 39–60 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2018-04-12-ForschungsgruppeWahlen.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2018-04-12-ForschungsgruppeWahlen.html"/>
+    <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 10–12 April 2018</title>
+    <updated>2021-08-08T20:28:16.436297+02:00</updated>
+    <dc:date>2021-08-08T20:28:16.436297+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 16.4–19.8%, 121–145 seats</li><li>Alternative für Deutschland: 11.6–14.5%, 85–107 seats</li><li>Freie Demokratische Partei: 7.8–10.3%, 58–76 seats</li><li>Die Linke: 8.7–11.4%, 65–84 seats</li><li>Bündnis 90/Die Grünen: 10.7–13.5%, 79–99 seats</li><li>Christlich Demokratische Union Deutschlands: 25.7–29.6%, 189–218 seats</li><li>Christlich-Soziale Union in Bayern: 5.4–7.6%, 40–56 seats</li></ul></div></content>
@@ -3135,5 +3167,5 @@
     <updated>2021-07-19T23:10:15.684343+02:00</updated>
     <dc:date>2021-07-19T23:10:15.684343+02:00</dc:date>
   </entry>
-  <dc:date>2021-08-08T12:37:18.548611+02:00</dc:date>
+  <dc:date>2021-08-08T21:39:45.149776+02:00</dc:date>
 </feed>
