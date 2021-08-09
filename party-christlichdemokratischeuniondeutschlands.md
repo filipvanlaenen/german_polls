@@ -479,7 +479,7 @@ Last result: **26.8%** (General Election of 24 September 2017)
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.7–22.7% | 19.4–23.0% | 18.8–23.6% |
 | [15–21 August 2019](2019-08-21-Kantar.html) | Kantar <br> Bild am Sonntag | 21.9% | 20.6–23.3% | 20.3–23.7% | 19.9–24.1% | 19.3–24.7% |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | 19.5–22.8% | 19.1–23.2% | 18.7–23.6% | 18.0–24.4% |
-| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 21.3% | 20.2–22.5% | 19.9–22.8% | 19.6–23.1% | 19.1–23.7% |
+| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 21.3% | 20.2–22.5% | 19.8–22.9% | 19.6–23.1% | 19.0–23.7% |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 20.4% | 19.2–21.6% | 18.9–21.9% | 18.6–22.2% | 18.1–22.8% |
 | [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 23.9% | 22.4–25.5% | 22.0–26.0% | 21.7–26.4% | 21.0–27.1% |
 | [8–14 August 2019](2019-08-14-Kantar.html) | Kantar <br> Bild am Sonntag | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.9% | 19.6–24.5% |
@@ -1420,7 +1420,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 174 | 163–186 | 160–188 | 157–192 | 152–200 |
 | [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 153 | 144–161 | 143–164 | 140–165 | 136–169 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 169 | 161–178 | 157–179 | 155–182 | 151–186 |
-| [22–28 August 2019](2019-08-28-Kantar.html) | Kantar <br> Bild am Sonntag | 176 | 166–187 | 164–191 | 161–193 | 156–200 |
+| [22–28 August 2019](2019-08-28-Kantar.html) | Kantar <br> Bild am Sonntag | 177 | 166–188 | 163–190 | 161–193 | 156–199 |
 | [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 157 | 149–167 | 147–169 | 145–172 | 141–176 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 161 | 152–170 | 150–173 | 147–175 | 144–180 |
 | [15–21 August 2019](2019-08-21-Kantar.html) | Kantar <br> Bild am Sonntag | 164 | 154–173 | 151–175 | 149–178 | 144–184 |
@@ -1635,7 +1635,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 168 | 160–181 | 159–182 | 155–184 | 153–189 |
 | [13–19 September 2018](2018-09-19-Kantar.html) | Kantar <br> Bild am Sonntag | 170 | 161–178 | 159–180 | 157–182 | 153–186 |
 | [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 166 | 154–179 | 151–182 | 148–185 | 143–190 |
-| [19 September 2018](2018-09-19-INSAandYouGov.html) | INSA and YouGov <br> Focus | 159 | 151–174 | 148–178 | 146–181 | 141–187 |
+| [19 September 2018](2018-09-19-INSAandYouGov.html) | INSA and YouGov <br> Focus | 161 | 150–174 | 147–178 | 144–181 | 139–186 |
 | [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 173 | 165–182 | 163–185 | 162–189 | 156–193 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 181 | 172–191 | 170–192 | 167–195 | 163–201 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 181 | 170–189 | 166–192 | 164–196 | 158–203 |
@@ -1724,7 +1724,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 191 | 184–203 | 182–208 | 179–211 | 175–215 |
 | [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 205 | 193–216 | 192–219 | 187–221 | 184–228 |
 | [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 188 | 179–196 | 175–201 | 173–203 | 171–204 |
-| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 205 | 194–216 | 193–219 | 190–221 | 186–228 |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 204 | 195–216 | 192–219 | 189–221 | 184–226 |
 | [26 April–2 May 2018](2018-05-02-Kantar.html) | Kantar <br> Bild am Sonntag | 206 | 195–215 | 192–219 | 189–222 | 184–228 |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 194 | 188–202 | 187–204 | 184–208 | 180–215 |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 203 | 197–217 | 194–219 | 192–221 | 188–224 |
@@ -1739,7 +1739,7 @@ Last result: **200** seats (General Election of 24 September 2017)
 | [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 203 | 191–214 | 188–218 | 185–221 | 180–227 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 184 | 176–195 | 173–197 | 171–199 | 167–203 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 203 | 194–213 | 192–216 | 189–218 | 184–223 |
-| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 198 | 184–209 | 182–213 | 178–216 | 174–221 |
+| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 196 | 184–208 | 181–212 | 178–215 | 173–221 |
 | [5–11 April 2018](2018-04-11-Kantar.html) | Kantar <br> Bild am Sonntag | 196 | 189–208 | 186–211 | 184–212 | 179–218 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 198 | 191–205 | 186–210 | 185–211 | 179–216 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 194 | 183–202 | 180–205 | 179–208 | 174–214 |
