@@ -30,7 +30,7 @@ Last result: **0.0%** (General Election of 24 September 2017)
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach | 0.0% | N/A | N/A | N/A | N/A |
-| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 3.0% | N/A | N/A | N/A | N/A |
+| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 July 2021](2021-07-19-Forsa.html) | Forsa | 0.0% | N/A | N/A | N/A | N/A |
@@ -965,7 +965,7 @@ Last result: **0** seats (General Election of 24 September 2017)
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa |  |  |  |  |  |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0 | 0–37 |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0 | 0 |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar |  |  |  |  |  |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS |  |  |  |  |  |
 | [23–26 July 2021](2021-07-26-YouGov.html) | YouGov |  |  |  |  |  |
@@ -973,7 +973,7 @@ Last result: **0** seats (General Election of 24 September 2017)
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0 | 0 |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar |  |  |  |  |  |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [13–19 July 2021](2021-07-19-Forsa.html) | Forsa |  |  |  |  |  |
