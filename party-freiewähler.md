@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.7% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.0–4.4% |
+| [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.1% | 2.0–4.4% |
 | [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.0% | N/A | N/A | N/A | N/A |
 | [4–10 August 2021](2021-08-10-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.7% |
@@ -938,10 +939,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 52% | 99.7% |  |
-| 3.5–4.5% | 46% | 47% | Median |
-| 4.5–5.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 73% | 89% | Median |
+| 3.5–4.5% | 16% | 16% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -954,6 +955,7 @@ Last result: **0** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [4–10 August 2021](2021-08-10-Kantar.html) | Kantar |  |  |  |  |  |
 | [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
