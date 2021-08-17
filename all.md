@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| [13–16 August 2021](2021-08-16-INSAandYouGov.html) | INSA and YouGov | 19–22% <br> 143–170 | 18–22% <br> 141–166 | 10–12% <br> 74–95 | 11–14% <br> 84–107 | 6–8% <br> 42–58 | 16–19% <br> 121–145 | 4–6% <br> 32–46 | N/A <br> N/A |
 | [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 18–22% <br> 139–171 | 18–22% <br> 136–168 | 10–13% <br> 72–97 | 10–14% <br> 79–104 | 6–8% <br> 44–64 | 16–20% <br> 122–152 | 4–6% <br> 31–47 | 2–4% <br> 0 |
 | [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19–24% <br> 144–177 | 17–21% <br> 127–161 | 9–13% <br> 71–97 | 9–13% <br> 71–97 | 6–9% <br> 43–65 | 17–21% <br> 128–160 | 4–6% <br> 32–50 | N/A <br> N/A |
 | [4–10 August 2021](2021-08-10-Kantar.html) | Kantar | 16–20% <br> 122–152 | 17–21% <br> 131–162 | 9–13% <br> 72–97 | 10–14% <br> 80–105 | 6–8% <br> 44–64 | 19–23% <br> 145–177 | 3–5% <br> 28–43 | N/A <br> N/A |
@@ -383,7 +384,7 @@ The table below lists all polls registered and analyzed so far.
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 21–25% <br> 161–190 | 11–14% <br> 82–104 | 10–12% <br> 74–95 | 8–10% <br> 60–80 | 8–10% <br> 59–79 | 21–25% <br> 163–191 | 4–6% <br> 33–49 | N/A <br> N/A |
 | [23–29 January 2020](2020-01-29-Kantar.html) | Kantar | 20–24% <br> 150–182 | 13–17% <br> 100–127 | 12–16% <br> 93–119 | 7–9% <br> 50–71 | 8–11% <br> 57–79 | 19–23% <br> 143–175 | 4–6% <br> 31–48 | N/A <br> N/A |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 18–22% <br> 136–163 | 13–16% <br> 94–118 | 14–17% <br> 101–124 | 8–10% <br> 59–78 | 7–10% <br> 56–74 | 19–22% <br> 142–168 | 6–8% <br> 45–62 | N/A <br> N/A |
-| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 21–24% <br> 161–186 | 11–13% <br> 82–101 | 11–13% <br> 82–100 | 8–10% <br> 60–78 | 8–10% <br> 61–77 | 21–25% <br> 163–188 | 4–6% <br> 34–47 | N/A <br> N/A |
+| [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 21–24% <br> 160–185 | 11–13% <br> 82–101 | 11–13% <br> 82–101 | 8–10% <br> 60–77 | 8–10% <br> 60–77 | 21–25% <br> 162–187 | 4–6% <br> 37–50 | N/A <br> N/A |
 | [16–22 January 2020](2020-01-22-Kantar.html) | Kantar | 19–23% <br> 143–171 | 13–16% <br> 94–116 | 14–17% <br> 101–124 | 8–10% <br> 58–77 | 9–11% <br> 65–84 | 19–23% <br> 144–169 | 4–6% <br> 30–44 | N/A <br> N/A |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 19–24% <br> 140–178 | 12–16% <br> 90–122 | 12–16% <br> 91–122 | 6–10% <br> 48–73 | 6–10% <br> 48–73 | 21–27% <br> 162–201 | 4–6% <br> 28–47 | N/A <br> N/A |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 21–26% <br> 156–190 | 12–16% <br> 91–119 | 11–15% <br> 84–111 | 7–10% <br> 49–72 | 7–10% <br> 49–72 | 21–26% <br> 158–193 | 4–7% <br> 31–50 | N/A <br> N/A |
