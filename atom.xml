@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2021-08-21T19:28:05.845798+02:00</updated>
+  <updated>2021-08-22T12:16:27.901421+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 19.8–24.3%, 150–184 seats</li><li>Alternative für Deutschland: 10.3–13.8%, 78–104 seats</li><li>Freie Demokratische Partei: 11.3–14.9%, 86–113 seats</li><li>Die Linke: 5.8–8.5%, 44–65 seats</li><li>Bündnis 90/Die Grünen: 15.1–19.1%, 115–145 seats</li><li>Christlich Demokratische Union Deutschlands: 15.9–20.0%, 120–151 seats</li><li>Christlich-Soziale Union in Bayern: 3.2–5.3%, 27–43 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-08-20-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-08-20-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov, 16–20 August 2021</title>
+    <updated>2021-08-22T12:16:27.901421+02:00</updated>
+    <dc:date>2021-08-22T12:16:27.901421+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 18.8–23.4%, 144–179 seats</li><li>Alternative für Deutschland: 9.4–12.9%, 72–98 seats</li><li>Freie Demokratische Partei: 11.2–15.0%, 86–114 seats</li><li>Die Linke: 5.7–8.6%, 44–65 seats</li><li>Bündnis 90/Die Grünen: 15.0–19.2%, 115–147 seats</li><li>Christlich Demokratische Union Deutschlands: 16.6–21.0%, 127–160 seats</li><li>Christlich-Soziale Union in Bayern: 3.3–5.6%, 28–45 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2021-08-18-Infratestdimap.html</id>
@@ -3399,5 +3407,5 @@
     <updated>2021-07-19T23:10:15.684343+02:00</updated>
     <dc:date>2021-07-19T23:10:15.684343+02:00</dc:date>
   </entry>
-  <dc:date>2021-08-21T19:28:05.845798+02:00</dc:date>
+  <dc:date>2021-08-22T12:16:27.901421+02:00</dc:date>
 </feed>
