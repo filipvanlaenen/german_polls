@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| [16–20 August 2021](2021-08-20-INSAandYouGov.html) | INSA and YouGov | 16–20% <br> 120–151 | 20–24% <br> 150–184 | 10–14% <br> 78–104 | 11–15% <br> 86–113 | 6–9% <br> 44–65 | 15–19% <br> 115–145 | 3–5% <br> 27–43 | N/A <br> N/A |
 | [17–18 August 2021](2021-08-18-Infratestdimap.html) | Infratest dimap | 17–21% <br> 127–160 | 19–23% <br> 144–179 | 9–13% <br> 72–98 | 11–15% <br> 86–114 | 6–9% <br> 44–65 | 15–19% <br> 115–147 | 3–6% <br> 28–45 | N/A <br> N/A |
 | [11–17 August 2021](2021-08-17-Kantar.html) | Kantar | 16–20% <br> 124–150 | 19–23% <br> 148–175 | 10–12% <br> 74–95 | 11–14% <br> 81–103 | 6–8% <br> 46–63 | 17–21% <br> 133–159 | 3–5% <br> 28–42 | N/A <br> N/A |
 | [5–17 August 2021](2021-08-17-Allensbach.html) | Allensbach | 20–25% <br> 149–187 | 17–22% <br> 129–165 | 9–13% <br> 69–98 | 9–13% <br> 69–98 | 6–9% <br> 45–69 | 15–20% <br> 114–149 | 4–7% <br> 32–53 | N/A <br> N/A |
@@ -821,7 +822,7 @@ The table below lists all polls registered and analyzed so far.
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24–28% <br> 175–202 | 16–19% <br> 115–141 | 14–17% <br> 98–121 | 8–11% <br> 61–80 | 11–13% <br> 78–97 | 10–12% <br> 70–91 | 5–7% <br> 38–52 | N/A <br> N/A |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 26–30% <br> 189–220 | 16–20% <br> 121–146 | 11–14% <br> 80–100 | 8–10% <br> 57–76 | 9–11% <br> 65–85 | 12–15% <br> 86–108 | 5–8% <br> 39–55 | N/A <br> N/A |
 | [1–7 March 2018](2018-03-07-Kantar.html) | Kantar <br> Bild am Sonntag | 25–29% <br> 185–215 | 17–21% <br> 129–155 | 12–15% <br> 86–109 | 7–9% <br> 51–69 | 9–11% <br> 65–85 | 11–14% <br> 79–101 | 5–7% <br> 39–55 | N/A <br> N/A |
-| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26–31% <br> 188–227 | 13–17% <br> 95–125 | 13–17% <br> 94–125 | 8–12% <br> 60–86 | 10–14% <br> 74–102 | 10–14% <br> 74–102 | 3–6% <br> 28–45 | N/A <br> N/A |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26–31% <br> 188–227 | 13–17% <br> 95–125 | 13–17% <br> 94–125 | 8–12% <br> 60–86 | 10–14% <br> 74–102 | 10–14% <br> 74–102 | 3–6% <br> 28–46 | N/A <br> N/A |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 25–30% <br> 186–222 | 17–21% <br> 125–156 | 11–15% <br> 82–113 | 7–11% <br> 55–81 | 7–11% <br> 56–80 | 10–14% <br> 75–101 | 5–8% <br> 37–59 | N/A <br> N/A |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 26–31% <br> 196–225 | 16–20% <br> 120–146 | 12–15% <br> 85–108 | 8–10% <br> 57–76 | 8–10% <br> 57–77 | 11–14% <br> 78–99 | 6–8% <br> 41–57 | N/A <br> N/A |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24–28% <br> 177–207 | 14–18% <br> 110–128 | 14–18% <br> 105–132 | 7–9% <br> 50–67 | 10–14% <br> 77–100 | 10–14% <br> 77–100 | 5–7% <br> 37–53 | N/A <br> N/A |
