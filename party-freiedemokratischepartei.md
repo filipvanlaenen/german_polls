@@ -1425,7 +1425,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 61 | 55–67 | 54–69 | 53–70 | 50–73 |
 | [12–18 September 2019](2019-09-18-Kantar.html) | Kantar <br> Bild am Sonntag | 60 | 54–66 | 52–68 | 51–69 | 48–73 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 60 | 53–70 | 50–71 | 49–72 | 45–78 |
-| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 57 | 51–62 | 50–64 | 49–66 | 46–69 |
+| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 57 | 51–63 | 50–64 | 49–65 | 46–69 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 61 | 56–67 | 53–68 | 52–70 | 49–74 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 54 | 48–61 | 45–64 | 43–64 | 40–69 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 51 | 46–59 | 44–62 | 43–63 | 40–67 |
@@ -1463,7 +1463,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 61 | 54–67 | 54–68 | 52–70 | 49–72 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 60 | 52–69 | 50–72 | 48–73 | 45–78 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 60 | 56–68 | 55–71 | 54–72 | 52–74 |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 61 | 54–68 | 51–70 | 50–72 | 47–75 |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 60 | 53–68 | 51–70 | 50–72 | 47–75 |
 | [11–17 July 2019](2019-07-17-Kantar.html) | Kantar <br> Bild am Sonntag | 68 | 63–74 | 60–77 | 58–78 | 56–82 |
 | [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 67 | 61–74 | 59–76 | 58–77 | 56–80 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 54 | 49–59 | 48–60 | 47–62 | 45–65 |
@@ -1798,7 +1798,7 @@ Last result: **80** seats (General Election of 24 September 2017)
 | [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 82 | 75–89 | 72–93 | 71–95 | 66–100 |
 | [8–14 February 2018](2018-02-14-Kantar.html) | Kantar <br> Bild am Sonntag | 66 | 59–73 | 58–76 | 56–78 | 53–82 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 77 | 72–84 | 70–85 | 69–87 | 67–90 |
-| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 76 | 64–83 | 62–85 | 60–89 | 58–96 |
+| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 75 | 64–83 | 62–85 | 59–89 | 58–94 |
 | [1–7 February 2018](2018-02-07-Kantar.html) | Kantar <br> Bild am Sonntag | 67 | 60–75 | 58–78 | 56–80 | 52–83 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 67 | 60–76 | 56–79 | 56–81 | 52–86 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 73 | 68–80 | 66–82 | 64–84 | 62–86 |
