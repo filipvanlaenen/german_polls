@@ -5,12 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–24% <br> 125–178 | 18–23% <br> 133–178 | 9–13% <br> 70–100 | 10–14% <br> 73–110 | 5–9% <br> 42–65 | 15–21% <br> 117–158 | 3–6% <br> 29–49 | N/A <br> N/A |
-| [16–20 August 2021](2021-08-20-INSAandYouGov.html) | INSA and YouGov | 16–20% <br> 120–151 | 20–24% <br> 150–184 | 10–14% <br> 78–104 | 11–15% <br> 86–113 | 6–9% <br> 44–65 | 15–19% <br> 115–145 | 3–5% <br> 27–43 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 16–24% <br> 126–177 | 18–24% <br> 133–187 | 9–13% <br> 70–100 | 10–14% <br> 74–110 | 5–9% <br> 42–65 | 15–20% <br> 116–156 | 3–6% <br> 29–49 | N/A <br> N/A |
+| [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 16–20% <br> 122–146 | 21–25% <br> 160–187 | 10–12% <br> 73–92 | 12–14% <br> 86–108 | 6–8% <br> 44–61 | 15–19% <br> 116–138 | 4–6% <br> 34–48 | N/A <br> N/A |
+| [16–23 August 2021](2021-08-23-Forsa.html) | Forsa | 16–20% <br> 126–153 | 21–25% <br> 164–194 | 9–11% <br> 67–89 | 11–14% <br> 82–105 | 5–7% <br> 0–55 | 16–20% <br> 126–154 | 3–5% <br> 28–42 | N/A <br> N/A |
+| [12–18 August 2021](2021-08-18-TrendResearch.html) | Trend Research | 16–21% <br> 125–159 | 19–23% <br> 141–178 | 10–14% <br> 77–106 | 11–15% <br> 85–115 | 6–9% <br> 43–65 | 15–19% <br> 112–146 | 3–6% <br> 28–46 | N/A <br> N/A |
 | [17–18 August 2021](2021-08-18-Infratestdimap.html) | Infratest dimap | 17–21% <br> 127–160 | 19–23% <br> 144–179 | 9–13% <br> 72–98 | 11–15% <br> 86–114 | 6–9% <br> 44–65 | 15–19% <br> 115–147 | 3–6% <br> 28–45 | N/A <br> N/A |
 | [11–17 August 2021](2021-08-17-Kantar.html) | Kantar | 16–20% <br> 124–150 | 19–23% <br> 148–175 | 10–12% <br> 74–95 | 11–14% <br> 81–103 | 6–8% <br> 46–63 | 17–21% <br> 133–159 | 3–5% <br> 28–42 | N/A <br> N/A |
 | [5–17 August 2021](2021-08-17-Allensbach.html) | Allensbach | 20–25% <br> 149–187 | 17–22% <br> 129–165 | 9–13% <br> 69–98 | 9–13% <br> 69–98 | 6–9% <br> 45–69 | 15–20% <br> 114–149 | 4–7% <br> 32–53 | N/A <br> N/A |
-| [10–16 August 2021](2021-08-16-Forsa.html) | Forsa | 17–21% <br> 131–160 | 19–23% <br> 149–178 | 9–11% <br> 67–89 | 11–14% <br> 82–105 | 5–7% <br> 0–55 | 17–21% <br> 134–162 | 3–5% <br> 30–44 | N/A <br> N/A |
 | [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19–24% <br> 144–177 | 17–21% <br> 127–161 | 9–13% <br> 71–97 | 9–13% <br> 71–97 | 6–9% <br> 43–65 | 17–21% <br> 128–160 | 4–6% <br> 32–50 | N/A <br> N/A |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
 
