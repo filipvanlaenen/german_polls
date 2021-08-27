@@ -968,7 +968,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 83 | 75–93 | 72–96 | 70–100 | 67–105 |
-| [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 83 | 76–90 | 75–92 | 72–94 | 70–97 |
+| [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 82 | 76–89 | 74–92 | 73–93 | 70–97 |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 82 | 76–89 | 74–91 | 73–93 | 70–96 |
 | [16–23 August 2021](2021-08-23-Forsa.html) | Forsa | 78 | 71–84 | 69–87 | 67–89 | 64–92 |
 | [16–20 August 2021](2021-08-20-INSAandYouGov.html) | INSA and YouGov | 91 | 83–100 | 80–102 | 78–104 | 75–109 |
@@ -1928,10 +1928,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 5% | 65% |  |
 | 82 | 6% | 60% |  |
 | 83 | 6% | 54% | Median |
-| 84 | 6% | 48% |  |
-| 85 | 5% | 43% |  |
+| 84 | 5% | 48% |  |
+| 85 | 5% | 42% |  |
 | 86 | 5% | 37% |  |
-| 87 | 5% | 33% |  |
+| 87 | 5% | 32% |  |
 | 88 | 4% | 28% |  |
 | 89 | 4% | 24% |  |
 | 90 | 3% | 20% |  |
@@ -1940,7 +1940,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 2% | 12% |  |
 | 94 | 2% | 9% | Last Result |
 | 95 | 2% | 8% |  |
-| 96 | 1.1% | 6% |  |
+| 96 | 1.2% | 6% |  |
 | 97 | 1.0% | 5% |  |
 | 98 | 0.8% | 4% |  |
 | 99 | 0.6% | 3% |  |
