@@ -1376,7 +1376,7 @@ Last result: **67** seats (General Election of 24 September 2017)
 | [9–15 January 2020](2020-01-15-Kantar.html) | Kantar | 156 | 153–166 | 153–167 | 146–168 | 143–174 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 172 | 162–184 | 159–189 | 156–190 | 152–196 |
 | [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 158 | 150–166 | 147–169 | 145–171 | 140–175 |
-| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 169 | 160–178 | 158–182 | 155–183 | 152–188 |
+| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 168 | 159–178 | 157–181 | 155–182 | 151–188 |
 | [19 December 2019–8 January 2020](2020-01-08-Kantar.html) | Kantar | 159 | 150–168 | 147–170 | 145–172 | 140–178 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 173 | 163–183 | 160–186 | 157–189 | 153–194 |
 | [3–6 January 2020](2020-01-06-INSAandYouGov.html) | INSA and YouGov | 158 | 149–167 | 147–169 | 145–171 | 141–175 |
