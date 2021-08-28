@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16–20% <br> 121–159 | 19–25% <br> 152–194 | 9–13% <br> 71–103 | 8–12% <br> 64–95 | 5–8% <br> 0–59 | 18–23% <br> 136–177 | 3–6% <br> 27–46 | 2–4% <br> 0 |
+| [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 16–20% <br> 121–148 | 22–26% <br> 165–195 | 9–12% <br> 73–94 | 11–15% <br> 86–110 | 7–9% <br> 51–71 | 14–18% <br> 107–133 | 3–5% <br> 28–43 | N/A <br> N/A |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 17–20% <br> 127–153 | 21–25% <br> 159–187 | 10–12% <br> 73–93 | 11–14% <br> 80–101 | 6–8% <br> 45–62 | 16–20% <br> 122–148 | 3–5% <br> 29–43 | N/A <br> N/A |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 16–20% <br> 123–148 | 21–25% <br> 160–186 | 10–12% <br> 73–93 | 12–14% <br> 87–108 | 6–8% <br> 45–61 | 15–19% <br> 115–140 | 4–6% <br> 34–48 | N/A <br> N/A |
 | [16–23 August 2021](2021-08-23-Forsa.html) | Forsa | 16–20% <br> 126–153 | 21–25% <br> 164–194 | 9–11% <br> 67–89 | 11–14% <br> 82–105 | 5–7% <br> 0–55 | 16–20% <br> 126–154 | 3–5% <br> 28–42 | N/A <br> N/A |
@@ -883,7 +885,7 @@ The table below lists all polls registered and analyzed so far.
 | [11–13 December 2017](2017-12-13-Infratestdimap.html) | Infratest dimap | 23–29% <br> 174–213 | 18–23% <br> 132–166 | 11–15% <br> 83–113 | 7–11% <br> 56–82 | 7–11% <br> 56–82 | 10–14% <br> 76–105 | 5–8% <br> 34–57 | N/A <br> N/A |
 | [8–11 December 2017](2017-12-11-INSAandYouGov.html) | INSA and YouGov | 24–28% <br> 174–203 | 20–24% <br> 149–175 | 12–15% <br> 89–109 | 8–10% <br> 57–76 | 9–12% <br> 67–87 | 9–12% <br> 68–87 | 4–6% <br> 34–48 | N/A <br> N/A |
 | [9–10 December 2017](2017-12-10-Forsa.html) | Forsa | 25–30% <br> 192–224 | 18–22% <br> 137–166 | 10–13% <br> 72–93 | 7–9% <br> 51–70 | 8–11% <br> 58–79 | 10–14% <br> 79–103 | 5–8% <br> 40–58 | N/A <br> N/A |
-| [4–8 December 2017](2017-12-08-Forsa.html) | Forsa | 26–29% <br> 194–220 | 18–22% <br> 140–161 | 10–12% <br> 74–92 | 7–9% <br> 52–68 | 8–10% <br> 60–76 | 11–13% <br> 81–100 | 5–7% <br> 44–58 | N/A <br> N/A |
+| [4–8 December 2017](2017-12-08-Forsa.html) | Forsa | 26–29% <br> 194–220 | 18–22% <br> 139–161 | 10–12% <br> 74–92 | 7–9% <br> 53–68 | 8–10% <br> 60–76 | 11–13% <br> 81–100 | 5–7% <br> 44–58 | N/A <br> N/A |
 | [5–7 December 2017](2017-12-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 24–28% <br> 175–209 | 21–25% <br> 153–186 | 10–14% <br> 76–102 | 7–10% <br> 49–70 | 8–11% <br> 56–78 | 10–14% <br> 77–101 | 5–7% <br> 35–54 | N/A <br> N/A |
 | [30 November–6 December 2017](2017-12-06-Kantar.html) | Kantar | 25–29% <br> 182–213 | 19–23% <br> 143–168 | 11–14% <br> 80–101 | 8–10% <br> 57–77 | 9–11% <br> 64–84 | 10–13% <br> 71–92 | 5–7% <br> 38–54 | N/A <br> N/A |
 | [4–6 December 2017](2017-12-06-Infratestdimap.html) | Infratest dimap | 24–28% <br> 176–208 | 19–23% <br> 141–169 | 11–15% <br> 85–109 | 8–11% <br> 56–77 | 9–12% <br> 63–86 | 9–13% <br> 70–93 | 5–7% <br> 36–54 | N/A <br> N/A |
