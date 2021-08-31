@@ -1725,7 +1725,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 121 | 113–129 | 111–131 | 109–132 | 106–136 |
 | [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 115 | 106–120 | 102–122 | 100–124 | 96–127 |
 | [21–28 June 2018](2018-06-28-Kantar.html) | Kantar <br> Bild am Sonntag | 105 | 99–111 | 97–113 | 95–115 | 91–120 |
-| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 103 | 94–110 | 92–113 | 89–116 | 85–121 |
+| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 102 | 93–111 | 91–113 | 89–116 | 85–120 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 121 | 108–128 | 106–129 | 105–131 | 102–133 |
 | [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 105 | 95–115 | 92–118 | 90–121 | 85–126 |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 119 | 111–127 | 109–129 | 107–131 | 104–135 |
@@ -1741,7 +1741,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 96 | 91–102 | 89–105 | 87–107 | 84–112 |
 | [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 95 | 88–104 | 84–108 | 82–108 | 78–113 |
 | [30 May–6 June 2018](2018-06-06-Kantar.html) | Kantar <br> Bild am Sonntag | 104 | 97–110 | 95–113 | 93–114 | 90–119 |
-| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 119 | 111–125 | 108–128 | 106–131 | 104–135 |
+| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 118 | 111–126 | 109–128 | 107–130 | 104–134 |
 | [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 96 | 90–106 | 88–108 | 86–109 | 82–112 |
 | [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 117 | 107–126 | 106–128 | 103–131 | 101–134 |
 | [24–29 May 2018](2018-05-29-Kantar.html) | Kantar <br> Bild am Sonntag | 111 | 102–120 | 100–122 | 98–126 | 93–130 |
@@ -1919,24 +1919,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0% | 100% |  |
 | 62 | 0% | 99.9% |  |
 | 63 | 0.1% | 99.9% |  |
-| 64 | 0.1% | 99.8% |  |
-| 65 | 0.2% | 99.7% |  |
+| 64 | 0.2% | 99.8% |  |
+| 65 | 0.1% | 99.7% |  |
 | 66 | 0.3% | 99.5% |  |
 | 67 | 0.3% | 99.3% |  |
-| 68 | 0.5% | 98.9% |  |
-| 69 | 0.6% | 98% |  |
-| 70 | 1.1% | 98% |  |
-| 71 | 0.9% | 97% |  |
-| 72 | 2% | 96% |  |
+| 68 | 0.5% | 99.0% |  |
+| 69 | 0.8% | 98% |  |
+| 70 | 1.0% | 98% |  |
+| 71 | 1.0% | 97% |  |
+| 72 | 1.5% | 96% |  |
 | 73 | 2% | 94% |  |
-| 74 | 3% | 92% |  |
-| 75 | 3% | 89% |  |
+| 74 | 2% | 92% |  |
+| 75 | 3% | 90% |  |
 | 76 | 4% | 86% |  |
 | 77 | 4% | 83% |  |
 | 78 | 5% | 79% |  |
 | 79 | 6% | 74% |  |
 | 80 | 6% | 68% |  |
-| 81 | 5% | 63% |  |
+| 81 | 5% | 62% |  |
 | 82 | 5% | 57% |  |
 | 83 | 5% | 52% | Median |
 | 84 | 6% | 47% |  |
