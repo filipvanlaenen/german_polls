@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–22% <br> 118–167 | 19–26% <br> 148–198 | 9–13% <br> 70–100 | 9–15% <br> 69–111 | 5–9% <br> 38–66 | 15–21% <br> 112–165 | 3–6% <br> 28–46 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 16–22% <br> 118–167 | 19–26% <br> 148–198 | 9–13% <br> 70–100 | 9–15% <br> 69–111 | 5–9% <br> 39–66 | 15–21% <br> 112–165 | 3–6% <br> 28–46 | 2–4% <br> 0 |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 15–18% <br> 111–136 | 23–27% <br> 175–204 | 10–12% <br> 74–94 | 12–15% <br> 92–114 | 6–8% <br> 45–62 | 15–18% <br> 113–137 | 3–5% <br> 26–39 | N/A <br> N/A |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16–20% <br> 121–159 | 19–25% <br> 152–194 | 9–13% <br> 71–103 | 8–12% <br> 64–95 | 5–8% <br> 0–59 | 18–23% <br> 136–177 | 3–6% <br> 27–46 | 2–4% <br> 0 |
-| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 19–24% <br> 140–180 | 21–27% <br> 160–201 | 9–13% <br> 66–94 | 9–13% <br> 65–95 | 5–8% <br> 0–56 | 15–19% <br> 111–146 | 4–6% <br> 31–51 | N/A <br> N/A |
+| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 19–24% <br> 140–179 | 21–27% <br> 160–202 | 9–13% <br> 66–94 | 9–13% <br> 66–94 | 5–8% <br> 0–56 | 15–19% <br> 111–146 | 4–6% <br> 31–51 | N/A <br> N/A |
 | [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 16–20% <br> 121–148 | 22–26% <br> 165–195 | 9–12% <br> 73–94 | 11–15% <br> 86–110 | 7–9% <br> 51–71 | 14–18% <br> 107–133 | 3–5% <br> 28–43 | N/A <br> N/A |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 17–20% <br> 127–153 | 21–25% <br> 159–187 | 10–12% <br> 73–93 | 11–14% <br> 80–101 | 6–8% <br> 45–62 | 16–20% <br> 122–148 | 3–5% <br> 29–43 | N/A <br> N/A |
 | [16–23 August 2021](2021-08-23-Forsa.html) | Forsa | 16–20% <br> 126–153 | 21–25% <br> 164–194 | 9–11% <br> 67–89 | 11–14% <br> 82–105 | 5–7% <br> 0–55 | 16–20% <br> 126–154 | 3–5% <br> 28–42 | N/A <br> N/A |
