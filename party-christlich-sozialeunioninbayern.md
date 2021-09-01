@@ -10,8 +10,10 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.1% | 3.4–5.4% | 3.2–5.7% | 2.9–6.3% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.2–5.7% | 2.9–6.3% |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 3.8% | 3.3–4.4% | 3.1–4.6% | 3.0–4.7% | 2.8–5.0% |
+| [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 3.9% | 3.4–4.6% | 3.3–4.8% | 3.1–4.9% | 2.9–5.2% |
+| [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% | 2.7–6.1% |
 | [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -953,10 +955,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 10% | 100% |  |
-| 3.5–4.5% | 58% | 90% | Median |
-| 4.5–5.5% | 27% | 31% |  |
-| 5.5–6.5% | 4% | 4% | Last Result |
+| 2.5–3.5% | 12% | 100% |  |
+| 3.5–4.5% | 60% | 88% | Median |
+| 4.5–5.5% | 24% | 28% |  |
+| 5.5–6.5% | 3% | 3% | Last Result |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -969,8 +971,10 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 30–42 | 29–44 | 28–46 | 25–51 |
+| N/A | [Poll Average](average.html) | 35 | 30–41 | 28–44 | 27–46 | 25–50 |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 32 | 28–36 | 27–37 | 26–39 | 24–41 |
+| [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 34 | 30–38 | 28–40 | 27–41 | 26–44 |
+| [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 33 | 29–37 | 28–38 | 27–40 | 25–42 |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 33 | 28–39 | 27–41 | 26–43 | 24–46 |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 36 | 29–42 | 28–44 | 27–46 | 24–50 |
 | [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 40 | 34–47 | 33–49 | 31–51 | 29–55 |
@@ -1722,7 +1726,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 47 | 42–52 | 41–53 | 40–55 | 38–57 |
 | [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 39 | 33–43 | 32–44 | 31–45 | 28–47 |
 | [21–28 June 2018](2018-06-28-Kantar.html) | Kantar <br> Bild am Sonntag | 44 | 40–49 | 39–51 | 37–53 | 35–56 |
-| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 47 | 41–53 | 39–55 | 38–57 | 35–60 |
+| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 47 | 41–53 | 39–55 | 38–56 | 35–60 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 42 | 36–48 | 35–50 | 34–51 | 31–54 |
 | [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 44 | 38–52 | 36–54 | 35–56 | 32–60 |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 45 | 40–49 | 39–52 | 38–53 | 35–55 |
@@ -1915,38 +1919,37 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
 | 24 | 0.2% | 99.9% |  |
-| 25 | 0.4% | 99.8% |  |
-| 26 | 0.6% | 99.4% |  |
-| 27 | 1.3% | 98.8% |  |
-| 28 | 2% | 98% |  |
-| 29 | 3% | 95% |  |
-| 30 | 5% | 92% |  |
-| 31 | 6% | 87% |  |
-| 32 | 7% | 81% |  |
-| 33 | 8% | 74% |  |
-| 34 | 8% | 66% |  |
-| 35 | 9% | 59% | Median |
-| 36 | 8% | 50% |  |
-| 37 | 9% | 41% |  |
-| 38 | 6% | 32% |  |
-| 39 | 6% | 26% |  |
-| 40 | 5% | 20% |  |
-| 41 | 4% | 15% |  |
-| 42 | 3% | 11% |  |
-| 43 | 2% | 9% |  |
-| 44 | 2% | 7% |  |
-| 45 | 1.2% | 5% |  |
-| 46 | 0.9% | 3% | Last Result |
-| 47 | 0.8% | 2% |  |
-| 48 | 0.5% | 2% |  |
-| 49 | 0.4% | 1.1% |  |
-| 50 | 0.2% | 0.8% |  |
+| 25 | 0.4% | 99.7% |  |
+| 26 | 0.7% | 99.3% |  |
+| 27 | 2% | 98.7% |  |
+| 28 | 3% | 97% |  |
+| 29 | 4% | 95% |  |
+| 30 | 6% | 91% |  |
+| 31 | 7% | 85% |  |
+| 32 | 8% | 78% |  |
+| 33 | 8% | 70% |  |
+| 34 | 8% | 62% |  |
+| 35 | 9% | 54% | Median |
+| 36 | 8% | 45% |  |
+| 37 | 8% | 37% |  |
+| 38 | 6% | 29% |  |
+| 39 | 5% | 22% |  |
+| 40 | 4% | 17% |  |
+| 41 | 3% | 13% |  |
+| 42 | 2% | 10% |  |
+| 43 | 2% | 8% |  |
+| 44 | 2% | 6% |  |
+| 45 | 1.0% | 4% |  |
+| 46 | 0.8% | 3% | Last Result |
+| 47 | 0.7% | 2% |  |
+| 48 | 0.5% | 1.5% |  |
+| 49 | 0.3% | 1.0% |  |
+| 50 | 0.2% | 0.7% |  |
 | 51 | 0.2% | 0.5% |  |
 | 52 | 0.1% | 0.3% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0.1% |  |
-| 56 | 0% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
 
 
