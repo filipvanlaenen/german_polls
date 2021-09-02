@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 15–19% <br> 114–143 | 23–27% <br> 172–205 | 9–13% <br> 71–95 | 9–13% <br> 71–95 | 6–8% <br> 43–63 | 17–21% <br> 128–157 | 3–5% <br> 26–41 | N/A <br> N/A |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 15–18% <br> 111–136 | 23–27% <br> 175–204 | 10–12% <br> 74–94 | 12–15% <br> 92–114 | 6–8% <br> 45–62 | 15–18% <br> 113–137 | 3–5% <br> 26–39 | N/A <br> N/A |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 15–19% <br> 120–146 | 21–25% <br> 164–194 | 10–13% <br> 75–97 | 11–14% <br> 82–105 | 5–7% <br> 0–55 | 16–20% <br> 126–153 | 3–5% <br> 27–41 | N/A <br> N/A |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 15–19% <br> 116–140 | 23–27% <br> 174–202 | 10–12% <br> 73–93 | 10–12% <br> 73–93 | 6–8% <br> 45–61 | 17–21% <br> 130–156 | 3–5% <br> 27–40 | N/A <br> N/A |
