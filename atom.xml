@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2021-09-01T17:42:33.748959+02:00</updated>
+  <updated>2021-09-02T18:39:44.645068+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 22.8–27.3%, 172–205 seats</li><li>Alternative für Deutschland: 9.5–12.7%, 71–95 seats</li><li>Freie Demokratische Partei: 9.5–12.7%, 71–95 seats</li><li>Die Linke: 5.8–8.5%, 43–63 seats</li><li>Bündnis 90/Die Grünen: 17.0–21.1%, 128–157 seats</li><li>Christlich Demokratische Union Deutschlands: 15.2–19.1%, 114–143 seats</li><li>Christlich-Soziale Union in Bayern: 3.1–5.1%, 26–41 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-08-31-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-08-31-Kantar.html"/>
+    <title>Opinion Poll by Kantar, 25–31 August 2021</title>
+    <updated>2021-09-02T18:39:44.645068+02:00</updated>
+    <dc:date>2021-09-02T18:39:44.645068+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 23.2–27.0%, 175–204 seats</li><li>Alternative für Deutschland: 9.7–12.5%, 74–94 seats</li><li>Freie Demokratische Partei: 12.1–15.1%, 92–114 seats</li><li>Die Linke: 6.0–8.2%, 45–62 seats</li><li>Bündnis 90/Die Grünen: 14.9–18.2%, 113–137 seats</li><li>Christlich Demokratische Union Deutschlands: 14.7–17.9%, 111–136 seats</li><li>Christlich-Soziale Union in Bayern: 3.0–4.7%, 26–39 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2021-08-30-INSAandYouGov.html</id>
@@ -3631,5 +3639,5 @@
     <updated>2021-07-19T23:10:15.684343+02:00</updated>
     <dc:date>2021-07-19T23:10:15.684343+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-01T17:42:33.748959+02:00</dc:date>
+  <dc:date>2021-09-02T18:39:44.645068+02:00</dc:date>
 </feed>
