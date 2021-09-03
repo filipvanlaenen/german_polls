@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2021-09-02T18:39:44.645068+02:00</updated>
+  <updated>2021-09-03T19:41:13.765613+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 22.3–27.9%, 168–211 seats</li><li>Alternative für Deutschland: 9.2–13.2%, 69–100 seats</li><li>Freie Demokratische Partei: 9.2–13.2%, 69–100 seats</li><li>Die Linke: 5.5–8.9%, 42–67 seats</li><li>Bündnis 90/Die Grünen: 14.7–19.6%, 111–148 seats</li><li>Christlich Demokratische Union Deutschlands: 15.5–20.5%, 117–154 seats</li><li>Christlich-Soziale Union in Bayern: 3.0–5.6%, 26–45 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-09-02-ForschungsgruppeWahlen.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-09-02-ForschungsgruppeWahlen.html"/>
+    <title>Opinion Poll by Forschungsgruppe Wahlen, 31 August–2 September 2021</title>
+    <updated>2021-09-03T18:39:46.081461+02:00</updated>
+    <dc:date>2021-09-03T18:39:46.081461+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 22.7–27.4%, 175–211 seats</li><li>Alternative für Deutschland: 10.3–13.8%, 79–106 seats</li><li>Freie Demokratische Partei: 11.3–14.9%, 87–115 seats</li><li>Die Linke: 4.8–7.4%, 0–57 seats</li><li>Bündnis 90/Die Grünen: 14.1–18.1%, 108–140 seats</li><li>Christlich Demokratische Union Deutschlands: 14.3–18.3%, 110–141 seats</li><li>Christlich-Soziale Union in Bayern: 2.9–4.9%, 25–41 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-09-01-Infratestdimap.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-09-01-Infratestdimap.html"/>
+    <title>Opinion Poll by Infratest dimap, 30 August–1 September 2021</title>
+    <updated>2021-09-03T19:41:13.765613+02:00</updated>
+    <dc:date>2021-09-03T19:41:13.765613+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 22.8–27.3%, 172–205 seats</li><li>Alternative für Deutschland: 9.5–12.7%, 71–95 seats</li><li>Freie Demokratische Partei: 9.5–12.7%, 71–95 seats</li><li>Die Linke: 5.8–8.5%, 43–63 seats</li><li>Bündnis 90/Die Grünen: 17.0–21.1%, 128–157 seats</li><li>Christlich Demokratische Union Deutschlands: 15.2–19.1%, 114–143 seats</li><li>Christlich-Soziale Union in Bayern: 3.1–5.1%, 26–41 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2021-08-31-Kantar.html</id>
@@ -3639,5 +3655,5 @@
     <updated>2021-07-19T23:10:15.684343+02:00</updated>
     <dc:date>2021-07-19T23:10:15.684343+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-02T18:39:44.645068+02:00</dc:date>
+  <dc:date>2021-09-03T19:41:13.765613+02:00</dc:date>
 </feed>
