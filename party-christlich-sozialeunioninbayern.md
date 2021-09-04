@@ -10,9 +10,10 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.6% | 2.8–6.3% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.4–5.0% | 3.2–5.3% | 3.0–5.6% | 2.8–6.2% |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.1% | 3.4–5.1% | 3.2–5.4% | 3.0–5.6% | 2.7–6.1% |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 3.7% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.6–5.3% |
+| [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 3.7% | 3.2–4.4% | 3.0–4.5% | 2.9–4.7% | 2.7–5.0% |
 | [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.8–5.5% |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 3.8% | 3.3–4.4% | 3.1–4.6% | 3.0–4.7% | 2.8–5.0% |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 3.9% | 3.4–4.6% | 3.3–4.8% | 3.1–4.9% | 2.9–5.2% |
@@ -958,9 +959,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 16% | 99.9% |  |
-| 3.5–4.5% | 61% | 84% | Median |
-| 4.5–5.5% | 20% | 23% |  |
+| 2.5–3.5% | 19% | 99.9% |  |
+| 3.5–4.5% | 60% | 81% | Median |
+| 4.5–5.5% | 18% | 21% |  |
 | 5.5–6.5% | 3% | 3% | Last Result |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -974,9 +975,10 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 29–41 | 28–43 | 26–46 | 24–50 |
+| N/A | [Poll Average](average.html) | 34 | 28–41 | 27–43 | 26–46 | 24–50 |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 28–41 | 27–43 | 26–45 | 23–49 |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 32 | 27–38 | 26–39 | 25–41 | 23–44 |
+| [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 32 | 27–36 | 26–38 | 25–39 | 23–41 |
 | [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 33 | 28–38 | 27–39 | 26–41 | 24–44 |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 32 | 28–36 | 27–37 | 26–39 | 24–41 |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 34 | 30–38 | 28–40 | 27–41 | 26–44 |
@@ -1925,27 +1927,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
 | 23 | 0.2% | 99.9% |  |
-| 24 | 0.3% | 99.7% |  |
-| 25 | 0.8% | 99.5% |  |
-| 26 | 1.2% | 98.7% |  |
-| 27 | 2% | 97% |  |
-| 28 | 4% | 95% |  |
-| 29 | 5% | 91% |  |
-| 30 | 7% | 87% |  |
-| 31 | 9% | 80% |  |
-| 32 | 8% | 71% |  |
-| 33 | 9% | 63% |  |
-| 34 | 8% | 54% | Median |
-| 35 | 8% | 45% |  |
-| 36 | 8% | 38% |  |
-| 37 | 6% | 29% |  |
-| 38 | 5% | 23% |  |
-| 39 | 4% | 18% |  |
-| 40 | 3% | 14% |  |
-| 41 | 3% | 11% |  |
+| 24 | 0.4% | 99.7% |  |
+| 25 | 0.9% | 99.3% |  |
+| 26 | 2% | 98% |  |
+| 27 | 3% | 97% |  |
+| 28 | 4% | 94% |  |
+| 29 | 5% | 90% |  |
+| 30 | 7% | 85% |  |
+| 31 | 9% | 78% |  |
+| 32 | 9% | 69% |  |
+| 33 | 9% | 60% |  |
+| 34 | 9% | 51% | Median |
+| 35 | 7% | 42% |  |
+| 36 | 8% | 35% |  |
+| 37 | 5% | 27% |  |
+| 38 | 4% | 22% |  |
+| 39 | 4% | 17% |  |
+| 40 | 3% | 13% |  |
+| 41 | 3% | 10% |  |
 | 42 | 2% | 8% |  |
-| 43 | 1.4% | 6% |  |
-| 44 | 1.4% | 5% |  |
+| 43 | 1.3% | 6% |  |
+| 44 | 1.3% | 5% |  |
 | 45 | 0.8% | 3% |  |
 | 46 | 0.7% | 3% | Last Result |
 | 47 | 0.6% | 2% |  |
