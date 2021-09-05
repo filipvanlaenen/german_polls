@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.4–5.0% | 3.2–5.3% | 3.0–5.6% | 2.8–6.2% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.3% | 3.0–5.6% | 2.7–6.3% |
+| [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 3.7% | 3.1–4.5% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.1% | 3.4–5.1% | 3.2–5.4% | 3.0–5.6% | 2.7–6.1% |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 3.7% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.6–5.3% |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 3.7% | 3.2–4.4% | 3.0–4.5% | 2.9–4.7% | 2.7–5.0% |
@@ -958,10 +959,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 19% | 99.9% |  |
-| 3.5–4.5% | 60% | 81% | Median |
-| 4.5–5.5% | 18% | 21% |  |
+| 2.5–3.5% | 21% | 99.9% |  |
+| 3.5–4.5% | 59% | 79% | Median |
+| 4.5–5.5% | 17% | 20% |  |
 | 5.5–6.5% | 3% | 3% | Last Result |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -975,7 +977,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 28–41 | 27–43 | 26–46 | 24–50 |
+| N/A | [Poll Average](average.html) | 33 | 28–40 | 27–43 | 26–46 | 24–50 |
+| [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 31 | 27–36 | 26–38 | 25–39 | 23–42 |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 28–41 | 27–43 | 26–45 | 23–49 |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 32 | 27–38 | 26–39 | 25–41 | 23–44 |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 32 | 27–36 | 26–38 | 25–39 | 23–41 |
@@ -1925,30 +1928,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.2% | 99.9% |  |
-| 24 | 0.4% | 99.7% |  |
-| 25 | 0.9% | 99.3% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.1% | 99.9% |  |
+| 23 | 0.3% | 99.8% |  |
+| 24 | 0.5% | 99.6% |  |
+| 25 | 1.2% | 99.1% |  |
 | 26 | 2% | 98% |  |
-| 27 | 3% | 97% |  |
-| 28 | 4% | 94% |  |
-| 29 | 5% | 90% |  |
-| 30 | 7% | 85% |  |
-| 31 | 9% | 78% |  |
-| 32 | 9% | 69% |  |
-| 33 | 9% | 60% |  |
-| 34 | 9% | 51% | Median |
-| 35 | 7% | 42% |  |
-| 36 | 8% | 35% |  |
-| 37 | 5% | 27% |  |
-| 38 | 4% | 22% |  |
-| 39 | 4% | 17% |  |
-| 40 | 3% | 13% |  |
-| 41 | 3% | 10% |  |
-| 42 | 2% | 8% |  |
-| 43 | 1.3% | 6% |  |
-| 44 | 1.3% | 5% |  |
-| 45 | 0.8% | 3% |  |
+| 27 | 3% | 96% |  |
+| 28 | 5% | 93% |  |
+| 29 | 5% | 88% |  |
+| 30 | 7% | 83% |  |
+| 31 | 9% | 75% |  |
+| 32 | 8% | 66% |  |
+| 33 | 9% | 57% | Median |
+| 34 | 9% | 48% |  |
+| 35 | 7% | 39% |  |
+| 36 | 7% | 32% |  |
+| 37 | 5% | 25% |  |
+| 38 | 4% | 20% |  |
+| 39 | 4% | 16% |  |
+| 40 | 2% | 12% |  |
+| 41 | 2% | 10% |  |
+| 42 | 2% | 7% |  |
+| 43 | 1.1% | 6% |  |
+| 44 | 1.2% | 4% |  |
+| 45 | 0.7% | 3% |  |
 | 46 | 0.7% | 3% | Last Result |
 | 47 | 0.6% | 2% |  |
 | 48 | 0.4% | 1.3% |  |
