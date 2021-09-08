@@ -11,8 +11,12 @@ Last result: **0.0%** (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.6–3.6% | 2.5–3.7% | 2.4–3.8% | 2.2–4.1% |
+| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% |
+| [1–6 September 2021](2021-09-06-GMS.html) | GMS | 0.0% | N/A | N/A | N/A | N/A |
+| [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 0.0% | N/A | N/A | N/A | N/A |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 0.0% | N/A | N/A | N/A | N/A |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
@@ -977,8 +981,12 @@ Last result: **0** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
+| [1–6 September 2021](2021-09-06-GMS.html) | GMS |  |  |  |  |  |
+| [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa |  |  |  |  |  |
 | [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research |  |  |  |  |  |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov |  |  |  |  |  |
