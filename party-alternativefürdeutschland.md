@@ -997,7 +997,7 @@ Last result: **94** seats (General Election of 24 September 2017)
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 92 | 83–101 | 81–104 | 79–106 | 76–111 |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 91 | 83–99 | 81–101 | 80–103 | 76–107 |
 | [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 83 | 75–91 | 73–93 | 71–95 | 68–99 |
-| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 86 | 77–93 | 75–94 | 73–96 | 70–99 |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 82 | 75–91 | 74–93 | 72–95 | 70–99 |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 85 | 79–93 | 77–95 | 75–97 | 72–101 |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 83 | 76–89 | 74–92 | 73–93 | 70–97 |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 85 | 76–94 | 74–96 | 72–99 | 68–104 |
