@@ -5,16 +5,16 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 14–21% <br> 111–160 | 23–28% <br> 173–214 | 10–13% <br> 72–102 | 9–14% <br> 68–110 | 5–9% <br> 38–65 | 14–20% <br> 104–151 | 3–5% <br> 26–44 | 2–4% <br> 0 |
-| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 18–23% <br> 138–171 | 25–30% <br> 183–222 | 9–13% <br> 71–96 | 8–11% <br> 60–85 | 5–7% <br> 0–56 | 14–18% <br> 101–134 | 4–6% <br> 30–48 | N/A <br> N/A |
-| [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 15–18% <br> 115–141 | 24–28% <br> 185–213 | 10–12% <br> 74–96 | 11–14% <br> 85–107 | 5–8% <br> 42–58 | 14–17% <br> 107–132 | 3–5% <br> 26–40 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 14–21% <br> 110–160 | 23–28% <br> 174–214 | 10–13% <br> 72–102 | 9–14% <br> 68–110 | 5–9% <br> 38–65 | 14–20% <br> 104–148 | 3–6% <br> 26–46 | 2–4% <br> 0 |
+| [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 15–19% <br> 117–143 | 23–27% <br> 175–205 | 11–14% <br> 80–103 | 11–14% <br> 80–103 | 5–7% <br> 0–54 | 15–19% <br> 116–143 | 3–5% <br> 27–40 | N/A <br> N/A |
+| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 18–23% <br> 136–171 | 25–30% <br> 185–223 | 9–13% <br> 70–96 | 8–11% <br> 60–85 | 5–7% <br> 0–56 | 14–18% <br> 102–134 | 4–6% <br> 30–48 | N/A <br> N/A |
+| [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 14–17% <br> 107–130 | 24–28% <br> 187–214 | 10–12% <br> 75–95 | 11–14% <br> 86–107 | 5–8% <br> 42–58 | 14–17% <br> 107–132 | 4–6% <br> 35–49 | 2–4% <br> 0 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 16–21% <br> 123–160 | 22–28% <br> 168–210 | 9–13% <br> 69–98 | 10–14% <br> 76–106 | 5–8% <br> 0–57 | 15–19% <br> 111–147 | 3–6% <br> 27–46 | N/A <br> N/A |
 | [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa | 14–17% <br> 107–133 | 23–27% <br> 179–210 | 10–12% <br> 75–97 | 12–15% <br> 90–113 | 5–7% <br> 0–55 | 15–19% <br> 119–145 | 3–5% <br> 25–38 | N/A <br> N/A |
-| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 14–19% <br> 107–140 | 23–29% <br> 176–215 | 10–14% <br> 78–107 | 11–15% <br> 83–114 | 6–9% <br> 43–65 | 13–17% <br> 98–130 | 3–5% <br> 24–41 | N/A <br> N/A |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 14–19% <br> 107–140 | 23–29% <br> 177–215 | 10–14% <br> 77–107 | 11–15% <br> 83–114 | 6–9% <br> 43–66 | 13–17% <br> 98–130 | 3–5% <br> 24–41 | N/A <br> N/A |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16–20% <br> 117–154 | 22–28% <br> 168–211 | 9–13% <br> 69–100 | 9–13% <br> 69–100 | 6–9% <br> 42–67 | 15–20% <br> 111–148 | 3–6% <br> 26–45 | N/A <br> N/A |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 14–18% <br> 110–141 | 23–27% <br> 175–211 | 10–14% <br> 79–106 | 11–15% <br> 87–115 | 5–7% <br> 0–57 | 14–18% <br> 108–140 | 3–5% <br> 25–41 | N/A <br> N/A |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 14–18% <br> 110–137 | 23–27% <br> 174–205 | 10–13% <br> 80–103 | 11–15% <br> 87–111 | 7–9% <br> 52–71 | 13–17% <br> 102–127 | 3–5% <br> 25–39 | N/A <br> N/A |
-| [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 15–19% <br> 114–143 | 23–27% <br> 172–205 | 9–13% <br> 71–95 | 9–13% <br> 71–95 | 6–8% <br> 43–63 | 17–21% <br> 128–157 | 3–5% <br> 26–41 | N/A <br> N/A |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 15–19% <br> 116–140 | 23–27% <br> 174–202 | 10–12% <br> 73–93 | 10–12% <br> 73–93 | 6–8% <br> 45–61 | 17–21% <br> 130–156 | 3–5% <br> 27–40 | N/A <br> N/A |
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
 
