@@ -10,7 +10,8 @@ Last result: **9.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.6–7.9% | 5.3–8.3% | 5.1–8.6% | 4.6–9.2% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.5–7.9% | 5.2–8.3% | 5.0–8.6% | 4.6–9.2% |
+| [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.5% |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.4–7.9% |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.8–7.2% | 5.6–7.5% | 5.5–7.6% | 5.2–8.0% |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
@@ -965,11 +966,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 10% | 99.7% |  |
-| 5.5–6.5% | 36% | 90% |  |
-| 6.5–7.5% | 35% | 54% | Median |
-| 7.5–8.5% | 16% | 19% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 11% | 99.6% |  |
+| 5.5–6.5% | 41% | 88% |  |
+| 6.5–7.5% | 32% | 48% | Median |
+| 7.5–8.5% | 13% | 16% |  |
 | 8.5–9.5% | 3% | 3% | Last Result |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -983,18 +984,19 @@ Last result: **69** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50 | 42–60 | 40–63 | 38–65 | 0–70 |
-| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 45 | 39–53 | 38–54 | 0–56 | 0–58 |
-| [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 50 | 45–55 | 43–57 | 42–58 | 40–61 |
+| N/A | [Poll Average](average.html) | 49 | 42–60 | 40–63 | 38–65 | 0–70 |
+| [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 46 | 41–51 | 39–53 | 0–54 | 0–57 |
+| [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 46 | 39–52 | 0–54 | 0–56 | 0–58 |
+| [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 50 | 45–55 | 44–56 | 42–58 | 40–61 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 45 | 38–53 | 0–55 | 0–57 | 0–61 |
 | [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa | 47 | 41–52 | 40–54 | 0–55 | 0–58 |
 | [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 53 | 47–60 | 45–62 | 44–64 | 41–67 |
-| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 54 | 46–62 | 44–64 | 43–65 | 40–71 |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 54 | 46–62 | 45–64 | 43–66 | 39–70 |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 54 | 46–62 | 44–65 | 42–67 | 39–71 |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 46 | 40–53 | 0–55 | 0–57 | 0–60 |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 61 | 55–67 | 53–69 | 52–71 | 49–74 |
 | [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 53 | 47–60 | 45–61 | 43–63 | 41–67 |
-| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 53 | 48–59 | 46–61 | 45–62 | 43–65 |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 54 | 47–61 | 45–63 | 44–64 | 42–66 |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 46 | 41–52 | 40–54 | 0–55 | 0–58 |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 53 | 47–58 | 46–60 | 45–61 | 42–64 |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 46 | 40–53 | 0–55 | 0–57 | 0–61 |
@@ -1977,39 +1979,39 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 98% |  |
 | 36 | 0% | 98% |  |
 | 37 | 0% | 98% |  |
-| 38 | 0.6% | 98% |  |
+| 38 | 0.7% | 98% |  |
 | 39 | 1.4% | 97% |  |
-| 40 | 2% | 96% |  |
+| 40 | 2% | 95% |  |
 | 41 | 3% | 94% |  |
-| 42 | 3% | 92% |  |
-| 43 | 3% | 89% |  |
-| 44 | 4% | 86% |  |
-| 45 | 6% | 82% |  |
-| 46 | 5% | 76% |  |
-| 47 | 6% | 71% |  |
-| 48 | 6% | 66% |  |
-| 49 | 5% | 60% |  |
-| 50 | 5% | 55% | Median |
-| 51 | 5% | 50% |  |
-| 52 | 6% | 44% |  |
-| 53 | 5% | 39% |  |
-| 54 | 6% | 33% |  |
-| 55 | 5% | 28% |  |
-| 56 | 4% | 23% |  |
-| 57 | 3% | 20% |  |
-| 58 | 3% | 16% |  |
-| 59 | 2% | 14% |  |
-| 60 | 2% | 11% |  |
+| 42 | 3% | 91% |  |
+| 43 | 4% | 87% |  |
+| 44 | 5% | 83% |  |
+| 45 | 5% | 79% |  |
+| 46 | 6% | 73% |  |
+| 47 | 7% | 67% |  |
+| 48 | 6% | 60% |  |
+| 49 | 6% | 54% | Median |
+| 50 | 5% | 49% |  |
+| 51 | 5% | 44% |  |
+| 52 | 5% | 39% |  |
+| 53 | 4% | 34% |  |
+| 54 | 5% | 30% |  |
+| 55 | 4% | 25% |  |
+| 56 | 3% | 21% |  |
+| 57 | 3% | 17% |  |
+| 58 | 2% | 15% |  |
+| 59 | 2% | 12% |  |
+| 60 | 2% | 10% |  |
 | 61 | 2% | 9% |  |
-| 62 | 1.4% | 8% |  |
-| 63 | 1.3% | 6% |  |
-| 64 | 1.2% | 5% |  |
-| 65 | 1.1% | 4% |  |
+| 62 | 1.3% | 7% |  |
+| 63 | 1.2% | 6% |  |
+| 64 | 1.1% | 5% |  |
+| 65 | 1.0% | 3% |  |
 | 66 | 0.6% | 2% |  |
-| 67 | 0.6% | 2% |  |
+| 67 | 0.5% | 2% |  |
 | 68 | 0.4% | 1.3% |  |
 | 69 | 0.3% | 0.9% | Last Result |
-| 70 | 0.2% | 0.7% |  |
+| 70 | 0.2% | 0.6% |  |
 | 71 | 0.1% | 0.4% |  |
 | 72 | 0.1% | 0.3% |  |
 | 73 | 0.1% | 0.2% |  |
