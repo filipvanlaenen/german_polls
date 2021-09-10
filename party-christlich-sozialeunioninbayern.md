@@ -10,8 +10,10 @@ Last result: **6.2%** (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.1% | 3.1–5.4% | 3.0–5.6% | 2.7–6.1% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.1% | 3.2–5.4% | 3.0–5.6% | 2.7–6.1% |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 3.9% | 3.4–4.6% | 3.3–4.8% | 3.2–4.9% | 2.9–5.2% |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 4.7% | 4.0–5.5% | 3.8–5.8% | 3.6–6.0% | 3.3–6.4% |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
@@ -967,9 +969,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 20% | 99.8% |  |
-| 3.5–4.5% | 54% | 80% | Median |
-| 4.5–5.5% | 23% | 26% |  |
+| 2.5–3.5% | 18% | 99.8% |  |
+| 3.5–4.5% | 55% | 82% | Median |
+| 4.5–5.5% | 24% | 27% |  |
 | 5.5–6.5% | 3% | 3% | Last Result |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -983,8 +985,10 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 28–42 | 27–44 | 26–46 | 24–49 |
+| N/A | [Poll Average](average.html) | 34 | 29–42 | 27–44 | 26–46 | 24–49 |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 33 | 29–38 | 28–39 | 27–40 | 25–43 |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 37 | 30–42 | 28–44 | 27–46 | 24–50 |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 34 | 30–39 | 29–40 | 27–41 | 26–44 |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 38 | 33–45 | 31–47 | 30–48 | 28–52 |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 42 | 37–46 | 36–48 | 35–49 | 33–52 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 36 | 30–42 | 28–44 | 27–46 | 25–50 |
@@ -1940,32 +1944,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
+| 21 | 0% | 100% |  |
 | 22 | 0.1% | 99.9% |  |
-| 23 | 0.3% | 99.8% |  |
-| 24 | 0.5% | 99.5% |  |
-| 25 | 1.1% | 99.0% |  |
+| 23 | 0.2% | 99.8% |  |
+| 24 | 0.5% | 99.6% |  |
+| 25 | 0.9% | 99.1% |  |
 | 26 | 2% | 98% |  |
-| 27 | 3% | 96% |  |
-| 28 | 4% | 93% |  |
-| 29 | 6% | 89% |  |
-| 30 | 7% | 83% |  |
-| 31 | 8% | 76% |  |
-| 32 | 8% | 69% |  |
-| 33 | 9% | 61% |  |
-| 34 | 7% | 52% | Median |
-| 35 | 7% | 45% |  |
-| 36 | 6% | 37% |  |
-| 37 | 6% | 31% |  |
-| 38 | 5% | 26% |  |
-| 39 | 4% | 21% |  |
-| 40 | 4% | 17% |  |
-| 41 | 3% | 14% |  |
+| 27 | 3% | 97% |  |
+| 28 | 3% | 94% |  |
+| 29 | 5% | 91% |  |
+| 30 | 6% | 86% |  |
+| 31 | 8% | 80% |  |
+| 32 | 7% | 72% |  |
+| 33 | 9% | 65% |  |
+| 34 | 8% | 56% | Median |
+| 35 | 7% | 48% |  |
+| 36 | 6% | 41% |  |
+| 37 | 7% | 35% |  |
+| 38 | 5% | 28% |  |
+| 39 | 4% | 23% |  |
+| 40 | 4% | 19% |  |
+| 41 | 3% | 15% |  |
 | 42 | 3% | 11% |  |
 | 43 | 2% | 8% |  |
 | 44 | 2% | 6% |  |
-| 45 | 1.4% | 4% |  |
-| 46 | 1.0% | 3% | Last Result |
+| 45 | 1.5% | 4% |  |
+| 46 | 1.1% | 3% | Last Result |
 | 47 | 0.7% | 2% |  |
 | 48 | 0.4% | 1.2% |  |
 | 49 | 0.3% | 0.8% |  |
@@ -1973,6 +1977,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0.1% | 0.3% |  |
 | 52 | 0.1% | 0.2% |  |
 | 53 | 0% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
