@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
+| [6–10 September 2021](2021-09-10-INSAandYouGov.html) | INSA and YouGov | 14–18% <br> 110–144 | 24–29% <br> 182–224 | 9–13% <br> 72–101 | 11–15% <br> 87–117 | 5–8% <br> 0–58 | 13–17% <br> 101–134 | 3–5% <br> 25–42 | N/A <br> N/A |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 15–19% <br> 117–143 | 23–27% <br> 175–205 | 11–14% <br> 80–103 | 11–14% <br> 80–103 | 5–7% <br> 0–54 | 15–19% <br> 116–143 | 3–5% <br> 27–40 | N/A <br> N/A |
 | [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16–20% <br> 118–157 | 22–28% <br> 170–215 | 9–13% <br> 71–101 | 9–13% <br> 70–102 | 5–8% <br> 0–59 | 15–19% <br> 112–150 | 3–6% <br> 27–46 | 2–4% <br> 0 |
 | [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 15–19% <br> 120–149 | 24–28% <br> 188–222 | 11–14% <br> 82–107 | 9–12% <br> 68–91 | 5–7% <br> 0–57 | 13–17% <br> 105–132 | 3–5% <br> 27–42 | N/A <br> N/A |
