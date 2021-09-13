@@ -1315,7 +1315,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 53 | 47–58 | 46–60 | 45–61 | 43–64 |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 57 | 52–65 | 49–66 | 47–69 | 45–71 |
 | [28 May–3 June 2020](2020-06-03-Kantar.html) | Kantar | 55 | 51–61 | 47–65 | 45–67 | 42–71 |
-| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 54 | 47–60 | 45–61 | 44–64 | 41–67 |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 56 | 50–63 | 48–65 | 47–66 | 44–70 |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 61 | 55–66 | 54–68 | 52–71 | 49–74 |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 59 | 51–68 | 49–70 | 47–72 | 44–77 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 58 | 50–64 | 48–68 | 47–69 | 44–74 |
@@ -1398,7 +1398,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 53 | 48–59 | 46–60 | 45–62 | 43–65 |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 43 | 39–48 | 38–49 | 37–50 | 35–52 |
 | [16–22 January 2020](2020-01-22-Kantar.html) | Kantar | 36 | 32–41 | 31–42 | 30–44 | 28–46 |
-| [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 36 | 30–44 | 29–46 | 28–47 | 26–51 |
+| [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 40 | 34–47 | 32–49 | 31–51 | 29–54 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 40 | 34–46 | 33–48 | 31–50 | 29–53 |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 46 | 41–51 | 39–52 | 38–54 | 36–56 |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 43 | 38–48 | 37–49 | 36–51 | 34–53 |
@@ -1598,7 +1598,7 @@ Last result: **46** seats (General Election of 24 September 2017)
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 45 | 41–48 | 40–49 | 39–50 | 38–52 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 43 | 38–47 | 37–49 | 36–50 | 34–53 |
 | [21–27 February 2019](2019-02-27-Kantar.html) | Kantar <br> Bild am Sonntag | 40 | 35–45 | 34–48 | 33–50 | 31–54 |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 43 | 36–50 | 35–51 | 33–54 | 29–58 |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 45 | 38–53 | 36–55 | 35–57 | 33–60 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 41 | 37–47 | 35–49 | 34–50 | 31–53 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 44 | 39–49 | 39–51 | 37–53 | 35–56 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 42 | 37–48 | 36–50 | 35–51 | 33–54 |
