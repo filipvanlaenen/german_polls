@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_polls</id>
   <title>All Registered Polls for the Bundestag</title>
-  <updated>2021-09-16T17:58:03.405274+02:00</updated>
+  <updated>2021-09-17T18:22:32.181262+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 22.8–27.4%, 177–214 seats</li><li>Alternative für Deutschland: 9.5–12.8%, 73–99 seats</li><li>Freie Demokratische Partei: 9.5–12.8%, 73–99 seats</li><li>Die Linke: 4.8–7.3%, 0–57 seats</li><li>Bündnis 90/Die Grünen: 14.2–18.0%, 110–140 seats</li><li>Christlich Demokratische Union Deutschlands: 15.9–20.0%, 124–155 seats</li><li>Christlich-Soziale Union in Bayern: 3.2–5.3%, 28–44 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-09-16-ForschungsgruppeWahlen.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-09-16-ForschungsgruppeWahlen.html"/>
+    <title>Opinion Poll by Forschungsgruppe Wahlen, 14–16 September 2021</title>
+    <updated>2021-09-17T18:22:32.181262+02:00</updated>
+    <dc:date>2021-09-17T18:22:32.181262+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 23.8–28.3%, 185–220 seats</li><li>Alternative für Deutschland: 9.5–12.7%, 75–97 seats</li><li>Freie Demokratische Partei: 9.5–12.7%, 73–98 seats</li><li>Die Linke: 4.9–7.3%, 0–56 seats</li><li>Bündnis 90/Die Grünen: 13.3–16.9%, 103–131 seats</li><li>Christlich Demokratische Union Deutschlands: 16.1–20.0%, 124–155 seats</li><li>Christlich-Soziale Union in Bayern: 3.2–5.2%, 28–42 seats</li><li>Freie Wähler: 2.2–4.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-09-15-Infratestdimap.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-09-15-Infratestdimap.html"/>
+    <title>Opinion Poll by Infratest dimap, 13–15 September 2021</title>
+    <updated>2021-09-17T17:17:07.452481+02:00</updated>
+    <dc:date>2021-09-17T17:17:07.452481+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 23.3–27.3%, 183–214 seats</li><li>Alternative für Deutschland: 9.8–12.7%, 76–99 seats</li><li>Freie Demokratische Partei: 8.8–11.6%, 69–90 seats</li><li>Die Linke: 6.9–9.4%, 54–74 seats</li><li>Bündnis 90/Die Grünen: 13.6–16.9%, 106–131 seats</li><li>Christlich Demokratische Union Deutschlands: 14.8–18.2%, 116–142 seats</li><li>Christlich-Soziale Union in Bayern: 3.0–4.8%, 27–40 seats</li><li>Freie Wähler: 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_polls/2021-09-14-YouGov.html</id>
@@ -14,6 +30,14 @@
     <title>Opinion Poll by YouGov, 9–14 September 2021</title>
     <updated>2021-09-16T17:58:03.405274+02:00</updated>
     <dc:date>2021-09-16T17:58:03.405274+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 23.9–28.2%, 183–217 seats</li><li>Alternative für Deutschland: 10.5–13.7%, 80–105 seats</li><li>Freie Demokratische Partei: 9.5–12.7%, 73–97 seats</li><li>Die Linke: 4.9–7.3%, 0–56 seats</li><li>Bündnis 90/Die Grünen: 15.2–18.9%, 116–145 seats</li><li>Christlich Demokratische Union Deutschlands: 14.5–18.2%, 111–139 seats</li><li>Christlich-Soziale Union in Bayern: 2.9–4.8%, 25–40 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_polls/2021-09-14-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/german_polls/2021-09-14-Kantar.html"/>
+    <title>Opinion Poll by Kantar, 8–14 September 2021</title>
+    <updated>2021-09-17T16:32:10.193669+02:00</updated>
+    <dc:date>2021-09-17T16:32:10.193669+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands: 24.1–27.9%, 185–214 seats</li><li>Alternative für Deutschland: 10.2–13.0%, 78–99 seats</li><li>Freie Demokratische Partei: 11.1–14.0%, 85–107 seats</li><li>Die Linke: 5.5–7.7%, 42–58 seats</li><li>Bündnis 90/Die Grünen: 13.5–16.6%, 104–127 seats</li><li>Christlich Demokratische Union Deutschlands: 14.5–17.7%, 111–134 seats</li><li>Christlich-Soziale Union in Bayern: 3.7–5.5%, 31–45 seats</li></ul></div></content>
@@ -3903,5 +3927,5 @@
     <updated>2021-07-19T23:10:15.684343+02:00</updated>
     <dc:date>2021-07-19T23:10:15.684343+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-16T17:58:03.405274+02:00</dc:date>
+  <dc:date>2021-09-17T18:22:32.181262+02:00</dc:date>
 </feed>
