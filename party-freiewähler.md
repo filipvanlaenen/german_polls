@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
+| [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [9–14 September 2021](2021-09-14-YouGov.html) | YouGov | 3.0% | 2.6–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
@@ -993,6 +994,7 @@ Last result: **0** seats (General Election of 24 September 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0 | 0 |
 | [9–14 September 2021](2021-09-14-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
