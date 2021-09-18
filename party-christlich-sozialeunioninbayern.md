@@ -994,8 +994,8 @@ Last result: **46** seats (General Election of 24 September 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 29–41 | 28–42 | 26–44 | 24–48 |
-| [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 33 | 29–38 | 28–39 | 27–40 | 25–42 |
+| N/A | [Poll Average](average.html) | 34 | 29–41 | 28–42 | 27–44 | 24–48 |
+| [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 33 | 29–37 | 28–39 | 27–40 | 25–42 |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 35 | 30–41 | 29–43 | 28–44 | 26–47 |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap | 36 | 30–40 | 29–41 | 28–42 | 27–47 |
 | [9–14 September 2021](2021-09-14-YouGov.html) | YouGov | 33 | 29–38 | 27–39 | 27–40 | 25–43 |
@@ -1967,22 +1967,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.2% | 99.9% |  |
 | 24 | 0.3% | 99.7% |  |
 | 25 | 0.6% | 99.4% |  |
-| 26 | 1.3% | 98.7% |  |
-| 27 | 2% | 97% |  |
+| 26 | 1.3% | 98.8% |  |
+| 27 | 2% | 98% |  |
 | 28 | 3% | 96% |  |
 | 29 | 5% | 93% |  |
 | 30 | 6% | 88% |  |
 | 31 | 8% | 82% |  |
-| 32 | 8% | 74% |  |
-| 33 | 9% | 66% |  |
-| 34 | 7% | 58% |  |
-| 35 | 7% | 50% | Median |
-| 36 | 8% | 43% |  |
-| 37 | 8% | 35% |  |
+| 32 | 7% | 74% |  |
+| 33 | 9% | 67% |  |
+| 34 | 8% | 58% | Median |
+| 35 | 7% | 50% |  |
+| 36 | 8% | 42% |  |
+| 37 | 7% | 34% |  |
 | 38 | 6% | 27% |  |
 | 39 | 6% | 20% |  |
 | 40 | 4% | 15% |  |
-| 41 | 4% | 11% |  |
+| 41 | 3% | 10% |  |
 | 42 | 2% | 7% |  |
 | 43 | 2% | 5% |  |
 | 44 | 1.0% | 3% |  |
