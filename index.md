@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | AfD | FDP | LINKE | GRÜNEN | CSU | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 September 2017 | General Election | 26.8% <br> 200 | 20.5% <br> 153 | 12.6% <br> 94 | 10.7% <br> 80 | 9.2% <br> 69 | 8.9% <br> 67 | 6.2% <br> 46 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 15–21% <br> 113–161 | 23–28% <br> 177–217 | 10–13% <br> 73–101 | 9–14% <br> 67–109 | 5–9% <br> 0–68 | 14–18% <br> 103–141 | 3–6% <br> 26–44 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 15–21% <br> 113–160 | 23–29% <br> 178–217 | 10–13% <br> 73–101 | 9–14% <br> 67–108 | 5–9% <br> 0–67 | 14–19% <br> 104–143 | 3–5% <br> 26–44 | 2–4% <br> 0 |
+| [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 15–19% <br> 115–141 | 25–29% <br> 187–218 | 10–12% <br> 73–93 | 9–11% <br> 66–86 | 6–8% <br> 44–62 | 16–20% <br> 123–148 | 3–5% <br> 27–40 | N/A <br> N/A |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16–20% <br> 124–155 | 23–27% <br> 177–214 | 9–13% <br> 73–99 | 9–13% <br> 73–99 | 5–7% <br> 0–57 | 14–18% <br> 110–140 | 3–5% <br> 28–44 | N/A <br> N/A |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap | 16–20% <br> 124–155 | 24–28% <br> 185–220 | 9–13% <br> 75–97 | 9–13% <br> 73–98 | 5–7% <br> 0–56 | 13–17% <br> 103–131 | 3–5% <br> 28–42 | 2–4% <br> 0 |
 | [9–14 September 2021](2021-09-14-YouGov.html) | YouGov | 15–18% <br> 116–142 | 23–27% <br> 183–214 | 10–13% <br> 76–99 | 9–12% <br> 69–90 | 7–9% <br> 54–74 | 14–17% <br> 106–131 | 3–5% <br> 27–40 | 2–4% <br> 0 |
